@@ -1,0 +1,3929 @@
+Warrior
+$1 戦士
+
+Orc
+$1 オーク
+
+Assassin
+$1 暗殺者
+
+Hunter
+$1 ハンター
+
+Mage
+$1 魔法使い
+
+Elf
+$1 エルフ
+
+Priest
+$1 司祭
+
+Sorcerer
+$1 魔術師
+
+Sorceress
+$1 魔術師
+
+Frog
+$1 カエル
+
+Beetle
+$1 カブトムシ
+
+Golden Rooster
+$1 金の雄鶏
+
+Duck
+$1 アヒル
+
+Donkey
+$1 ロバ
+
+Goat
+$1 ヤギ
+
+Steed
+$1 駿馬
+
+Cattle
+$1 牛
+
+Shorthair Cat
+$1 短毛猫
+
+Hound
+$1 猟犬
+
+Curly Cat
+$1 巻毛猫
+
+Shepard Dog
+$1 牧羊犬
+
+Parrot
+$1 オウム
+
+Lizard
+$1 トカゲ
+
+Monkey
+$1 サル
+
+Wild Eagle
+$1 ワイルドイーグル
+
+Hippo
+$1 カバ
+
+Boar
+$1 イノシシ
+
+Elephant
+$1 ゾウ
+
+Brown Bear
+$1 ヒグマ
+
+Snow Wolf
+$1 雪狼
+
+Lion
+$1 ライオン
+
+Cheetah
+$1 チーター
+
+Tiger
+$1 トラ
+
+Pixie
+$1 妖精
+
+Sprite
+$1 精霊
+
+Goblin
+$1 ゴブリン
+
+Slime
+$1 スライム
+
+Wild Frog
+$1 ワイルドフロッグ
+
+Wild Beetle
+$1 ワイルドビートル
+
+Wild Golden Rooster
+$1 ワイルドゴールデンルースター
+
+Wild Duck
+$1 ワイルドダック
+
+Wild Donkey
+$1 ワイルドドンキー
+
+Wild Goat
+$1 ワイルドゴート
+
+Wild Steed
+$1 ワイルドスティード
+
+Wild Cattle
+$1 ワイルドキャトル
+
+Wild Shorthair Cat
+$1 ワイルドショートヘアキャット
+
+Wild Hound
+$1 ワイルドハウンド
+
+Wild Curly Cat
+$1 ワイルドカーリーキャット
+
+Wild Shepard Dog
+$1 ワイルドシェパードドッグ
+
+Wild Parrot
+$1 ワイルドパロット
+
+Wild Lizard
+$1 ワイルドリザード
+
+Wild Monkey
+$1 ワイルドモンキー
+
+Wild Hippo
+$1 ワイルドヒッポ
+
+Wild Boar
+$1 ワイルドボア
+
+Wild Elephant
+$1 ワイルドエレファント
+
+Wild Brown Bear
+$1 ワイルドブラウンベア
+
+Wild Snow Wolf
+$1 ワイルドスノーウルフ
+
+Wild Lion
+$1 ワイルドライオン
+
+Wild Cheetah
+$1 ワイルドチーター
+
+Wild Tiger
+$1 ワイルドタイガー
+
+Ice Tiger
+$1 アイスタイガー
+
+Night Cat
+$1 ナイトキャット
+
+Cherub
+$1 ケルブ
+
+portal
+$1 ポータル
+
+Totem
+$1 トーテム
+
+treasure chest
+$1 宝箱
+
+village chief Radome
+$1 村長ラドーム
+
+Master Arthur
+$1 マスターアーサー
+
+Blacksmith Oak
+$1 鍛冶屋オーク
+
+Pharmacist Mia
+$1 薬剤師ミア
+
+Celestial Elder
+$1 天の長老
+
+guide villager
+$1 ガイド村民
+
+Master Catherine
+$1 マスターキャサリン
+
+Master Taufan
+$1 マスタータウファン
+
+Blacksmith Zarachi
+$1 鍛冶屋ザラチ
+
+Pharmacist Dani
+$1 薬剤師ダニ
+
+Shard Marketplace
+$1 かけらマーケットプレイス
+
+Master Drunk
+$1 マスタードランク
+
+Witch Saffy
+$1 魔女サフィ
+
+Guard Captain Martin
+$1 守備隊長マーティン
+
+Mayor Maureen
+$1 市長モーリーン
+
+Civilian Kirk
+$1 市民カーク
+
+Chef Lee
+$1 シェフリー
+
+Artificer Milena
+$1 工匠ミレーナ
+
+Girl hostage
+$1 人質の少女
+
+Priest Michelle
+$1 司祭ミシェル
+
+Angie
+$1 アンジー
+
+Chancellor Bren
+$1 首相ブレン
+
+Civilian Jasmine
+$1 市民ジャスミン
+
+Civilian Fanny
+$1 市民ファニー
+
+Granny Skycloth
+$1 空布おばあちゃん
+
+Natasha
+$1 ナターシャ
+
+Chun Li
+$1 チュンリー
+
+Competition Host Chun Li
+$1 コンペティションホストチュンリー
+
+Blacksmith Orisun
+$1 鍛冶屋オリスン
+
+Grocer John
+$1 雑貨商ジョン
+
+Master Kakarot
+$1 マスターカカロット
+
+Master Elizabeth
+$1 マスターエリザベス
+
+Master Pepper
+$1 マスターペッパー
+
+Weapon Merchant Gordon
+$1 武器商人ゴードン
+
+Bank receptionist Tamara
+$1 銀行受付タマラ
+
+Pet Trainer Granny Shen
+$1 ペットトレーナー沈婆婆
+
+Potion Merchant Zoma
+$1 ポーション商ゾマ
+
+Camp Administrator Sudon
+$1 キャンプ管理者スドン
+
+Orc Dyson
+$1 オークダイソン
+
+Master Macghee
+$1 マスターマギー
+
+Lord Garcina
+$1 城主ガルシナ
+
+Bank receptionist teleju
+$1 銀行受付テレジュ
+
+Blacksmith Marisol
+$1 鍛冶屋マリソル
+
+Grocer Lana
+$1 雑貨商ラナ
+
+Weapon Merchant Claire
+$1 武器商クレア
+
+Jewelry Merchant Yuna
+$1 宝石商ユナ
+
+Artificer ilana
+$1 工匠イラナ
+
+Pet Trainer Isabella
+$1 ペットトレーナーイザベラ
+
+Blacksmith Malcolm
+$1 鍛冶屋マルコム
+
+Elder Johanna
+$1 長老ジョアンナ
+
+Blacksmith Senbei Norimaki
+$1 鍛冶屋千兵衛
+
+Armor Merchant Akizuki
+$1 防具商秋月
+
+Master Federo
+$1 マスターフェデロ
+
+Pope Saxon
+$1 教皇サクソン
+
+Jewelry Merchant alpana
+$1 宝石商アルパナ
+
+Potion Merchant Magnus
+$1 ポーション商マグナス
+
+Weapon Merchant Monchia
+$1 武器商モンチア
+
+Grocer Sam
+$1 雑貨商サム
+
+Artificer Ami
+$1 工匠亜美
+
+Chef Kaguya Granny
+$1 シェフかぐや婆婆
+
+Bank receptionist Kaito
+$1 銀行受付カイト
+
+Master Galaxia
+$1 マスターギャラクシア
+
+Ecilian
+$1 エシリアン
+
+Blacksmith Zosia
+$1 鍛冶屋ゾシア
+
+Chef Aunt Sun
+$1 シェフ孫さんにゃん
+
+Sister Mary
+$1 修道女メアリー
+
+Master Shadow Killer
+$1 マスターシャドウキラー
+
+Lord Barakhe
+$1 城主バラケ
+
+Potion Mona Lisa
+$1 ポーションモナリサ
+
+Blacksmith Sanchi
+$1 鍛冶屋サンチ
+
+lazy sheep
+$1 怠け羊
+
+Bartender
+$1 バーテンダー
+
+Nina
+$1 ニナ
+
+Traveling Merchant
+$1 旅商人
+
+Hen
+$1 雌鶏
+
+Rooster
+$1 雄鶏
+
+chick
+$1 ひよこ
+
+Grass Snake
+$1 草蛇
+
+Giant Snake
+$1 巨大な蛇
+
+porcupine
+$1 ヤマアラシ
+
+steel tooth pig
+$1 スティールトゥースピッグ
+
+iron head pig
+$1 アイアンヘッドピッグ
+
+Iron Paw Bear
+$1 アイアンパウベア
+
+Iron Armor Bear
+$1 アイアンアーマーベア
+
+guinea pig
+$1 モルモット
+
+chipmunk
+$1 シマリス
+
+mole
+$1 モグラ
+
+man-eating rat
+$1 人食いネズミ
+
+black bat
+$1 ブラックバット
+
+blood bat
+$1 ブラッドバット
+
+Pig-Face Bat King
+$1 ピッグフェイスバットキング
+
+green snake
+$1 緑の蛇
+
+White Snake
+$1 白蛇
+
+Anaconda
+$1 アナコンダ
+
+Black Rat
+$1 ブラックラット
+
+White Rat
+$1 ホワイトラット
+
+blowfly
+$1 ブローフライ
+
+Five-colored deer
+$1 五色の鹿
+
+maroon horse
+$1 マルーンホース
+
+Bullfinch
+$1 ウソ
+
+Silver ring snake
+$1 銀環蛇
+
+Bactrian camel
+$1 バクトリアラクダ
+
+Alpaca
+$1 アルパカ
+
+vulture
+$1 ハゲワシ
+
+Golden eagle
+$1 イヌワシ
+
+sand snake
+$1 サンドスネーク
+
+Death Worm
+$1 デスワーム
+
+red armor Cattle
+$1 赤い鎧の牛
+
+seducing fox
+$1 セデューシングフォックス
+
+black jackal
+$1 黒ジャッカル
+
+Bloodfang Wolf
+$1 ブラッドファングウルフ
+
+Sabertooth wolf
+$1 サーベルウルフ
+
+white giant wolf
+$1 白い巨大狼
+
+Man-wolf Caesar
+$1 マンウルフシーザー
+
+Piebald mosquito
+$1 パイドモスキート
+
+slobber
+$1 よだれ
+
+black leech
+$1 ブラックリーチ
+
+Purple Toad
+$1 紫ヒキガエル
+
+green bullfrog
+$1 緑のウシガエル
+
+Mud Slime
+$1 泥スライム
+
+Shapeshifting Slime
+$1 シェイプシフトスライム
+
+Crested Penguin
+$1 冠ペンギン
+
+Ring Seal
+$1 リングシール
+
+Sea Lion
+$1 シーライオン
+
+Snow Leopard
+$1 雪ヒョウ
+
+White Bear
+$1 白いクマ
+
+Ice Lizard
+$1 氷トカゲ
+
+Ice Queen Los
+$1 アイスクイーンロス
+
+Blood Claw Cat
+$1 血の爪猫
+
+Lynx
+$1 オオヤマネコ
+
+Leopard
+$1 ヒョウ
+
+striped tiger
+$1 縞虎
+
+golden lion
+$1 ゴールデンライオン
+
+Wildcat Warrior
+$1 ワイルドキャットウォリアー
+
+wildcat shooter
+$1 ワイルドキャットシューター
+
+Cat King Carter
+$1 キャットキングカーター
+
+zombie
+$1 ゾンビ
+
+mummy
+$1 ミイラ
+
+little zombie
+$1 小さなゾンビ
+
+ghoul
+$1 グール
+
+three-headed dog
+$1 三つ頭の犬
+
+Pharaoh Tar
+$1 ファラオタール
+
+frog
+$1 カエル
+
+water snake
+$1 水蛇
+
+Piranha
+$1 ピラニア
+
+Inland sea monster
+$1 内海の怪物
+
+Giant Crocodile
+$1 巨大なワニ
+
+sea monster
+$1 海の怪物
+
+Gnome
+$1 ノーム
+
+Dwarf elf
+$1 ドワーフエルフ
+
+Dark elf
+$1 ダークエルフ
+
+Dwarf
+$1 ドワーフ
+
+Gnome Leader
+$1 ノームリーダー
+
+Goblin Leader
+$1 ゴブリンリーダー
+
+Dwarf elf elder
+$1 ドワーフエルフ長老
+
+Dark Elf Leader
+$1 ダークエルフリーダー
+
+dwarf leader
+$1 ドワーフリーダー
+
+Elven King Erth
+$1 エルフキングアース
+
+flame chicken
+$1 フレイムチキン
+
+Flame Fox
+$1 フレイムフォックス
+
+Flaming Wolf
+$1 フレイミングウルフ
+
+Chasing Leopard
+$1 チェイシングレオパード
+
+Thunder Tiger
+$1 サンダータイガー
+
+Dark Flame Dragon
+$1 ダークフレイムドラゴン
+
+Giant Fire Dog
+$1 巨大な炎の犬
+
+Fire Lord
+$1 炎の主
+
+Gophers
+$1 ゴーファーズ
+
+miner zombie
+$1 鉱山労働者ゾンビ
+
+Split Slime
+$1 分裂スライム
+
+Maid Leliya
+$1 メイドレリヤ
+
+maid mohani
+$1 メイドモハニ
+
+Zombie Priest
+$1 ゾンビプリースト
+
+green-winged fly
+$1 緑の翼のハエ
+
+Bumblebee
+$1 バンブルビー
+
+plum sparrow
+$1 梅雀
+
+rattlesnake
+$1 ガラガラヘビ
+
+golden monkey
+$1 ゴールデンモンキー
+
+Dryad
+$1 ドライアド
+
+cannibal tree
+$1 人食いの木
+
+Millennium Dryad King
+$1 ミレニアムドライアドキング
+
+cactus
+$1 サボテン
+
+depravedPinocchio
+$1 堕落したピノキオ
+
+gargoyle
+$1 ガーゴイル
+
+Slime chunks
+$1 スライムチャンク
+
+spotted seal
+$1 斑海豹
+
+black fur seal
+$1 ブラックファーシール
+
+grey sea lion
+$1 グレーのシーライオン
+
+plesiosaur
+$1 首長竜
+
+green turtle
+$1 緑のカメ
+
+killer whale
+$1 シャチ
+
+Hydra
+$1 ハイドラ
+
+Whale Monster Bigger
+$1 クジラの怪物ビガー
+
+flame researcher
+$1 フレイムリサーチャー
+
+Bomb Researcher
+$1 爆弾研究者
+
+Doctor Meow Meow
+$1 ニャニャお医者さん
+
+Doctor's Robot
+$1 お医者さんのロボット
+
+black centipede
+$1 黒いムカデ
+
+blood spider
+$1 血の蜘蛛
+
+Crimson Scorpion
+$1 クリムゾンスコーピオン
+
+red-faced monkey
+$1 赤面の猿
+
+Ghost Faced Monkey
+$1 ゴーストフェイスモンキー
+
+King beetle
+$1 キングビートル
+
+great ape
+$1 大猿
+
+Monkey King Wukong
+$1 猿王悟空
+
+little monkey
+$1 小さな猿
+
+Tauren Warrior
+$1 タウレンウォリアー
+
+werewolf killer
+$1 狼男キラー
+
+Centaur Archer
+$1 ケンタウロスアーチャー
+
+Lizardman Shaman
+$1 リザードマンシャーマン
+
+Raven Man Warlock
+$1 カラスマンウォーロック
+
+Orc Commander
+$1 オークコマンダー
+
+Orc Priest
+$1 オークプリースト
+
+Elder Orc
+$1 年長のオーク
+
+barbarian tyrant
+$1 野蛮な暴君
+
+Cannibal
+$1 食人者
+
+Bloodthirsty Demon
+$1 血に飢えた悪魔
+
+little devil
+$1 小さな悪魔
+
+Lightning Spirit
+$1 雷の精霊
+
+Thunder Beast
+$1 サンダービースト
+
+Two-Faced Demon
+$1 二面の悪魔
+
+Succubus
+$1 サキュバス
+
+Thunder Lord
+$1 雷の主
+
+evil spirit
+$1 邪悪な霊
+
+Masked Knifeman
+$1 覆面ナイフマン
+
+Masked Thrower
+$1 覆面スローワー
+
+Aqua Witch
+$1 アクアウィッチ
+
+Fire Witch
+$1 ファイアウィッチ
+
+Temptress
+$1 誘惑者
+
+Nightmare
+$1 悪夢
+
+Meteor Witch
+$1 メテオウィッチ
+
+Meteor Queen Elsa
+$1 メテオクイーンエルサ
+
+ghost jellyfish
+$1 幽霊クラゲ
+
+beak shark
+$1 ビークシャーク
+
+Pineapple Sea Urchin
+$1 パイナップルウニ
+
+sun starfish
+$1 サンヒトデ
+
+bubble fish
+$1 バブルフィッシュ
+
+giant octopus
+$1 巨大なタコ
+
+Water elf
+$1 水の妖精
+
+gyro sea urchin
+$1 ジャイロウニ
+
+water demon
+$1 水の悪魔
+
+demonized Water Elf
+$1 悪魔化した水の妖精
+
+bear merman
+$1 ベアマーマン
+
+Mermaid Princess
+$1 マーメイドプリンセス
+
+Apostle
+$1 使徒
+
+Harpy
+$1 ハーピー
+
+Hag
+$1 魔女
+
+Black Witcher
+$1 黒魔女
+
+Death Knight
+$1 死亡騎士
+
+Dark Messenger
+$1 ダークメッセンジャー
+
+Altar Guard
+$1 祭壇ガード
+
+Dark Priest
+$1 ダークプリースト
+
+Skeleton Knifeman
+$1 骨格ナイフマン
+
+Skeleton Archer
+$1 骨格アーチャー
+
+Blood Skull
+$1 血骸骨
+
+golden skull
+$1 金の骸骨
+
+Skeleton Knight
+$1 骨格ナイト
+
+statue guard
+$1 彫像ガード
+
+black skull
+$1 黒い骸骨
+
+Lich King
+$1 リッチキング
+
+Jack-O'-Lantern
+$1 ジャック・オー・ランタン
+
+ghost
+$1 幽霊
+
+dark soul
+$1 ダークソウル
+
+Undead
+$1 アンデッド
+
+Necro
+$1 ネクロ
+
+Wraith
+$1 怨霊
+
+temptress
+$1 誘惑者
+
+Robot Fly
+$1 ロボット蜉
+
+Robot Bird
+ロボット鳥
+
+Robot Dog
+ロボット犬
+
+Robot Cat
+ロボット猫
+
+Robot Dinosaur
+ロボット恐竜
+
+Robot guard
+ロボットガード
+
+vampire child
+吸血鬼の子供
+
+vampire girl
+吸血鬼の少女
+
+vampire boy
+吸血鬼の少年
+
+vampire Lady
+吸血鬼の女性
+
+Vampire Knight
+吸血鬼の騎士
+
+Vampire Earl
+吸血鬼の伯爵
+
+Vampire Elder
+吸血鬼の長老
+
+vampire lord dracula
+吸血鬼の領主ドラキュラ
+
+locust
+バッタ
+
+black bear
+黒い熊
+
+black bear king
+黒い熊王
+
+Leo
+レオ
+
+cow
+乳牛
+
+Gadfly
+アブ
+
+sheep
+羊
+
+goat
+ヤギ
+
+ox
+牡牛
+
+Marshall
+マーシャル
+
+demonized Blood Bat
+悪魔化した血のコウモリ
+
+demonized cannibal tree
+悪魔化した人食い木
+
+demonized white wolf
+悪魔化した白狼
+
+Mud King
+泥の王
+
+Wildcat leader
+ワイルドキャットのリーダー
+
+hell's three-headed dog
+地獄の三つ首犬
+
+demonized Fire-breathing Beast
+悪魔化した火を吐く獣
+
+demonized killer whale
+悪魔化したシャチ
+
+demonized Sand Snake
+悪魔化した砂蛇
+
+Ice blue lizard
+氷の青いトカゲ
+
+Robot Sergeant
+ロボット軍曹
+
+Two-headed Demon
+双頭の悪魔
+
+Elf Prince
+エルフの王子
+
+Guard
+警備員
+
+Rick
+リック
+
+Santa Claus
+サンタクロース
+
+Man-eating Flower
+人食い花
+
+Demonized Man-eating Tree
+悪魔化した人食い木
+
+rat
+ネズミ
+
+Demonized man-eating rat
+悪魔化した人食いネズミ
+
+bat
+コウモリ
+
+Snake
+蛇
+
+Demonized Colorful Boa
+悪魔化したカラフルなボア
+
+millipede
+ムカデ
+
+Demonized centipede
+悪魔化したムカデ
+
+boar
+イノシシ
+
+boar leader
+イノシシのリーダー
+
+bear
+熊
+
+Giant Bear Leader
+巨大な熊のリーダー
+
+Dog
+犬
+
+Vicious Dog leader
+凶悪な犬のリーダー
+
+wolf
+オオカミ
+
+Vicious Wolf Leader
+凶悪な狼のリーダー
+
+Cat
+猫
+
+Demonized Cat
+悪魔化した猫
+
+Demon Cheetah Leader
+悪魔のチーターのリーダー
+
+Demon Tiger Leader
+悪魔の虎のリーダー
+
+Demon Lion Leader
+悪魔のライオンのリーダー
+
+Crypt Demon Ape
+地下悪魔の猿
+
+dragon
+ドラゴン
+
+Black T-Rex
+黒いティラノサウルス
+
+stone monster
+石の怪物
+
+Stone Troll
+石のトロール
+
+little demon
+小さな悪魔
+
+Imp
+インプ
+
+demon zomby
+悪魔のゾンビ
+
+Skeleton
+骸骨
+
+Bone Demon
+骨の悪魔
+
+Ghost
+幽霊
+
+Demonized Insect King
+悪魔化した昆虫の王
+
+demonized cat king
+悪魔化した猫王
+
+Hellfire Dragon
+地獄の火ドラゴン
+
+Mountain Thief
+山賊
+
+Mountain Thief Leader
+山賊のリーダー
+
+Mountain Bandit
+山の盗賊
+
+Mountain Bandit Leader
+山の盗賊のリーダー
+
+Bandit Leader Akana
+盗賊のリーダー赤名
+
+demonized Boar king
+悪魔化したイノシシ王
+
+Gnome Thrower
+ノームのスローアー
+
+Gnome Guard
+ノームのガード
+
+Goblin Shooter
+ゴブリンシューター
+
+Goblin Guard
+ゴブリンガード
+
+Giant Pig-faced bat
+巨大な豚顔のコウモリ
+
+Giant Dryad
+巨大な樹精
+
+blood red worm
+血赤色の虫
+
+Brutal Man-Wolf
+残忍な人狼
+
+Evil Cat King
+邪悪な猫王
+
+Demon Sentinel
+悪魔の歩哨
+
+Demon Lieutenant
+悪魔の中尉
+
+Bigmouth
+大口
+
+Sparrow
+スズメ
+
+jackal
+ジャッカル
+
+Blood Demon Wolf
+血の悪魔狼
+
+Demon Wolf General
+悪魔狼将軍
+
+Demon Fox Soldier
+妖狐兵士
+
+slime worm
+スライムワーム
+
+blood-sucking earthworm
+吸血ミミズ
+
+angry big mouth
+怒っている大口
+
+poisonous spider
+毒グモ
+
+giant spider
+巨大な蜘蛛
+
+demonized Boar
+悪魔化したイノシシ
+
+Color slime
+カラフルなスライム
+
+Emperor Slime
+スライム皇帝
+
+Mad Bull
+狂牛
+
+Red-eyed Mad Bull
+赤目の狂牛
+
+Demon Bull Warrior
+牛魔戦士
+
+Demon goat Sentry
+警戒魔ヤギ
+
+Bull King
+牛魔王
+
+Demonized Lyria
+悪魔化したライリア
+
+Demonized Mohani
+悪魔化したモハニ
+
+Magic Swordsman
+魔剣士
+
+Black Mage
+黒魔道士
+
+Demon warrior
+悪魔戦士
+
+Executioner
+死刑執行人
+
+Pilgrim
+巡礼者
+
+black bishop
+黒の司教
+
+Black Blade Guard
+黒刃ガード
+
+dark magic Guard
+黒魔法ガード
+
+Tsundere Demon Cat
+ツンデレ悪魔猫
+
+Elite demon Cat
+エリート悪魔猫
+
+Golden Tiger Guard
+金虎ガード
+
+Princess Cathy
+キャシー姫
+
+black bear
+黒い熊
+
+white bear
+白い熊
+
+demonized black bear
+悪魔化した黒い熊
+
+demonized white bear
+悪魔化した白い熊
+
+Grizzly King
+灰色の熊王
+
+zombie warrior
+ゾンビ戦士
+
+Zombie Mage
+ゾンビ魔道士
+
+Zombie general
+ゾンビ将軍
+
+Zombie Archmage
+ゾンビ大魔道士
+
+Zombie King
+ゾンビ王
+
+Demonized Pinocchio
+悪魔化したピノキオ
+
+experimental form
+実験体
+
+mutant form
+突然変異体
+
+Demonist
+悪魔学者
+
+Elemental Elf
+エレメンタルエルフ
+
+Dream Elf Avril
+夢のエルフアヴリル
+
+Bamu beast
+バムビースト
+
+Humanoid Bach
+人形バッハ
+
+demon Balu
+魔獣バル
+
+Invincible Bamu beast
+無敵のバムビースト
+
+toothed sea lion
+歯のある海獅子
+
+crampon snow leopard
+氷の爪の雪豹
+
+Swallowtail Penguin
+アゲハペンギン
+
+ice seal
+氷のアザラシ
+
+hostaged soldier
+人質の兵士
+
+hostaged resident
+人質の住民
+
+Mud Monster
+泥の怪物
+
+small slime
+小さなスライム
+
+Big Slime
+大きなスライム
+
+apostate
+背教者
+
+rioting prisoner
+暴動を起こす囚人
+
+prison head
+牢頭
+
+water monster
+水の怪物
+
+water monster elite
+水の怪物エリート
+
+water monster king
+水の怪物王
+
+piranha
+ピラニア
+
+tree puppet
+木の操り人形
+
+Guardian
+ガーディアン
+
+mine spider
+地雷蜘蛛
+
+mine fly
+地雷ハエ
+
+Aham
+アハム
+
+Mutant Cactus
+変異サボテン
+
+vampire
+吸血鬼
+
+Zombie Lord
+ゾンビの領主
+
+Guardian Shadick
+ガーディアンシャディック
+
+sand eagle
+砂鷲
+
+Scorpion
+サソリ
+
+little bat putra
+小さなコウモリプトラ
+
+note sprite
+音符の妖精
+
+note monster
+音符の怪物
+
+Naughty Elf
+いたずらな妖精
+
+Electro ball
+エレクトロボール
+
+laser transmitter
+レーザー送信機
+
+Tyrannosaurus
+ティラノサウルス
+
+Chief Robot
+チーフロボット
+
+Potato
+ポテト
+
+tomato
+トマト
+
+Chestnut
+栗
+
+food processor
+フードプロセッサー
+
+black snake king
+黒蛇王
+
+Zombie Guard
+ゾンビガード
+
+single skull
+単一の頭蓋骨
+
+Fragrant Konjac
+香りの良いコンニャク
+
+goblin miner
+ゴブリン鉱夫
+
+Goblin Sapper
+ゴブリン工兵
+
+Goblin overseer
+ゴブリン監督者
+
+white rat
+白いネズミ
+
+mechanic
+メカニック
+
+Large tube wheel (two tube wheel, three tube wheel)
+大管ホイール（二管ホイール、三管ホイール）
+
+chief engineer
+チーフエンジニア
+
+sailor
+水兵
+
+Boatswain
+甲板長
+
+First Mate (Second and Third Mate)
+一等航海士（二等航海士、三等航海士）
+
+captain
+船長
+
+Yeti
+雪男
+
+Yeti Guard
+雪男のガード
+
+Yeti King
+雪男王
+
+Crimson boar
+深紅のイノシシ
+
+boar Leader
+イノシシのリーダー
+
+demon boar king
+悪魔のイノシシ王
+
+super mechanic
+スーパーメカニック
+
+Patroling Robot Bird
+巡回ロボットバード
+
+robot dog
+ロボットドッグ
+
+robot cat
+ロボットキャット
+
+robot guard
+ロボットガード
+
+fire cat
+火の猫
+
+bomb cat
+爆弾猫
+
+super mech
+スーパー機械
+
+little devil guard
+小さな悪魔のガード
+
+demon Gatekeeper
+悪魔の門番
+
+demon servant
+悪魔の召使い
+
+Giant demon
+巨大な悪魔
+
+Giant Patrol demon
+巨大な巡回悪魔
+
+magpie
+カササギ
+
+wolf leader
+狼のリーダー
+
+moth
+ガ
+
+zombie dog
+ゾンビ犬
+
+Demon Samael
+悪魔サマエル
+
+little sea monster
+小さな海の怪物
+
+sea ??monster
+海の怪物
+
+space fighter
+宇宙戦士
+
+Demon princess
+悪魔の姫
+
+Demon sentinel
+悪魔の衛兵
+
+Rampage demon
+暴走する悪魔
+
+Demon Guard
+悪魔のガード
+
+alien
+エイリアン
+
+alien warlord
+エイリアン戦将
+
+Super Fire Lord
+スーパー炎魔
+
+Super Whale Monster
+スーパー鯨怪
+
+apprentice knight
+見習い騎士
+
+wooden man
+木製の人
+
+truck
+トラック
+
+Stone Guard
+石のガード
+
+Mechanical Guard
+機械のガード
+
+super Pinocchio
+スーパー・ピノキオ
+
+Gnome captain
+ノームの隊長
+
+Goblin Captain
+ゴブリンの隊長
+
+super elf king
+スーパーエルフ王
+
+Undead Wraith
+アンデッドレイス
+
+Trick Pumpkin
+トリックパンプキン
+
+dragon man
+ドラゴンマン
+
+Dragon man Guard
+ドラゴンマンのガード
+
+Frozen Snake King
+凍った蛇の王
+
+prehistoric dragon
+先史時代のドラゴン
+
+Little Evilclaw
+小さな悪爪
+
+Evilclaw
+悪爪
+
+Frozen Snake
+凍った蛇
+
+Evilclaw Elite
+悪爪エリート
+
+Frozen Snake Elite
+凍った蛇エリート
+
+little Frozen Snake
+小さな凍った蛇
+
+demonized Pig-Face Bat King
+悪魔化した豚顔のコウモリ王
+
+Demonized Millennium Dryad King
+悪魔化した千年樹王
+
+Demonized Death Worm
+悪魔化した死の虫
+
+Demonized Man-wolf Caesar
+悪魔化した人狼シーザー
+
+Demonized Shapeshifting Slime
+悪魔化した変形スライム
+
+Demonized Ice Queen Los
+悪魔化した氷の女王ロス
+
+Demonized Cat King Carter
+悪魔化した猫王カーター
+
+Demonized Pharaoh Tar
+悪魔化したファラオタール
+
+Demonized Elven King Erth
+悪魔化したエルフ王アース
+
+Demonized Fire Lord
+悪魔化した炎魔
+
+Demonized Whale Monster Bigger
+悪魔化した鯨怪ビガー
+
+Doctor's Super Robot
+ドクターのスーパー・ロボット
+
+Demonized Monkey King
+悪魔化した猿王
+
+Demonized barbarian tyrant
+悪魔化した野蛮な暴君
+
+Demonized Thunder Lord
+悪魔化した雷の王
+
+Demonized Lich King
+悪魔化したリッチキング
+
+Demonized evil spirit
+悪魔化した悪霊
+
+Dragon Guard
+ドラゴンのガード
+
+Guardian Sky
+ガーディアンスカイ
+
+guardian earth
+ガーディアンアース
+
+Guardian Wind
+ガーディアンウィンド
+
+Guardian thunder
+ガーディアン・サンダー
+
+Guardian Water
+ガーディアンウォーター
+
+Guardian Fire
+ガーディアンファイア
+
+Guardian Mountain
+ガーディアンマウンテン
+
+Guardian River
+ガーディアンリバー
+
+statue
+彫像
+
+Wild Dragon
+ワイルドドラゴン
+
+Iron eater
+鉄食い獣
+
+Iron eater king
+鉄食い獣王
+
+Guard Captain
+ガードキャプテン
+
+Black
+ブラック
+
+Year Beast
+年獣
+
+King of Year Beasts
+年獣王
+
+mouse
+マウス
+
+bull
+牡牛
+
+Rabbit
+ウサギ
+
+snake
+蛇
+
+horse
+馬
+
+Dragon
+ドラゴン
+
+monkey
+猿
+
+chicken
+鶏
+
+dog
+犬
+
+pig
+豚
+
+Tiger King
+虎王
+
+dark killer
+暗殺者
+
+Dark Mage
+暗黒魔道士
+
+dark warrior
+暗黒戦士
+
+dark commander
+暗黒指揮官
+
+Demonized Mermaid Princess
+悪魔化した人魚姫
+
+Death knight
+死の騎士
+
+termite
+シロアリ
+
+shark
+サメ
+
+blaster
+爆破者
+
+treasure thief
+宝の泥棒
+
+Mutant Skeleton
+突然変異骸骨
+
+Dark Veteran
+暗黒のベテラン
+
+dark hero
+暗黒の英雄
+
+dark missionary
+暗黒の宣教師
+
+Brann
+ブラン
+
+Kungler
+クングラー
+
+hound
+猟犬
+
+prank clown
+いたずらなピエロ
+
+Dark Spiritist
+暗黒の霊媒師
+
+Dark Servant
+暗黒の召使い
+
+defender
+防衛者
+
+Elite Crusader
+エリート十字軍
+
+Dark Defender
+暗黒の防衛者
+
+Harlan
+ハーラン
+
+Dark Centurion
+暗黒の百人隊長
+
+Witcher
+ウィッチャー
+
+monk
+修道士
+
+Kolov
+コロフ
+
+Mograine
+モグレイン
+
+whitemane
+ホワイトメイン
+
+dark Crusader
+暗黒十字軍
+
+dark archer
+暗黒の弓兵
+
+Bandage Freak
+包帯の奇人
+
+zombie waiter
+ゾンビウェイター
+
+zombie commander
+ゾンビ指揮官
+
+zombie King
+ゾンビ王
+
+stone lion
+石獅子
+
+bomb-man
+ボンバーマン
+
+lightsaber warrior
+ライトセーバー戦士
+
+crazy gear
+クレイジーギア
+
+giant fruit
+巨大な果実
+
+huge drumstick
+巨大な鶏もも肉
+
+Demon Warrior
+悪魔戦士
+
+Demon soldier
+悪魔兵士
+
+Devil Totem
+悪魔のトーテム
+
+masked killer
+マスクをした殺し屋
+
+killer officer
+殺し屋の士官
+
+twins killer
+双子の殺し屋
+
+pig man
+豚の男
+
+Orc demon
+オークの悪魔
+
+Demon Archer
+悪魔の弓兵
+
+Demon General
+悪魔の将軍
+
+Yeti monster
+イエティモンスター
+
+Cave Yeti
+洞窟のイエティ
+
+Yeti girl
+雪女
+
+Demon Bear
+悪魔の熊
+
+Demon Bear Chief
+悪魔の熊の首領
+
+Bearman Commander
+熊人の指揮官
+
+Lord of the Undead
+アンデッドの主
+
+earth wall
+土の壁
+
+Plague Monster
+疫病の怪物
+
+Plague Behemoth
+疫病の巨獣
+
+dead soul
+死霊
+
+Lord of the dead soul
+死霊の主
+
+mummy pharaoh
+ミイラのファラオ
+
+Ancestral Zombie
+始祖ゾンビ
+
+Elsa of the dream
+夢のエルサ
+
+dream eater
+夢食い獣
+
+Skeleton Soldier
+骸骨兵士
+
+Skeleton general
+骸骨の将軍
+
+hairy crab
+毛蟹
+
+Maggie
+マギー
+
+Miyuki
+ミユキ
+
+Yan Lili
+ヤン・リリ
+
+Satsuki
+サツキ
+
+black queen bee
+黒い蜂の女王
+
+black bee
+黒い蜂
+
+earth eater
+土を食う獣
+
+Kodo
+コド
+
+red eye beast
+赤目の獣
+
+blue faced beast
+青顔の獣
+
+green head beast
+緑頭の獣
+
+believer in white
+白い服の信者
+
+believer in black
+黒い服の信者
+
+Ethos bishop
+エトスの主教
+
+male gangster
+男性ギャング
+
+female gangster
+女性ギャング
+
+Bandit Kunshan
+盗賊昆山
+
+Bandit Natasha
+盗賊ナターシャ
+
+Scout
+偵察兵
+
+guard
+ガード
+
+Berserker
+バーサーカー
+
+Garlic Loofah
+ガーリックヘチマ
+
+crusty zombie
+硬いゾンビ
+
+Super Pharaoh
+スーパー・ファラオ
+
+zombie ghost
+ゾンビの幽霊
+
+captain of the guard
+ガードの隊長
+
+base guard
+基地のガード
+
+devil Gomez
+悪魔のゴメス
+
+little warrior
+小さな戦士
+
+sentry tower
+監視塔
+
+Crystal Tower
+クリスタルタワー
+
+Wall barricade
+壁のバリケード
+
+Magnetic car
+磁気車
+
+root package
+根の包み
+
+fish reef
+魚礁
+
+wedding float
+結婚式の山車
+
+barricade
+バリケード
+
+tempered glass
+強化ガラス
+
+tree stump
+切り株
+
+Door
+ドア
+
+railing
+手すり
+
+cabinet
+キャビネット
+
+show window
+ショーウィンドウ
+
+wooden container
+木製の容器
+
+fence
+フェンス
+
+cfence
+柵
+
+low wall
+低い壁
+
+rickshaw
+人力車
+
+barrier
+障害物
+
+fruit tree
+果樹
+
+cbarrier
+障壁
+
+rock
+岩
+
+machine
+機械
+
+Spirit Crystal
+スピリットクリスタル
+
+Bonfire
+たき火
+
+board
+板
+
+torch
+たいまつ
+
+button
+ボタン
+
+broom
+ほうき
+
+scarf
+スカーフ
+
+hat
+帽子
+
+snowball
+雪玉
+
+stone
+石
+
+iron wall
+鉄の壁
+
+wall
+壁
+
+Exquisite gift box
+精美なギフトボックス
+
+crystal trophy
+クリスタルトロフィー
+
+wooden box
+木箱
+
+clown box
+ピエロの箱
+
+warehouse
+倉庫
+
+Level {d} supply camp
+$1級補給キャンプ
+
+Level {d} Magic Cannon
+$1級魔法砲
+
+Magic Cannon
+魔法砲
+
+wood warrior
+木の戦士
+
+wood shooter
+木の射手
+
+Catapult
+投石機
+
+mech warrior
+メカ戦士
+
+Iron Warrior
+鉄の戦士
+
+wooden stake
+木製の杭
+
+cannon
+大砲
+
+Core Electronics
+コアエレクトロニクス
+
+withered crops
+枯れた作物
+
+Clay pig
+粘土の豚
+
+silver pig
+銀の豚
+
+Golden Pig
+金の豚
+
+Wolf King Crystal
+狼王のクリスタル
+
+Electronic lock
+電子ロック
+
+phantom Lyria
+幻影ライリア
+
+Phantom Mohani
+幻影モハニ
+
+ice wall
+氷の壁
+
+puppet soldier
+操り人形兵士
+
+Iron Guard
+鉄のガード
+
+monster maker
+モンスターメーカー
+
+105 smoothbore gun
+105滑腔砲
+
+cannonball
+砲弾
+
+150 antiaircraft gun
+150対空砲
+
+Cannon
+カノン砲
+
+time bomb
+時限爆弾
+
+Camera
+カメラ
+
+hunting net
+狩猟網
+
+hunting chest
+狩猟チェスト
+
+miniature chariot
+小型戦車
+
+mini fighter
+ミニ戦闘機
+
+barrel
+樽
+
+supercomputer
+スーパーコンピュータ
+
+magma polymerisation
+マグマの重合
+
+dragon power stone
+ドラゴンパワーストーン
+
+remote control bomb
+遠隔操作爆弾
+
+smoothbore gun
+滑腔砲
+
+Black Heavy Armor
+ブラックヘビーアーマー
+
+fireworks
+花火
+
+stone gate
+石門
+
+Rolling Stone
+転がる石
+
+toy car
+おもちゃの車
+
+balloon
+風船
+
+halo
+ハロー
+
+automatic crossbow
+自動クロスボウ
+
+Mirror of Soul
+魂の鏡
+
+avalanche
+雪崩
+
+concealed arrow
+隠された矢
+
+black hole
+ブラックホール
+
+prison door
+監獄の扉
+
+Sharp Claw Cat
+鋭い爪の猫
+
+Shadow Assassin
+影の暗殺者
+
+Forger Nagano kawa
+鍛冶師長野川
+
+Angry Bigmouth
+怒っている大口
+
+Macaque
+マカク
+
+Blacksmith Zarachi
+鍛冶師ザラチ
+
+dungeon north gate
+ダンジョン北門
+
+Demonized Man-wolf
+悪魔化した人狼
+
+Mirage Fairy
+蜃気楼の妖精
+
+Medicine Storage Construction
+薬品庫建設
+
+Alien base {d}
+エイリアン基地$1
+
+Back Door
+裏口
+
+Red Mane Lion
+赤いたてがみのライオン
+
+Hunting Chest
+狩猟チェスト
+
+Jewelry Merchant Clara
+宝石商クララ
+
+Blue Slime
+青いスライム
+
+Fleeing Rattlesnake
+逃げるガラガラヘビ
+
+The door lock is open
+扉の鍵が開いている
+
+Civilian Puppy
+民間の子犬
+
+secret roomsouth gate
+秘密の部屋南門
+
+Man-eating Rat Duplicate
+人食いネズミの分身
+
+juicer
+ジューサー
+
+ghost vacuum cleaner
+幽霊掃除機
+
+Damaged Artillery stand
+損傷した砲台
+
+Level {d} Magic Cannon Construction
+$1級魔法砲建設
+
+Armory Construction
+武器庫建設
+
+Bubble barrier
+泡の障壁
+
+Ansible Space-time marketplace; Press G to check the product details.
+アンサブル時空市場; Gを押して商品詳細を確認
+
+Laser cannon {d}
+レーザー砲$1
+
+Fleeing lion
+逃げるライオン
+
+Demons' Base
+悪魔の基地
+
+Do
+ド
+
+Mountain gate
+山門
+
+Demonized Cat King
+悪魔化した猫王
+
+Christmas tree
+クリスマスツリー
+
+Carnivorous Bat
+肉食のコウモリ
+
+Mutant Hen
+突然変異の母鶏
+
+Pirate Ship Teleportation Circle
+海賊船の転送サークル
+
+Colorful Boa Duplicate
+カラフルなボアの分身
+
+Armor Merchant Jonny
+防具商ジョニー
+
+Wisdom Tree
+知恵の木
+
+Fa
+ファ
+
+Hell Wraith
+地獄の怨霊
+
+Weaver Girl
+織女
+
+Luke
+ルーク
+
+Highland Entrance
+高地の入口
+
+Gem Craftsman Sarah
+宝石職人サラ
+
+fence gate
+フェンスゲート
+
+Wraith duplicate
+幽霊の分身
+
+Beautiful Gift Box
+美しいギフトボックス
+
+Exploding Ship
+爆発する船
+
+Jewelry Merchant Red
+宝石商レッド
+
+Mysterious Elder
+神秘的な長老
+
+Fleeing Living Dead
+逃げる生ける屍
+
+Tana
+タナ
+
+Hexagram Platform
+六芒星祭台
+
+Black Stone Monster
+黒石の怪物
+
+Ghost vacuum cleaner
+幽霊掃除機
+
+Caravan grocer Adam
+キャラバンの雑貨商アダム
+
+Millipede
+ヤスデ
+
+Recycle Station
+リサイクルステーション
+
+dungeon south gate
+ダンジョン南門
+
+East encampment reinforced construction
+東の野営地の強化建設
+
+Civilian Batty
+市民バティ
+
+Tusk Rat
+牙ネズミ
+
+Button on the stone gate
+石門のボタン
+
+potato
+ポテト
+
+Rattlesnake
+ガラガラヘビ
+
+Material Storage
+材料倉庫
+
+Black Boar
+黒いイノシシ
+
+Civilian Yasmin
+市民ヤスミン
+
+Townsfolk Rachee
+町民ラシー
+
+Civilian Gadane
+市民ガデン
+
+Lock
+錠
+
+movable stake
+動く杭
+
+Rampage Bear
+暴れ熊
+
+Villager Kevin
+村人ケビン
+
+Grain basket
+穀物かご
+
+Galaxy
+銀河
+
+Emcee
+司会者
+
+Loki Union Envoy Claire
+ロキ連邦の使者クレア
+
+Bank receptionist Gin
+銀行受付ジン
+
+Marbles
+ビー玉
+
+Stegosaurus
+ステゴサウルス
+
+Primordial Iron
+原始鉄
+
+God of Love
+愛の神
+
+Herbal Mountain Teleportation Circle
+薬草山転送サークル
+
+Cockroaches
+ゴキブリ
+
+Fleeing Strong Bear
+逃げる怪力熊
+
+Head of Outer hall
+外堂の主管
+
+Level {d} Supply Camp Construction
+$1級補給キャンプ建設
+
+Maintenance of ancient buildings
+古代建物のメンテナンス
+
+Fleeing Man-eating Rat
+逃げる人食いネズミ
+
+Vicious Dog leader Duplicate
+悪犬首領の分身
+
+Monica
+モニカ
+
+Chef Kouno
+シェフ河野
+
+Piano
+ピアノ
+
+Ceratops
+ケラトプス
+
+Mi
+ミ
+
+Fisherman Poseidon
+漁師ポセイドン
+
+Blacksmith
+鍛冶屋
+
+Audio Player
+オーディオプレーヤー
+
+Gem Craftsman Jim
+宝石職人ジム
+
+Gang Tournament Messenger Gouken
+ギャングトーナメントの使者鋼拳
+
+Village Chief Lorenzo
+村長ロレンツォ
+
+Mage Aratta
+魔法使いアラタ
+
+Villager Ginger Head
+村人ジンジャーヘッド
+
+Townsfolk
+町民
+
+Maze Guard
+迷宮の守衛
+
+Village Chief Datin
+村長ダティン
+
+Fleeing Demon Skeleton
+逃げる骨魔
+
+Almost-ripe rice spikelet
+ほぼ熟した稲穂
+
+Blood-Red Worm
+血赤い虫
+
+Mountain Stronghold Sentry
+山の砦の哨兵
+
+Drummer
+ドラマー
+
+General Paul
+将軍ポール
+
+Living Dead
+生ける屍
+
+Fleeing Boar Leader
+逃げるイノシシ首領
+
+Village Chief Melon Head
+村長メロンヘッド
+
+Jewelry Merchant Mimi
+宝石商ミミ
+
+confession room south gate
+懺悔室南門
+
+Inner hall Guard
+内堂の守衛
+
+Civilian Fanny
+市民ファニー
+
+Captain Cassi
+キャプテンキャシー
+
+Nether Cave
+ネザーケイブ
+
+Breeding room Construction
+繁殖室建設
+
+mixer
+ミキサー
+
+Village Chief Konanna
+村長コナンナ
+
+Iron Claw Cat
+鉄の爪の猫
+
+Blue Stone Monster
+青石の怪物
+
+Garth Empire Envoy Sanmu
+ガース帝国の使者三木
+
+Potion Merchant
+ポーション商
+
+Re
+レ
+
+Locked door
+鍵のかかったドア
+
+Fleeing White Skeleton
+逃げる白骸骨
+
+Sophie
+ソフィー
+
+Sentry Tower
+見張り塔
+
+courtyard gate
+中庭の門
+
+pudding
+プリン
+
+Villager Mrs. Shen
+村人シェン夫人
+
+stone slate
+石板
+
+Strong Bear
+強い熊
+
+Electronic Console
+電子制御台
+
+Black Tiger
+黒い虎
+
+Commander Aydar
+指揮官エイダル
+
+Ice maze Teleportation Circle
+氷の迷路転送サークル
+
+Fleeing Man-eating Tree
+逃げる人食い木
+
+Demon Tiger duplicate
+魔虎の分身
+
+Rain of Arnebia
+アルネビアの雨
+
+Gem Craftsman Narissa
+宝石職人ナリッサ
+
+Vicious Wolf Leader duplicate
+悪狼首領の分身
+
+Highland Construction
+高地建設
+
+Flute Player
+フルート奏者
+
+Chef Hasegawa
+シェフ長谷川
+
+Ore Buyer Jordan
+鉱石購入者ジョーダン
+
+Red Boar
+赤いイノシシ
+
+Fleeing Pointy Mouth Rat
+逃げる尖嘴ネズミ
+
+electronic lock
+電子錠
+
+Wandering Villager
+さまよう村人
+
+Fleeing giant Bear Leader
+逃げる巨大熊首領
+
+Lake Construction
+湖の建設
+
+Monami
+モナミ
+
+Ripe rice spikelet
+熟した稲穂
+
+Demon Skeleton duplicate
+骨魔の分身
+
+Grinder
+グラインダー
+
+Path Keeper
+道の守護者
+
+war zone shop
+戦争地帯の店
+
+Seed Keeper
+種子管理者
+
+Villager
+村人
+
+Hell Fire Dragon
+地獄火竜
+
+Civilian Zachary
+市民ザカリー
+
+Pharmacy room Construction
+薬局建設
+
+Grand Duke Trini, lord of the city
+都市の主トリニ大公
+
+Messenger
+使者
+
+Chimney
+煙突
+
+Artillery stand
+砲架
+
+Civilian Aesop
+城民イソップ
+
+Car door
+車のドア
+
+Crystal Turret
+クリスタルタレット
+
+Mechanism
+機関
+
+Crystal Slime
+クリスタルスライム
+
+Villager Zodafir
+村民ゾダフィル
+
+Circular groove
+円形の溝
+
+Soldier
+兵士
+
+Villager Rice
+村民ライス
+
+Old Villager
+老村民
+
+Militiaman Ulan
+民兵ウラン
+
+Demonized Death worm
+魔化死亡の虫
+
+Animal Shed
+家畜小屋
+
+Grocer Henry
+雑貨商ヘンリー
+
+Mutant Duck
+変異アヒル
+
+Herbal Garden Entrance
+薬草園の入口
+
+River water
+河の水
+
+Test room south gate
+試験室南門
+
+Lake Entrance
+湖の入口
+
+Ice Stone
+氷の石
+
+door
+ドア
+
+Elemental Crystal
+元素結晶
+
+Instructor Hargard
+教官ハガード
+
+Forger Ganjiang
+鍛冶師ガンジャン
+
+Grass carp
+草魚
+
+Demon Ape duplicate
+魔猿の分身
+
+Smelting room Construction
+溶鉱室建設
+
+Heaven Jade
+開天の玉
+
+secret room north door
+秘密の部屋北門
+
+Guard Jack
+衛兵ジャック
+
+Keyboard Player
+キーボード奏者
+
+Sharp Fang Wolf
+尖牙狼
+
+Townsfolk Mike
+町民マイク
+
+Villager Merlin
+村民マーリン
+
+Senior Huntress
+上級ハントレス
+
+Villager Mattes
+村民マッツ
+
+Lucadan
+ルカダン
+
+Forger
+鍛冶師
+
+Kidnapped girl
+誘拐された少女
+
+Undersea treasure hunt
+海底宝探し
+
+A letter
+手紙
+
+Black Witch
+黒い魔女
+
+Little Girl
+小さな女の子
+
+Ansible Space-Time Storehouse
+時空倉庫
+
+Mining Area Construction
+鉱区建設
+
+Mutant Rooster
+変異オンドリ
+
+Strange Stone Ball
+奇妙な石球
+
+Cable Car manager
+ケーブルカー管理者
+
+Villager Charlene
+村民シャーリーン
+
+Demonized Cat Duplicate
+魔化猫の分身
+
+Locked Stone Door
+施錠された石の扉
+
+Wormhole teleportation Circle
+ワームホール転送陣
+
+Information Board
+掲示板
+
+Combat Trainer Billy
+格闘訓練師ビリー
+
+Head of inner hall
+内堂の責任者
+
+Civilian Jasmine
+城民ジャスミン
+
+Energy barrier
+エネルギーバリア
+
+Saxophone Player
+サックス奏者
+
+Button
+ボタン
+
+Seven Treasures
+七宝奇謀
+
+Old Mage
+老魔法使い
+
+Fleeing bat
+逃げるコウモリ
+
+Gang Entrance
+ギャングの入口
+
+Mail custodian Starmark
+郵便保管人星痕
+
+Sound
+音
+
+Red Skeleton
+赤い骸骨
+
+Civilian Bohr
+城民ボーア
+
+Orc Chief
+オークのリーダー
+
+Demon Cheetah duplicate
+魔化チーターの分身
+
+Fleeing Colorful Boa
+逃げる色鮮やかなボア
+
+Soul-Draining Evil Spirit
+魂を吸う妖
+
+Villager Old Jack
+村民老ジャック
+
+Fleeing Stone Troll
+逃げる石の怪物
+
+Villager Lucian
+村民ルシアン
+
+Stone walls
+石の壁
+
+Gold Ring Snake
+金環の蛇
+
+Master's assistant
+師匠の助手
+
+Big Iron Lock
+大きな鉄の錠
+
+Stone Door
+石の扉
+
+Trumpeter
+トランペッター
+
+Bass Player
+ベース奏者
+
+Gem Craftsman
+宝石職人
+
+Secret door
+隠し扉
+
+chestnut
+栗
+
+Villager Little Jack
+村民小ジャック
+
+Sentry Tower Construction
+見張り塔建設
+
+Man-eating Tree Duplicate
+食人樹の分身
+
+Yellow key
+黄色い鍵
+
+Soul-Snatching Evil Spirit
+魂を奪う妖
+
+blood bat Duplicate
+血蝙蝠の分身
+
+Ghost Monkey
+ゴーストモンキー
+
+Black Panther
+黒豹
+
+Guard Barr
+衛兵バー
+
+Blue pearl
+青真珠
+
+Study Construction
+書斎建設
+
+Black Slime
+黒いスライム
+
+Fleeing blood bat
+逃げる血蝙蝠
+
+Bat King Incarnate
+蝙蝠王の化身
+
+Locked gate
+施錠された門
+
+Centipede
+ムカデ
+
+Material Storage Construction
+材料倉庫建設
+
+Yellow pearl
+黄色い真珠
+
+Elf Elder
+エルフ長老
+
+Stone Button
+石のボタン
+
+Graceful Mountain Teleportation circle
+秀山転送陣
+
+Cat-eating Rat
+猫食いネズミ
+
+Apothecary Zoma
+薬剤師ゾマ
+
+Fisherman Paul
+漁師ポール
+
+Test room north door
+試験室北門
+
+research room south gate
+研究室南門
+
+Henry
+ヘンリー
+
+Artificer Kania
+洗練師カニア
+
+Young Man fetching water
+水を汲む若者
+
+Forger Yelda
+鍛冶師イェルダ
+
+hole
+穴
+
+Living Dead duplicate
+生ける屍の分身
+
+Civilian Wald
+城民ワルド
+
+Locked courtyard gate
+施錠された中庭の門
+
+Fleeing Demon Ape
+逃げる魔猿
+
+Growing wheat head
+成長中の麦穂
+
+Chest
+宝箱
+
+Apothecary Phillips
+薬剤師フィリップス
+
+West encampment reinforced construction
+西側陣地強化建設
+
+Arnebia
+アルネビア
+
+Jame
+ジェーム
+
+Vampire Vine
+吸血藤
+
+Armor Merchant Varney
+防具商バーニー
+
+Artificer
+洗練師
+
+Uncle Wang
+ワンおじさん
+
+Red Slime
+赤いスライム
+
+Demon Cave
+悪魔洞窟
+
+Fleeing Man-eating Grass
+逃げる食人草
+
+Competition Host Chun Li
+コンペティションホスト春麗
+
+Instructor
+教官
+
+Fleeing Cheetah
+逃げるチーター
+
+Man-eating Dog
+食人犬
+
+Fleeing Soul-Draining Evil Spirit
+逃げる魂を吸う妖
+
+dungeon north door
+地牢北门
+
+Polypod
+多脚虫
+
+Armor Merchant Jara
+防具商ジャラ
+
+Fleeing Demon Cheetah
+逃げる魔化チーター
+
+Alien
+エイリアン
+
+Guru Elder
+グル長老
+
+Walking Dead
+ウォーキングデッド
+
+Sliver Ring Snake
+銀環の蛇
+
+Herb Buyer Benson
+薬草買い付け商ベンソン
+
+Sol
+ソル
+
+Panel
+パネル
+
+Listen to notes
+音符を聞く
+
+Sheriff Ralph
+保安官ラルフ
+
+Medicine Storage
+薬品庫
+
+Seed of the Wisdom Tree
+智慧の木の種
+
+Bounty Warrior Rick
+賞金勇士リック
+
+Caravan Master Solitury
+キャラバンマスターソリタリー
+
+Grumpy
+不機嫌
+
+Pet Trainer Hawk
+ペット訓練師ホーク
+
+Dodge shells
+砲弾を避ける
+
+Fleeing Black Tiger
+逃げる黒虎
+
+Mining Area Entrance
+鉱区入口
+
+Cyan Slime
+青スライム
+
+Grey Stone Monster
+灰色の石の怪物
+
+Zombie
+ゾンビ
+
+Steel Fang Wolf
+鋼牙狼
+
+White Boar
+白野猪
+
+Bloodthirsty Bat
+吸血蝠
+
+Civilian Kitazawa
+城民北沢
+
+Fleeing Zombie
+逃げるゾンビ
+
+Almost-ripe wheat head
+ほぼ熟した麦穂
+
+Demon Lion duplicate
+魔化ライオンの分身
+
+Hero List
+英雄リスト
+
+Civilian Rancy
+城民ランシー
+
+Stove
+ストーブ
+
+Fleeing Blood Fang Wolf
+逃げる血牙狼
+
+Clay Pig
+粘土豚
+
+Weapon Merchant Selmore
+武器商セルモア
+
+Opened Chest
+開いた宝箱
+
+Guitar Player
+ギタリスト
+
+Ankylosaurus
+アンキロサウルス
+
+Green pearl
+緑真珠
+
+Artificer Daisy
+洗練師デイジー
+
+Fleeing macaque
+逃げるマカク
+
+Bubble Cube Teleportation Circle
+泡立方体転送陣
+
+White Tiger
+白虎
+
+Shopkeeper Mappa
+店主マッパ
+
+Blue Skeleton
+青骸骨
+
+Wooden block
+木のブロック
+
+Herbal Garden Construction
+薬草園建設
+
+Blacksmith Orisun
+鍛冶屋オリスン
+
+Fleeing vicious dog leader
+逃げる悪犬のリーダー
+
+training room north door
+訓練室北門
+
+Weapon Merchant Tony
+武器商トニー
+
+Fence gate
+フェンスゲート
+
+Forest ranger
+森林管理人
+
+Silver Pig
+銀豚
+
+Spider cave
+蜘蛛の洞窟
+
+Village Chief Matsubi
+村長マツビ
+
+Baker
+パン職人
+
+Civilian Kirk
+城民カーク
+
+Armory
+武器庫
+
+dumpling
+餃子
+
+Accounting desk
+会計デスク
+
+Kitchen Construction
+キッチン建設
+
+Washing and grinding room Construction
+洗磨室建設
+
+Green Slime
+緑スライム
+
+Golden Mane Lion
+金たてがみのライオン
+
+Demonized Worm King
+魔化虫王
+
+Purple Slime
+紫スライム
+
+Chaos Stone
+混沌石
+
+militia captain Nusan
+民兵隊長ヌサン
+
+Fruit tree
+果樹
+
+Magic keyboard player
+魔法のキーボード奏者
+
+Girl
+少女
+
+Space invaders
+スペースインベーダー
+
+Anxious man
+焦る男
+
+Fleeing Man-eating Dog
+逃げる食人犬
+
+Demon Bat
+魔音蝠
+
+Black T-Rex duplicate
+黒いティラノサウルスの分身
+
+Bloodthirsty Evil Spirit
+嗜血の悪霊
+
+Peach
+桃
+
+Door Bolt
+ドアボルト
+
+Ghoul Dog
+グール犬
+
+Mountain Stronghold Gate
+山の砦の門
+
+Branch
+枝
+
+Alexia
+アレクシア
+
+Veteran Tom
+ベテラントム
+
+Road Sign
+道路標識
+
+Mok
+モク
+
+Civilian Virik
+城民ビリク
+
+Silver Mane Lion
+銀たてがみのライオン
+
+Scholar Eric
+学者エリック
+
+Growing rice spikelet
+成長する稲穂
+
+Gate Guard
+門衛
+
+Teleportation Portal
+転送ポータル
+
+Villager Marilyn
+村民マリリン
+
+Insecticide
+殺虫剤
+
+Roots
+根
+
+Wolf head mountain teleportation circle
+狼頭山転送陣
+
+East-pointing Arrow
+東向きの矢印
+
+Teleportation circle
+転送陣
+
+Villager Marge
+村民マージ
+
+Violent Bear
+暴力熊
+
+Giant puppets
+巨大な傀儡
+
+Blacksmith Orc Dyson
+鍛冶屋オークダイソン
+
+Caravan Leader Fantine
+キャラバンリーダーファンティーヌ
+
+Honor Guard {d}
+名誉衛兵
+
+Master Catherine
+師匠キャサリン
+
+Stone Troll duplicate
+石の怪物の分身
+
+Colonel Demar
+デマー大佐
+
+Pentagram Circle
+五芒星陣
+
+Civilian Slarry
+城民スラーリー
+
+training room south gate
+訓練室南門
+
+Gate; The key needs to be passed on to the tutor to open the door
+門；鍵を師匠に渡して開ける必要がある
+
+Barrier Magic circle
+結界魔法陣
+
+Imp duplicate
+小悪魔の分身
+
+Caravan Crew Eva
+キャラバンクルーエヴァ
+
+Giant Bear Leader Duplicate
+巨大熊のリーダーの分身
+
+Blood Fang Wolf
+血牙狼
+
+Pointy Mouth Rat
+尖った口のネズミ
+
+Artificer Mirena
+洗練師ミレナ
+
+Scavenger dog
+スカベンジャー犬
+
+Gang Upgrading Construction
+ギャングアップグレード建設
+
+Speed potion
+スピードポーション
+
+Fleeing vicious wolf Leader
+逃げる悪狼のリーダー
+
+research room north door
+研究室北門
+
+Civilian Lissandra
+城民リサンドラ
+
+King William III
+ウィリアム三世
+
+Fleeing Red Boar
+逃げる赤い猪
+
+Pharmacist
+薬剤師
+
+Dummy
+ダミー
+
+Mulberry tree
+桑の木
+
+Pharmacist Mia
+薬剤師ミア
+
+Bank receptionist Kiki
+銀行受付キキ
+
+Temple gate
+寺の門
+
+Combat Trainer Jimmy
+格闘訓練師ジミー
+
+Aquaculture Buyer Luffy
+水産購入者ルフィ
+
+Fleeing Imp
+逃げる小悪魔
+
+Pet Trainer Lacey
+ペット訓練師レイシー
+
+Bubble
+バブル
+
+Tree
+木
+
+Stake
+杭
+
+centipede Duplicate
+ムカデの分身
+
+Airship Administrator
+飛行船管理者
+
+The Wraith Cave
+悪霊洞窟
+
+confession room north door
+懺悔室北門
+
+Cowherd
+牛飼い
+
+Villager Jyaria
+村民ジャリア
+
+Fleeing demon lion
+逃げる魔化ライオン
+
+Man-eating Grass
+食人草
+
+Golden Tiger
+金虎
+
+Usherette {d}
+迎賓係
+
+Civilian Cindy
+城民シンディ
+
+Yellow Slime
+黄色いスライム
+
+Fleeing Blue Stone Monster
+逃げる青い石の怪物
+
+Fleeing Demon Tiger
+逃げる魔化虎
+
+Chef
+シェフ
+
+Equipment Maker
+装備製作師
+
+Blue key
+青い鍵
+
+Seabed Cloud Iron
+海底雲鉄
+
+Leaf Monkey
+リーフモンキー
+
+Soul Storehouse
+魂の倉庫
+
+Shells
+砲弾
+
+Grocer Vic
+雑貨商ビック
+
+Marquis Sami, Lord of the City
+都市の主サミ侯爵
+
+White Skeleton
+白い骸骨
+
+Central Kingdom Envoy Daniel
+中央王国の使者ダニエル
+
+Civilian Mei
+城民メイ
+
+Hercules Stone Man
+巨力石人
+
+Burst Stone Man
+爆裂石人

@@ -1,0 +1,2856 @@
+The worldwide currency
+世界通貨
+
+Rich in mist energy
+霧のエネルギーが豊富
+
+When you resurrect using Resurrection Crystals, you won't lose any experience
+復活水晶を使用して復活すると、経験値を失うことはありません
+
+Used to protect a specific Talent from being replaced when you use Pet Skill Crystal to teach your pet skills.
+ペットスキルクリスタルを使用してペットにスキルを教える際、特定の才能が置き換えられないように保護するために使用されます。
+
+Used to open the gate of stars and travel to the wonderful Mystery Valley.
+星の扉を開き、素晴らしいミステリーバレーへ旅行するために使用されます。
+
+A precious token of love. When two lovers both reach level 30, they can each use a romance stone, or the man can use two romance stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Gold Wedding Rings and hold a Common Wedding.
+愛の貴重な証。恋人が両方ともレベル30に達すると、各自がロマンスストーンを使用するか、男性が2つのロマンスストーンを使用して、ジャイアントロックシティのホーリーライト大聖堂でミシェル司祭を見つけて結婚を申請できます。その後、ゴールドウェディングリングを受け取り、通常の結婚式を開催します。
+
+A precious token of love. When two lovers both reach level 30, they can each use a lovebird stone, or the man can use two lovebird stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Platinum Wedding Rings and hold a Noble Wedding.
+愛の貴重な証。恋人が両方ともレベル30に達すると、各自がラブバードストーンを使用するか、男性が2つのラブバードストーンを使用して、ジャイアントロックシティのホーリーライト大聖堂でミシェル司祭を見つけて結婚を申請できます。その後、プラチナウェディングリングを受け取り、高貴な結婚式を開催します。
+
+A precious token of love. When two lovers both reach level 30, they can each use an Eternity stone, or the man can use two eternity stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Diamond Wedding Rings and hold a Royal Wedding.
+愛の貴重な証。恋人が両方ともレベル30に達すると、各自がエタニティストーンを使用するか、男性が2つのエタニティストーンを使用して、ジャイアントロックシティのホーリーライト大聖堂でミシェル司祭を見つけて結婚を申請できます。その後、ダイヤモンドウェディングリングを受け取り、王室の結婚式を開催します。
+
+After use, you can claim 60 Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+使用後、30日間連続で、任意の都市のロイヤルバンクで1日に60ダイヤモンド（キャラクターに結び付けられた）と50000アルネビアを受け取ることができます。さらに、ストレージが20タイル増加し、他のプレイヤーに最大3000本のポーションを与えるか販売することができます。
+
+You gain {d}% additional experience for 30 minutes. Every time the server restarts, the experience card bonus will disappear even if it is suspended, so please arrange the use time wisely.
+30分間、{d}%の追加経験を獲得します。サーバーが再起動するたびに、経験カードのボーナスは一時停止されている場合でも消失するため、使用時間を賢く計画してください。
+
+You can use it to create private channel groups (for 30 days), or extend your current private channel for 30 days.
+これを使用してプライベートチャンネルグループを作成するか（30日間）、現在のプライベートチャンネルを30日間延長することができます。
+
+Rename your channel group
+あなたのチャンネルグループを改名する
+
+The water of life formed by the convergence of otherworld energy and chaos energy at the beginning of the ancient times. Drink it to change your gender. Can only be used when you're unmarried.
+古代の始まりに異世界のエネルギーと混沌のエネルギーが融合して形成された生命の水。飲むと性別を変更します。未婚の場合にのみ使用可能です。
+
+Used to reset your blessed pet as a soul stone and transfer it to other players. All the stats of the blessed pet will be reset.
+祝福されたペットを魂石としてリセットし、他のプレイヤーに転送するために使用されます。祝福されたペットのすべてのステータスがリセットされます。
+
+Used to rename your character
+あなたのキャラクターの名前を変更するために使用されます
+
+Used to rename the currently released pet
+現在リリースされているペットの名前を変更するために使用されます
+
+Used to rename your Gang
+ギャングの名前を変更するために使用されます
+
+Use this token to issue a kill order in your Gang
+このトークンを使用して、ギャングでのキルオーダーを発行する
+
+Use this token and spend 1000 Arnebia to establish a Gang
+このトークンを使用し、1000アルネビアを費やしてギャングを設立する
+
+Change the Gang Environment into Greenery, can only be used by the Gang Leader.
+ギャング環境を緑化に変更します。ギャングリーダーのみが使用可能です。
+
+Change the Gang Environment into Bridge and Stream, can only be used by the Gang Leader.
+ギャング環境を橋と小川に変更します。ギャングリーダーのみが使用可能です。
+
+Change the Gang Environment into Falling Leaves, can only be used by the Gang Leader.
+ギャング環境を落ち葉に変更します。ギャングリーダーのみが使用可能です。
+
+Change the Gang Environment into Snowy Fortress, can only be used by the Gang Leader.
+ギャング環境を雪の砦に変更します。ギャングリーダーのみが使用可能です。
+
+Mixed with many impurities, cannot be used as material
+多くの不純物が混ざっており、材料として使用できません
+
+Unprocessed blood material.
+未処理の血液材料。
+
+The fur and broken bones are mixed in the meat, cannot be used as ingredient
+肉には毛皮と壊れた骨が混ざっており、材料として使用できません
+
+Unprocessed meat material.
+未処理の肉材料。
+
+Broken Pelt, cannot be used as material
+壊れた毛皮、材料として使用できません
+
+Unprocessed hide material.
+未処理の皮材料。
+
+Used to make soft pouch
+柔らかいポーチを作るために使用されます
+
+Used to craft a Iron Beetle Crystal.
+鉄のビートルクリスタルを作成するために使用されます。
+
+Used to craft a Firefly Crystal.
+ホタルクリスタルを作成するために使用されます。
+
+Used to craft a one star attack medal.
+一つ星の攻撃メダルを作成するために使用されます。
+
+Used to craft a hot bag
+温袋の作成に使用されます
+
+Used to craft a Werewolf Crystal.
+狼男のクリスタルを作成するために使用されます。
+
+Used to craft a Sea Spirit Crystal.
+海の精霊クリスタルを作成するために使用されます。
+
+Used to craft a Two stars attack medal.
+二つ星の攻撃メダルを作成するために使用されます。
+
+Used to craft a Nightmare Beast Crystal.
+ナイトメアビーストクリスタルを作成するために使用されます。
+
+Used to craft a Level 75 Demon Hunting Medal of Honor
+レベル75のデーモンハンティング名誉メダルを作成するために使用されます
+
+Used to craft a Minotaur Soul Crystal.
+ミノタウルスの魂のクリスタルを作成するために使用されます。
+
+Used to craft a Minotaur Crystal.
+ミノタウルスクリスタルを作成するために使用されます。
+
+Used to craft a Blood spirit Crystal.
+血の精霊クリスタルを作成するために使用されます。
+
+Used to craft a weightless sack
+無重力の袋を作成するために使用されます
+
+Used to craft a Three stars attack medal.
+三つ星の攻撃メダルを作成するために使用されます。
+
+Used to craft a Wind Chaser Crystal.
+風追いクリスタルを作成するために使用されます。
+
+Used to craft a Level 90 Demon Hunting Medal of Honor.
+レベル90のデーモンハンティング名誉メダルを作成するために使用されます。
+
+Used to craft a Mammoth Crystal.
+マンモスクリスタルを作成するために使用されます。
+
+Used to craft a Flame Spirit Crystal.
+炎の精霊クリスタルを作成するために使用されます。
+
+Used to craft a four stars attack medal.
+四つ星の攻撃メダルを作成するために使用されます。
+
+Used to craft a Fire-Capped Tit Crystal.
+火冠の雀クリスタルを作成するために使用されます。
+
+Used to craft a five stars attack medal.
+五つ星の攻撃メダルを作成するために使用されます。
+
+Used to craft a Level 100 Demon Hunting Medal of Honor.
+レベル100のデーモンハンティング名誉メダルを作成するために使用されます。
+
+Used to craft a Unicorn Crystal.
+ユニコーンクリスタルを作成するために使用されます。
+
+Used to craft a Glacier Giant Bear Crystal.
+氷河の巨熊クリスタルを作成するために使用されます。
+
+Used to craft a Frost Spirit Crystal.
+霜の精霊クリスタルを作成するために使用されます。
+
+Used to craft a realm pack
+領域パックを作成するために使用されます
+
+Bactrian camel's metatarsal, Used to craft a Level 30 equipments.
+双峰ラクダの中足骨、レベル30の装備を作成するために使用されます。
+
+Alpaca's Pelt, Used to craft a Level 30 equipments.
+アルパカの毛皮、レベル30の装備を作成するために使用されます。
+
+Vulture's Claw, Used to craft a Level 30 equipments.
+ハゲワシの爪、レベル30の装備を作成するために使用されます。
+
+Golden Eagle's Wings, Used to craft a Level 30 equipments.
+ゴールデンイーグルの翼、レベル30の装備を作成するために使用されます。
+
+Sand Snake's Fang, Used to craft a Level 30 equipments.
+砂蛇の牙、レベル30の装備を作成するために使用されます。
+
+Sand Snake's Scales, Used to craft a Level 30 equipments.
+砂蛇の鱗、レベル30の装備を作成するために使用されます。
+
+Death Worm's Horn, Used to craft a Level 30 equipments.
+デスワームの角、レベル30の装備を作成するために使用されます。
+
+Death Worm's Venom Sac, Used to craft a Level 30 equipments.
+デスワームの毒袋、レベル30の装備を作成するために使用されます。
+
+Crested Penguin's Wings, , Used to craft a Level 45 equipments.
+冠ペンギンの翼、レベル45の装備を作成するために使用されます。
+
+Ring Seal's Paws, Used to craft a Level 45 equipments.
+アザラシの足、レベル45の装備を作成するために使用されます。
+
+Sea Lion's Whiskers, Used to craft a Level 45 equipments.
+アシカのひげ、レベル45の装備を作成するために使用されます。
+
+Snow Leopard's Tail, Used to craft a Level 45 equipments.
+ユキヒョウの尾、レベル45の装備を作成するために使用されます。
+
+White Bear's Gall, Used to craft a Level 45 equipments.
+シロクマの胆嚢、レベル45の装備を作成するために使用されます。
+
+Ice Lizard's Tail, Used to craft a Level 45 equipments.
+氷トカゲの尾、レベル45の装備を作成するために使用されます。
+
+Ice Lizard's Tongue, Used to craft a Level 45 equipments.
+氷トカゲの舌、レベル45の装備を作成するために使用されます。
+
+Handmaiden's bracelet, Used to craft a Level 45 equipments.
+侍女のブレスレット、レベル45の装備を作成するために使用されます。
+
+Handmaiden's hairpin, Used to craft a Level 45 equipments.
+侍女のかんざし、レベル45の装備を作成するために使用されます。
+
+Queen's Ice Orb, Used to craft a Level 45 equipments.
+女王の氷の珠、レベル45の装備を作成するために使用されます。
+
+Queen's Cold Jade, Used to craft a Level 45 equipments.
+女王の寒玉、レベル45の装備を作成するために使用されます。
+
+Gnome's pocket, Used to craft a Level 60 equipments.
+ノームのポケット、レベル60の装備を作成するために使用されます。
+
+Goblin's Bamboo Bow, Used to craft a Level 60 equipments.
+ゴブリンの竹弓、レベル60の装備を作成するために使用されます。
+
+Dwarf elf's staff, Used to craft a Level 60 equipments.
+ドワーフエルフの杖、レベル60の装備を作成するために使用されます。
+
+Dark elf's dagger, Used to craft a Level 60 equipments.
+ダークエルフの短剣、レベル60の装備を作成するために使用されます。
+
+Dwarf's Hammer, Used to craft a Level 60 equipments.
+ドワーフのハンマー、レベル60の装備を作成するために使用されます。
+
+Gnome Leader's Pocket, Used to craft a Level 60 equipments.
+ノームリーダーのポケット、レベル60の装備を作成するために使用されます。
+
+Goblin Leader's Bamboo Bow, Used to craft a Level 60 equipments.
+ゴブリンリーダーの竹弓、レベル60の装備を作成するために使用されます。
+
+Dwarf elf elder's staff, Used to craft a Level 60 equipments.
+ドワーフエルフ長老の杖、レベル60の装備を作成するために使用されます。
+
+Dark Elf Leader's Dagger, Used to craft a Level 60 equipments.
+ダークエルフリーダーの短剣、レベル60の装備を作成するために使用されます。
+
+Dwarf Leader's Hammer, Used to craft a Level 60 equipments.
+ドワーフリーダーのハンマー、レベル60の装備を作成するために使用されます。
+
+Elven King's Arrows, Used to craft a Level 60 equipments.
+エルフ王の矢、レベル60の装備を作成するために使用されます。
+
+Elven King's Phalanx, Used to craft a Level 60 equipments.
+エルフ王のファランクス、レベル60の装備を作成するために使用されます。
+
+Robot Fly's Antenna, Used to craft a Level 70 equipments.
+ロボットハエのアンテナ、レベル70の装備を作成するために使用されます。
+
+Robot Bird's Wings, Used to craft a Level 70 equipments.
+ロボットバードの翼、レベル70の装備を作成するために使用されます。
+
+Robot Dog's Tail, Used to craft a Level 70 equipments.
+ロボット犬の尾、レベル70の装備を作成するために使用されます。
+
+Robot Cat's Ears, Used to craft a Level 70 equipments.
+ロボット猫の耳、レベル70の装備を作成するために使用されます。
+
+Robot Dinosaur's Tooth, Used to craft a Level 70 equipments.
+ロボット恐竜の歯、レベル70の装備を作成するために使用されます。
+
+Robot Guard's Arm, Used to craft a Level 70 equipments.
+ロボットガードの腕、レベル70の装備を作成するために使用されます。
+
+Robot Guard's Breastplate, Used to craft a Level 70 equipments.
+ロボットガードの胸当て、レベル70の装備を作成するために使用されます。
+
+Flame Researcher's Nozzle, Used to craft a Level 70 equipments.
+フレーム研究者のノズル、レベル70の装備を作成するために使用されます。
+
+Bomb Researcher's Detonator, Used to craft a Level 70 equipments.
+爆弾研究者の起爆装置、レベル70の装備を作成するために使用されます。
+
+The Doctor's Brain-Computer Chip, Used to craft a Level 70 equipments.
+博士の脳コンピューターチップ、レベル70の装備を作成するために使用されます。
+
+The Doctor's Motor Runner, Used to craft a Level 70 equipments.
+博士のモータランナー、レベル70の装備を作成するために使用されます。
+
+Cannibal's Skull's, Used to craft a Level 80 equipments.
+カニバルの頭蓋骨、レベル80の装備を作成するために使用されます。
+
+Cannibal Tooth, Used to craft a Level 80 equipments.
+食人鬼の歯、レベル80の装備を作成するために使用されます。
+
+Bloodthirsty Demon's Blood Core, Used to craft a Level 80 equipments.
+血に飢えた悪魔の血の核、レベル80の装備を作成するために使用されます。
+
+Bloodthirsty Demon's Spirit Orb, Used to craft a Level 80 equipments.
+血に飢えた悪魔の魂の珠、レベル80の装備を作成するために使用されます。
+
+Little Devil's Tears, Used to craft a Level 80 equipments.
+小さな悪魔の涙、レベル80の装備を作成するために使用されます。
+
+Little Devil's Wings, Used to craft a Level 80 equipments.
+小さな悪魔の翼、レベル80の装備を作成するために使用されます。
+
+Lightning Spirit's Electric Orb, Used to craft a Level 80 equipments.
+雷の精霊の電気の珠、レベル80の装備を作成するために使用されます。
+
+Lightning Spirit's yin-yang Charm, Used to craft a Level 80 equipments.
+雷の精霊の陰陽チャーム、レベル80の装備を作成するために使用されます。
+
+Thunder Beast's Thunder Core, Used to craft a Level 80 equipments.
+雷獣の雷核、レベル80の装備を作成するために使用されます。
+
+Thunder Beast's Thunder Charm, Used to craft a Level 80 equipments.
+雷獣の雷チャーム、レベル80の装備を作成するために使用されます。
+
+Two-Faced Demon's Man Face, Used to craft a Level 80 equipments.
+二面の悪魔の男の顔、レベル80の装備を作成するために使用されます。
+
+Two-Faced Demon's Woman Face, Used to craft a Level 80 equipments.
+二面の悪魔の女の顔、レベル80の装備を作成するために使用されます。
+
+Succubus's Eyeball, Used to craft a Level 80 equipments.
+サキュバスの眼球、レベル80の装備を作成するために使用されます。
+
+Succubus's Tongue, Used to craft a Level 80 equipments.
+サキュバスの舌、レベル80の装備を作成するために使用されます。
+
+Thunder Lord's Broken palm, Used to craft a Level 80 equipments.
+雷の領主の折れた手のひら、レベル80の装備を作成するために使用されます。
+
+Thunder Lord's Patella, Used to craft a Level 80 equipments.
+雷の領主の膝蓋骨、レベル80の装備を作成するために使用されます。
+
+Masked Knifeman's Machete, Used to craft a Level 90 equipments.
+覆面のナイフマンのマチェーテ、レベル90の装備を作成するために使用されます。
+
+Masked Knifeman's Mask, Used to craft a Level 90 equipments.
+覆面のナイフマンのマスク、レベル90の装備を作成するために使用されます。
+
+Masked Thrower's Boomerang, Used to craft a Level 90 equipments.
+覆面の投げ手のブーメラン、レベル90の装備を作成するために使用されます。
+
+Masked Thrower's Mask, Used to craft a Level 90 equipments.
+覆面の投げ手のマスク、レベル90の装備を作成するために使用されます。
+
+Aqua Witch's Crystal Staff, Used to craft a Level 90 equipments.
+アクアウィッチのクリスタルスタッフ、レベル90の装備を作成するために使用されます。
+
+Aqua Witch's Dress, Used to craft a Level 90 equipments.
+アクアウィッチのドレス、レベル90の装備を作成するために使用されます。
+
+Fire Witch's Flame Staff, Used to craft a Level 90 equipments.
+ファイアウィッチのフレームスタッフ、レベル90の装備を作成するために使用されます。
+
+Fire Witch's Skirt, Used to craft a Level 90 equipments.
+ファイアウィッチのスカート、レベル90の装備を作成するために使用されます。
+
+Temptress's Scepter, Used to craft a Level 90 equipments.
+誘惑者のセプター、レベル90の装備を作成するために使用されます。
+
+Temptress's Cape, Used to craft a Level 90 equipments.
+誘惑者のケープ、レベル90の装備を作成するために使用されます。
+
+Nightmare's Soul, Used to craft a Level 90 equipments.
+悪夢の魂、レベル90の装備を作成するために使用されます。
+
+Nightmare's Gemstone, Used to craft a Level 90 equipments.
+悪夢の宝石、レベル90の装備を作成するために使用されます。
+
+Meteor Witch's Leather Vest, Used to craft a Level 90 equipments.
+メテオウィッチのレザーベスト、レベル90の装備を作成するために使用されます。
+
+Meteor Witch's Leather Dress, Used to craft a Level 90 equipments.
+メテオウィッチのレザードレス、レベル90の装備を作成するために使用されます。
+
+Meteor Queen's Black Ribbon, Used to craft a Level 90 equipments.
+メテオクイーンの黒いリボン、レベル90の装備を作成するために使用されます。
+
+Meteor Queen's Luminous Pearl, Used to craft a Level 90 equipments.
+メテオクイーンの光る真珠、レベル90の装備を作成するために使用されます。
+
+Apostle's Ears, Used to craft a Level 100 equipments.
+使徒の耳、レベル100の装備を作成するために使用されます。
+
+Apostle's Nose, Used to craft a Level 100 equipments.
+使徒の鼻、レベル100の装備を作成するために使用されます。
+
+Harpy's Wings, Used to craft a Level 100 equipments.
+ハーピーの翼、レベル100の装備を作成するために使用されます。
+
+Harpy's Claws, Used to craft a Level 100 equipments.
+ハーピーの爪、レベル100の装備を作成するために使用されます。
+
+Hag's Tongue, Used to craft a Level 100 equipments.
+ハグの舌、レベル100の装備を作成するために使用されます。
+
+Hag's Eyeball, Used to craft a Level 100 equipments.
+ハグの眼球、レベル100の装備を作成するために使用されます。
+
+Black Witcher's Ribs, Used to craft a Level 100 equipments.
+黒いウィッチャーの肋骨、レベル100の装備を作成するために使用されます。
+
+Black Witcher's Kidney, Used to craft a Level 100 equipments.
+黒いウィッチャーの腎臓、レベル100の装備を作成するために使用されます。
+
+Death Knight's Leg Bone, Used to craft a Level 100 equipments.
+デスナイトの足骨、レベル100の装備を作成するために使用されます。
+
+Death Knight's Liver, Used to craft a Level 100 equipments.
+デスナイトの肝臓、レベル100の装備を作成するために使用されます。
+
+Dark Messenger's Spine, Used to craft a Level 100 equipments.
+ダークメッセンジャーの脊椎、レベル100の装備を作成するために使用されます。
+
+Dark Messenger's Shoulder Bone, Used to craft a Level 100 equipments.
+ダークメッセンジャーの肩骨、レベル100の装備を作成するために使用されます。
+
+Altar Guard's Heart, Used to craft a Level 100 equipments.
+祭壇守衛の心臓、レベル100の装備を作成するために使用されます。
+
+Alter Guard's Head, Used to craft a Level 100 equipments.
+祭壇守衛の頭、レベル100の装備を作成するために使用されます。
+
+Dark Priest's Magic Core, Used to craft a Level 100 equipments.
+ダークプリーストの魔法の核、レベル100の装備を作成するために使用されます。
+
+Dark Priest's Wand, Used to craft a Level 100 equipments.
+ダークプリーストの杖、レベル100の装備を作成するために使用されます。
+
+Fish with a bright green body, shaped like a leaf.
+明るい緑色の体を持ち、葉の形をした魚。
+
+A common aggressive fish with a large head and small body, good at feeding on small fish and shrimp.
+頭が大きく体が小さい一般的な攻撃的な魚で、小魚やエビを食べるのが得意。
+
+Small Shrimp with light red shells.
+薄い赤色の殻を持つ小さなエビ。
+
+Has a body as transparent as a crystal, delicious to eat.
+クリスタルのように透明な体を持ち、美味しく食べられる。
+
+Ordinary shellfish.
+普通の貝。
+
+This pink-bodied fish is the dwarves' favorite fish to eat.
+このピンク色の体を持つ魚は、ドワーフの大好きな魚です。
+
+Has a slime and long body, often leaps out of the water to feed on insects.
+ぬるぬるとした長い体を持ち、しばしば水面を飛び出して昆虫を食べる。
+
+Small Shrimp with white shells.
+白い殻を持つ小さなエビ。
+
+Small crab with a white body
+白い体を持つ小さなカニ
+
+Flatfish with well-developed fatty eyelids
+脂肪性のまぶたが発達したカレイ
+
+Large frog with loud cries.
+大きな鳴き声のする大きなカエル。
+
+A valuable rare fish with orchid-shine scales.
+ランの輝きの鱗を持つ貴重な珍しい魚。
+
+An ancient Species usually with a long life span.
+通常、長寿の古代種。
+
+A Crab with large pincers. Its meat is soft and juicy.
+大きなはさみを持つカニ。その肉は柔らかくジューシー。
+
+Mutant fish with wing-like fins, can leap out of the water and glide to hunt for food.
+翼のようなひれを持つ変異魚で、水中から飛び出し、滑空して食べ物を狩ることができる。
+
+A large and meaty shrimp with a hard and colorful shell.
+硬くてカラフルな殻を持つ大きくて肉厚なエビ。
+
+A turtle with a complex pattern on its shell.
+甲羅に複雑な模様を持つカメ。
+
+Looks like a dolphin, but is covered with spikes.
+イルカのように見えますが、棘で覆われています。
+
+Has a scissor-like tail and tastes smooth and soft, making it a high-class banquet food in Loki Union.
+ハサミのような尾を持ち、滑らかで柔らかい味わいがあり、ロキ連合の高級宴会料理となっています。
+
+A rare shellfish. Has two pairs of shells, shaped like a butterfly.
+珍しい貝。蝶の形をした2組の殻を持っています。
+
+Has a transparent body, soft shell and succulent meat, making it a high-class ingredient in the royal palace meal.
+透明な体、柔らかい殻、ジューシーな肉を持ち、王宮の食事で高級な材料となっています。
+
+A ferocious crab with a blue body, feeds on fish, shrimp and shellfish.
+青い体を持つ凶暴なカニで、魚、エビ、貝を食べます。
+
+A rare snail with a pair of tentacles shaped like rabbit ears on the top of its head.
+頭の上にウサギの耳のような触角を持つ珍しいカタツムリ。
+
+When affected by light, its body can produce rich, rainbow-like colors with stripes all over.
+光を受けると、体全体に虹のような豊かな色と縞模様を生成することができます。
+
+A Large crustacean with long, sharp pincers whose blades can easily dig into hard volcanic rocks. It can produce valuable pearls inside the shell.
+長く鋭いはさみを持つ大きな甲殻類で、その刃は硬い火山岩に簡単に掘り込むことができます。殻の中に貴重な真珠を生産することができます。
+
+It is very aggressive, and can threaten the survival of other aquatic products and the safety of human beings, but it has high medicinal value and is often purchased at high prices.
+非常に攻撃的で、他の水産物の生存や人間の安全を脅かす可能性がありますが、医療価値が高く、高値で購入されることが多いです。
+
+A large fish with scales as wide as armor that shine golden.
+鎧のように広い鱗を持ち、金色に輝く大きな魚。
+
+A large fish with scales as wide as armor that shine silver.
+鎧のように広い鱗を持ち、銀色に輝く大きな魚。
+
+A Large fish with sharp teeth. It is the king of the water.
+鋭い歯を持つ大きな魚。水中の王です。
+
+A ghost octopus can change the color of its body according to their surroundings and hide its shape, making it extremely difficult to catch.
+ゴーストオクトパスは周囲に応じて体の色を変え、その形を隠すことができるため、非常に捕まえにくいです。
+
+A rare aquatic creature that shapes like a wine glass and has a transparent body.
+ワイングラスのような形をし、透明な体を持つ珍しい水生生物。
+
+Its body can emit fiery red fluorescence and has flexible movements. It is extremely aggressive, but also very good at dodging predators.
+その体は炎のような赤い蛍光を放ち、柔軟な動きをします。非常に攻撃的ですが、捕食者を避けるのも得意です。
+
+A pale yellow and lustrous pearl, very rare.
+淡黄色で輝きのある真珠、非常に珍しい。
+
+A pale green and lustrous pearl, very rare.
+淡緑色で輝きのある真珠、非常に珍しい。
+
+A pale blue and lustrous pearl, very rare.
+淡青色で輝きのある真珠、非常に珍しい。
+
+A common herb.
+一般的なハーブ。
+
+It is full of vitality and sometimes encroaches on the growth space of other plants.
+生命力に満ちており、時には他の植物の成長スペースを侵食することもあります。
+
+A common herb with yellow petals.
+黄色い花弁を持つ一般的なハーブ。
+
+Its leaves grow in a spiral shape, resembling a spring.
+その葉は螺旋状に成長し、バネに似ています。
+
+A Common herb; red-black beans; slightly toxic.
+一般的なハーブ；赤黒い豆；やや有毒。
+
+Its flower buds emit a faint red light, and the petals are tightly clustered around the flower buds like lanterns.
+その花芽はかすかな赤い光を放ち、花弁は提灯のように花芽の周りにしっかりと集まっています。
+
+When Dancing Grass senses music, its leaves will sway according to the rhythm.
+ダンシンググラスは音楽を感知すると、葉がリズムに合わせて揺れます。
+
+A pink flower that can calm the mind when used as medicine.
+薬として使用すると心を落ち着かせるピンクの花。
+
+The flower language of Edelweiss is bravery. It is a symbol of warrior.
+エーデルワイスの花言葉は勇敢さです。それは戦士の象徴です。
+
+A Common herb; can reduce swelling when used as medicine.
+一般的なハーブ；薬として使用すると腫れを軽減することができます。
+
+When Snowflake Bean reaches maturity, its pods will burst out snow-white hexagonal seeds, which are cool to the touch.
+スノーフレークビーンズが成熟すると、そのさやは雪のように白い六角形の種子をはじき出し、触るとひんやりとしています。
+
+Centenarian Orchid can survive in extremely harsh environments. Its leaves grow from the upper end of the short, stout trunk and can reach a maximum of 12 feet.
+センテナリアンオーキッドは非常に厳しい環境でも生き残ることができます。短く頑丈な幹の上端から葉が成長し、最大で12フィートに達することがあります。
+
+During the day, Its flower disc follows the direction of the sun, and at night, they emit a bright orange glow.
+昼間はその花盤が太陽の方向に従い、夜には明るいオレンジ色の輝きを放ちます。
+
+Rose symbolizes beauty and love. It can also be used to make medicine.
+バラは美と愛を象徴しています。薬を作るためにも使用できます。
+
+When a Mimosa senses a creature approaching, it curls up its leaves.
+ミモザは生物が近づいていることを感知すると、葉を丸めます。
+
+When Golden Bean reaches maturity, its pods will burst out green seeds, which are very hard and have a metallic sheen to their surface.
+ゴールデンビーンズが成熟すると、そのさやは緑色の種をはじき出し、それらは非常に硬く、その表面に金属的な光沢があります。
+
+It has ovate leaves and human-shaped roots.
+卵形の葉と人型の根を持っています。
+
+Its flower is gold and silver, with two buds poking out as if inseparable.
+その花は金と銀で、二つの蕾が離れられないように突き出ています。
+
+Each petal of an Immy Flower has a different color—red, yellow, blue and white, making it delicate and gorgeous. And the flower bud in the middle is like a shy girl.
+インミーフラワーの各花弁は、赤、黄、青、白と異なる色を持ち、繊細で華やかです。そして、中央の花芽は恥ずかしがり屋の女の子のようです。
+
+When its leaves turn from green to red, the silver marks on them emit a gentle and bright light, symbolizing that the vitality has disappeared, and all that remains is memory. At this point, the Prunella can be picked and used as medicine.
+その葉が緑から赤に変わると、銀のマークが優しく明るい光を放ち、生命力が消え、記憶だけが残っていることを象徴します。この時点で、プルネラは摘んで薬として使用できます。
+
+Saffron is a common spice and an excellent herb with strong physiological activity.
+サフランは一般的なスパイスであり、強い生理活性を持つ優れたハーブです。
+
+A thorny plant with rich vitality that sometimes grows on the branch of an old tree. When fall to the ground, a few of its seeds will grow into thorny black grasses called ghost needles.
+生命力に富んだトゲのある植物で、時には古木の枝に生えます。地面に落ちると、その種の一部はゴーストニードルと呼ばれるトゲのある黒い草に成長します。
+
+Also known as Asura Flower Its fragrance has a hallucinogenic effect that causes people who smell it to become confused and have tired eyes and sore legs.
+アスラフラワーとも呼ばれ、その香りは幻覚効果を持ち、嗅いだ人々を混乱させ、目が疲れ、脚が痛むようになります。
+
+A delicate flower with a very short flowering period. It can benefit the spirit and nourish the skin when used as medicine.
+非常に短い開花期を持つ繊細な花。薬として使用すると精神を高め、肌を養うことができます。
+
+A gorgeous red flower. Trumpet Creeper grows slowly, and is a rare high-grade herb.
+華やかな赤い花。ノウゼンカズラはゆっくりと成長し、珍しい高級ハーブです。
+
+Snake Vine grows on the ground with its vines twisting and curving like snakes.
+スネークバインは地面に生え、ツタが蛇のようにねじれ曲がっています。
+
+The leaves are cold to the touch, and are rich in ice energy.
+葉は触ると冷たく、氷のエネルギーに富んでいます。
+
+Its fiery red petals are clustered around the flame-like buds, containing warm fire energy.
+その燃えるような赤い花弁は炎のような芽の周りに集まり、暖かい火のエネルギーを含んでいます。
+
+A beautiful plant with two flowers that are inseparable and rich in life energy.
+離れられない二つの花を持ち、生命エネルギーに富んだ美しい植物。
+
+Has extremely strong vitality. Its plucked leaves can always remain active and are precious magic herbs.
+非常に強い生命力を持っています。その摘まれた葉は常に活動的であり、貴重な魔法のハーブです。
+
+Blood Vine is rich in fire energy and has bright red vine and sap. It is a precious magic herb.
+ブラッドバインは火のエネルギーに富み、明るい赤色のツタと樹液を持っています。それは貴重な魔法のハーブです。
+
+A precious magic herb that has pale blue petals and is full of powerful snow energy.
+淡い青い花弁を持ち、強力な雪のエネルギーに満ちた貴重な魔法のハーブ。
+
+It feeds on the roots of plants rich in elemental energy, and is especially fond of sugary energy plants. It is photophobic, often moves deep underground, and is very rare.
+元素エネルギーに富む植物の根を食べ、特に糖分の多いエネルギー植物を好みます。光を嫌い、しばしば地中深くに移動し、とても珍しいです。
+
+Destiny Cicada can travel through time and space. It has a transparent body, making it difficult to detect.
+運命の蝉は時空を越えて移動できます。それは透明な体を持ち、検出するのが難しいです。
+
+A mutant magic worm shaped like a string that has a bamboo knot-shaped green horizontal ring and can make mesmerizing sounds.
+弦のような形をした突然変異の魔法の虫で、竹の節のような緑色の水平な輪を持ち、魅惑的な音を立てます。
+
+Ordinary ore, the most common.
+一般的な鉱石で、最も一般的です。
+
+Ordinary ore, very common.
+一般的な鉱石で、とても一般的です。
+
+Ordinary ore, an important building material.
+一般的な鉱石で、重要な建材です。
+
+A Fiery red stone, dense and hard.
+炎のような赤い石で、密度が高く硬いです。
+
+It contains clear crystals with a green center.
+緑色の中心を持つ透明な結晶を含んでいます。
+
+It is rounded and smooth, contains a small amount of energy.
+丸く滑らかで、少量のエネルギーを含んでいます。
+
+A rare ore with bright colors, often used to make decorations.
+鮮やかな色を持つ珍しい鉱石で、装飾品を作るためによく使用されます。
+
+An ore with faint fire element. It has a red surface as if burning fire.
+微かな火の要素を持つ鉱石。燃えるような赤い表面をしています。
+
+It contains clear crystals with a blue center.
+青い中心を持つ透明な結晶を含んでいます。
+
+An ore with faint ice element. It has a blue surface and emits faint cold air.
+微かな氷の要素を持つ鉱石。青い表面を持ち、かすかな冷気を放ちます。
+
+An ore that is silvery gray, shiny, and soft in texture. Often used to make equipment such as robes.
+銀色の灰色で光沢があり、柔らかい質感の鉱石。ローブなどの装備品を作るためによく使用されます。
+
+It contains clear crystals with a red center.
+赤い中心を持つ透明な結晶を含んでいます。
+
+A dark green ore with strong resilience.
+強い弾力性を持つ濃緑色の鉱石。
+
+A rare, valuable ore with bright colors.
+鮮やかな色を持つ珍しく貴重な鉱石。
+
+Very hard, and can shine brilliantly in the light.
+非常に硬く、光の中で鮮やかに輝くことができます。
+
+Very precious, much stronger than steel but also very lightweight.
+非常に貴重で、鋼よりもはるかに強く、非常に軽量です。
+
+It contains black crystals, very hard.
+黒い結晶が含まれており、非常に硬いです。
+
+Hard and difficult to break, an excellent military building material.
+硬くて壊れにくく、優れた軍用建材です。
+
+Very rare, has a natural resistance to elemental destructive powers.
+非常に珍しく、元素の破壊力に対する自然の耐性を持っています。
+
+It contains clear crystals with a purple-lighted center.
+中心に紫色の光を持つ透明な結晶を含んでいます。
+
+It can be refined into precious purple metal that can enhance the influence of Magic Instruments.
+魔法の道具の影響力を強化することができる貴重な紫色の金属に精製することができます。
+
+Made of underground iron smelted by magma, its texture is much harder than ordinary iron ore.
+マグマで溶かされた地下の鉄で作られ、その質感は普通の鉄鉱石よりもはるかに硬いです。
+
+Its appearance is similar to that of gold ore, but it is very hard.
+外見は金鉱石に似ていますが、非常に硬いです。
+
+It contains clear crystals with gorgeous rainbow-like colors.
+美しい虹色の透明な結晶を含んでいます。
+
+It is red like a drip of blood, and contains evil energy.
+血の滴のように赤く、邪悪なエネルギーを含んでいます。
+
+It contains clear crystals with a faint holy white light.
+淡い神聖な白い光を持つ透明な結晶を含んでいます。
+
+Rarely found in the depths of the volcano and is covered with flames.
+火山の奥深くにあることがまれで、炎に覆われています。
+
+A Crystal condensed by Ambergris over thousands of years, has mysterious effects.
+千年にわたりアンバーグリスによって凝縮された結晶で、神秘的な効果を持っています。
+
+A crystal formed by the tears of the holy elf. It is a valuable artifact sought by the Elves.
+聖なるエルフの涙で形成された結晶。それはエルフが求める貴重な遺物です。
+
+It is formed by Heavenly Cloud Iron that fell into the bottom of the sea and endured tens of thousands of years. Its hardness is unmatched.
+海の底に落ち、何万年もの間耐えてきた天国の雲の鉄によって形成されます。その硬度は比類がありません。
+
+Rarely found in the Freezing Land, covered by chilling air.
+凍える大地で見られることはまれで、冷たい空気に覆われています。
+
+Contains a lot of elemental energy, very rare.
+多くの元素エネルギーを含み、とても珍しいです。
+
+Legend has it that it existed at the beginning of the world, and is the hardest material there is.
+伝説によれば、それは世界の始まりに存在し、最も硬い材料です。
+
+A relic of ancient times, contains powerful chaos energy.
+古代の遺物であり、強力な混沌のエネルギーを含んでいます。
+
+Legend has Heaven Jade is formed out of the essence of ancient Mist Gods, and contains the power of wisdom.
+伝説によれば、天国の翡翠は古代の霧の神々の本質から形成され、知恵の力を含んでいます。
+
+Gang Tournament Winner Prize
+ギャングトーナメント優勝賞品
+
+Items redeemed for fighting monsters at max level
+モンスターとの戦いで最大レベルで交換されるアイテム
+
+A red chest written with a golden Chinese character meaning "fortune". Can only be opened when you've reached Level 15.
+「富」を意味する金色の漢字が書かれた赤い箱。レベル15に達したときにのみ開けることができます。
+
+A heavy chest. Can only be opened when you've reached Level 3.
+重い箱。レベル3に達したときにのみ開けることができます。
+
+Festive Wedding Red Envelope
+お祝いの結婚式の赤い封筒
+
+Heavy Gift Package
+重いギフトパッケージ
+
+Gifts will pop out from the fireworks created by the firecracker! Please light the firecracker in open areas. Remember to collect the dropped gifts in time.
+爆竹で作られた花火からギフトが飛び出します！爆竹は広い場所で点火してください。落とされたギフトを時間内に集めることを忘れないでください。
+
+Blow and pop the balloon to drop gifts. Remember to collect the dropped gifts in time.
+風船を吹いて破裂させてギフトを落とします。落とされたギフトを時間内に集めることを忘れないでください。
+
+A beautiful capsule toy that drops various gifts when twisted open. Remember to collect the dropped gifts in time.
+ひねって開けるとさまざまなギフトが落ちる美しいカプセル玩具。落とされたギフトを時間内に集めることを忘れないでください。
+
+A delicate music box that drops gifts along with music. Please use it in an open area. Remember to collect the dropped gifts in time.
+音楽と共にギフトを落とす繊細なオルゴール。広い場所で使用してください。落とされたギフトを時間内に集めることを忘れないでください。
+
+Large Fireworks for the newlyweds.
+新婚夫婦のための大花火。
+
+Large Fireworks for the newlyweds of noble wedding.
+高貴な結婚式の新婚夫婦のための大花火。
+
+Large Fireworks for the newlyweds of Royal wedding.
+王室の結婚式の新婚夫婦のための大花火。
+
+Small fireworks for wedding guests.
+結婚式のゲストのための小花火。
+
+Small fireworks for noble wedding guests.
+高貴な結婚式のゲストのための小花火。
+
+Small fireworks for royal wedding guests.
+王室の結婚式のゲストのための小花火。
+
+New Year Fireworks (for NPC)
+新年花火（NPC用）
+
+Gift 50000 Arnebia, 10000 gold coins, 2 resurrection crystals and 1 2x experience acceleration card to the assigned player.
+指定されたプレイヤーに50000アルネビア、10000ゴールドコイン、復活クリスタル2個、経験2倍加速カード1枚を贈る。
+
+Gift 50000 Arnebia, 10000 gold coins, 2 resurrection crystals and 1 2x experience acceleration card to all online players in the team.
+チーム内のすべてのオンラインプレイヤーに50000アルネビア、10000ゴールドコイン、復活クリスタル2個、経験2倍加速カード1枚を贈る。
+
+Gift 50000 Arnebia, 10000 gold coins, 2 resurrection crystals and 1 2x experience acceleration card to all online players in the Gang.
+ギャング内のすべてのオンラインプレイヤーに50000アルネビア、10000ゴールドコイン、復活クリスタル2個、経験2倍加速カード1枚を贈る。
+
+Gift 20000 Arnebia, 5000 gold coins, 2 resurrection crystals and 1 2x experience acceleration card to all online players on the entire server.
+サーバー全体のすべてのオンラインプレイヤーに20000アルネビア、5000ゴールドコイン、復活クリスタル2個、経験2倍加速カード1枚を贈る。
+
+Gift 100000-200000 Arnebia to all online players on the entire server.
+サーバー全体のすべてのオンラインプレイヤーに100000～200000アルネビアを贈る。
+
+Gift 1000000 Arnebia, 1000 gold coins, 20 Weapon Enhance Crystal Shards and 100 Equipment Enhance Crystal Shards to all online players on the entire server.
+サーバー全体のすべてのオンラインプレイヤーに1000000アルネビア、1000ゴールドコイン、武器強化クリスタルの欠片20個と装備強化クリスタルの欠片100個を贈る。
+
+Gift 1 New Year Greeting Card, 1 firecracker, 2 resurrection crystals, 5 memory butterflies, 1 chocolate ice cream, 1 butter ice cream and 3 new year candies to the assigned player.
+指定されたプレイヤーに、新年の挨拶カード1枚、爆竹1個、復活クリスタル2個、記憶の蝶5個、チョコレートアイスクリーム1個、バターアイスクリーム1個、新年キャンディー3個を贈る。
+
+Gift 1 Spring Festival Greeting Card, 1 firecracker, 2 resurrection crystals, 5 memory butterflies, 1 Peace Blessing, 1 Fortune Blessing, 1 Wish Blessing, 3 Luck Blessing, 3 Happiness Blessing and 3 new year candies to the assigned player.
+指定されたプレイヤーに、春節の挨拶カード1枚、爆竹1個、復活クリスタル2個、記憶の蝶5個、平和の祝福1個、幸運の祝福1個、願いの祝福1個、幸運の祝福3個、幸福の祝福3個、新年キャンディー3個を贈る。
+
+Gift 1 Greeting Card, 1 Fun Capsule Toy, 3 candies, 2 resurrection crystals, 5 memory butterflies to the assigned player.
+指定されたプレイヤーに、挨拶カード1枚、楽しいカプセル玩具1個、キャンディー3個、復活クリスタル2個、記憶の蝶5個を贈る。
+
+Level {d} Bash Skill. Can only be used by Warriors.
+レベル{d}バッシュスキル。ウォリアーのみ使用可能。
+
+Level {d} Cleave Skill, Can only be used by Warriors.
+レベル{d}クリーブスキル。ウォリアーのみ使用可能。
+
+Level {d} Sweep Attack Skill, Can only be used by Warriors.
+レベル{d}スイープアタックスキル。ウォリアーのみ使用可能。
+
+Level {d} Armor Break Skill, Can only be used by Warriors.
+レベル{d}アーマーブレイクスキル。ウォリアーのみ使用可能。
+
+Wind Step Skill, Can only be used by Warriors.
+ウィンドステップスキル。ウォリアーのみ使用可能。
+
+Swallow Dance Skill, Can only be used by Warriors.
+スワローダンススキル。ウォリアーのみ使用可能。
+
+Level {d} Execute Skill, Can only be used by Warriors.
+レベル{d}エグゼキュートスキル。ウォリアーのみ使用可能。
+
+Level {d} Taunt Attack Skill, Can only be used by Warriors.
+レベル{d}タウントアタックスキル。ウォリアーのみ使用可能。
+
+Level {d} Rupture Skill, Can only be used by Warriors.
+レベル{d}ラプチャースキル。ウォリアーのみ使用可能。
+
+Level {d} Lethal Strike Skill, Can only be used by Warriors.
+レベル{d}リーサルストライクスキル。ウォリアーのみ使用可能。
+
+Command Cry Skill, Can only be used by Warriors.
+コマンドクライスキル。ウォリアーのみ使用可能。
+
+Level {d} Valiant Strike Skill, Can only be used by Orc.
+レベル{d}バリアントストライクスキル。オークのみ使用可能。
+
+Level {d} Reckless Strike Skill, Can only be used by Orc.
+レベル{d}レックレスストライクスキル。オークのみ使用可能。
+
+Level {d} Flesh Cleave Skill, Can only be used by Orc.
+レベル{d}フレッシュクリーブスキル。オークのみ使用可能。
+
+Level {d} Giant Strike Skill, Can only be used by Orc.
+レベル{d}ジャイアントストライクスキル。オークのみ使用可能。
+
+Level {d} Thunderous Blow Skill, Can only be used by Orc.
+レベル{d}サンダラスブロウスキル。オークのみ使用可能。
+
+Haste Skill, Can only be used by Orc.
+ヘイストスキル。オークのみ使用可能。
+
+Level {d} Bloodthirsty Skill, Can only be used by Orc.
+レベル{d}ブラッドサースティスキル。オークのみ使用可能。
+
+Taunt Skill, Can only be used by Orc.
+タウントスキル。オークのみ使用可能。
+
+Ignore the Pain Skill, Can only be used by Orc.
+痛みを無視するスキル。オークのみ使用可能。
+
+Reckless Skill, Can only be used by Orc.
+無謀スキル、オークのみ使用可能。
+
+Challenge Cry Skill, Can only be used by Orc.
+挑戦の叫びスキル、オークのみ使用可能。
+
+Level {d} Vengeance Skill, Can only be used by Orc.
+レベル{d} 復讐スキル、オークのみ使用可能。
+
+Battle Roar Skill, Can only be used by Orc.
+戦いの咆哮スキル、オークのみ使用可能。
+
+Level {d} Blade Strike Skill, Can only be used by Assassin.
+レベル{d} ブレードストライクスキル、アサシンのみ使用可能。
+
+Level {d} Rapid Sting Skill, Can only be used by Assassin.
+レベル{d} 急速な突きスキル、アサシンのみ使用可能。
+
+Level {d} Fan of Knives Skill, Can only be used by Assassin.
+レベル{d} ナイフのファンスキル、アサシンのみ使用可能。
+
+Level {d} Puncture Skill, Can only be used by Assassin.
+レベル{d} 貫通スキル、アサシンのみ使用可能。
+
+Level {d} Leap Gouge Skill, Can only be used by Assassin.
+レベル{d} リープゴージスキル、アサシンのみ使用可能。
+
+Shadow Steps Skill, Can only be used by Assassin.
+シャドウステップスキル、アサシンのみ使用可能。
+
+Level {d} Kidney Strike Skill, Can only be used by Assassin.
+レベル{d} 腎打ちスキル、アサシンのみ使用可能。
+
+Scorn Skill, Can only be used by Assassin.
+軽蔑スキル、アサシンのみ使用可能。
+
+Level {d} Shattering Moon Skill, Can only be used by Assassin.
+レベル{d} 砕けた月スキル、アサシンのみ使用可能。
+
+Void Shift Skill, Can only be used by Assassin.
+ヴォイドシフトスキル、アサシンのみ使用可能。
+
+Level {d} Arcane Shot Skill, Can only be used by Hunter.
+レベル{d} 奥義の一撃スキル、ハンターのみ使用可能。
+
+Level {d} Aimed Shot Skill, Can only be used by Hunter.
+レベル{d} 照準射撃スキル、ハンターのみ使用可能。
+
+Level {d} Multi Shot Skill, Can only be used by Hunter.
+レベル{d} 多重射撃スキル、ハンターのみ使用可能。
+
+Vine Trap Skill, Can only be used by Hunter.
+蔓トラップスキル、ハンターのみ使用可能。
+
+Level {d} Marked Shot Skill, Can only be used by Hunter.
+レベル{d} マークショットスキル、ハンターのみ使用可能。
+
+Level {d} Concussive Shot Skill, Can only be used by Hunter.
+レベル{d} 衝撃射撃スキル、ハンターのみ使用可能。
+
+Turtle Guardian Skill, Can only be used by Hunter.
+タートルガーディアンスキル、ハンターのみ使用可能。
+
+Level {d} Rapid Arrows Skill, Can only be used by Hunter.
+レベル{d} 急速矢スキル、ハンターのみ使用可能。
+
+Level {d} Burst Shot Skill, Can only be used by Hunter.
+レベル{d} 爆発射撃スキル、ハンターのみ使用可能。
+
+Tranquility Aura Skill, Can only be used by Hunter.
+静穏オーラスキル、ハンターのみ使用可能。
+
+Level {d} Magic Sphere Skill, Can only be used by Mage.
+レベル{d} 魔法球スキル、メイジのみ使用可能。
+
+Level {d} Ice Lance Skill, Can only be used by Mage.
+レベル{d} 氷の槍スキル、メイジのみ使用可能。
+
+Level {d} Ice Storm Skill, Can only be used by Mage.
+レベル{d} 氷嵐スキル、メイジのみ使用可能。
+
+Level {d} Ice Arrow Skill, Can only be used by Mage.
+レベル{d} 氷矢スキル、メイジのみ使用可能。
+
+Level {d} Frost Nova Skill, Can only be used by Mage.
+レベル{d} フロストノヴァスキル、メイジのみ使用可能。
+
+Icicle Skill, Can only be used by Mage.
+氷柱スキル、メイジのみ使用可能。
+
+Teleportation Skill, Can only be used by Mage.
+テレポーテーションスキル、メイジのみ使用可能。
+
+Blizzard Skill, Can only be used by Mage.
+ブリザードスキル、メイジのみ使用可能。
+
+Chilling Frost Skill, Can only be used by Mage.
+冷たい霜スキル、メイジのみ使用可能。
+
+Cold Winter Skill, Can only be used by Mage.
+寒冬スキル、メイジのみ使用可能。
+
+Level {d} Fireball Skill, Can only be used by Elf.
+レベル{d} ファイアボールスキル、エルフのみ使用可能。
+
+Level {d} Fire Impact Skill, Can only be used by Elf.
+レベル{d} ファイアインパクトスキル、エルフのみ使用可能。
+
+Level {d} Fire Surge Skill, Can only be used by Elf.
+レベル{d} 炎の波動スキル、エルフのみ使用可能。
+
+Invisibility Skill, Can only be used by Elf.
+透明化スキル、エルフのみ使用可能。
+
+Level {d} Pyroblast Skill, Can only be used by Elf.
+レベル{d} 火炎爆破スキル、エルフのみ使用可能。
+
+Ignition Skill, Can only be used by Elf.
+点火スキル、エルフのみ使用可能。
+
+Level {d} Blazing Storm Skill, Can only be used by Elf.
+レベル{d} 炎の嵐スキル、エルフのみ使用可能。
+
+Level {d} Sear Skill, Can only be used by Elf.
+レベル{d} 焦熱スキル、エルフのみ使用可能。
+
+Scorch Skill, Can only be used by Elf.
+焼灼スキル、エルフのみ使用可能。
+
+Level {d} Retribution Skill, Can only be used by Priest.
+レベル{d} 懲罰スキル、プリーストのみ使用可能。
+
+Level {d} Mind Whip Skill, Can only be used by Priest.
+レベル{d} 精神鞭打スキル、プリーストのみ使用可能。
+
+Level {d} Holy Light Wave Skill, Can only be used by Priest.
+レベル{d} 聖なる光の波スキル、プリーストのみ使用可能。
+
+Recover Skill, Can only be used by Priest.
+回復スキル、プリーストのみ使用可能。
+
+Level {d} Divine Fire Skill, Can only be used by Priest.
+レベル{d} 神聖な炎スキル、プリーストのみ使用可能。
+
+Divine Protection Skill, Can only be used by Priest.
+神聖防御スキル、プリーストのみ使用可能。
+
+Holy Light Skill, Can only be used by Priest.
+聖光スキル、プリーストのみ使用可能。
+
+Level {d} Divine Nova Skill, Can only be used by Priest.
+レベル{d} 神聖ノヴァスキル、プリーストのみ使用可能。
+
+Group Dispel Skill, Can only be used by Priest.
+グループ解除スキル、プリーストのみ使用可能。
+
+Resurrection Skill, Can only be used by Priest.
+復活スキル、プリーストのみ使用可能。
+
+Level {d} Shadow Arrow Skill, Can only be used by Sorcerer.
+レベル{d} 影の矢スキル、ソーサラーのみ使用可能。
+
+Level {d} Corrosion Spell Skill, Can only be used by Sorcerer.
+レベル{d} 腐食呪文スキル、ソーサラーのみ使用可能。
+
+Level {d} Skeleton Explosion Skill, Can only be used by Sorcerer.
+レベル{d} 骸骨爆発スキル、ソーサラーのみ使用可能。
+
+Healing Surge Skill, Can only be used by Sorcerer.
+回復波動スキル、ソーサラーのみ使用可能。
+
+Level {d} Incessant Pain Skill, Can only be used by Sorcerer.
+レベル{d} 絶え間ない痛みスキル、ソーサラーのみ使用可能。
+
+Break the Chain Skill, Can only be used by Sorcerer.
+連鎖破壊スキル、ソーサラーのみ使用可能。
+
+Soul Purify Skill, Can only be used by Sorcerer.
+魂浄化スキル、ソーサラーのみ使用可能。
+
+Level {d} Dead Toxin Skill, Can only be used by Sorcerer.
+レベル{d} 死毒スキル、ソーサラーのみ使用可能。
+
+Spiritual Totem Skill, Can only be used by Sorcerer.
+精神トーテムスキル、ソーサラーのみ使用可能。
+
+Soul Returnal Skill, Can only be used by Sorcerer.
+魂帰還スキル、ソーサラーのみ使用可能。
+
+Level 9 Bash Skill
+レベル9バッシュスキル
+
+Level 6 Execute Skill
+レベル6エグゼキュートスキル
+
+Level 8 Sweep Attack Skill
+レベル8スイープアタックスキル
+
+Level 5 Rupture Skill
+レベル5破裂スキル
+
+Level 9 Valiant Strike Skill
+レベル9勇敢な一撃スキル
+
+Level 6 Bloodthirsty Skill
+レベル6血に飢えたスキル
+
+Level 8 Flesh Cleave Skill
+レベル8肉切り裂きスキル
+
+Level 7 Thunderous Blow Skill
+レベル7雷鳴の一撃スキル
+
+Level 9 Blade Strike Skill
+レベル9刃の一撃スキル
+
+Level 8 Fan of Knives Skill
+レベル8ナイフの扇スキル
+
+Level 7 Leap Gouge Skill
+レベル7跳躍削りスキル
+
+Level 6 Kidney Strike Skill
+レベル6腎打ちスキル
+
+Level 9 Arcane Shot Skill
+レベル9奥義の一撃スキル
+
+Level 8 Multi Shot Skill
+レベル8多重射撃スキル
+
+Level 4 Rapid Arrows Skill
+レベル4急速矢スキル
+
+Level 7 Marked Shot Skill
+レベル7印射撃スキル
+
+Level 9 Magic Sphere Skill
+レベル9魔法球スキル
+
+Level 8 Ice Storm Skill
+レベル8氷嵐スキル
+
+Level 7 Ice Arrow Skill
+レベル7氷矢スキル
+
+Level 7 Frost Nova Skill
+レベル7霜ノヴァスキル
+
+Level 9 Fireball Skill
+レベル9火球スキル
+
+Level 8 Fire Surge Skill
+レベル8炎の波動スキル
+
+Level 6 Pyroblast Skill
+レベル6火炎爆破スキル
+
+Level 4 Blazing Storm Skill
+レベル4炎の嵐スキル
+
+Level 9 Retribution Skill
+レベル9懲罰スキル
+
+Level 8 Holy Light Wave Skill
+レベル8聖なる光の波スキル
+
+Level 5 Divine Nova Skill
+レベル5神聖ノヴァスキル
+
+Level 7 Divine Fire Skill
+レベル7神聖な炎スキル
+
+Level 9 Shadow Arrow Skill
+レベル9影の矢スキル
+
+Level 8 Skeleton Explosion Skill
+レベル8骸骨爆発スキル
+
+Level 5 Dead Toxin Skill
+レベル5死毒スキル
+
+Level 7 Incessant Pain Skill
+レベル7絶え間ない痛みスキル
+
+Used to craft a Level [d] Ruby. Ruby can be inserted into a Crimson Socket to increase maximum HP.
+レベル[d] ルビーを作成するために使用されます。ルビーはクリムゾンソケットに挿入して最大HPを増加させることができます。
+
+Insert this gem into a Crimson Socket to increase [d] points maximum HP.
+この宝石をクリムゾンソケットに挿入して、最大HPを[d]ポイント増加させます。
+
+Used to craft a Level [d] Sapphire. Sapphire can be inserted into a Dark Blue Socket to increase maximum MP.
+レベル[d] サファイアを作成するために使用されます。サファイアはダークブルーソケットに挿入して最大MPを増加させることができます。
+
+Insert this gem into a Dark Blue Socket to increase [d] points of maximum MP.
+この宝石をダークブルーソケットに挿入して、最大MPを[d]ポイント増加させます。
+
+Used to craft a Level [d] Tiger Eye Stone. Tiger Eye Stone can be inserted into a Brown Yellow Socket to increase physical attack.
+レベル[d] タイガーアイストーンを作成するために使用されます。タイガーアイストーンはブラウンイエローソケットに挿入して物理攻撃を増加させることができます。
+
+Insert this gem into a Brown Yellow Socket to increase [d] point of physical attack.
+この宝石をブラウンイエローソケットに挿入して、物理攻撃を[d]ポイント増加させます。
+
+Used to craft a Level [d] Opal. Opal can be inserted into a Honey Yellow Socket to increase magic attack.
+レベル[d] オパールを作成するために使用されます。オパールはハニーイエローソケットに挿入して魔法攻撃を増加させることができます。
+
+Insert this gem into a Honey Yellow Socket to increase [d] point of magic attack.
+この宝石をハニーイエローソケットに挿入して、魔法攻撃を[d]ポイント増加させます。
+
+Used to craft a Level [d] Spinel. Spinel can be inserted into a Pink Socket to increase physical defense.
+レベル[d] スピネルを作成するために使用されます。スピネルはピンクソケットに挿入して物理防御を増加させることができます。
+
+Insert this gem into a Pink Socket to increase [d] point of physical defense.
+この宝石をピンクソケットに挿入して、物理防御を[d]ポイント増加させます。
+
+Used to craft a Level [d] Aquamarine. Aquamarine can be inserted into a Blue Socket to increase magic defense.
+レベル[d] アクアマリンを作成するために使用されます。アクアマリンはブルーソケットに挿入して魔法防御を増加させることができます。
+
+Insert this gem into a Blue Socket to increase [d] point of magic defense.
+この宝石をブルーソケットに挿入して、魔法防御を[d]ポイント増加させます。
+
+Used to craft a Level [d] Garnet. Garnet can be inserted into a Dark Purple Socket to increase hit chance.
+レベル[d] ガーネットを作成するために使用されます。ガーネットはダークパープルソケットに挿入して命中率を増加させることができます。
+
+Insert this gem into a Dark Purple Socket to increase [d] point hit.
+この宝石をダークパープルソケットに挿入して、命中を[d]ポイント増加させます。
+
+Used to craft a Level [d] Blond Jade. Blond Jade can be inserted into a Dark Yellow Socket to increase dodge chance.
+レベル[d] ブロンドジェイドを作成するために使用されます。ブロンドジェイドはダークイエローソケットに挿入して回避率を増加させることができます。
+
+Insert this gem into a Dark Yellow Socket to increase [d] point dodge.
+この宝石をダークイエローソケットに挿入して、回避を[d]ポイント増加させます。
+
+Used to craft a Level [d] Grape Stone. Grape Stone can be inserted into a Blue Purple Socket to increase defense break chance.
+レベル[d] グレープストーンを作成するために使用されます。グレープストーンはブルーパープルソケットに挿入して防御破壊率を増加させることができます。
+
+Insert this gem into a Blue Purple Socket to increase [d] point defense break.
+この宝石をブルーパープルソケットに挿入して、防御破壊を[d]ポイント増加させます。
+
+Used to craft a Level [d] Olivine. Olivine can be inserted into a Dark Green Socket to increase defense break damage.
+レベル[d] オリビンを作成するために使用されます。オリビンはダークグリーンソケットに挿入して防御破壊ダメージを増加させることができます。
+
+Insert this gem into a Dark Green Socket to increase [d] point of defense break damage.
+この宝石をダークグリーンソケットに挿入して、防御破壊ダメージを[d]ポイント増加させます。
+
+Used to craft a Level [d] Topaz. Topaz can be inserted into a Golden yellow socket to increase toughness.
+レベル[d] トパーズを作成するために使用されます。トパーズはゴールデンイエローソケットに挿入して耐久力を増加させることができます。
+
+Insert this gem into a Golden yellow socket to increase [d] point of toughness.
+この宝石をゴールデンイエローソケットに挿入して、耐久力を[d]ポイント増加させます。
+
+Used to craft a Level [d] Obsidian. Obsidian can be inserted into a Black Socket to increase critical hit chance.
+レベル[d] 黒曜石を作成するために使用されます。黒曜石はブラックソケットに挿入してクリティカルヒット率を増加させることができます。
+
+Insert this gem into a Black Socket to increase [d] point critical hit.
+この宝石をブラックソケットに挿入して、クリティカルヒットを[d]ポイント増加させます。
+
+Used to craft a Level [d] Sunlight Stone. Sunlight Stone can be inserted into an Orange Socket to increase critical hit damage.
+レベル[d] サンライトストーンを作成するために使用されます。サンライトストーンはオレンジソケットに挿入してクリティカルヒットダメージを増加させることができます。
+
+Insert this gem into an Orange Socket to increase [d] point of critical hit damage.
+この宝石をオレンジソケットに挿入して、クリティカルヒットダメージを[d]ポイント増加させます。
+
+Used to craft a Level [d] Moonstone. Moonstone can be inserted into a White Socket to increase critical hit resist.
+レベル[d] ムーンストーンを作成するために使用されます。ムーンストーンはホワイトソケットに挿入してクリティカルヒット抵抗を増加させることができます。
+
+Insert this gem into a White socket to increase [d] point of critical hit resist.
+この宝石をホワイトソケットに挿入して、クリティカルヒット抵抗を[d]ポイント増加させます。
+
+Used to craft a Level [d] Turquoise. Turquoise can be inserted into an Emerald Green socket to increase Movement Speed.
+レベル[d] トルコ石を作成するために使用されます。トルコ石はエメラルドグリーンソケットに挿入して移動速度を増加させることができます。
+
+Insert this gem into an Emerald Green socket to increase [d] point of movement speed.
+この宝石をエメラルドグリーンソケットに挿入して、移動速度を[d]ポイント増加させます。
+
+Used to craft Weapon Enhance Crystal
+武器強化クリスタルを作成するために使用されます
+
+Level [d] Weapon Enhance Material
+レベル[d] 武器強化材料
+
+Used to craft Equipment Enhance Crystal
+装備強化クリスタルを作成するために使用されます
+
+Level [d] Equipment Enhance Material
+レベル[d] 装備強化材料
+
+Engraved with a mysterious rune that protects the gemstone when it is crafted.
+作成時に宝石を保護する神秘的なルーンが刻まれています。
+
+Used to protect a socket from changing its color when socketing equipment.
+装備にソケットを挿入する際にソケットの色が変わるのを防ぐために使用されます。
+
+Engraved with a mysterious rune that increases the chance of successfully enhancing a weapon.
+武器の強化成功率を高める神秘的なルーンが刻まれています。
+
+Engraved with a mysterious rune that increases the chance of successfully enhancing an Equipment.
+装備の強化成功率を高める神秘的なルーンが刻まれています。
+
+Engraved with a mysterious rune that prevents the weapon from decreasing its level if the enhancement fails.
+強化が失敗しても武器のレベルが下がらないようにする神秘的なルーンが刻まれています。
+
+Engraved with a mysterious rune that prevents the equipment from decreasing its level if the enhancement fails.
+強化が失敗しても装備のレベルが下がらないようにする神秘的なルーンが刻まれています。
+
+It emits an orange glow, and is a precious material that can be used to Elevate weapons.
+それはオレンジ色の光を放ち、武器を強化するために使用できる貴重な材料です。
+
+It emits a violet glow, and is a precious material that can be used to Elevate armors.
+それは紫色の光を放ち、鎧を強化するために使用できる貴重な材料です。
+
+A shell used to load cannons.
+大砲を装填するための弾薬です。
+
+A bead blessed by the Mist God. When buried underground, it can receive the Mist God's energy and generate a protective barrier.
+霧の神によって祝福されたビーズ。地下に埋めると、霧の神のエネルギーを受け取り、防護バリアを生成できます。
+
+Mare's milk wine made by Ella
+エラによって作られた馬乳酒
+
+Ore purchased by the Gang, needs to be brought to the Gang blacksmith.
+ギャングが購入した鉱石で、ギャングの鍛冶屋に持っていく必要があります。
+
+A letter wrapped in a pink envelope. It reads "To Merlin".
+ピンクの封筒に包まれた手紙。 「メリンへ」と書かれています。
+
+Soft and resilient silk thread.
+柔らかく弾力のある絹糸。
+
+A letter wrapped in a pink envelope. It reads "To Barr".
+ピンクの封筒に包まれた手紙。 「バーへ」と書かれています。
+
+The leather coat Merlin made for Barr.
+メリンがバーのために作った革のコート。
+
+A small iron plate with a wolf head painted on it.
+狼の頭が描かれた小さな鉄板。
+
+The key dropped from a mountain bandit.
+山賊から落とされた鍵。
+
+The raw material for making cannonball. There are white granular crystals wrapped in a transparent film.
+砲弾を作るための原料。透明な膜で包まれた白い粒状の結晶があります。
+
+A round, light blue fruit, very bouncy to the touch.
+丸くて淡青色の果実で、触るととても弾む。
+
+Big firm seeds, slightly cool to the touch.
+大きくてしっかりした種で、触ると少し冷たい。
+
+Red and Blue Potions neatly stacked in a cardboard box.
+赤と青のポーションが段ボール箱にきれいに積まれています。
+
+You can feel the shapes of different weapons through the sack.
+袋を通してさまざまな武器の形を感じることができます。
+
+The material Merlin used to make leather jackets for Barr and his comrades.
+メリンがバーとその仲間のために革のジャケットを作るのに使った素材。
+
+The fierce expression of the dying wolf still lingers on this head.
+死にかけた狼の凶暴な表情がこの頭にまだ残っています。
+
+A tube of pale yellow ointment, warm to the touch.
+淡黄色の軟膏のチューブで、触ると温かい。
+
+Licorice wrapped in gauze.
+ガーゼで包まれた甘草。
+
+A transparent bottle filled with clear water, cold to the touch.
+透明なボトルに入った透明な水で、触ると冷たい。
+
+A round and slippery stone ball.
+丸くて滑りやすい石の玉。
+
+Packed wedding dress
+梱包されたウェディングドレス
+
+The clothes woven from Heaven Cicada Silk. It is lighter than feather, and tougher than steel wire.
+天蝉の絹で織られた服。それは羽よりも軽く、鋼線よりも頑丈です。
+
+A special antidote for the caravan at Traveler Camp
+トラベラーキャンプのキャラバン用の特別な解毒剤
+
+The iron bucket is empty.
+鉄のバケツは空です。
+
+The iron bucket is filled with water.
+鉄のバケツには水が入っています。
+
+Applying this powder can speed up wound healing.
+この粉を塗布すると、傷の治癒が早まります。
+
+Unprocessed basic building material.
+未加工の基本的な建築材料。
+
+Dirty Iron Bucket.
+汚れた鉄のバケツ。
+
+Fresh Raw Milk
+新鮮な生乳
+
+Forage for feeding livestock.
+家畜の飼料。
+
+Bottled Raw Milk.
+瓶詰めされた生乳。
+
+Red crystal in the shape of a water drop.
+水滴の形をした赤い結晶。
+
+Green crystal in the shape of a water drop.
+水滴の形をした緑の結晶。
+
+Blue crystal in the shape of a water drop.
+水滴の形をした青い結晶。
+
+A golden ring with the magical ability to penetrate any obstacle.
+どんな障害物も貫通する魔法の能力を持つ金の指輪。
+
+Attach it to the object to be destroyed and it will explode in three seconds. The devastating blast will wipe out any creature within a 7-yard radius.
+破壊する物体に取り付けると3秒で爆発します。この破壊的な爆風は、半径7ヤード以内のすべての生物を一掃します。
+
+The card has a row of characters reflecting bright light.
+カードには、明るい光を反射する文字が一列に並んでいます。
+
+A Demon's head.
+悪魔の頭。
+
+A Demon's leg.
+悪魔の脚。
+
+Made of rare metals, can detect Spirit Crystal.
+希少金属で作られており、スピリットクリスタルを検出できます。
+
+Crystals born in Spirit Lands. Each Spirit Crystal contains a small amount of magic energy.
+スピリットランドで生まれた結晶。各スピリットクリスタルには少量の魔法エネルギーが含まれています。
+
+A Sacred Artifact with the spiritual imprint of Mist God Elron. You can obtain Elron's energy through the Orb.
+霧の神エルロンの精神的な印が刻まれた聖なる遺物。オーブを通してエルロンのエネルギーを得ることができます。
+
+A stand made by space magic. There is a semi-dimension attached on the stand that can reduce the weight of all the items placed on it.
+空間魔法によって作られた台座。台座には半次元が取り付けられており、そこに置かれたすべてのアイテムの重量を軽減できます。
+
+A letter sealed with fire paint
+火で封印された手紙
+
+A family letter
+家族からの手紙
+
+City Lord's Token
+市の領主のトークン
+
+A crystal clear bead of ice
+氷のように透き通ったビーズ
+
+A soft, juicy and delicious peach
+柔らかくジューシーで美味しい桃
+
+A Comb restored from the Magic Fossil of City of Ancient tower
+古塔の街の魔法の化石から復元された櫛
+
+Stallone's Head
+スタローンの頭
+
+The wood purchase order stamped with the official magic seal of gouging knife city
+掘削ナイフの街の公式魔法の印章が押された木材の購入注文書
+
+A contract that confirms the trade of 3000 fire-resistant high-quality logs
+耐火性の高品質な丸太3000本の取引を確認する契約書
+
+The wheat heads are full of plump wheat.
+小麦の穂はふっくらとした小麦でいっぱいです。
+
+A small pocket with some small worms in it.
+小さな虫が入った小さなポケット。
+
+The rice spikelets are full of plump rice.
+稲の穂はふっくらとした米でいっぱいです。
+
+A fish in the Sapphire River outside peach orchard Village.
+桃果樹園村外のサファイア川にいる魚。
+
+Boxes filled with medical supplies.
+医療用品が詰まった箱。
+
+Preliminary processed building materials.
+仮処理された建築材料。
+
+It is cut from large bricks, but the surface is not smooth and still needs to be processed.
+大きなレンガから切り出されたもので、表面が滑らかではなく、まだ加工が必要です。
+
+Usable building material
+使用可能な建築材料
+
+Because it is not yet stable, it cannot be used directly to load cannons.
+まだ安定していないため、大砲の装填に直接使用することはできません。
+
+Water Monster's Egg
+水のモンスターの卵
+
+A convex lens made of condensed water.
+凝縮された水で作られた凸レンズ。
+
+High-quality loofah seedlings from Garlic Village
+ガーリック村からの高品質のヘチマ苗
+
+High-quality peas from Garlic Village
+ガーリック村からの高品質のエンドウ豆
+
+Dark silver cross
+ダークシルバーの十字架
+
+Silver Sheen Cross
+シルバーの光沢のある十字架
+
+Sailor's Large Can Increase 2% attack damage for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+セーラーズ・ラージ・キャンは2分間攻撃ダメージを2％増加させ、クールダウンは12秒で、効果を重ねることができます。競技では使用できません
+
+Delicious farm-style snack Reduce 2% attack damage taken for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+美味しいファームスタイルのスナックは2分間受ける攻撃ダメージを2％減少させ、クールダウンは12秒で、効果を重ねることができます。競技では使用できません
+
+A pie with tomato sauce that's tightly wrapped in a crispy crust. You can taste the sweet and sour filling made from a mixture of tomato sauce and mashed potatoes with a single bite.
+カリカリの皮に包まれたトマトソースのパイ。トマトソースとマッシュポテトの混ぜ合わせた甘酸っぱいフィリングが一口で味わえます。
+
+Includes 8 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice.
+8セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュースを含みます。
+
+Includes 8 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice and 20 alloy pliers
+8セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、20個の合金ペンチを含みます。
+
+Includes 8 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 4 resurrection crystal and 20 alloy pliers.
+8セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、4つの復活クリスタルと20個の合金ペンチを含みます。
+
+Includes 6 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 4 resurrection crystal, 20 alloy pliers, 2 alloy toolboxes, 2 Giant Rock City teleportation stones, 2 Tulip City teleportation stones, 2 Holy Blood City teleportation stones, 2 Soul Burial Village teleportation stones, 2 Plague Abyss teleportation stones, and 2 Orchid Woods Village teleportation stones
+6セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、4つの復活クリスタル、20個の合金ペンチ、2つの合金ツールボックス、2つのジャイアントロックシティテレポーテーションストーン、2つのチューリップシティテレポーテーションストーン、2つのホーリーブラッドシティテレポーテーションストーン、2つのソウルベリアルヴィレッジテレポーテーションストーン、2つのプレーグアビステレポーテーションストーン、2つのオーキッドウッズヴィレッジテレポーテーションストーンを含みます。
+
+Includes 8 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 4 resurrection crystal, 20 alloy pliers, 2 alloy toolboxes, 4 Giant Rock City teleportation stones, 4 Tulip City teleportation stones, 4 Holy Blood City teleportation stones, 4 Soul Burial Village teleportation stones, 4 Plague Abyss teleportation stones, and 4 Orchid Woods Village teleportation stones
+8セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、4つの復活クリスタル、20個の合金ペンチ、2つの合金ツールボックス、4つのジャイアントロックシティテレポーテーションストーン、4つのチューリップシティテレポーテーションストーン、4つのホーリーブラッドシティテレポーテーションストーン、4つのソウルベリアルヴィレッジテレポーテーションストーン、4つのプレーグアビステレポーテーションストーン、4つのオーキッドウッズヴィレッジテレポーテーションストーンを含みます。
+
+Includes 4 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice.
+4セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュースを含みます。
+
+Includes 4 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 100 large pliers.
+4セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、100個の大型ペンチを含みます。
+
+Includes 4 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 2 resurrection crystal, 100 large pliers.
+4セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、2つの復活クリスタル、100個の大型ペンチを含みます。
+
+Includes 6 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 2 resurrection crystal, 100 large pliers, 2 Giant Rock City teleportation stones, 2 Tulip City teleportation stones, 2 Holy Blood City teleportation stones, 2 Soul Burial Village teleportation stones, 2 Plague Abyss teleportation stones, and 2 Orchid Woods Village teleportation stones
+6セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、2つの復活クリスタル、100個の大型ペンチ、2つのジャイアントロックシティテレポーテーションストーン、2つのチューリップシティテレポーテーションストーン、2つのホーリーブラッドシティテレポーテーションストーン、2つのソウルベリアルヴィレッジテレポーテーションストーン、2つのプレーグアビステレポーテーションストーン、2つのオーキッドウッズヴィレッジテレポーテーションストーンを含みます。
+
+Includes 6 sets of gem shards, 40 burritos, 40 cans of grapefruit juice, 30 pet burritos, 30 cans of pet grapefruit juice, 2 resurrection crystal, 100 large pliers, 6 small toolboxes, 4 Giant Rock City teleportation stones, 4 Tulip City teleportation stones, 4 Holy Blood City teleportation stones, 4 Soul Burial Village teleportation stones, 4 Plague Abyss teleportation stones, and 4 Orchid Woods Village teleportation stones
+6セットの宝石の欠片、40個のブリトー、40缶のグレープフルーツジュース、30個のペット用ブリトー、30缶のペット用グレープフルーツジュース、2つの復活クリスタル、100個の大型ペンチ、6つの小型ツールボックス、4つのジャイアントロックシティテレポーテーションストーン、4つのチューリップシティテレポーテーションストーン、4つのホーリーブラッドシティテレポーテーションストーン、4つのソウルベリアルヴィレッジテレポーテーションストーン、4つのプレーグアビステレポーテーションストーン、4つのオーキッドウッズヴィレッジテレポーテーションストーンを含みます。
+
+A jade pendant made of a magical material that changes to different colors at different times.
+異なる時期に異なる色に変化する魔法の素材で作られた翡翠のペンダント。
+
+Excellent electrical conductivity with a perfect grounding device.
+完璧な接地装置を備えた優れた電気伝導性。
+
+Fossils formed from the remains of ancient super Demons tens of thousands of years ago after long-term sedimentation.
+何万年も前の古代のスーパーデーモンの遺骸から長期の堆積によって形成された化石。
+
+A Scroll used to identify fossils
+化石を識別するために使用される巻物
+
+Fossils formed from the remains of ancient demons tens of thousands of years ago after long-term sedimentation.
+何万年も前の古代の悪魔の遺骸から長期の堆積によって形成された化石。
+
+The cube has many cracks on its surface
+立方体の表面には多くのひび割れがあります。
+
+A magical cube with an exotic space in each block.
+各ブロックに異国の空間がある魔法の立方体。
+
+The golden leaves are wrapped around pearl-like grains of rice with colorful berries as the filling.
+金色の葉が真珠のような米粒を包み、カラフルなベリーを詰めています。
+
+A pastry with BBQ pork fillings that symbolizes unity. Can be sent to Gang members as a gift.
+団結を象徴するBBQポークフィリングのペストリー。ギャングのメンバーにギフトとして送ることができます。
+
+An icy polyhedral crystal that reflects your appearance.
+あなたの姿を反映する氷のような多面体の結晶。
+
+The bomb explodes 3 seconds after it is thrown, dealing damage to all targets indiscriminately within a 7-yard radius.
+爆弾は投げられてから3秒後に爆発し、半径7ヤード以内のすべてのターゲットに無差別にダメージを与えます。
+
+Infused with the rune of space magic
+空間魔法のルーンが注入されています。
+
+A high-level Seal Letter of the Holy See of Sarantu engraved with the magic symbol of the Godmother.
+サラントゥ聖座の高位の封印状で、教母の魔法の象徴が刻まれています。
+
+Opened Letter
+開封された手紙
+
+Data depicting the topography of the seabed
+海底の地形を描いたデータ
+
+An exclusive item of the Qixi Magpie Bridge Dungeon. When used, it can decrease the movement speed of 1 magpie within 15 yards for 5 seconds.
+七夕マグパイブリッジダンジョンの専用アイテム。使用すると、15ヤード以内のマグパイ1羽の移動速度を5秒間低下させます。
+
+A drink called Mojito. Increase 2% attack damage for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+モヒートという飲み物。攻撃ダメージを2％増加させ、2分間持続します。12秒のクールダウンがあり、効果を重ねることができます。競技では使用できません。
+
+A famous folk snack Reduce 2% attack damage taken for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+有名な民間のおやつ。受ける攻撃ダメージを2％減少させ、2分間持続します。12秒のクールダウンがあり、効果を重ねることができます。競技では使用できません。
+
+The Medal won in the festive hunting event. Can be exchanged for prizes.
+祝祭ハンティングイベントで獲得したメダル。賞品と交換できます。
+
+This item grants you extra chances to enter the hunting map in the festive hunting event.
+このアイテムを使用すると、祝祭ハンティングイベントの狩猟マップに追加で入場できるようになります。
+
+A strange symbol painted on the pyramid-shaped metal object
+ピラミッド型の金属オブジェクトに描かれた奇妙なシンボル
+
+An adhesive material made out of gelatin. Can be used to make adhesive materials.
+ゼラチンで作られた接着材。接着材料を作るために使用できます。
+
+A filling made of five kinds of nuts mixed with ingredients such as lard, sugar and eggs.
+ラード、砂糖、卵などの材料と混ぜた5種類のナッツから作られたフィリング。
+
+The crust for making mooncakes.
+月餅を作るための皮。
+
+A nutritious egg
+栄養価の高い卵
+
+A wine of happiness. Increase 2% attack damage for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+幸福のワイン。攻撃ダメージを2％増加させ、2分間持続します。12秒のクールダウンがあり、効果を重ねることができます。競技では使用できません。
+
+A traditional pastry. Reduce 2% attack damage taken for 2 minutes, 12 second CD, the effect can be stacked. Cannot be used in competitions
+伝統的なペストリー。受ける攻撃ダメージを2％減少させ、2分間持続します。12秒のクールダウンがあり、効果を重ねることができます。競技では使用できません。
+
+The soul fragment of a Wind Chaser. Can be used to make Wind Chaser Beast Crystal.
+ウィンドチェイサーの魂の断片。ウィンドチェイサービーストクリスタルを作るために使用できます。
+
+The wooden box is full of books, very heavy.
+木箱は本でいっぱいで、とても重いです。
+
+A heavy sack
+重い袋
+
+A sharp Spear
+鋭い槍
+
+A sturdy shield
+頑丈な盾
+
+A full body armor
+全身鎧
+
+The wooden box is filled with a whole set of equipment, very heavy.
+木箱は一式の装備で満たされており、とても重いです。
+
+Vibrant little flames
+活気ある小さな炎
+
+A cross that contains the power of the Holy Light
+聖なる光の力を宿した十字架
+
+Stuns undead creatures when thrown
+投げるとアンデッドクリーチャーを気絶させます
+
+Can detect the entrance of special dimensions.
+特殊な次元の入口を検知できます。
+
+A quaint iron plaque carved with the pattern of a dragon's head
+ドラゴンの頭のパターンが刻まれた風変わりな鉄製のプラーク
+
+Stockings with gifts
+ギフト入りのストッキング
+
+Filled with various gem shards
+さまざまな宝石の破片が詰まっています
+
+An exquisite gift box decorated with ribbons
+リボンで装飾された精巧なギフトボックス
+
+Extremely lethal, can destroy all targets within 20 yards indiscriminately.
+非常に致命的で、20ヤード以内のすべてのターゲットを無差別に破壊します。
+
+Can detonate Remote control bombs within 30 yards. Press twice to cause the bomb to self-destruct.
+30ヤード以内のリモートコントロール爆弾を起爆できます。2回押すと爆弾が自爆します。
+
+Can be used to deploy an energy shield for 10 seconds.
+10秒間エネルギーシールドを展開するために使用できます。
+
+May you live a happy and peaceful life
+幸せで平和な生活を送れますように
+
+Increase 2% attack damage for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを2％増加させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 2% attack damage taken for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを2％減少させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Increase 8% attack damage for 20 minutes, 5 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを8％増加させ、20分間持続します。クールダウンは5分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 8% attack damage taken for 20 minutes, 5 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを8％減少させ、20分間持続します。クールダウンは5分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+A sweet candy
+甘いキャンディー
+
+A great tool for digging holes
+穴を掘るのに最適な道具
+
+Can eject the user to a great distance
+使用者を遠くまで飛ばすことができます
+
+dumpling
+餃子
+
+Used to exchange for Tiger Year Special Pet
+寅年スペシャルペットと交換するために使用されます
+
+Increase 8% attack damage for 20 minutes, 5 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを8％増加させ、20分間持続します。クールダウンは5分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 8% attack damage taken for 20 minutes, 5 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを8％減少させ、20分間持続します。クールダウンは5分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Used to block attack damage for 10 seconds. Share CD with other special effect items.
+10秒間攻撃ダメージをブロックするために使用されます。他の特殊効果アイテムとクールダウンを共有します。
+
+Increase 2% attack damage for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを2％増加させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 2% attack damage taken for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを2％減少させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Contains 10 peanut rice balls, 10 sesame rice balls and a random amount of Arnebia.
+ピーナッツライスボール10個、ゴマライスボール10個、およびランダムな量のアルネビアが含まれています。
+
+Increase 2% attack damage for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを2％増加させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 2% attack damage taken for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを2％減少させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+A golden earring embedded with a dim gemstone.
+曇った宝石が埋め込まれた金のイヤリング。
+
+A golden earring embedded with a clear and shining gemstone.
+澄んだ輝く宝石が埋め込まれた金のイヤリング。
+
+Water without any impurities
+不純物のない水
+
+Earthy yellow translucent crystal
+土色の黄色い半透明のクリスタル
+
+Aquamarine translucent crystal
+アクアマリンの半透明のクリスタル
+
+Fiery red translucent crystal
+燃えるような赤い半透明のクリスタル
+
+Turquoise translucent crystal
+ターコイズの半透明のクリスタル
+
+A large piece of wood
+大きな木材
+
+Powerful insecticide with a spray distance of 4 yards.
+噴射距離が4ヤードの強力な殺虫剤。
+
+A magical vacuum cleaner that can suck in ghosts within a 4-yard radius.
+半径4ヤード以内の幽霊を吸い込むことができる魔法の掃除機。
+
+The button to control the spaceship laser cannon.
+宇宙船のレーザー砲を制御するボタン。
+
+Explodes 3 seconds after it is thrown, dealing extremely high damage to all targets indiscriminately within a 7-yard radius.
+投げてから3秒後に爆発し、半径7ヤード以内のすべてのターゲットに無差別に非常に高いダメージを与えます。
+
+Increase 3% attack damage for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを3％増加させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 3% attack damage taken for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを3％減少させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Increase 2% attack damage for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+攻撃ダメージを2％増加させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Reduce 2% attack damage taken for 10 minutes, 2 minute CD, cannot use other similar items during CD, the effect can be stacked. Cannot be used in competitions
+受ける攻撃ダメージを2％減少させ、10分間持続します。クールダウンは2分で、クールダウン中は他の同様のアイテムを使用できません。効果を重ねることができます。競技では使用できません。
+
+Dark and heavy bones, like a piece of dead wood.
+暗く重い骨は、まるで枯れ木のようです。
+
+A potion that can lift the temptress's black magic.
+誘惑者の黒魔術を解除できるポーション。
+
+A captured ghost.
+捕らえられた幽霊。
+
+A letter containing the intel of the ghost.
+幽霊の情報が含まれた手紙。
+
+A giant rock.
+巨大な岩。
+
+Use it to surprise your friends with explosive surprises!
+爆発的なサプライズで友達を驚かせよう！
+
+Crispy and delicious grimace cookies, come and try it.
+カリカリして美味しいしかめっ面クッキー、ぜひ試してみてください。
+
+Metal Bookmark Badge
+金属のブックマークバッジ
+
+Metal Saber Badge
+金属のサーベルバッジ
+
+Metal Cross Badge
+金属のクロスバッジ
+
+A bottle that can absorb souls.
+魂を吸収できるボトル。
+
+An axe for chopping wood
+木を切るための斧
+
+A curvy iron wire!
+曲がった鉄のワイヤー！
+
+Extremely lethal, can destroy all targets within 10 yards indiscriminately, only explodes when there is a target within the killing range.
+非常に致命的で、10ヤード以内のすべてのターゲットを無差別に破壊できますが、攻撃範囲内にターゲットがある場合にのみ爆発します。
+
+Can detonate Remote control bombs within 20 yards. Press twice to cause the bomb to self-destruct.
+20ヤード以内のリモートコントロール爆弾を起爆することができます。2回押すと、爆弾が自爆します。
+
+A pair of scissors to prune plants.
+植物を剪定するためのハサミ。
+
+It reads: beware of the giant fruit on the tree. Don't let your guard down.
+そこには、「木の上の巨大な果実に注意。警戒を怠らないように」と書かれています。
+
+It reads: We're the adventurers who came here before you, but were trapped by the mechanism. We write this while we still can in the hope that you can get out. The wall ahead can be destroyed with bombs, but will recover very soon. That's all we know. Good luck. PS: all the items in the house will recover after some time.
+そこには、「私たちはあなたより前にここに来た冒険者ですが、仕掛けに囚われました。まだ書けるうちにこれを書いていますので、あなたが脱出できることを願っています。前方の壁は爆弾で破壊できますが、すぐに復元されます。それが私たちが知っているすべてです。幸運を祈ります。PS：家の中のすべてのアイテムはしばらくすると復元されます」と書かれています。
+
+The necklace and the gem on it are both pretty ordinary. But it is extremely cherished by the shadow assassin.
+ネックレスとその上の宝石はどちらも非常に普通ですが、影の暗殺者によって非常に大切にされています。
+
+A card with the image of a cherub. It reads: In ancient times, during the war between the demon god Satan and the mist gods, the demon world's army was defeated, but they cunningly laid their demonic claws on the still incomplete divine energy in an attempt to nip the Mist God's messenger in the bud. Some of the divine energy survived. To hide from the demon world, they've stored themselves in soul stones, waiting to be summoned by humanity.
+天使のイメージが描かれたカード。それには、「古代、悪魔神サタンと霧の神々との戦争の間、悪魔界の軍隊は敗北しましたが、彼らは巧妙に悪魔の爪を未完成の神聖なエネルギーに置き、霧の神の使者を芽のうちに摘むことを試みました。いくつかの神聖なエネルギーは生き残りました。悪魔の世界から隠れるために、彼らは自分自身を魂石に保存し、人類によって召喚されるのを待っています。」と書かれています。
+
+The golden leaves are wrapped around pearl-like grains of rice with colorful berries as the filling.
+黄金色の葉が、カラフルなベリーを詰めた真珠のような米粒を包んでいます。
+
+Beast King Demon General's Blood
+獣王魔将の血
+
+Natural Juice Candy
+天然ジュースキャンディ
+
+It is concentrated by pure ice energy.
+純粋な氷のエネルギーで凝縮されています。
+
+There is a strong fire flashing inside the crystal.
+クリスタルの内部で強力な火が閃いています。
+
+A cross that contains the power of the Holy Light
+聖なる光の力を持つ十字架
+
+Recover [d]% Max HP and [d] points of HP, [d] seconds CD.
+最大HPを$1％回復し、HPを$2ポイント回復、クールダウンは$3秒です。
+
+Recover [d]% Max MP and [d] points of MP, [d] seconds CD.
+最大MPを$1％回復し、MPを$2ポイント回復、クールダウンは$3秒です。
+
+Recover [d]% max HP and [d] points of HP every 2 seconds for [d] minutes.
+$3分間、2秒ごとに最大HPを$1％回復し、HPを$2ポイント回復します。
+
+Recover [d]% max MP and [d] points of MP every 2 seconds for [d] minutes.
+$3分間、2秒ごとに最大MPを$1％回復し、MPを$2ポイント回復します。
+
+Increase 15% attack damage for 1 minute. Can only be used in Arena Fights, 5 second CD, the effect can be stacked.
+攻撃ダメージを15％増加させ、1分間持続します。アリーナファイトでのみ使用可能で、クールダウンは5秒です。効果を重ねることができます。
+
+Reduce 15% attack damage taken for 1 minute. Can only be used in Arena Fights, 5 second CD, the effect can be stacked.
+受ける攻撃ダメージを15％減少させ、1分間持続します。アリーナファイトでのみ使用可能で、クールダウンは5秒です。効果を重ねることができます。
+
+Increase 20% attack damage for 1 minute. Can only be used in Tactical Battles, 20 second CD, the effect can be stacked.
+攻撃ダメージを20％増加させ、1分間持続します。戦術的な戦闘でのみ使用可能で、クールダウンは20秒です。効果を重ねることができます。
+
+Reduce 20% attack damage taken for 1 minute. Can only be used in Tactical Battles, 20 second CD, the effect can be stacked.
+受ける攻撃ダメージを20％減少させ、1分間持続します。戦術的な戦闘でのみ使用可能で、クールダウンは20秒です。効果を重ねることができます。
+
+Increase 30% Amiability
+親しみやすさを30％増加させます。
+
+A crystal that contains a frog soul; summons a cautious baby frog; the quality seems poor; can only be used when you've reached Level 30.
+カエルの魂を含むクリスタル。注意深い子カエルを召喚します。品質は低いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a frog soul; summons a cautious baby frog; the quality seems average; can only be used when you've reached Level 30.
+カエルの魂を含むクリスタル。注意深い子カエルを召喚します。品質は平均的なようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a frog soul; summons a cautious baby frog; the quality seems good; can only be used when you've reached Level 30.
+カエルの魂を含むクリスタル。注意深い子カエルを召喚します。品質は良いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a frog soul; summons a cautious baby frog; this soul stone is pure and refined; can only be used when you've reached Level 30.
+カエルの魂を含むクリスタル。注意深い子カエルを召喚します。この魂石は純粋で洗練されています。レベル30に達した時のみ使用できます。
+
+A crystal that contains a frog soul; summons a cautious baby frog; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 30.
+カエルの魂を含むクリスタル。注意深い子カエルを召喚します。この魂石は非常に珍しく精巧です。レベル30に達した時のみ使用できます。
+
+A crystal that contains a beetle soul; summons a loyal baby beetle; the quality seems poor; can only be used when you've reached Level 30.
+ビートルの魂を含むクリスタル。忠実な子ビートルを召喚します。品質は低いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Beetle soul; summons a loyal baby Beetle ; the quality seems average; can only be used when you've reached Level 30.
+ビートルの魂を含むクリスタル。忠実な子ビートルを召喚します。品質は平均的なようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Beetle soul; summons a loyal baby Beetle ; the quality seems good; can only be used when you've reached Level 30.
+ビートルの魂を含むクリスタル。忠実な子ビートルを召喚します。品質は良いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Beetle soul; summons a loyal baby Beetle ; this soul stone is pure and refined; can only be used when you've reached Level 30.
+ビートルの魂を含むクリスタル。忠実な子ビートルを召喚します。この魂石は純粋で洗練されています。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Beetle soul; summons a loyal baby Beetle ; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 30.
+ビートルの魂を含むクリスタル。忠実な子ビートルを召喚します。この魂石は非常に珍しく精巧です。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart baby Golden Rooster ; the quality seems poor; can only be used when you've reached Level 30.
+ゴールデンロースターの魂を含むクリスタル。賢い子ゴールデンロースターを召喚します。品質は低いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart baby Golden Rooster ; the quality seems average; can only be used when you've reached Level 30.
+ゴールデンロースターの魂を含むクリスタル。賢い子ゴールデンロースターを召喚します。品質は平均的なようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart baby Golden Rooster ; the quality seems good; can only be used when you've reached Level 30.
+ゴールデンロースターの魂を含むクリスタル。賢い子ゴールデンロースターを召喚します。品質は良いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart baby Golden Rooster ; this soul stone is pure and refined; can only be used when you've reached Level 30.
+ゴールデンロースターの魂を含むクリスタル。賢い子ゴールデンロースターを召喚します。この魂石は純粋で洗練されています。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart baby Golden Rooster ; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 30.
+ゴールデンロースターの魂を含むクリスタル。賢い子ゴールデンロースターを召喚します。この魂石は非常に珍しく精巧です。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous baby Duck ; the quality seems poor; can only be used when you've reached Level 30.
+アヒルの魂を含むクリスタル。勇敢な子アヒルを召喚します。品質は低いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous baby Duck ; the quality seems average; can only be used when you've reached Level 30.
+アヒルの魂を含むクリスタル。勇敢な子アヒルを召喚します。品質は平均的なようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous baby Duck ; the quality seems good; can only be used when you've reached Level 30.
+アヒルの魂を含むクリスタル。勇敢な子アヒルを召喚します。品質は良いようです。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous baby Duck ; this soul stone is pure and refined; can only be used when you've reached Level 30.
+アヒルの魂を含むクリスタル。勇敢な子アヒルを召喚します。この魂石は純粋で洗練されています。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous baby Duck ; これは非常に珍しい精巧な魂石です。レベル30に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious baby Donkey ; the quality seems poor; can only be used when you've reached Level 45.
+ロバの魂を含むクリスタル。注意深い子ロバを召喚します。品質は低いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious baby Donkey ; the quality seems average; can only be used when you've reached Level 45.
+ロバの魂を含むクリスタル。注意深い子ロバを召喚します。品質は平均的なようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious baby Donkey ; the quality seems good; can only be used when you've reached Level 45.
+ロバの魂を含むクリスタル。注意深い子ロバを召喚します。品質は良いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious baby Donkey ; this soul stone is pure and refined; can only be used when you've reached Level 45.
+ロバの魂を含むクリスタル。注意深い子ロバを召喚します。この魂石は純粋で洗練されています。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious baby Donkey ; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 45.
+ロバの魂を含むクリスタル。注意深い子ロバを召喚します。この魂石は非常に珍しく精巧です。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal baby Goat ; the quality seems poor; can only be used when you've reached Level 45.
+ヤギの魂を含むクリスタル。忠実な子ヤギを召喚します。品質は低いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal baby Goat ; the quality seems average; can only be used when you've reached Level 45.
+ヤギの魂を含むクリスタル。忠実な子ヤギを召喚します。品質は平均的なようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal baby Goat ; the quality seems good; can only be used when you've reached Level 45.
+ヤギの魂を含むクリスタル。忠実な子ヤギを召喚します。品質は良いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal baby Goat ; this soul stone is pure and refined; can only be used when you've reached Level 45.
+ヤギの魂を含むクリスタル。忠実な子ヤギを召喚します。この魂石は純粋で洗練されています。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal baby Goat ; これは非常に珍しい精巧な魂石です。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart baby Steed ; the quality seems poor; can only be used when you've reached Level 45.
+馬の魂を含むクリスタル。賢い子馬を召喚します。品質は低いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart baby Steed; the quality seems average; can only be used when you've reached Level 45.
+馬の魂を含むクリスタル。賢い子馬を召喚します。品質は平均的なようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart baby Steed; the quality seems good; can only be used when you've reached Level 45.
+馬の魂を含むクリスタル。賢い子馬を召喚します。品質は良いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart baby Steed; this soul stone is pure and refined; can only be used when you've reached Level 45.
+馬の魂を含むクリスタル。賢い子馬を召喚します。この魂石は純粋で洗練されています。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart baby Steed; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 45.
+馬の魂を含むクリスタル。賢い子馬を召喚します。この魂石は非常に珍しく精巧です。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous baby Cattle; the quality seems poor; can only be used when you've reached Level 45.
+牛の魂を含むクリスタル。勇敢な子牛を召喚します。品質は低いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous baby Cattle; the quality seems average; can only be used when you've reached Level 45.
+牛の魂を含むクリスタル。勇敢な子牛を召喚します。品質は平均的なようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous baby Cattle; the quality seems good; can only be used when you've reached Level 45.
+牛の魂を含むクリスタル。勇敢な子牛を召喚します。品質は良いようです。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous baby Cattle; this soul stone is pure and refined; can only be used when you've reached Level 45.
+牛の魂を含むクリスタル。勇敢な子牛を召喚します。この魂石は純粋で洗練されています。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous baby Cattle; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 45.
+牛の魂を含むクリスタル。勇敢な子牛を召喚します。この魂石は非常に珍しく精巧です。レベル45に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious baby Shorthair Cat; the quality seems poor; can only be used when you've reached Level 60.
+短毛猫の魂を含むクリスタル。注意深い子短毛猫を召喚します。品質は低いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious baby Shorthair Cat; the quality seems average; can only be used when you've reached Level 60.
+短毛猫の魂を含むクリスタル。注意深い子短毛猫を召喚します。品質は平均的なようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious baby Shorthair Cat; the quality seems good; can only be used when you've reached Level 60.
+短毛猫の魂を含むクリスタル。注意深い子短毛猫を召喚します。品質は良いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious baby Shorthair Cat; this soul stone is pure and refined; can only be used when you've reached Level 60.
+短毛猫の魂を含むクリスタル。注意深い子短毛猫を召喚します。この魂石は純粋で洗練されています。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious baby Shorthair Cat; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 60.
+短毛猫の魂を含むクリスタル。注意深い子短毛猫を召喚します。この魂石は非常に珍しく精巧です。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal baby Hound; the quality seems poor; can only be used when you've reached Level 60.
+猟犬の魂を含むクリスタル。忠実な子猟犬を召喚します。品質は低いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal baby Hound; the quality seems average; can only be used when you've reached Level 60.
+猟犬の魂を含むクリスタル。忠実な子猟犬を召喚します。品質は平均的なようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal baby Hound; the quality seems good; can only be used when you've reached Level 60.
+猟犬の魂を含むクリスタル。忠実な子猟犬を召喚します。品質は良いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal baby Hound; this soul stone is pure and refined; can only be used when you've reached Level 60.
+猟犬の魂を含むクリスタル。忠実な子猟犬を召喚します。この魂石は純粋で洗練されています。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal baby Hound; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 60.
+猟犬の魂を含むクリスタル。忠実な子猟犬を召喚します。この魂石は非常に珍しく精巧です。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart baby Curly Cat; the quality seems poor; can only be used when you've reached Level 60.
+巻き毛猫の魂を含むクリスタル。賢い子巻き毛猫を召喚します。品質は低いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart baby Curly Cat; the quality seems average; can only be used when you've reached Level 60.
+巻き毛猫の魂を含むクリスタル。賢い子巻き毛猫を召喚します。品質は平均的なようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart baby Curly Cat; the quality seems good; can only be used when you've reached Level 60.
+巻き毛猫の魂を含むクリスタル。賢い子巻き毛猫を召喚します。品質は良いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart baby Curly Cat; this soul stone is pure and refined; can only be used when you've reached Level 60.
+巻き毛猫の魂を含むクリスタル。賢い子巻き毛猫を召喚します。この魂石は純粋で洗練されています。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart baby Curly Cat; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 60.
+巻き毛猫の魂を含むクリスタル。賢い子巻き毛猫を召喚します。この魂石は非常に珍しく精巧です。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous baby Shepard Dog; the quality seems poor; can only be used when you've reached Level 60.
+シェパード犬の魂を含むクリスタル。勇敢な子シェパード犬を召喚します。品質は低いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous baby Shepard Dog; the quality seems average; can only be used when you've reached Level 60.
+シェパード犬の魂を含むクリスタル。勇敢な子シェパード犬を召喚します。品質は平均的なようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous baby Shepard Dog; the quality seems good; can only be used when you've reached Level 60.
+シェパード犬の魂を含むクリスタル。勇敢な子シェパード犬を召喚します。品質は良いようです。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous baby Shepard Dog; this soul stone is pure and refined; can only be used when you've reached Level 60.
+シェパード犬の魂を含むクリスタル。勇敢な子シェパード犬を召喚します。この魂石は純粋で洗練されています。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous baby Shepard Dog; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 60.
+シェパード犬の魂を含むクリスタル。勇敢な子シェパード犬を召喚します。この魂石は非常に珍しく精巧です。レベル60に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious baby Parrot; the quality seems poor; can only be used when you've reached Level 70.
+オウムの魂を含むクリスタル。注意深い子オウムを召喚します。品質は低いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious baby Parrot; the quality seems average; can only be used when you've reached Level 70.
+オウムの魂を含むクリスタル。注意深い子オウムを召喚します。品質は平均的なようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious baby Parrot; the quality seems good; can only be used when you've reached Level 70.
+オウムの魂を含むクリスタル。注意深い子オウムを召喚します。品質は良いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious baby Parrot; this soul stone is pure and refined; can only be used when you've reached Level 70.
+オウムの魂を含むクリスタル。注意深い子オウムを召喚します。この魂石は純粋で洗練されています。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious baby Parrot; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 70.
+オウムの魂を含むクリスタル。注意深い子オウムを召喚します。この魂石は非常に珍しく精巧です。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal baby Lizard; the quality seems poor; can only be used when you've reached Level 70.
+トカゲの魂を含むクリスタル。忠実な子トカゲを召喚します。品質は低いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal baby Lizard; the quality seems average; can only be used when you've reached Level 70.
+トカゲの魂を含むクリスタル。忠実な子トカゲを召喚します。品質は平均的なようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal baby Lizard; the quality seems good; can only be used when you've reached Level 70.
+トカゲの魂を含むクリスタル。忠実な子トカゲを召喚します。品質は良いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal baby Lizard; this soul stone is pure and refined; can only be used when you've reached Level 70.
+トカゲの魂を含むクリスタル。忠実な子トカゲを召喚します。この魂石は純粋で洗練されています。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal baby Lizard; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 70.
+トカゲの魂を含むクリスタル。忠実な子トカゲを召喚します。この魂石は非常に珍しく精巧です。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart baby Monkey; the quality seems poor; can only be used when you've reached Level 70.
+サルの魂を含むクリスタル。賢い子サルを召喚します。品質は低いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart baby Monkey; the quality seems average; can only be used when you've reached Level 70.
+サルの魂を含むクリスタル。賢い子サルを召喚します。品質は平均的なようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart baby Monkey; the quality seems good; can only be used when you've reached Level 70.
+サルの魂を含むクリスタル。賢い子サルを召喚します。品質は良いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart baby Monkey; this soul stone is pure and refined; can only be used when you've reached Level 70.
+サルの魂を含むクリスタル。賢い子サルを召喚します。この魂石は純粋で洗練されています。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart baby Monkey; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 70.
+サルの魂を含むクリスタル。賢い子サルを召喚します。この魂石は非常に珍しく精巧です。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Eagle soul; summons a Courageous baby Eagle; the quality seems poor; can only be used when you've reached Level 70.
+ワシの魂を含むクリスタル。勇敢な子ワシを召喚します。品質は低いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Eagle soul; summons a Courageous baby Eagle; the quality seems average; can only be used when you've reached Level 70.
+ワシの魂を含むクリスタル。勇敢な子ワシを召喚します。品質は平均的なようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Eagle soul; summons a Courageous baby Eagle; the quality seems good; can only be used when you've reached Level 70.
+ワシの魂を含むクリスタル。勇敢な子ワシを召喚します。品質は良いようです。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Eagle soul; summons a Courageous baby Eagle; this soul stone is pure and refined; can only be used when you've reached Level 70.
+ワシの魂を含むクリスタル。勇敢な子ワシを召喚します。この魂石は純粋で洗練されています。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Eagle soul; summons a Courageous baby Eagle; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 70.
+ワシの魂を含むクリスタル。勇敢な子ワシを召喚します。この魂石は非常に珍しく精巧です。レベル70に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious baby Hippo; the quality seems poor; can only be used when you've reached Level 80.
+カバの魂を含むクリスタル。注意深い子カバを召喚します。品質は低いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious baby Hippo; the quality seems average; can only be used when you've reached Level 80.
+カバの魂を含むクリスタル。注意深い子カバを召喚します。品質は平均的なようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious baby Hippo; the quality seems good; can only be used when you've reached Level 80.
+カバの魂を含むクリスタル。注意深い子カバを召喚します。品質は良いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious baby Hippo; this soul stone is pure and refined; can only be used when you've reached Level 80.
+カバの魂を含むクリスタル。注意深い子カバを召喚します。この魂石は純粋で洗練されています。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious baby Hippo; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 80.
+カバの魂を含むクリスタル。注意深い子カバを召喚します。この魂石は非常に珍しく精巧です。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal baby Boar; the quality seems poor; can only be used when you've reached Level 80.
+イノシシの魂を含むクリスタル。忠実な子イノシシを召喚します。品質は低いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal baby Boar; the quality seems average; can only be used when you've reached Level 80.
+イノシシの魂を含むクリスタル。忠実な子イノシシを召喚します。品質は平均的なようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal baby Boar; the quality seems good; can only be used when you've reached Level 80.
+イノシシの魂を含むクリスタル。忠実な子イノシシを召喚します。品質は良いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal baby Boar; this soul stone is pure and refined; can only be used when you've reached Level 80.
+イノシシの魂を含むクリスタル。忠実な子イノシシを召喚します。この魂石は純粋で洗練されています。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal baby Boar; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 80.
+イノシシの魂を含むクリスタル。忠実な子イノシシを召喚します。この魂石は非常に珍しく精巧です。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Elephant soul; summons a Smart baby Elephant; the quality seems poor; can only be used when you've reached Level 80.
+象の魂を含むクリスタル。賢い子象を召喚します。品質は低いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Elephant soul; summons a Smart baby Elephant; the quality seems average; can only be used when you've reached Level 80.
+象の魂を含むクリスタル。賢い子象を召喚します。品質は平均的なようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Elephant soul; summons a Smart baby Elephant; the quality seems good; can only be used when you've reached Level 80.
+象の魂を含むクリスタル。賢い子象を召喚します。品質は良いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Elephant soul; summons a Smart baby Elephant; this soul stone is pure and refined; can only be used when you've reached Level 80.
+象の魂を含むクリスタル。賢い子象を召喚します。この魂石は純粋で洗練されています。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Elephant soul; summons a Smart baby Elephant; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 80.
+象の魂を含むクリスタル。賢い子象を召喚します。この魂石は非常に珍しく精巧です。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous baby Brown Bear; the quality seems poor; can only be used when you've reached Level 80.
+茶色のクマの魂を含むクリスタル。勇敢な子茶色のクマを召喚します。品質は低いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous baby Brown Bear; the quality seems average; can only be used when you've reached Level 80.
+茶色のクマの魂を含むクリスタル。勇敢な子茶色のクマを召喚します。品質は平均的なようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous baby Brown Bear; the quality seems good; can only be used when you've reached Level 80.
+クマの魂を含むクリスタル。勇敢な子クマを召喚します。品質は良いようです。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous baby Brown Bear; this soul stone is pure and refined; can only be used when you've reached Level 80.
+クマの魂を含むクリスタル。勇敢な子クマを召喚します。この魂石は純粋で洗練されています。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous baby Brown Bear; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 80.
+クマの魂を含むクリスタル。勇敢な子クマを召喚します。この魂石は非常に珍しく精巧です。レベル80に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious baby Snow Wolf; the quality seems poor; can only be used when you've reached Level 90.
+雪のオオカミの魂を含むクリスタル。注意深い子雪のオオカミを召喚します。品質は低いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious baby Snow Wolf; the quality seems average; can only be used when you've reached Level 90.
+雪のオオカミの魂を含むクリスタル。注意深い子雪のオオカミを召喚します。品質は平均的なようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious baby Snow Wolf; the quality seems good; can only be used when you've reached Level 90.
+雪のオオカミの魂を含むクリスタル。注意深い子雪のオオカミを召喚します。品質は良いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious baby Snow Wolf; this soul stone is pure and refined; can only be used when you've reached Level 90.
+雪のオオカミの魂を含むクリスタル。注意深い子雪のオオカミを召喚します。この魂石は純粋で洗練されています。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious baby Snow Wolf; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 90.
+雪のオオカミの魂を含むクリスタル。注意深い子雪のオオカミを召喚します。この魂石は非常に珍しく精巧です。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal baby Lion; the quality seems poor; can only be used when you've reached Level 90.
+ライオンの魂を含むクリスタル。忠実な子ライオンを召喚します。品質は低いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal baby Lion; the quality seems average; can only be used when you've reached Level 90.
+ライオンの魂を含むクリスタル。忠実な子ライオンを召喚します。品質は平均的なようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal baby Lion; the quality seems good; can only be used when you've reached Level 90.
+ライオンの魂を含むクリスタル。忠実な子ライオンを召喚します。品質は良いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal baby Lion; this soul stone is pure and refined; can only be used when you've reached Level 90.
+ライオンの魂を含むクリスタル。忠実な子ライオンを召喚します。この魂石は純粋で洗練されています。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal baby Lion; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 90.
+ライオンの魂を含むクリスタル。忠実な子ライオンを召喚します。この魂石は非常に珍しく精巧です。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a Smart baby Cheetah; the quality seems poor; can only be used when you've reached Level 90.
+チーターの魂を含むクリスタル。賢い子チーターを召喚します。品質は低いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a Smart baby Cheetah; the quality seems average; can only be used when you've reached Level 90.
+チーターの魂を含むクリスタル。賢い子チーターを召喚します。品質は平均的なようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a Smart baby Cheetah; the quality seems good; can only be used when you've reached Level 90.
+チーターの魂を含むクリスタル。賢い子チーターを召喚します。品質は良いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a Smart baby Cheetah; this soul stone is pure and refined; can only be used when you've reached Level 90.
+チーターの魂を含むクリスタル。賢い子チーターを召喚します。この魂石は純粋で洗練されています。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a Smart baby Cheetah; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 90.
+チーターの魂を含むクリスタル。賢い子チーターを召喚します。この魂石は非常に珍しく精巧です。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a Courageous baby Tiger; the quality seems poor; can only be used when you've reached Level 90.
+トラの魂を含むクリスタル。勇敢な子トラを召喚します。品質は低いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a Courageous baby Tiger; the quality seems average; can only be used when you've reached Level 90.
+トラの魂を含むクリスタル。勇敢な子トラを召喚します。品質は平均的なようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a Courageous baby Tiger; the quality seems good; can only be used when you've reached Level 90.
+トラの魂を含むクリスタル。勇敢な子トラを召喚します。品質は良いようです。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a Courageous baby Tiger; this soul stone is pure and refined; can only be used when you've reached Level 90.
+トラの魂を含むクリスタル。勇敢な子トラを召喚します。この魂石は純粋で洗練されています。レベル90に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a Courageous baby Tiger; this soul stone is extremely rare and exquisite; can only be used when you've reached Level 90.
+トラの魂を含むクリスタル。勇敢な子トラを召喚します。この魂石は非常に珍しく精巧です。レベル90に達した時のみ使用できます。
+
+A crystal that contains a frog soul; summons a cautious baby wild frog; can only be used when you've reached Level 32.
+カエルの魂を含むクリスタル。注意深い子野生のカエルを召喚します。レベル32に達した時のみ使用できます。
+
+A crystal that contains a Beetle soul; summons a loyal wild Beetle; can only be used when you've reached Level 34.
+カブトムシの魂を含むクリスタル。忠実な野生のカブトムシを召喚します。レベル34に達した時のみ使用できます。
+
+A crystal that contains a Golden Rooster soul; summons a Smart wild Golden Rooster; can only be used when you've reached Level 36.
+金のニワトリの魂を含むクリスタル。賢い野生の金のニワトリを召喚します。レベル36に達した時のみ使用できます。
+
+A crystal that contains a Duck soul; summons a Courageous wild Duck; can only be used when you've reached Level 38.
+アヒルの魂を含むクリスタル。勇敢な野生のアヒルを召喚します。レベル38に達した時のみ使用できます。
+
+A crystal that contains a Donkey soul; summons a cautious wild Donkey; can only be used when you've reached Level 47.
+ロバの魂を含むクリスタル。注意深い野生のロバを召喚します。レベル47に達した時のみ使用できます。
+
+A crystal that contains a Goat soul; summons a loyal wild Goat; can only be used when you've reached Level 49.
+ヤギの魂を含むクリスタル。忠実な野生のヤギを召喚します。レベル49に達した時のみ使用できます。
+
+A crystal that contains a Steed soul; summons a Smart wild Steed; can only be used when you've reached Level 51.
+駿馬の魂を含むクリスタル。賢い野生の駿馬を召喚します。レベル51に達した時のみ使用できます。
+
+A crystal that contains a Cattle soul; summons a Courageous wild Cattle; can only be used when you've reached Level 53.
+ウシの魂を含むクリスタル。勇敢な野生のウシを召喚します。レベル53に達した時のみ使用できます。
+
+A crystal that contains a Shorthair Cat soul; summons a cautious wild Shorthair Cat; can only be used when you've reached Level 62.
+短毛猫の魂を含むクリスタル。注意深い野生の短毛猫を召喚します。レベル62に達した時のみ使用できます。
+
+A crystal that contains a Hound soul; summons a loyal wild Hound; can only be used when you've reached Level 63.
+猟犬の魂を含むクリスタル。忠実な野生の猟犬を召喚します。レベル63に達した時のみ使用できます。
+
+A crystal that contains a Curly Cat soul; summons a Smart wild Curly Cat; can only be used when you've reached Level 64.
+カールした猫の魂を含むクリスタル。賢い野生のカールした猫を召喚します。レベル64に達した時のみ使用できます。
+
+A crystal that contains a Shepard Dog soul; summons a Courageous wild Shepard Dog; can only be used when you've reached Level 65.
+シェパード犬の魂を含むクリスタル。勇敢な野生のシェパード犬を召喚します。レベル65に達した時のみ使用できます。
+
+A crystal that contains a Parrot soul; summons a cautious wild Parrot; can only be used when you've reached Level 72.
+オウムの魂を含むクリスタル。注意深い野生のオウムを召喚します。レベル72に達した時のみ使用できます。
+
+A crystal that contains a Lizard soul; summons a loyal wild Lizard; can only be used when you've reached Level 73.
+トカゲの魂を含むクリスタル。忠実な野生のトカゲを召喚します。レベル73に達した時のみ使用できます。
+
+A crystal that contains a Monkey soul; summons a Smart wild Monkey; can only be used when you've reached Level 74.
+サルの魂を含むクリスタル。賢い野生のサルを召喚します。レベル74に達した時のみ使用できます。
+
+A crystal that contains an Eagle soul; summons a Courageous wild Eagle; can only be used when you've reached Level 75.
+ワシの魂を含むクリスタル。勇敢な野生のワシを召喚します。レベル75に達した時のみ使用できます。
+
+A crystal that contains a Hippo soul; summons a cautious wild Hippo; can only be used when you've reached Level 82.
+カバの魂を含むクリスタル。注意深い野生のカバを召喚します。レベル82に達した時のみ使用できます。
+
+A crystal that contains a Boar soul; summons a loyal wild Boar; can only be used when you've reached Level 83.
+イノシシの魂を含むクリスタル。忠実な野生のイノシシを召喚します。レベル83に達した時のみ使用できます。
+
+A crystal that contains an Elephant soul; summons a Smart wild Elephant; can only be used when you've reached Level 84.
+ゾウの魂を含むクリスタル。賢い野生のゾウを召喚します。レベル84に達した時のみ使用できます。
+
+A crystal that contains a Brown Bear soul; summons a Courageous wild Brown Bear; can only be used when you've reached Level 85.
+茶色のクマの魂を含むクリスタル。勇敢な野生の茶色のクマを召喚します。レベル85に達した時のみ使用できます。
+
+A crystal that contains a Snow Wolf soul; summons a cautious wild Snow Wolf; can only be used when you've reached Level 92.
+雪のオオカミの魂を含むクリスタル。注意深い野生の雪のオオカミを召喚します。レベル92に達した時のみ使用できます。
+
+A crystal that contains a Lion soul; summons a loyal wild Lion; can only be used when you've reached Level 93.
+ライオンの魂を含むクリスタル。忠実な野生のライオンを召喚します。レベル93に達した時のみ使用できます。
+
+A crystal that contains a Cheetah soul; summons a smart wild Cheetah; can only be used when you've reached Level 94.
+チーターの魂を含むクリスタル。賢い野生のチーターを召喚します。レベル94に達した時のみ使用できます。
+
+A crystal that contains a Tiger soul; summons a courageous wild Tiger; can only be used when you've reached Level 95.
+トラの魂を含むクリスタル。勇敢な野生のトラを召喚します。レベル95に達した時のみ使用できます。
+
+A crystal that contains an Ice Tiger Soul; summons a courageous Ice Tiger; can only be used when you've reached Level 30.
+氷のトラの魂を含むクリスタル。勇敢な氷のトラを召喚します。レベル30に達した時のみ使用できます。
+
+A divine crystal that contains a Pixie soul; summons a cute and nice blessed pet Pixie. Can be used at any level; 41% potential rate; comes with basic magic attack skill Magic Marbles: 10 yards of effective range, attack damage can be increased from 62% to 100% as the skill levels up; comes with powerful skill Magic Flames: 10 yards of effective range, attack damage can be increased from 100% to 160% as the skill levels up;
+ピクシーの魂を含む神聖なクリスタル。かわいらしい祝福されたペットピクシーを召喚します。どのレベルでも使用可能です。潜在率41％、基本魔法攻撃スキル「マジックマーブルズ」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは62％から100％まで増加します。強力なスキル「マジックフレイム」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは100％から160％まで増加します。
+
+A divine crystal that contains a Sprite soul; summons a cute and naughty blessed pet Sprite. Can be used at any level; 41% potential rate; comes with basic magic attack skill Sprite Magic: 10 yards of effective range, attack damage can be increased from 62% to 100% as the skill levels up; comes with powerful skill Sprite Song: 10 yards of effective range, attack damage can be increased from 100% to 160% as the skill levels up;
+スプライトの魂を含む神聖なクリスタル。かわいくていたずらな祝福されたペットスプライトを召喚します。どのレベルでも使用可能です。潜在率41％、基本魔法攻撃スキル「スプライトマジック」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは62％から100％まで増加します。強力なスキル「スプライトソング」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは100％から160％まで増加します。
+
+A divine crystal that contains a Goblin soul; summons a cute and clever blessed pet Goblin. Can be used at any level; 41% potential rate; comes with basic Physical attack skills Throw: 10 yards of effective range, attack damage can be increased from 62% to 100% as the skill levels up; comes with powerful skill Shooting: 10 yards of effective range, attack damage can be increased from 100% to 160% as the skill levels up;
+ゴブリンの魂を含む神聖なクリスタル。かわいくて賢い祝福されたペットゴブリンを召喚します。どのレベルでも使用可能です。潜在率41％、基本物理攻撃スキル「スロー」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは62％から100％まで増加します。強力なスキル「シューティング」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは100％から160％まで増加します。
+
+A divine crystal that contains a Slime soul; summons a cute and naughty blessed pet Slime. Can be used at any level; 41% potential rate; comes with basic magic attack skill Spit Bubbles: 10 yards of effective range, attack damage can be increased from 62% to 100% as the skill levels up; comes with powerful skill Water Bomb: 10 yards of effective range, attack damage can be increased from 100% to 160% as the skill levels up;
+スライムの魂を含む神聖なクリスタル。かわいくていたずらな祝福されたペットスライムを召喚します。どのレベルでも使用可能です。潜在率41％、基本魔法攻撃スキル「スピットバブル」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは62％から100％まで増加します。強力なスキル「ウォーターボム」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは100％から160％まで増加します。
+
+A divine crystal that contains a Night Cat soul; summons a cute Night Cat Spirit. Can be used at any level.
+夜の猫の魂を含む神聖なクリスタル。かわいい夜の猫の精霊を召喚します。どのレベルでも使用可能です。
+
+A divine crystal that contains a Cherub soul; summons a cute and naughty blessed pet Cherub. Can be used at any level; 41% potential rate; comes with basic magic attack skill Punch of Heaven: 10 yards of effective range, attack damage can be increased from 62% to 100% as the skill levels up; comes with powerful skill Divine Arrow: 10 yards of effective range, attack damage can be increased from 100% to 160% as the skill levels up;
+ケルビムの魂を含む神聖なクリスタル。かわいくていたずらな祝福されたペットケルビムを召喚します。どのレベルでも使用可能です。潜在率41％、基本魔法攻撃スキル「天の拳」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは62％から100％まで増加します。強力なスキル「神聖な矢」を備えています：効果範囲10ヤード、スキルのレベルが上がるにつれて攻撃ダメージは100％から160％まで増加します。
+
+Pet Skill Crystal, Increase 4% physical damage.
+ペットスキルクリスタル、物理ダメージを4％増加させます。
+
+Pet Skill Crystal, increase 5% physical damage.
+ペットスキルクリスタル、物理ダメージを5％増加させます。
+
+Pet Skill Crystal, increase 6% physical damage.
+ペットスキルクリスタル、物理ダメージを6％増加させます。
+
+Pet Skill Crystal, increase 7% physical damage.
+ペットスキルクリスタル、物理ダメージを7％増加させます。
+
+Pet Skill Crystal, increase 4% magic damage.
+ペットスキルクリスタル、魔法ダメージを4％増加させます。
+
+Pet Skill Crystal, increase 5% magic damage.
+ペットスキルクリスタル、魔法ダメージを5％増加させます。
+
+Pet Skill Crystal, increase 6% magic damage.
+ペットスキルクリスタル、魔法ダメージを6％増加させます。
+
+Pet Skill Crystal, increase 7% magic damage.
+ペットスキルクリスタル、魔法ダメージを7％増加させます。
+
+Pet Skill Crystal, Increase 8 points of physical hit chance.
+ペットスキルクリスタル、物理命中率を8ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of physical hit chance.
+ペットスキルクリスタル、物理命中率を12ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of physical hit chance.
+ペットスキルクリスタル、物理命中率を15ポイント増加させます。
+
+Pet Skill Crystal, Increase 19 points of physical hit chance.
+ペットスキルクリスタル、物理命中率を19ポイント増加させます。
+
+Pet Skill Crystal, Increase 8 points of magic hit chance.
+ペットスキルクリスタル、魔法命中率を8ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of magic hit chance.
+ペットスキルクリスタル、魔法命中率を12ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of magic hit chance.
+ペットスキルクリスタル、魔法命中率を15ポイント増加させます。
+
+Pet Skill Crystal, Increase 19 points of magic hit chance.
+ペットスキルクリスタル、魔法命中率を19ポイント増加させます。
+
+Pet Skill Crystal, Increase 52 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+ペットスキルクリスタル、物理防御破壊率を52ポイント、物理防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 75 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+ペットスキルクリスタル、物理防御破壊率を75ポイント、物理防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 100 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+ペットスキルクリスタル、物理防御破壊率を100ポイント、物理防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 128 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+ペットスキルクリスタル、物理防御破壊率を128ポイント、物理防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 52 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+ペットスキルクリスタル、魔法防御破壊率を52ポイント、魔法防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 75 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+ペットスキルクリスタル、魔法防御破壊率を75ポイント、魔法防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 100 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+ペットスキルクリスタル、魔法防御破壊率を100ポイント、魔法防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 128 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+ペットスキルクリスタル、魔法防御破壊率を128ポイント、魔法防御破壊ダメージを70ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of physical Critical Hit.
+ペットスキルクリスタル、物理クリティカルヒットを15ポイント増加させます。
+
+Pet Skill Crystal, Increase 18 points of physical Critical Hit.
+ペットスキルクリスタル、物理クリティカルヒットを18ポイント増加させます。
+
+Pet Skill Crystal, Increase 22 points of physical Critical Hit.
+ペットスキルクリスタル、物理クリティカルヒットを22ポイント増加させます。
+
+Pet Skill Crystal, Increase 25 points of physical Critical Hit.
+ペットスキルクリスタル、物理クリティカルヒットを25ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of magic Critical Hit.
+ペットスキルクリスタル、魔法クリティカルヒットを15ポイント増加させます。
+
+Pet Skill Crystal, Increase 18 points of magic Critical Hit.
+ペットスキルクリスタル、魔法クリティカルヒットを18ポイント増加させます。
+
+Pet Skill Crystal, Increase 22 points of magic Critical Hit.
+ペットスキルクリスタル、魔法クリティカルヒットを22ポイント増加させます。
+
+Pet Skill Crystal, Increase 25 points of magic Critical Hit.
+ペットスキルクリスタル、魔法クリティカルヒットを25ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of physical Critical Hit and 11 points of physical Critical Damage.
+ペットスキルクリスタル、物理クリティカルヒットを12ポイント、物理クリティカルダメージを11ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of physical Critical Hit and 14 points of physical Critical Damage.
+ペットスキルクリスタル、物理クリティカルヒットを15ポイント、物理クリティカルダメージを14ポイント増加させます。
+
+Pet Skill Crystal, Increase 18 points of physical Critical Hit and 18 points of physical Critical Damage.
+ペットスキルクリスタル、物理クリティカルヒットを18ポイント、物理クリティカルダメージを18ポイント増加させます。
+
+Pet Skill Crystal, Increase 21 points of physical Critical Hit and 20 points of physical Critical Damage.
+ペットスキルクリスタル、物理クリティカルヒットを21ポイント、物理クリティカルダメージを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of magic Critical Hit and 11 points of magic Critical Damage.
+ペットスキルクリスタル、魔法クリティカルヒットを12ポイント、魔法クリティカルダメージを11ポイント増加させます。
+
+Pet Skill Crystal, Increase 15 points of magic Critical Hit and 14 points of magic Critical Damage.
+ペットスキルクリスタル、魔法クリティカルヒットを15ポイント、魔法クリティカルダメージを14ポイント増加させます。
+
+Pet Skill Crystal, Increase 18 points of magic Critical Hit and 18 points of magic Critical Damage.
+ペットスキルクリスタル、魔法クリティカルヒットを18ポイント、魔法クリティカルダメージを18ポイント増加させます。
+
+Pet Skill Crystal, Increase 21 points of magic Critical Hit and 20 points of magic Critical Damage.
+ペットスキルクリスタル、魔法クリティカルヒットを21ポイント、魔法クリティカルダメージを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 3% physical damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、物理ダメージを3％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 4% physical damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、物理ダメージを4％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 5% physical damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、物理ダメージを5％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 6% physical damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、物理ダメージを6％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 3% magic damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、魔法ダメージを3％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 4% magic damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、魔法ダメージを4％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 5% magic damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、魔法ダメージを5％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 6% magic damage, reduce 2% of all damage taken.
+ペットスキルクリスタル、魔法ダメージを6％増加させ、受けるすべてのダメージを2％減少させます。
+
+Pet Skill Crystal, Increase 3% physical damage, reduce 4% physical damage taken.
+ペットスキルクリスタル、物理ダメージを3％増加させ、受ける物理ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 4% physical damage, reduce 4% physical damage taken.
+ペットスキルクリスタル、物理ダメージを4％増加させ、受ける物理ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 5% physical damage, reduce 4% physical damage taken.
+ペットスキルクリスタル、物理ダメージを5％増加させ、受ける物理ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 6% physical damage, reduce 4% physical damage taken.
+ペットスキルクリスタル、物理ダメージを6％増加させ、受ける物理ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 3% magic damage, reduce 4% magic damage taken.
+ペットスキルクリスタル、魔法ダメージを3％増加させ、受ける魔法ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 4% magic damage, reduce 4% magic damage taken.
+ペットスキルクリスタル、魔法ダメージを4％増加させ、受ける魔法ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 5% magic damage, reduce 4% magic damage taken.
+ペットスキルクリスタル、魔法ダメージを5％増加させ、受ける魔法ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 6% magic damage, reduce 4% magic damage taken.
+ペットスキルクリスタル、魔法ダメージを6％増加させ、受ける魔法ダメージを4％減少させます。
+
+Pet Skill Crystal, Increase 6 points of physical hit chance and 7 points of critical hit resist.
+ペットスキルクリスタル、物理命中率を6ポイント、クリティカルヒット抵抗を7ポイント増加させます。
+
+Pet Skill Crystal, Increase 9 points of physical hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、物理命中率を9ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of physical hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、物理命中率を12ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 16 points of physical hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、物理命中率を16ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 6 points of magic hit chance and 7 points of critical hit resist.
+ペットスキルクリスタル、魔法命中率を6ポイント、クリティカルヒット抵抗を7ポイント増加させます。
+
+Pet Skill Crystal, Increase 9 points of magic hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、魔法命中率を9ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 12 points of magic hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、魔法命中率を12ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 16 points of magic hit chance and 6 points of critical hit resist.
+ペットスキルクリスタル、魔法命中率を16ポイント、クリティカルヒット抵抗を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 34 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 4 points of Dodge.
+ペットスキルクリスタル、物理防御破壊率を34ポイント、物理防御破壊ダメージを70ポイント、回避を4ポイント増加させます。
+
+Pet Skill Crystal, Increase 52 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 4 points of Dodge.
+ペットスキルクリスタル、物理防御破壊率を52ポイント、物理防御破壊ダメージを70ポイント、回避を4ポイント増加させます。
+
+Pet Skill Crystal, Increase 77 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 5 points of Dodge.
+ペットスキルクリスタル、物理防御破壊率を77ポイント、物理防御破壊ダメージを70ポイント、回避を5ポイント増加させます。
+
+Pet Skill Crystal, Increase 99 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 6 points of Dodge.
+ペットスキルクリスタル、物理防御破壊率を99ポイント、物理防御破壊ダメージを70ポイント、回避を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 34 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 4 points of Dodge.
+ペットスキルクリスタル、魔法防御破壊率を34ポイント、魔法防御破壊ダメージを70ポイント、回避を4ポイント増加させます。
+
+Pet Skill Crystal, Increase 52 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 5 points of Dodge.
+ペットスキルクリスタル、魔法防御破壊率を52ポイント、魔法防御破壊ダメージを70ポイント、回避を5ポイント増加させます。
+
+Pet Skill Crystal, Increase 77 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 5 points of Dodge.
+ペットスキルクリスタル、魔法防御破壊率を77ポイント、魔法防御破壊ダメージを70ポイント、回避を5ポイント増加させます。
+
+Pet Skill Crystal, Increase 99 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 6 points of Dodge.
+ペットスキルクリスタル、魔法防御破壊率を99ポイント、魔法防御破壊ダメージを70ポイント、回避を6ポイント増加させます。
+
+Pet Skill Crystal, Increase 11 points of physical Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、物理クリティカルヒットを11ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 14 points of physical Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、物理クリティカルヒットを14ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 19 points of physical Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、物理クリティカルヒットを19ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 22 points of physical Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、物理クリティカルヒットを22ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 11 points of magic Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、魔法クリティカルヒットを11ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 14 points of magic Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、魔法クリティカルヒットを14ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 19 points of magic Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、魔法クリティカルヒットを19ポイント、タフネスを20ポイント増加させます。
+
+Pet Skill Crystal, Increase 22 points of magic Critical Hit and 20 points of Toughness.
+ペットスキルクリスタル、魔法クリティカルヒットを22ポイント、タフネスを20ポイント増加させます。
+
+Can repair equipment not higher than level 60
+レベル60以下の装備を修理できます
+
+Can repair Equipment at level 80 and below
+レベル80以下の装備を修理できます
+
+Can repair equipment of all levels
+すべてのレベルの装備を修理できます
+
+Can repair all the currently outfitted equipment not higher than level 60
+現在装備しているレベル60以下の装備をすべて修理できます
+
+Can repair all the currently outfitted equipment level 80 and below
+現在装備しているレベル80以下の装備をすべて修理できます
+
+Can repair all the currently outfitted equipment
+現在装備しているすべての装備を修理できます
+
+Can repair all the equipment in the backpack not higher than level 60
+バックパック内のレベル60以下のすべての装備を修理できます
+
+Can repair all the equipment in the backpack not higher than level 80
+バックパック内のレベル80以下のすべての装備を修理できます
+
+Can repair all the equipment in the backpack
+バックパック内のすべての装備を修理できます
+
+Water of energy refined with Dark Iron Crystal, can repair wrecked equipment (not damaged equipment) not higher than level 60.
+ダークアイアンクリスタルで精製されたエネルギーの水は、レベル60以下の破損した装備（損傷した装備ではない）を修理できます。
+
+Water of energy refined with Dark Iron Crystal, can repair wrecked equipment (not damaged equipment) not higher than level 80.
+ダークアイアンクリスタルで精製されたエネルギーの水は、レベル80以下の破損した装備（損傷した装備ではない）を修理できます。
+
+Water of energy refined with Dark Iron Crystal, can repair wrecked equipment of all levels.
+ダークアイアンクリスタルで精製されたエネルギーの水は、すべてのレベルの破損した装備を修理できます。
+
+Broadcast a message to the world channel, can only be used when you've reached level 10.
+世界チャンネルにメッセージを放送します。レベル10に到達したときにのみ使用できます。
+
+Broadcast a message to all players on the map, can only be used when you've reached level 10.
+マップ上のすべてのプレイヤーにメッセージを放送します。レベル10に到達したときにのみ使用できます。
+
+Broadcast a message to nearby players
+近くのプレイヤーにメッセージを放送します
+
+Broadcast a message to Gang members
+ギャングメンバーにメッセージを放送します
+
+You can use it to send blessings via world channel broadcast, can only be used when you've reached level 10.
+世界チャンネルの放送で祝福を送ることができます。レベル10に到達したときにのみ使用できます。
+
+Used by newlyweds during their wedding to deliver their vows of love to each other.
+新婚夫婦が結婚式でお互いに愛の誓いを届けるために使用されます。
+
+Used by guests during a wedding to send their blessings to the newlyweds.
+ゲストが結婚式で新婚夫婦に祝福を送るために使用します。
+
+Each hearthstone is made by a Space Mage using the stone that has been taken from a fireplace for a very long time. It is made of a stone that has fully absorbed smoke and fire, then infused with space magic. You can use it to break the barriers of space and return to the last city where you've stayed.
+各ハースストーンは、スペースメイジが非常に長い間暖炉から採取した石を使用して作成されています。煙と火を完全に吸収した石でできており、スペースマジックが注入されています。これを使用して、空間の障壁を破り、最後に滞在した都市に戻ることができます。
+
+Space Mages can condense space magic into a magic butterfly and seal it into a memory crystal, thus creating a memory butterfly. You can use a memory butterfly to record your current location. When you use it again, you can let it teleport you to the recorded location. Every successful teleportation costs a memory butterfly.
+スペースメイジは、空間魔法を魔法の蝶に凝縮し、メモリークリスタルに封印することで、メモリー蝶を作成できます。メモリー蝶を使用して現在の場所を記録できます。再度使用すると、記録された場所にテレポートできます。テレポートの成功ごとにメモリー蝶が必要です。
+
+Made by a space mage who inscribes specific space coordinates into a memory crystal. You can use it to teleport to the inscribed location.
+特定の空間座標をメモリークリスタルに刻むスペースメイジによって作られたものです。それを使用して、刻まれた場所にテレポートできます。
+
+A memory crystal inscribed with the blessings of Mist Gods. It can teleport you to any city you wish.
+霧の神の祝福が刻まれたメモリークリスタル。望むどの都市にもテレポートできます。
+
+A teleportation crystal infused with the forbidden spell of the demon world. It can teleport you to all underground Spirit Lands.
+魔界の禁断の呪文が注入されたテレポートクリスタル。すべての地下スピリットランドにテレポートできます。
+
+Recover 10% Max HP and 1000 points of HP, as well as 6% Max MP and 600 points of MP, 8 seconds CD.
+最大HPの10％とHPの1000ポイント、および最大MPの6％とMPの600ポイントを回復します。クールダウン時間は8秒です。
+
+Recover 6% Max HP and 600 points of HP, as well as 10% Max MP and 1000 points of MP, 8 seconds CD.
+最大HPの6％とHPの600ポイント、および最大MPの10％とMPの1000ポイントを回復します。クールダウン時間は8秒です。
+
+Recover 12% Max HP and 1200 points of HP, as well as 8% Max MP and 800 points of MP, 9 seconds CD.
+最大HPの12％とHPの1200ポイント、および最大MPの8％とMPの800ポイントを回復します。クールダウン時間は9秒です。
+
+Recover 8% Max HP and 800 points of HP, as well as 12% Max MP and 1200 points of MP, 9 seconds CD.
+最大HPの8％とHPの800ポイント、および最大MPの12％とMPの1200ポイントを回復します。クールダウン時間は9秒です。
+
+Recover 14% Max HP and 1400 points of HP, as well as 10% Max MP and 1000 points of MP, 10 seconds CD.
+最大HPの14％とHPの1400ポイント、および最大MPの10％とMPの1000ポイントを回復します。クールダウン時間は10秒です。
+
+Recover 10% Max HP and 1000 points of HP, as well as 14% Max MP and 1400 points of MP, 10 seconds CD.
+最大HPの10％とHPの1000ポイント、および最大MPの14％とMPの1400ポイントを回復します。クールダウン時間は10秒です。
+
+A wedding champagne; specialty of Gouging knife city. Increase 3% attack damage for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；ガウジングナイフシティの特産品。攻撃ダメージが1分間3％増加し、効果は累積されます。コンペティションでは使用できません。
+
+A wedding champagne; specialty of Moon City. Reduce 3% attack damage taken for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；ムーンシティの特産品。攻撃ダメージを1分間3％軽減し、効果は累積されます。コンペティションでは使用できません。
+
+A wedding champagne; specialty of Holy Blood City. Increase 6% attack damage for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；ホーリーブラッドシティの特産品。攻撃ダメージが1分間6％増加し、効果は累積されます。コンペティションでは使用できません。
+
+A wedding champagne; specialty of White Sand City. Reduce 6% attack damage taken for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；ホワイトサンドシティの特産品。攻撃ダメージを1分間6％軽減し、効果は累積されます。コンペティションでは使用できません。
+
+A wedding champagne; specialty of Giant Rock City. Increase 10% attack damage for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；ジャイアントロックシティの特産品。攻撃ダメージが1分間10％増加し、効果は累積されます。コンペティションでは使用できません。
+
+A wedding champagne; specialty of Tulip City. Reduce 10% attack damage taken for 1 minute, the effect can be stacked. Cannot be used in competitions
+結婚式のシャンパン；チューリップシティの特産品。攻撃ダメージを1分間10％軽減し、効果は累積されます。コンペティションでは使用できません。
+
+Increase 100 points of experience to pets below level 10
+レベル10未満のペットに100ポイントの経験値を増やします
+
+Increase 400 points of experience to pets below level 20
+レベル20未満のペットに400ポイントの経験値を増やします
+
+Increase 1000 points of experience to pets below level 30
+レベル30未満のペットに1000ポイントの経験値を増やします
+
+Increase 5000 points of experience to pets below level 40
+レベル40未満のペットに5000ポイントの経験値を増やします
+
+Increase 200 points of proficiency to combat skills
+戦闘スキルの習熟度を200ポイント増やします
+
+Increase 1000 points of proficiency to combat skills
+戦闘スキルの習熟度を1000ポイント増やします
+
+Increase 3000 points of proficiency to combat skills
+戦闘スキルの習熟度を3000ポイント増やします
+
+A crystal containing a Behemoth (Swift Fusion Beast). You can use it to transform into a Behemoth. Requires Level 40; increases 2.6 movement speed, 9300 max HP, 12600 max MP, 53 physical defense, 51 magic defense; additional effect: you cannot use any skill.
+ベヒモス（スウィフトフュージョンビースト）を含むクリスタル。ベヒモスに変身するために使用できます。レベル40が必要です；移動速度が2.6増加し、最大HPが9300、最大MPが12600、物理防御が53、魔法防御が51増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Behemoth Lord (Swift Fusion Beast). You can use it to transform into a Behemoth Lord. Requires Level 40; the transformation does not cost any fusion power; increases 2.6 movement speed, 9300 max HP, 12600 max MP, 53 physical defense, 51 magic defense; additional effect: you cannot use any skill.
+ベヒモスロード（スウィフトフュージョンビースト）を含むクリスタル。ベヒモスロードに変身するために使用できます。レベル40が必要です；変身にはフュージョンパワーがかかりません；移動速度が2.6増加し、最大HPが9300、最大MPが12600、物理防御が53、魔法防御が51増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Thunderbird Swift Fusion Beast. You can use it to transform into a Thunderbird. Requires Level 70; increases 3.4 movement speed, 13300 max HP, 17900 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+サンダーバードスウィフトフュージョンビーストを含むクリスタル。サンダーバードに変身するために使用できます。レベル70が必要です；移動速度が3.4増加し、最大HPが13300、最大MPが17900、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Thunderbird Lord Swift Fusion Beast. You can use it to transform into a Thunderbird Lord. Requires Level 70; the transformation does not cost any fusion power, increases 3.4 movement speed, 13300 max HP, 17900 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+サンダーバードロードスウィフトフュージョンビーストを含むクリスタル。サンダーバードロードに変身するために使用できます。レベル70が必要です；変身にはフュージョンパワーがかかりません；移動速度が3.4増加し、最大HPが13300、最大MPが17900、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Wind Spirit Swift Fusion Beast. You can use it to obtain the aspect of Wind Spirit. Requires Level 90; increases 4.2 movement speed, 18600 max HP, 25100 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+ウィンドスピリットスウィフトフュージョンビーストを含むクリスタル。ウィンドスピリットの側面を取得するために使用できます。レベル90が必要です；移動速度が4.2増加し、最大HPが18600、最大MPが25100、物理防御が105、魔法防御が102増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Super Wind Spirit Swift Fusion Beast. You can use it to obtain the aspect of Super Wind Spirit. Requires Level 90; the transformation does not cost any fusion power, increases 4.2 movement speed, 18600 max HP, 25100 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+スーパーヴィンドスピリットスウィフトフュージョンビーストを含むクリスタル。スーパーヴィンドスピリットの側面を取得するために使用できます。レベル90が必要です；変身にはフュージョンパワーがかかりません；移動速度が4.2増加し、最大HPが18600、最大MPが25100、物理防御が105、魔法防御が102増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Phantom Wyvern Swift Fusion Beast. You can use it to transform into a Phantom Wyvern. The transformation does not cost any fusion power, increases 4 movement speed, 18600 max HP, 25100 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+ファントムワイバースウィフトフュージョンビーストを含むクリスタル。ファントムワイバーンに変身するために使用できます。変身にはフュージョンパワーがかかりません；移動速度が4増加し、最大HPが18600、最大MPが25100、物理防御が105、魔法防御が102増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Bluish White Horse Swift Fusion Beast. You can use it to transform into a Bluish White Horse. Requires Level 40，increases 1.2 movement speed, 3000 max HP, 4000 max MP, 19 physical defense, 18 magic defense; additional effect: you cannot use any skill.
+青白い馬スウィフトフュージョンビーストを含むクリスタル。青白い馬に変身するために使用できます。レベル40が必要です；移動速度が1.2増加し、最大HPが3000、最大MPが4000、物理防御が19、魔法防御が18増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Bluish White Horse—Cloud Swift Fusion Beast. You can use it to transform into a Bluish White Horse—Cloud. Requires Level 45，increases 1.3 movement speed, 3000 max HP, 4000 max MP, 19 physical defense, 18 magic defense; additional effect: you cannot use any skill.
+青白い馬—クラウドスウィフトフュージョンビーストを含むクリスタル。青白い馬—クラウドに変身するために使用できます。レベル45が必要です；移動速度が1.3増加し、最大HPが3000、最大MPが4000、物理防御が19、魔法防御が18増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Nightmare Beast Swift Fusion Beast. You can use it to transform into a Nightmare Beast. Requires Level 70，increases 1.6 movement speed, 7130 max HP, 9650 max MP, 44 physical defense, 43 magic defense; additional effect: you cannot use any skill.
+ナイトメアビーストスウィフトフュージョンビーストを含むクリスタル。ナイトメアビーストに変身するために使用できます。レベル70が必要です；移動速度が1.6増加し、最大HPが7130、最大MPが9650、物理防御が44、魔法防御が43増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Nightmare of Ice Swift Fusion Beast. You can use it to transform into a Nightmare of Ice. Requires Level 70，increases 1.7 movement speed, 7130 max HP, 9650 max MP, 44 physical defense, 43 magic defense; additional effect: you cannot use any skill.
+氷のナイトメアスウィフトフュージョンビーストを含むクリスタル。氷のナイトメアに変身するために使用できます。レベル70が必要です；移動速度が1.7増加し、最大HPが7130、最大MPが9650、物理防御が44、魔法防御が43増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Nightmare of Fire Swift Fusion Beast. You can use it to transform into a Nightmare of Fire. Requires Level 70，increases 1.7 movement speed, 7130 max HP, 9650 max MP, 44 physical defense, 43 magic defense; additional effect: you cannot use any skill.
+火のナイトメアスウィフトフュージョンビーストを含むクリスタル。火のナイトメアに変身するために使用できます。レベル70が必要です；移動速度が1.7増加し、最大HPが7130、最大MPが9650、物理防御が44、魔法防御が43増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Nightmare of Blood Swift Fusion Beast. You can use it to transform into a Nightmare of Blood. Requires Level 70，the transformation does not cost any fusion power, increases 1.7 movement speed, 7130 max HP, 9650 max MP, 44 physical defense, 43 magic defense; additional effect: you cannot use any skill.
+血のナイトメアスウィフトフュージョンビーストを含むクリスタル。血のナイトメアに変身するために使用できます。レベル70が必要です；変身にはフュージョンパワーがかかりません；移動速度が1.7増加し、最大HPが7130、最大MPが9650、物理防御が44、魔法防御が43増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Wind Chaser Swift Fusion Beast. You can use it to transform into a Wind Chaser. Requires Level 70，increases 2 movement speed, 12000 max HP, 16300 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+ウィンドチェイサースウィフトフュージョンビーストを含むクリスタル。ウィンドチェイサーに変身するために使用できます。レベル70が必要です；移動速度が2増加し、最大HPが12000、最大MPが16300、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Wind Chaser—Precipice Swift Fusion Beast. You can use it to transform into a Wind Chaser—Precipice. Requires Level 70，increases 2.1 movement speed, 12000 max HP, 16300 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+ウィンドチェイサー—プリシピススウィフトフュージョンビーストを含むクリスタル。ウィンドチェイサー—プリシピスに変身するために使用できます。レベル70が必要です；移動速度が2.1増加し、最大HPが12000、最大MPが16300、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Wind Chaser—Shadow Swift Fusion Beast. You can use it to transform into a Wind Chaser—Shadow. Requires Level 70，increases 2.1 movement speed, 12000 max HP, 16300 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+ウィンドチェイサー—シャドウスウィフトフュージョンビーストを含むクリスタル。ウィンドチェイサー—シャドウに変身するために使用できます。レベル70が必要です；移動速度が2.1増加し、最大HPが12000、最大MPが16300、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Wind Chaser—Mist Swift Fusion Beast. You can use it to transform into a Wind Chaser—Mist. Requires Level 70，the transformation does not cost any fusion power, increases 2.1 movement speed, 12000 max HP, 16300 max MP, 75 physical defense, 73 magic defense; additional effect: you cannot use any skill.
+ウィンドチェイサー—ミストスウィフトフュージョンビーストを含むクリスタル。ウィンドチェイサー—ミストに変身するために使用できます。レベル70が必要です；変身にはフュージョンパワーがかかりません；移動速度が2.1増加し、最大HPが12000、最大MPが16300、物理防御が75、魔法防御が73増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Small Wind Chaser Swift Fusion Beast. You can use it to transform into a Small Wind Chaser. Requires Level 55，increases 1.4 movement speed, 6000 max HP, 8000 max MP, 37 physical defense, 36 magic defense; additional effect: you cannot use any skill.
+スモールウィンドチェイサースウィフトフュージョンビーストを含むクリスタル。スモールウィンドチェイサーに変身するために使用できます。レベル55が必要です；移動速度が1.4増加し、最大HPが6000、最大MPが8000、物理防御が37、魔法防御が36増加します；追加効果：スキルを使用できません。
+
+A crystal containing a Fire-Capped Tit Swift Fusion Beast. You can use it to transform into a Fire-Capped Tit. Requires Level 90, increases 2.4 movement speed, 16800 max HP, 22800 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+火冠シジュウカラスのスウィフトフュージョンビーストを含むクリスタル。火冠シジュウカラスに変身するために使用できます。レベル90が必要です。移動速度が2.4増加し、最大HPが16800、最大MPが22800、物理防御が105、魔法防御が102増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Blue fire plume Swift Fusion Beast. You can use it to transform into a Blue fire plume. Requires Level 95, increases 2.5 movement speed, 16800 max HP, 22800 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+青い炎の羽根のスウィフトフュージョンビーストを含むクリスタル。青い炎の羽根に変身するために使用できます。レベル95が必要です。移動速度が2.5増加し、最大HPが16800、最大MPが22800、物理防御が105、魔法防御が102増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Black fire plume Swift Fusion Beast. You can use it to transform into a Black fire plume. Requires Level 95, increases 2.6 movement speed, 16800 max HP, 22800 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+黒い炎の羽根のスウィフトフュージョンビーストを含むクリスタル。黒い炎の羽根に変身するために使用できます。レベル95が必要です。移動速度が2.6増加し、最大HPが16800、最大MPが22800、物理防御が105、魔法防御が102増加します。追加効果：スキルを使用できません。
+
+A crystal containing a White fire plume Swift Fusion Beast. You can use it to transform into a White fire plume. Requires Level 95, the transformation does not cost any fusion power, increases 2.6 movement speed, 16800 max HP, 22800 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+白い炎の羽根のスウィフトフュージョンビーストを含むクリスタル。白い炎の羽根に変身するために使用できます。レベル95が必要です。変身には融合パワーがかかりません。移動速度が2.6増加し、最大HPが16800、最大MPが22800、物理防御が105、魔法防御が102増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Unicorn Swift Fusion Beast. You can use it to transform into a Unicorn. Requires Level 100, increases 3 movement speed, 20200 max HP, 27400 max MP, 126 physical defense, 123 magic defense; additional effect: you cannot use any skill.
+ユニコーンのスウィフトフュージョンビーストを含むクリスタル。ユニコーンに変身するために使用できます。レベル100が必要です。移動速度が3増加し、最大HPが20200、最大MPが27400、物理防御が126、魔法防御が123増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Unicorn—Lightning Swift Fusion Beast. You can use it to transform into a Unicorn—Lightning. Requires Level 100, increases 3.1 movement speed, 20200 max HP, 27400 max MP, 126 physical defense, 123 magic defense; additional effect: you cannot use any skill.
+ユニコーン—ライトニングのスウィフトフュージョンビーストを含むクリスタル。ユニコーン—ライトニングに変身するために使用できます。レベル100が必要です。移動速度が3.1増加し、最大HPが20200、最大MPが27400、物理防御が126、魔法防御が123増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Unicorn—Light Chaser Swift Fusion Beast. You can use it to transform into a Unicorn—Light Chaser. Requires Level 100, increases 3.2 movement speed, 20200 max HP, 27400 max MP, 126 physical defense, 123 magic defense; additional effect: you cannot use any skill.
+ユニコーン—ライトチェイサーのスウィフトフュージョンビーストを含むクリスタル。ユニコーン—ライトチェイサーに変身するために使用できます。レベル100が必要です。移動速度が3.2増加し、最大HPが20200、最大MPが27400、物理防御が126、魔法防御が123増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Unicorn Swift Fusion Beast. You can use it to transform into a Unicorn. Requires Level 100, the transformation does not cost any fusion power, increases 3.2 movement speed, 20200 max HP, 27400 max MP, 126 physical defense, 123 magic defense; additional effect: you cannot use any skill.
+ユニコーンのスウィフトフュージョンビーストを含むクリスタル。ユニコーンに変身するために使用できます。レベル100が必要です。変身には融合パワーがかかりません。移動速度が3.2増加し、最大HPが20200、最大MPが27400、物理防御が126、魔法防御が123増加します。追加効果：スキルを使用できません。
+
+A crystal containing a Rock Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Rock Spirit. Requires Level 40; increases 4300 max HP, 5800 max MP, 33 physical attack, 32 magic attack, 22 physical defense, 21 magic defense.
+岩の精霊（フィエルスフュージョンビースト）を含むクリスタル。岩の精霊の姿を得るために使用できます。レベル40が必要です。最大HPが4300、最大MPが5800、物理攻撃が33、魔法攻撃が32、物理防御が22、魔法防御が21増加します。
+
+A crystal containing an Ice Scale Leopard (Fierce Fusion Beast). You can use it to transform into an Ice Scale Leopard. Requires Level 65; increases 7200 max HP, 9900 max MP, 57 physical attacks, 56 magic attacks, 38 physical defense, 37 magic defense.
+氷鱗ヒョウ（フィエルスフュージョンビースト）を含むクリスタル。氷鱗ヒョウに変身するために使用できます。レベル65が必要です。最大HPが7200、最大MPが9900、物理攻撃が57、魔法攻撃が56、物理防御が38、魔法防御が37増加します。
+
+A crystal containing a Ghost baby (Fierce Fusion Beast). You can use it to obtain the aspect of Ghost baby. Requires Level 80; increases 12100 max HP, 16400 max MP, 95 physical attacks, 92 magic attacks, 63 physical defense, 61 magic defense.
+ゴーストベビー（フィエルスフュージョンビースト）を含むクリスタル。ゴーストベビーの姿を得るために使用できます。レベル80が必要です。最大HPが12100、最大MPが16400、物理攻撃が95、魔法攻撃が92、物理防御が63、魔法防御が61増加します。
+
+A crystal containing a Shadow Wolf (Fierce Fusion Beast). You can use it to transform into a Shadow Wolf. Requires Level 90; increases 17100 max HP, 23200 max MP, 134 physical attacks, 131 magic attacks, 89 physical defense, 87 magic defense.
+影狼（フィエルスフュージョンビースト）を含むクリスタル。影狼に変身するために使用できます。レベル90が必要です。最大HPが17100、最大MPが23200、物理攻撃が134、魔法攻撃が131、物理防御が89、魔法防御が87増加します。
+
+A crystal containing an Angel Baby (Fierce Fusion Beast). You can use it to obtain the aspect of Angel Baby. Requires Level 100; increases 24300 max HP, 32900 max MP, 189 physical attacks, 185 magic attacks, 126 physical defense, 123 magic defense.
+天使の赤ちゃん（フィエルスフュージョンビースト）を含むクリスタル。天使の赤ちゃんの姿を得るために使用できます。レベル100が必要です。最大HPが24300、最大MPが32900、物理攻撃が189、魔法攻撃が185、物理防御が126、魔法防御が123増加します。
+
+A crystal containing an Iron Beetle (Fierce Fusion Beast). You can use it to transform into an Iron Beetle. Requires Level 45; increases 3000 max HP, 4000 max MP, 29 physical attacks, 27 magic attacks, 19 physical defense, 18 magic defense.
+鉄甲虫（フィエルスフュージョンビースト）を含むクリスタル。鉄甲虫に変身するために使用できます。レベル45が必要です。最大HPが3000、最大MPが4000、物理攻撃が29、魔法攻撃が27、物理防御が19、魔法防御が18増加します。
+
+A crystal containing a Firefly (Fierce Fusion Beast). You can use it to transform into a Firefly. Requires Level 50; increases 3500 max HP, 4800 max MP, 33 physical attacks, 32 magic attacks, 22 physical defense, 21 magic defense.
+ホタル（フィエルスフュージョンビースト）を含むクリスタル。ホタルに変身するために使用できます。レベル50が必要です。最大HPが3500、最大MPが4800、物理攻撃が33、魔法攻撃が32、物理防御が22、魔法防御が21増加します。
+
+A crystal containing a Werewolf (Fierce Fusion Beast). You can use it to transform into a Werewolf. Requires Level 65; increases 6000 max HP, 8100 max MP, 57 physical attacks, 56 magic attacks, 38 physical defense, 37 magic defense.
+狼男（フィエルスフュージョンビースト）を含むクリスタル。狼男に変身するために使用できます。レベル65が必要です。最大HPが6000、最大MPが8100、物理攻撃が57、魔法攻撃が56、物理防御が38、魔法防御が37増加します。
+
+A crystal containing a Sea Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Sea Spirit. Requires Level 65; increases 6000 max HP, 8100 max MP, 57 physical attacks, 56 magic attacks, 38 physical defense, 37 magic defense.
+海の精霊（フィエルスフュージョンビースト）を含むクリスタル。海の精霊の姿を得るために使用できます。レベル65が必要です。最大HPが6000、最大MPが8100、物理攻撃が57、魔法攻撃が56、物理防御が38、魔法防御が37増加します。
+
+A crystal containing a Minotaur (Fierce Fusion Beast). You can use it to transform into a Minotaur. Requires Level 80; increases 10000 max HP, 13600 max MP, 95 physical attacks, 92 magic attacks, 63 physical defense, 61 magic defense.
+ミノタウロス（フィエルスフュージョンビースト）を含むクリスタル。ミノタウロスに変身するために使用できます。レベル80が必要です。最大HPが10000、最大MPが13600、物理攻撃が95、魔法攻撃が92、物理防御が63、魔法防御が61増加します。
+
+A crystal containing a Blood Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Blood Spirit. Requires Level 80; increases 10000 max HP, 13600 max MP, 95 physical attacks, 92 magic attacks, 63 physical defense, 61 magic defense.
+血の精霊（フィエルスフュージョンビースト）を含むクリスタル。血の精霊の姿を得るために使用できます。レベル80が必要です。最大HPが10000、最大MPが13600、物理攻撃が95、魔法攻撃が92、物理防御が63、魔法防御が61増加します。
+
+A crystal containing a Mammoth (Fierce Fusion Beast). You can use it to transform into a Mammoth. Requires Level 90; increases 14200 max HP, 19300 max MP, 134 physical attacks, 131 magic attacks, 89 physical defense, 87 magic defense.
+マンモス（フィエルスフュージョンビースト）を含むクリスタル。マンモスに変身するために使用できます。レベル90が必要です。最大HPが14200、最大MPが19300、物理攻撃が134、魔法攻撃が131、物理防御が89、魔法防御が87増加します。
+
+A crystal containing a Flame Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Flame Spirit. Requires Level 90; increases 14200 max HP, 19300 max MP, 134 physical attacks, 131 magic attacks, 89 physical defense, 87 magic defense.
+炎の精霊（フィエルスフュージョンビースト）を含むクリスタル。炎の精霊の姿を得るために使用できます。レベル90が必要です。最大HPが14200、最大MPが19300、物理攻撃が134、魔法攻撃が131、物理防御が89、魔法防御が87増加します。
+
+A crystal containing a Glacier Giant Bear (Fierce Fusion Beast). You can use it to transform into a Glacier Giant Bear. Requires Level 85; increases 14400 max HP, 19500 max MP, 134 physical attacks, 131 magic attacks, 89 physical defense, 87 magic defense.
+氷河の巨大熊（フィエルスフュージョンビースト）を含むクリスタル。氷河の巨大熊に変身するために使用できます。レベル85が必要です。最大HPが14400、最大MPが19500、物理攻撃が134、魔法攻撃が131、物理防御が89、魔法防御が87増加します。
+
+A crystal containing a Polar Ice Bear (Fierce Fusion Beast). You can use it to transform into a Polar Ice Bear. Requires Level 70; increases 10200 max HP, 13800 max MP, 95 physical attacks, 92 magic attacks, 63 physical defense, 61 magic defense.
+北極の氷熊（フィエルスフュージョンビースト）を含むクリスタル。北極の氷熊に変身するために使用できます。レベル70が必要です。最大HPが10200、最大MPが13800、物理攻撃が95、魔法攻撃が92、物理防御が63、魔法防御が61増加します。
+
+A crystal containing a Frost Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Frost Spirit. Requires Level 100; increases 20000 max HP, 27000 max MP, 189 physical attacks, 185 magic attacks, 126 physical defense, 123 magic defense.
+霜の精霊（フィエルスフュージョンビースト）を含むクリスタル。霜の精霊の姿を得るために使用できます。レベル100が必要です。最大HPが20000、最大MPが27000、物理攻撃が189、魔法攻撃が185、物理防御が126、魔法防御が123増加します。
+
+What do you want to say now you have picked up a huge loudspeaker?
+巨大なスピーカーを手に入れた今、何を言いたいですか？
+
+What do you want to say now you have picked up a small loudspeaker?
+小さなスピーカーを手に入れた今、何を言いたいですか？
+
+What do you want to say now you have picked up a mini speaker?
+ミニスピーカーを手に入れた今、何を言いたいですか？
+
+What do you want to say now you have picked up a microphone?
+マイクを手に入れた今、何を言いたいですか？
+
+Please write down your blessings
+あなたの祝福を書いてください。
+
+Please write down your wishes
+あなたの願いを書いてください。
+
+Please deliver your vow of love to your partner in front of all guests
+すべてのゲストの前でパートナーへの愛の誓いを伝えてください。
+
+Please send your best wishes to the new couple
+新しいカップルに最高の祝福を送ってください。

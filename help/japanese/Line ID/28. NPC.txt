@@ -1,0 +1,965 @@
+//Grand Duke Trini, the Lord of Sunset City
+5371
+Young one, are you here to accept the quest?
+
+//General Paul of Sunset City
+5376
+Greetings, warrior, are you here to reset your Talents or collect bounties?
+
+//Guardsman Jack of Perwind Town
+5381
+This goddamn bat is horrifying! It has sharp claws and sucks blood. A lot of our men died, but we still couldn't take it down. We could only trap it in the shrine for the time being and wait for Grand Duke Trini to send stronger warriors.
+This goddamn bat is horrifying! It can catch people with sharp claws and suck blood. A lot of our men died, but we still couldn't take it down. We could only trap it in the shrine for the time, wait for more powerful warriors Grand Duke Trini may send.
+
+//Marquis Sami, the Lord of White Sand City
+Hello, warrior, do you want to accept a quest?
+
+
+//Colonel Demar of White Sand City
+5386
+Foreigner, do you wish to reset your Talents? Or are you here to collect bounties?
+
+//Master Drunk (middle-aged man, rough voice)
+15914
+Got any Kumiss?
+15915
+smack lips) Hmm...I'm aching for another drink.
+Alexia's wine is the best!
+Remember to bring me wine...
+15918
+nom nom) Em...huh? How do you have two heads?
+15920
+After the player gives Kumiss: (Drinking sound) Ah! I love it!
+
+//Priest Michelle (middle-aged man, loving tone)
+13068
+Marriage is the will of God.
+13069
+Are you willing to enter the altar of holy matrimony with your lover?
+13070
+God has bound you together. No one may break you apart.
+
+////Sealed Land
+//酒保（随性的中年男性）
+//Bartender (casual middle-aged man)
+17202
+Come have a drink, youngster.
+17203
+I've got nothing but the finest wine from the Sealed Land.
+17204
+See ya!
+17205
+Come for a few drinks next time.
+17206
+Get some demon meat for the drink next time.
+17207
+Oh. you want a drink?
+17199
+These days are so boring.
+17200：唉，咋那么多烦人的事儿啊。
+Why so many annoying things!
+17201：不知道那些老哥们儿现在过的咋样了。
+I wonder how my old friends are doing now. 
+
+////Karon Village
+
+//Pharmacist Mia (gentle young woman)
+15902
+Need my help?
+15907
+Welcome.
+15904
+Take care.
+15905
+Hope we meet again.
+15906
+Don't be a stranger.
+
+//Traveling Merchant (young woman)
+13071
+Necklace, ring, Hand string, you need it, I have it!
+
+////Mario Basin
+
+//Pharmacist Dani (graceful young woman)
+15693
+Greetings. Lovely weather today.
+15694
+Is there anything you need?
+15695
+Take care.
+15696
+Thank you for your patronage.
+15697
+Hope you found what you were looking for.
+15698
+I hope you can find what you want.
+
+//Black Smith Zarachi (old-aged man, old hoarse voice)
+15718
+Shining weapons and armors really put a smile on my face.
+15719
+Haven't seen you for a while.
+15720
+Until we meet again.
+15721
+Do come back when you have the chance.
+15722
+Don't forget to spread the word, I'm the best blacksmith there is!
+15723
+As long as I live, the fire in the furnace will not go out.
+15724
+You are sure to find what you need.
+15725
+I only make the best equipments.
+15726
+If you're looking for the best blacksmith, look no further than me.
+
+//Master Catherine (young woman, energetic)
+15219
+Training sure is fun. Would you like to train with me?
+15220
+See you next time!
+15221
+I will do my best to help you.
+
+//Shard Market (middle-aged man, vigorous and courteous)
+16285
+Greetings.
+16286
+Welcome, adventurer.
+16287
+How may I be of service?
+16288
+Do you wish to make a purchase?
+16289
+What will it be?
+16290
+Anything you need?
+
+//Civilian Kirk (little boy)
+15929
+Nice to meet you.
+15930
+Maybe it's not a coincidence that we brushed past each other!
+
+//Mayor Maureen (middle-aged male, muttering with a slight sigh)
+15925
+This scent, it's just like last time.
+15926
+The nightmare~~isn't over yet. Perhaps~~it has just begun.
+
+//Guard Captain Martin (Middle-aged man, strong tone)
+15922
+You're late!
+15923
+Victory will be ours! We will live to see another day!
+15924
+To pity the enemy is to be cruel to yourself!
+
+////Central Plains
+//Competition Host Chun Li (young woman, warm smile)
+16250 and 16251
+I'm Chun Li, from Central Kingdom.
+16252 and 16253
+I am a master of Kung Fu, but smiling is my killer move.
+16254 and 16255
+Hope I've impressed you with my smile. I'll be here waiting for you.
+16256 and 16257
+Hey adventurer, if you want the information of various events, I'm your girl!
+16258 and 16259
+You know it when you see my buns, I'm everyone's favorite Chun Li!
+16802 and 16803
+Always glad to help.
+16804 and 16805
+So, what event do you want to know about?
+
+//Bank Receptionist Tamara (young middle-aged woman, kind and generous)
+16206
+How nice to see you!
+16207
+Be safe out there!
+
+//Blacksmith Orisun (grumpy old man)
+16039
+Don't you have anything else better to do?
+16040
+We'll talk next time.
+16041
+It's a dangerous world, be careful out there!
+16042
+Treat your equipment as you would your lover!
+16043
+We have high hopes for you, kid!
+16044
+Damaged equipments? Just leave them to me.
+
+//Artificer Milena (Middle-aged woman, full of wisdom)
+15714
+Welcome.
+15715
+Magic is in fact the flow of nature.
+15716
+Farewell!
+15717
+May magic surround you.
+
+//Pharmacist Phillips (old middle-aged man, sincere and earnest)
+13082
+I'm the best alchemist around.
+13083
+Science is truly magnificent.
+13084
+Have a nice day!
+13085
+Take care on your journey!
+13086
+I'll try my best to help.
+
+//Grocer John (young man, very polite)
+16171
+Welcome, it's so good to see you.
+16172
+If you need anything, come find me anytime.
+
+//Chef Li (middle-aged male, shouting)
+15712
+Toppings are on discount today!
+15713
+Treat your food as you would your lover!
+
+//Pet Trainer Shen (Old woman, talks slowly)
+15966
+What? You still don't have a pet?
+15967
+Have a look at this pet, isn't she amazing?
+15968
+Please take good care of your pets.
+15969
+The adventure will be much easier with pets on your side.
+15971
+Please come again.
+
+//Master Pepper (Young middle-aged woman, mischievous elder sister)
+16213
+Come here!
+16214
+You're just in time, I'm so bored right now.
+16215
+If you have any question, come here and ask me anytime.
+16216
+Aren't you a little cutie.
+16217
+Hope you can grow up a bit next time we meet.
+16218
+Yes, cutie?
+16219
+You want to know the things you can learn?
+16220
+Hahaha, you're angry because I treat you like a child?
+
+//Master Elizabeth (meddle-aged woman, cold tone)
+15733
+We are the artists who manipulate magic.
+15734
+Mana is everywhere. Do you want to become its master?
+15735
+Magic is the art of manipulating mana.
+15736
+Come find me when you possess greater mana.
+15737
+The root of magic is the mana hidden in nature. You need to feel its flow with heart.
+15738
+Yes?
+
+//Master Kakarot (middle-aged man)
+15663
+What can I do for you?
+15664
+Skills are difficult to learn, but once learned, they will benefit your whole life.
+15665
+Are you ready to learn new skills?
+15666
+Remember, determination is stronger than sword in battle.
+15667
+I can teach you these skills.
+
+//Sister Mary (Young middle-aged woman, pious tone)
+16074
+May you live a happy life with the one you love.
+16075
+Please cherish your love.
+
+//Shard Market (middle-aged man, calm and reliable)
+15685
+Welcome.
+15686
+What do you need?
+15687
+You're from the north, aren't you?
+15688
+If you want to trade, you can rest assured.
+15689
+Look after yourself.
+15690
+I hope the seller and the buyer can both be satisfied.
+15691
+Have you found anything to your liking?
+15692
+Are you here to sell? Or here to buy?
+
+//Chancellor Bren (middle-aged man)
+16325
+Behave yourself!
+16326
+The king seems pleased, you, come here.
+16327
+Have you thought about joining the military?
+16328
+Facing death constantly will make you stronger.
+16329
+I've heard many stories about you.
+16330
+Speak your mind.
+
+//Weapon Merchant Gordon (strong old middle-aged man)
+13062
+Anything catches your eye?
+13063
+Weapons are your best partner when you know them through and through.
+13064
+Look after yourself.
+13065
+Maintain your weapon properly.
+13066
+You can't find products this good anywhere else.
+13067
+Hope you're interested in something.
+
+//Armor Merchant Jara (young woman, always smiling, seems happy)
+15699
+Oh, Howdy!
+15700
+Care to buy something?
+15701
+Be sure to come back next time.
+15702
+See anything you like?
+15703
+Please have a look.
+
+//Jewelry Merchant Red (charming young woman)
+15974
+Hey, welcome!
+15975
+I hope I see you again, warrior.
+15976
+Is beauty also a crime?
+15977
+You name it, I have it.
+
+//Villager Natasha (a girl who wants a boyfriend)
+15980
+Do you know any handsome guys? Introduce them to me!
+15982
+Hope you find your love.
+15984
+Ah! My prince, where are you?
+
+//Granny Skycloth (Old woman, gives kind advice)
+16109
+You should wear more clothes to protect yourself.
+16111
+: Hope you don't find me nagging.
+
+// Civilian Jasmine (Optimistic young woman)
+16332
+Are you here to chat? Oh, how delightful!
+16333
+Leaving so soon? I wanted to chat some more with you.
+
+////Fertile Wilds
+//Pharmacist Zoma (young middle-aged woman, kind and generous, always smiling)
+16266
+Greetings.
+16267
+Welcome.
+16268
+It's so good to see you.
+16269
+Hope I can see you again.
+16270
+Take care now.
+
+//Orc Blacksmith Dyson (Rough male Orc)
+16358
+May your blade always be sharp.
+16359
+Fight for victory.
+16360
+Something on your mind?
+16361
+Yes, friend?
+16362
+How may I be of service?
+16355
+Roho
+16356
+Moga
+16357
+Rocta
+
+Camp Administrator Sudon (Young Male)
+16353
+Ah, it's you.
+16354
+Be careful.
+////Tuneful Wetland
+
+//Lord Garcina (Serious young middle-aged woman)
+16113
+Always ready for danger.
+16114
+We must be calm in urgent situations.
+16115
+Friends today might be foes tomorrow.
+16116
+May you be victorious in battle.
+16117
+Don't let your guard down.
+16118
+Gather your courage and fight.
+
+//Master Antino (young middle-aged man)
+15746
+You seem resilient.
+15747
+Are you the famous adventurer I keep hearing about lately?
+15748
+You shouldn't always stay in the city.
+15749
+Want to learn new skills?
+15750
+I hope to see you on the battlefield next time.
+15751
+Painful training will reward you with victories in battle.
+15752
+Never stop your training.
+15753
+Let's see if there's any skill you can learn.
+
+//Master Ecilian (gentle young woman, always smiling)
+16271
+I see you want to learn more advanced sword techniques.
+16272
+Do you want to learn new sword techniques?
+16273
+Do you have any questions for me?
+16274
+I miss the elves' songs.
+16275
+We're here to make sure everyone stays alive.
+16276
+Sometimes, water can penetrate stones.
+16277
+Sometimes, death is inevitable in order to protect lives.
+16278
+Your heart is your strongest weapon.
+
+Blacksmith Marisol (old man, straightforward and honest)
+16058
+Hey, warrior, come have a drink.
+16059
+Hey, if you know any cute girls...
+16060
+Don't you think mages are adorable? Hahahahahahaha!
+16061
+If you want to grab a drink, come find me anytime.
+16062
+What do you want to make?
+16064
+Oh, I'm getting dizzy. Burp (hiccup)
+16065
+Where's the wine? Minadi, go fetch me some wine.
+16066
+Minadi makes the best Kumiss.
+
+//Artificer Elana (young middle-aged woman, casual tone)
+16161
+I've been waiting for you all day.
+16162
+Hey there, kiddie.
+16163
+Heh-heh, take care now.
+16164
+I'll see you next time.
+16165
+Just leave it to me.
+
+//Pharmacist Evan (young male, slightly smiling.
+16012
+Alchemy is an amazing art.
+16013
+Everything here is worth studying.
+16014
+Are you familiar with alchemy too? How fortunate, I couldn't find anyone to discuss it with.
+16015
+The adventuring life must be difficult.
+16016
+I have a feeling you'll come to me again.
+16017
+Time to work on new potions.
+16018
+Writing a journal is a good habit, you can try it too.
+
+//Grocer Lana (young woman, energetic, always smiling)
+15979
+Welcome! Wow, that's amazing.
+15981
+Bye-bye.
+15983
+Why don't you stay around a bit longer?
+
+//Chef Ava (charming middle-aged woman)
+16000
+Welcome.
+16001
+Care for a cup of savory Elven Essence?
+16002
+How about a cold beer?
+16003
+Take Care!
+16004
+I wish I could drink the day away.
+16005
+What's on your mind?
+
+//Armor Merchant Samantha (Middle-aged woman, mature and kind)
+16279
+Greetings.
+16280
+Welcome, adventurer.
+16281
+How may I be of service?
+16282
+Do you wish to make a purchase?
+16283
+What will it be?
+16284
+Anything you need?
+
+//Jewelry Merchant Yuna (young middle-aged woman, enthusiastic)
+15987
+Greetings.
+15988
+Hey, come take a look here!
+15989
+Hope you'll come next time!
+15990
+Sure you don't want to take another look?
+15991
+May you be blessed with fortune.
+15992
+Business was really good today.
+15993
+Please have a look!
+
+//Pet Trainer Isabella (young middle-aged woman, gentle)
+16221
+Long time no see.
+16222
+Good bye.
+
+//Bank Receptionist Talina (Cute girl, always smiling)
+16204
+Greetings.
+16205
+Please take care.
+
+////Glorious Grassland
+
+//Moon Princess Eponine (young woman, always smiling, chanting tone)
+16097
+Nature is whispering to me.
+16098
+The Sky, the earth and the wind guide my path.
+16099
+My soul is drifting away with the clouds.
+16100
+Is that a smile or tears flowing in your eyes?
+16101
+Today the wind whispers to me, tomorrow the stars shine for me.
+16103
+Please don't hide your mood at the moment.
+16104
+Will you pursue eternal time?
+16105
+You can think of all this as destiny.
+
+//Priest Elder Johanna ( young middle-aged woman, quiet, slightly prayerful tone)
+15739
+Countless souls of nameless warriors rest in this place.
+15740
+I hear the voices of countless souls.
+15741
+I can feel the traces of those brave souls.
+15742
+Go and seek your destiny.
+15743
+I hope that one day, we can understand darkness.
+15744
+come on!
+15745
+i believe you can do it
+
+//Pharmacist Anna (young woman, always smiling)
+13052
+Hey there.
+13053
+It's good to see you.
+13054
+See you soon.
+13055
+Be sure to remember me.
+13056
+How can I help you?
+
+//Blacksmith Malcolm (old middle-aged man)
+16067
+Welcome.
+16068
+Hey...warrior.
+16069
+Treat your equipment as you would your lover!
+16070
+Have a nice day.
+16071
+May the spirits watch over you.
+16072
+May the power of the hammer be with you.
+16073
+I'm the best blacksmith there is.
+
+////High climbing grassland
+
+//Pope Saxon (middle-aged man, fierce)
+16175
+Huh?
+16176
+There are many new faces lately.
+16179
+What is it?
+
+//Master Federo (young middle-aged man)
+16235
+You want to learn combat skills?
+16236
+You can't improve your skills by breathing alone.
+16237
+I'm not the best swordsman, but my techniques are effective.
+16238
+Your weapon stance is actually not bad.
+16239
+You don't look like you're around here.
+16240
+Look after yourself.
+16241
+If my little brother were alive, he would be about your age.
+16242
+Hope the skills I've taught you can be of help.
+16243
+Something on your mind?
+
+//Master Galicia (Middle-aged woman, cold tone)
+15727
+You must always be careful when manipulating magic.
+15728
+Can you withstand such powerful magic?
+15729
+Magic doesn't dominate you, you dominate it.
+15730
+Good bye.
+15731
+Be stronger the next time we meet.
+15732
+What do you want to learn?
+
+//Pharmacist Magnus (middle-aged male)
+16173
+Welcome.
+16175
+Please take care.
+
+//Grocer Sam (Elderly old man)
+15213
+Cough...cough...
+15214
+Please come.
+15215
+I have nothing but the finest wares.
+15216
+Have a good day.
+15217
+Please be safe out there.
+15218
+Let me show you my prized collection.
+
+//Chef Granny Kaguya (Old woman, elderly and kind)
+16137
+Want to have a taste of my cuisine?
+16138
+How can I help you?
+16139
+Why are you here?
+16140
+You're getting mud all over the floor!
+16141
+You should go home.
+16142
+Sigh, we've got a lot of customers lately.
+16143
+Why are young people nowadays so impatient?
+16144
+Keep your voice down, I'm not deaf yet!
+
+//Blacksmith Senbei (middle-aged man)
+15959
+Want to see my equipment collection?
+15960
+Alright, take care now.
+15961
+Life sure is difficult.
+15962
+Sigh, when can I get rich!
+15963
+Sigh, how did I ended up here?
+15964
+I can handle simple repairs. Heh-heh...but not for free.
+15965
+Yes? I'm busy!
+
+//Bank receptionist Kuroba Kaito (young man, gentle and tender)
+16258
+You look lively today.
+16259
+My troubled thoughts become clearer when I see you.
+16261
+Hey, my friend, how can I help?
+16262
+I'm so happy to see you here.
+16263
+Feel free to come to me anytime.
+
+//Weapon Merchant Monchia (middle-aged man)
+16196
+Greetings.
+16197
+Bye-bye.
+16198
+Please take care.
+16199
+Hope you are well too.
+16200
+There seem to be a lot more foreigners in this place recently.
+16201
+What do you need?
+16203
+If it's okay, don't come and bother  me.
+
+//Armor Merchant Akizuki (cute girl)
+16019
+It's been a while, still remember me? Please come back often.
+16020
+Hey there handsome, I've got some good wares in stock.
+16021
+See you next time.
+16022
+Window-shopping is the worst.
+16023
+Come on, take a look!
+16024
+Aren't we old friends? Buy some more!
+16025
+What would you like to buy today?
+16026
+I've got everything you need, as long as you have coins.
+16027
+No credit allowed!
+
+//Jewelry Merchant Alpana (middle-aged woman, overweight)
+15994
+Hey there.
+15995
+Hahaha, aren't you a rare guest!
+15996
+Bye-bye.
+15997
+Don't get lost in the forest.
+15998
+You're going to leave empty-handed?
+15999
+It's all good stuff, please have a look.
+
+////hilly terrain
+//Blacksmith Zosia (old middle-aged woman, straightforward and honest)
+16046
+You want to go on an adventure? Then you should stock on some Epic equipment.
+16047
+Tell me if you want anything, I'll give you a discount.
+16048
+It's getting cold, remember to wear more clothes. Getting sick is not fun.
+16049
+My dear, I will avenge you.
+16050
+I can fix your damaged equipments anytime you like.
+
+//Master Shadow Thorn (Young middle-aged man, cunning and vicious)
+16031
+What do you want?
+16032
+When facing off a skilled rival...
+16033
+The so-called weapons...
+16034
+What is it you seek?
+16035
+You may leave.
+16036
+Strike without mercy.
+16037
+I love it when blood splatter.
+16038
+Always stay on guard.
+
+////secluded valley
+
+//Lord Barakhe (handsome young man)
+16983
+I serve to protect the Mist World.
+16977
+We welcome all visitors.
+16982
+If there's nothing else, please leave.
+16980
+Don't stir up trouble. Be safe out there.
+16981
+Your decision may change the future of the Mist World.
+16979
+What will the latecomers who enter the battlefield leisurely do? They will save their strength, and observe the situation.
+16978
+Yes?
+
+//Master Kenton (strong old middle-aged man)
+16052
+Greetings.
+16053
+Welcome, welcome!
+16054
+Look after yourself.
+16055
+Listen with your ears and strike with your heart.
+16056
+The blade cuts through the flesh, the heart cuts through the soul.
+16057
+The sword does not hesitate.
+
+//Blacksmith Sanchi (Old middle-aged man)
+16244
+Welcome.
+16245
+I've heard a lot about you.
+16246
+If you want to survive longer out there, you need to know the difference between recklessness and courage.
+16247
+The future is in the hands of you young people.
+16248
+I can still hear the shouts from that day.
+16249
+What do you need from me?
+
+//Pharmacist Mona Lisa
+16227
+Hello！
+16228
+I like animal, you too? 
+16229
+The weather is good, I feel good too.
+16230
+Are you here to see me?
+16231
+Bye!
+16232
+See you later! 
+16233
+Muah (blown kiss), hope you can come often.
+
+////black wasteland
+//药商莱萨（不耐烦的中青年女性）
+//Potion Merchant Leisa (young middle-aged woman, impatient)
+
+15947
+Huh? What's wrong?
+15948
+If you have something to say, say it.
+
+
+//Potion Merchant Magnus
+16177
+Knowledge can protect us.
+16178
+knowledge is the greatest weapon.
+
+//White Sand City master Maggie (middle-aged male)
+15647
+hello!
+15648
+You look in good spirits, child!
+15649
+Always keep your weapons sharp!
+15650
+Never relax.
+15651
+Practice more, then you'll not lose your life in battle.
+15652：
+Should work hard in exercising. 
+15653
+Do you want stronger strength?
+
+//Shard Marketplace in White Sand City
+16367
+Hi, how's it going? 
+16368
+
+Glad to do business with you.
+16369：啊，又一个潜在的客户。
+Ah, another potential client.
+16370：要么买东西，要么站远点儿。
+Buy something, or stand away.
+16371：祝你好运。
+Have a nice trip.
+16372：祝你一路顺风。
+Good luck with your journey.
+16373：保重。
+Take care.
+16374：我可是货真价实，童叟无欺。
+I'm the best and most honest businessman here.
+16375：我这里肯定有你想要的东西。
+I definitely have what you want here.
+16376：时间就是金钱，我的朋友。
+Time is money, my friend.
+
+//Chef Aunt Sun in gouging knife city
+16146：人是铁饭是钢，一顿不吃饿得慌。
+Food gives you power, hungry drives you to die.
+16147：哎哟，我刚打扫过地板就被你踩脏了！
+Ouch, you trampled on the floor just after I cleaned it!
+16148：把你那脏兮兮的手给我洗干净！
+Wash your dirty hands for me!
+16149：吃饭前别忘了先洗手。
+Don't forget to wash your hands before eating.
+16150：出门记得看路。
+See to yourself when going out.
+16151：下次来的时候，先给我拖鞋再进屋。哼！
+Next time you come, give me slippers before entering the house.
+16152：要保重身体，什么都没有健康重要。
+Take care of your body, nothing is as important as your health.

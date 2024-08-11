@@ -1,0 +1,1775 @@
+{c} got the  {s}; {s}  
+$1が{sub2{$2}sub2}を獲得しました; {sub2{$3}sub2}  
+
+tulle cape;{s}
+チュールケープ;{sub2{$1}sub2}
+
+iron sword;{s}
+鉄の剣;{sub2{$1}sub2}
+
+iron hammer;{s}
+鉄のハンマー;{sub2{$1}sub2}
+
+dagger;{s}
+ダガー;{sub2{$1}sub2}
+
+wooden bow;{s}
+木の弓;{sub2{$1}sub2}
+
+Ivy Staff;{s}
+蔦の杖;{sub2{$1}sub2}
+
+Ivy Scepter;{s}
+蔦のセプター;{sub2{$1}sub2}
+
+bronze helmet;{s}
+青銅のヘルメット;{sub2{$1}sub2}
+
+Bronze Shoulders;{s}
+青銅の肩甲;{sub2{$1}sub2}
+
+bronze armor;{s}
+青銅の鎧;{sub2{$1}sub2}
+
+Bronze Belt;{s}
+青銅のベルト;{sub2{$1}sub2}
+
+Bronze Boots;{s}
+青銅のブーツ;{sub2{$1}sub2}
+
+Bronze Leggings;{s}
+青銅のレギンス;{sub2{$1}sub2}
+
+gold ring (left);{s}
+金の指輪（左）;{sub2{$1}sub2}
+
+gold ring (right);{s}
+金の指輪（右）;{sub2{$1}sub2}
+
+silk hat;{s}
+シルクハット;{sub2{$1}sub2}
+
+silk cape;{s}
+シルクケープ;{sub2{$1}sub2}
+
+silk robe;{s}
+シルクローブ;{sub2{$1}sub2}
+
+silk belt;{s}
+シルクベルト;{sub2{$1}sub2}
+
+silk boots;{s}
+シルクブーツ;{sub2{$1}sub2}
+
+silk pants;{s}
+シルクパンツ;{sub2{$1}sub2}
+
+jade ring (left);{s}
+翡翠の指輪（左）;{sub2{$1}sub2}
+
+jade ring (right);{s}
+翡翠の指輪（右）;{sub2{$1}sub2}
+
+Sword of Fighter;{s}
+ファイターの剣;{sub2{$1}sub2}
+
+machete of Berserker;{s}
+バーサーカーのマチェーテ;{sub2{$1}sub2}
+
+Blade of Killer;{s}
+キラーの刃;{sub2{$1}sub2}
+
+Bow of chaser;{s}
+チェイサーの弓;{sub2{$1}sub2}
+
+Staff of Wisdom;{s}
+知恵の杖;{sub2{$1}sub2}
+
+Staff of Nature;{s}
+自然の杖;{sub2{$1}sub2}
+
+Scepter of Mercy;{s}
+慈悲のセプター;{sub2{$1}sub2}
+
+Scepter of Bones;{s}
+骨のセプター;{sub2{$1}sub2}
+
+fighter Helm;{s}
+ファイターのヘルム;{sub2{$1}sub2}
+
+fighter Shoulders;{s}
+ファイターの肩甲;{sub2{$1}sub2}
+
+fighter Armor;{s}
+ファイターの鎧;{sub2{$1}sub2}
+
+fighter Waistguard;{s}
+ファイターの腰当;{sub2{$1}sub2}
+
+fighter Boots;{s}
+ファイターのブーツ;{sub2{$1}sub2}
+
+fighter Legplates;{s}
+ファイターの脚甲;{sub2{$1}sub2}
+
+fighter Bracers;{s}
+ファイターの腕甲;{sub2{$1}sub2}
+
+fighter ring (left);{s}
+ファイターの指輪（左）;{sub2{$1}sub2}
+
+fighter ring (right);{s}
+ファイターの指輪（右）;{sub2{$1}sub2}
+
+Berserker Helm;{s}
+バーサーカーのヘルム;{sub2{$1}sub2}
+
+Berserker Shoulders;{s}
+バーサーカーの肩甲;{sub2{$1}sub2}
+
+Berserker Armor;{s}
+バーサーカーの鎧;{sub2{$1}sub2}
+
+Berserker Waistguard;{s}
+バーサーカーの腰当;{sub2{$1}sub2}
+
+Berserker Boots;{s}
+バーサーカーのブーツ;{sub2{$1}sub2}
+
+Berserker Legplates;{s}
+バーサーカーの脚甲;{sub2{$1}sub2}
+
+Berserker Bracers;{s}
+バーサーカーの腕甲;{sub2{$1}sub2}
+
+Berserker Ring (Left);{s}
+バーサーカーの指輪（左）;{sub2{$1}sub2}
+
+Berserker Ring (right);{s}
+バーサーカーの指輪（右）;{sub2{$1}sub2}
+
+killer Mask;{s}
+キラーのマスク;{sub2{$1}sub2}
+
+killer Cloak;{s}
+キラーのマント;{sub2{$1}sub2}
+
+killer Armor;{s}
+キラーの鎧;{sub2{$1}sub2}
+
+killer Waistguard;{s}
+キラーの腰当;{sub2{$1}sub2}
+
+killer Boots;{s}
+キラーのブーツ;{sub2{$1}sub2}
+
+killer Leggings;{s}
+キラーのレギンス;{sub2{$1}sub2}
+
+killer Gloves;{s}
+キラーの手袋;{sub2{$1}sub2}
+
+Killing Ring (Left);{s}
+キリングリング（左）;{sub2{$1}sub2}
+
+Killing Ring (Right);{s}
+キリングリング（右）;{sub2{$1}sub2}
+
+chaser Hat;{s}
+チェイサーの帽子;{sub2{$1}sub2}
+
+chaser Cloak;{s}
+チェイサーのマント;{sub2{$1}sub2}
+
+chaser jacket;{s}
+チェイサーのジャケット;{sub2{$1}sub2}
+
+chaser Waistguard;{s}
+チェイサーの腰当;{sub2{$1}sub2}
+
+chaser Riding Boots;{s}
+チェイサーの乗馬ブーツ;{sub2{$1}sub2}
+
+chaser Leather Pants;{s}
+チェイサーの革パンツ;{sub2{$1}sub2}
+
+chaser Gauntlets;{s}
+チェイサーのガントレット;{sub2{$1}sub2}
+
+Eagle eye ring (left);{s}
+イーグルアイリング（左）;{sub2{$1}sub2}
+
+Eagle eye ring (right);{s}
+イーグルアイリング（右）;{sub2{$1}sub2}
+
+Wisdom Hat;{s}
+知恵の帽子;{sub2{$1}sub2}
+
+magic from Wisdom;{s}
+知恵の魔法;{sub2{$1}sub2}
+
+Wisdom Cloak;{s}
+知恵のマント;{sub2{$1}sub2}
+
+Wisdom Robe;{s}
+知恵のローブ;{sub2{$1}sub2}
+
+Wisdom Belt;{s}
+知恵のベルト;{sub2{$1}sub2}
+
+Wisdom Boots;{s}
+知恵のブーツ;{sub2{$1}sub2}
+
+Wisdom Pants;{s}
+知恵のパンツ;{sub2{$1}sub2}
+
+Wisdom bracelet;{s}
+知恵のブレスレット;{sub2{$1}sub2}
+
+Wisdom Ring (left);{s}
+知恵の指輪（左）;{sub2{$1}sub2}
+
+Wisdom Ring (right);{s}
+知恵の指輪（右）;{sub2{$1}sub2}
+
+colorful wreath;{s}
+カラフルな花輪;{sub2{$1}sub2}
+
+Leaf wings;{s}
+リーフウィング;{sub2{$1}sub2}
+
+green robe;{s}
+グリーンローブ;{sub2{$1}sub2}
+
+vine Belt;{s}
+ツタのベルト;{sub2{$1}sub2}
+
+lotus Boots;{s}
+ロータスブーツ;{sub2{$1}sub2}
+
+green hakama;{s}
+グリーン袴;{sub2{$1}sub2}
+
+nature bracelet;{s}
+自然のブレスレット;{sub2{$1}sub2}
+
+nature ring (left);{s}
+自然の指輪（左）;{sub2{$1}sub2}
+
+nature ring (right);{s}
+自然の指輪（右）;{sub2{$1}sub2}
+
+charity Hat;{s}
+慈善の帽子;{sub2{$1}sub2}
+
+benevolence Cloak;{s}
+慈愛のマント;{sub2{$1}sub2}
+
+Fraternity Robe;{s}
+友愛のローブ;{sub2{$1}sub2}
+
+Kindness Girdle;{s}
+親切な帯;{sub2{$1}sub2}
+
+Compassion Boots;{s}
+慈悲のブーツ;{sub2{$1}sub2}
+
+Fraternity Leggings;{s}
+友愛のレギンス;{sub2{$1}sub2}
+
+loving Bracelet;{s}
+愛のブレスレット;{sub2{$1}sub2}
+
+loving ring (left);{s}
+愛の指輪（左）;{sub2{$1}sub2}
+
+loving ring (right);{s}
+愛の指輪（右）;{sub2{$1}sub2}
+
+Skull Mask;{s}
+スカルマスク;{sub2{$1}sub2}
+
+Corpse Cloak;{s}
+死体のマント;{sub2{$1}sub2}
+
+Carrion Tabard;{s}
+腐肉のタバード;{sub2{$1}sub2}
+
+shroud belt;{s}
+シュラウドベルト;{sub2{$1}sub2}
+
+Zombie Boots;{s}
+ゾンビブーツ;{sub2{$1}sub2}
+
+Skeleton Leggings;{s}
+スケルトンレギンス;{sub2{$1}sub2}
+
+Bone Bracelet;{s}
+骨のブレスレット;{sub2{$1}sub2}
+
+Bone Ring (left);{s}
+骨の指輪（左）;{sub2{$1}sub2}
+
+Bone Ring (right);{s}
+骨の指輪（右）;{sub2{$1}sub2}
+
+Ocean Roaring;{s}
+海の咆哮;{sub2{$1}sub2}
+
+Mountain Crushing;{s}
+山の粉砕;{sub2{$1}sub2}
+
+Shadow Kissing;{s}
+影の接吻;{sub2{$1}sub2}
+
+Wind Dancing;{s}
+風の舞踏;{sub2{$1}sub2}
+
+Ice Sighing;{s}
+氷の嘆き;{sub2{$1}sub2}
+
+Fire Enveloping;{s}
+火の包囲;{sub2{$1}sub2}
+
+Light Weaving;{s}
+光の織り;{sub2{$1}sub2}
+
+Soul Sucking;{s}
+魂の吸引;{sub2{$1}sub2}
+
+Fencer helmet;{s}
+フェンサーのヘルメット;{sub2{$1}sub2}
+
+Fencer's Heart;{s}
+フェンサーの心;{sub2{$1}sub2}
+
+Fencer Shoulder Guard;{s}
+フェンサーの肩甲;{sub2{$1}sub2}
+
+Fencer Armor;{s}
+フェンサーの鎧;{sub2{$1}sub2}
+
+Fencer waist guard;{s}
+フェンサーの腰当;{sub2{$1}sub2}
+
+Fencer boots;{s}
+フェンサーのブーツ;{sub2{$1}sub2}
+
+Fencer Legplates;{s}
+フェンサーの脚甲;{sub2{$1}sub2}
+
+Fencer Bracers;{s}
+フェンサーの腕甲;{sub2{$1}sub2}
+
+Fencer Ring (Left);{s}
+フェンサーの指輪（左）;{sub2{$1}sub2}
+
+Fencer Ring (Right);{s}
+フェンサーの指輪（右）;{sub2{$1}sub2}
+
+Gladiator Helmet;{s}
+剣闘士のヘルメット;{sub2{$1}sub2}
+
+Pulse of Gladiator;{s}
+剣闘士の鼓動;{sub2{$1}sub2}
+
+Gladiator Shoulders;{s}
+剣闘士の肩甲;{sub2{$1}sub2}
+
+Gladiator Armor;{s}
+剣闘士の鎧;{sub2{$1}sub2}
+
+Gladiator Waistguard;{s}
+剣闘士の腰当;{sub2{$1}sub2}
+
+Gladiator Legplates;{s}
+剣闘士の脚甲;{sub2{$1}sub2}
+
+Gladiator Bracers;{s}
+剣闘士の腕甲;{sub2{$1}sub2}
+
+Gladiator ring (Left);{s}
+剣闘士の指輪（左）;{sub2{$1}sub2}
+
+Gladiator ring (Right);{s}
+剣闘士の指輪（右）;{sub2{$1}sub2}
+
+Tearer mask;{s}
+ティアラーのマスク;{sub2{$1}sub2}
+
+Judgment Of Tearer;{s}
+ティアラーの審判;{sub2{$1}sub2}
+
+tearer suit;{s}
+ティアラーのスーツ;{sub2{$1}sub2}
+
+tearer Belt;{s}
+ティアラーのベルト;{sub2{$1}sub2}
+
+tearer Leggings;{s}
+ティアラーのレギンス;{sub2{$1}sub2}
+
+tearer Gloves;{s}
+ティアラーの手袋;{sub2{$1}sub2}
+
+tearer Ring (Left);{s}
+ティアラーの指輪（左）;{sub2{$1}sub2}
+
+tearer Ring (Right);{s}
+ティアラーの指輪（右）;{sub2{$1}sub2}
+
+Windrunner Hood;{s}
+ウィンドランナーのフード;{sub2{$1}sub2}
+
+Windrunner's Harvest;{s}
+ウィンドランナーの収穫;{sub2{$1}sub2}
+
+Windrunner Armor;{s}
+ウィンドランナーの鎧;{sub2{$1}sub2}
+
+Windrunner Belt;{s}
+ウィンドランナーのベルト;{sub2{$1}sub2}
+
+Windrunner Leather Pants;{s}
+ウィンドランナーの革パンツ;{sub2{$1}sub2}
+
+Windrunner Gauntlets;{s}
+ウィンドランナーのガントレット;{sub2{$1}sub2}
+
+Windrunner ring (Left);{s}
+ウィンドランナーの指輪（左）;{sub2{$1}sub2}
+
+Windrunner ring (Right);{s}
+ウィンドランナーの指輪（右）;{sub2{$1}sub2}
+
+Freezing cap;{s}
+凍結のキャップ;{sub2{$1}sub2}
+
+Freezing pendant;{s}
+凍結のペンダント;{sub2{$1}sub2}
+
+Freezing Robe;{s}
+凍結のローブ;{sub2{$1}sub2}
+
+Freezing Belt;{s}
+凍結のベルト;{sub2{$1}sub2}
+
+Freezing Leggings;{s}
+凍結のレギンス;{sub2{$1}sub2}
+
+Freezing Bracelet;{s}
+凍結のブレスレット;{sub2{$1}sub2}
+
+Freezing ring (Left);{s}
+凍結の指輪（左）;{sub2{$1}sub2}
+
+Freezing ring (Right);{s}
+凍結の指輪（右）;{sub2{$1}sub2}
+
+Flaming headband;{s}
+燃えるヘッドバンド;{sub2{$1}sub2}
+
+Flaming Pendant;{s}
+燃えるペンダント;{sub2{$1}sub2}
+
+Flaming Robe;{s}
+燃えるローブ;{sub2{$1}sub2}
+
+Flaming Belt;{s}
+燃えるベルト;{sub2{$1}sub2}
+
+Flaming Leggings;{s}
+燃えるレギンス;{sub2{$1}sub2}
+
+Flaming Bracelet;{s}
+燃えるブレスレット;{sub2{$1}sub2}
+
+Flaming ring (Left);{s}
+燃える指輪（左）;{sub2{$1}sub2}
+
+Flaming ring (Left);{s}
+燃える指輪（左）;{sub2{$1}sub2}
+
+Radiant Hood;{s}
+輝くフード;{sub2{$1}sub2}
+
+Radiant Pendant;{s}
+輝くペンダント;{sub2{$1}sub2}
+
+Radiant Tabard;{s}
+輝くタバード;{sub2{$1}sub2}
+
+Radiant Belt;{s}
+輝くベルト;{sub2{$1}sub2}
+
+Radiant Leggings;{s}
+輝くレギンス;{sub2{$1}sub2}
+
+Radiant Bracelet;{s}
+輝くブレスレット;{sub2{$1}sub2}
+
+Radiant Ring (Left);{s}
+輝く指輪（左）;{sub2{$1}sub2}
+
+Radiant Ring (Right);{s}
+輝く指輪（右）;{sub2{$1}sub2}
+
+Ghost Mask;{s}
+ゴーストマスク;{sub2{$1}sub2}
+
+Ghost Pendant;{s}
+ゴーストペンダント;{sub2{$1}sub2}
+
+Ghost Robe;{s}
+ゴーストローブ;{sub2{$1}sub2}
+
+Ghost Belt;{s}
+ゴーストベルト;{sub2{$1}sub2}
+
+Ghost Leggings;{s}
+ゴーストレギンス;{sub2{$1}sub2}
+
+Ghost Bracelet;{s}
+ゴーストブレスレット;{sub2{$1}sub2}
+
+Ghost Ring (Left);{s}
+ゴースト指輪（左）;{sub2{$1}sub2}
+
+Ghost Ring (Right);{s}
+ゴースト指輪（右）;{sub2{$1}sub2}
+
+Solemn Oath;{s}
+厳粛な誓い;{sub2{$1}sub2}
+
+Savage invader;{s}
+野蛮な侵略者;{sub2{$1}sub2}
+
+Grief Bringer;{s}
+悲しみをもたらす者;{sub2{$1}sub2}
+
+Mutant Slayer;{s}
+ミュータントスレイヤー;{sub2{$1}sub2}
+
+Frost Sorrow;{s}
+フロストソロー;{sub2{$1}sub2}
+
+Scorching Torch;{s}
+スコーチングトーチ;{sub2{$1}sub2}
+
+Praying seraph;{s}
+祈るセラフ;{sub2{$1}sub2}
+
+Griffin Claw;{s}
+グリフィンクロー;{sub2{$1}sub2}
+
+Honor Pendant;{s}
+名誉のペンダント;{sub2{$1}sub2}
+
+Honor Armor;{s}
+名誉の鎧;{sub2{$1}sub2}
+
+Honor Legplates;{s}
+名誉の脚甲;{sub2{$1}sub2}
+
+Honorable Bracers;{s}
+名誉の腕甲;{sub2{$1}sub2}
+
+Honor Ring (Left);{s}
+名誉の指輪（左）;{sub2{$1}sub2}
+
+Honor Ring (Right);{s}
+名誉の指輪（右）;{sub2{$1}sub2}
+
+Barbarian Pendant;{s}
+バーバリアンペンダント;{sub2{$1}sub2}
+
+Barbarian Heavy Armor;{s}
+バーバリアン重鎧;{sub2{$1}sub2}
+
+Barbarian Waistguard;{s}
+バーバリアン腰当;{sub2{$1}sub2}
+
+Barbarian Boots;{s}
+バーバリアンブーツ;{sub2{$1}sub2}
+
+Barbarian Legplates;{s}
+バーバリアン脚甲;{sub2{$1}sub2}
+
+Barbarian Bracers;{s}
+バーバリアン腕甲;{sub2{$1}sub2}
+
+Barbarian Ring (Left);{s}
+バーバリアン指輪（左）;{sub2{$1}sub2}
+
+Barbarian Ring (Right);{s}
+バーバリアン指輪（右）;{sub2{$1}sub2}
+
+ascetic mask;{s}
+苦行者のマスク;{sub2{$1}sub2}
+
+Ascetic Pendant;{s}
+苦行者のペンダント;{sub2{$1}sub2}
+
+Ascetic Suit;{s}
+苦行者のスーツ;{sub2{$1}sub2}
+
+Ascetic Leggings;{s}
+苦行者のレギンス;{sub2{$1}sub2}
+
+Ascetic Gloves;{s}
+苦行者の手袋;{sub2{$1}sub2}
+
+Ascetic ring (Left);{s}
+苦行者の指輪（左）;{sub2{$1}sub2}
+
+Ascetic ring (Right);{s}
+苦行者の指輪（右）;{sub2{$1}sub2}
+
+Raider Pendant;{s}
+レイダーのペンダント;{sub2{$1}sub2}
+
+Raider Leather Armor;{s}
+レイダーの革鎧;{sub2{$1}sub2}
+
+Raider Leather Pants;{s}
+レイダーの革パンツ;{sub2{$1}sub2}
+
+Raider Gauntlets;{s}
+レイダーのガントレット;{sub2{$1}sub2}
+
+Raider Ring (Left);{s}
+レイダーの指輪（左）;{sub2{$1}sub2}
+
+Raider Ring (Right);{s}
+レイダーの指輪（右）;{sub2{$1}sub2}
+
+Frost pendant;{s}
+フロストペンダント;{sub2{$1}sub2}
+
+Frost Armor;{s}
+フロストアーマー;{sub2{$1}sub2}
+
+Frost Leggings;{s}
+フロストレギンス;{sub2{$1}sub2}
+
+Frost Bracelet;{s}
+フロストブレスレット;{sub2{$1}sub2}
+
+Frost Ring (Left);{s}
+フロスト指輪（左）;{sub2{$1}sub2}
+
+Frost Ring (Right);{s}
+フロスト指輪（右）;{sub2{$1}sub2}
+
+Wildfire Pendant;{s}
+ワイルドファイアペンダント;{sub2{$1}sub2}
+
+Wildfire Armor;{s}
+ワイルドファイアアーマー;{sub2{$1}sub2}
+
+Wildfire Leggings;{s}
+ワイルドファイアレギンス;{sub2{$1}sub2}
+
+wildfire bracelets;{s}
+ワイルドファイアブレスレット;{sub2{$1}sub2}
+
+wildfire ring (Left);{s}
+ワイルドファイア指輪（左）;{sub2{$1}sub2}
+
+wildfire ring (Right);{s}
+ワイルドファイア指輪（右）;{sub2{$1}sub2}
+
+Angel's Tears;{s}
+天使の涙;{sub2{$1}sub2}
+
+Angel Clothes;{s}
+天使の服;{sub2{$1}sub2}
+
+Angel Leggings;{s}
+天使のレギンス;{sub2{$1}sub2}
+
+angel bracelet;{s}
+天使のブレスレット;{sub2{$1}sub2}
+
+Angel ring (Left);{s}
+天使の指輪（左）;{sub2{$1}sub2}
+
+angel ring (Right);{s}
+天使の指輪（右）;{sub2{$1}sub2}
+
+Legacy of the Lich;{s}
+リッチの遺産;{sub2{$1}sub2}
+
+Lich Tabard;{s}
+リッチのタバード;{sub2{$1}sub2}
+
+Lich Leggings;{s}
+リッチのレギンス;{sub2{$1}sub2}
+
+Lich Bracelet;{s}
+リッチのブレスレット;{sub2{$1}sub2}
+
+Lich Ring (Left);{s}
+リッチの指輪（左）;{sub2{$1}sub2}
+
+Lich Ring (Right);{s}
+リッチの指輪（右）;{sub2{$1}sub2}
+
+Ribcracker;{s}
+リブクラッカー;{sub2{$1}sub2}
+
+Tornado Scourge;{s}
+トルネードスカージ;{sub2{$1}sub2}
+
+Invisible Claw;{s}
+インビジブルクロー;{sub2{$1}sub2}
+
+Heart Hitter;{s}
+ハートヒッター;{sub2{$1}sub2}
+
+Pelting Hail;{s}
+激しい雹;{sub2{$1}sub2}
+
+Thousands Blast;{s}
+千の爆発;{sub2{$1}sub2}
+
+Inspire Scepter;{s}
+インスパイアセプター;{sub2{$1}sub2}
+
+Terror Scepter;{s}
+恐怖のセプター;{sub2{$1}sub2}
+
+Champion Helm;{s}
+チャンピオンヘルム;{sub2{$1}sub2}
+
+Champion Pendant;{s}
+チャンピオンペンダント;{sub2{$1}sub2}
+
+Champion Shoulders;{s}
+チャンピオンの肩甲;{sub2{$1}sub2}
+
+Champion armor;{s}
+チャンピオンアーマー;{sub2{$1}sub2}
+
+champion belt;{s}
+チャンピオンベルト;{sub2{$1}sub2}
+
+Champion Boots;{s}
+チャンピオンブーツ;{sub2{$1}sub2}
+
+Champion Legplates;{s}
+チャンピオン脚甲;{sub2{$1}sub2}
+
+Champion bracers;{s}
+チャンピオンの腕甲;{sub2{$1}sub2}
+
+Champion ring (Left);{s}
+チャンピオン指輪（左）;{sub2{$1}sub2}
+
+Champion ring (Right);{s}
+チャンピオン指輪（右）;{sub2{$1}sub2}
+
+Rampage Helm;{s}
+ランページヘルム;{sub2{$1}sub2}
+
+Rampage Pendant;{s}
+ランページペンダント;{sub2{$1}sub2}
+
+Rampage Pauldrons;{s}
+ランページの肩甲;{sub2{$1}sub2}
+
+Rampage Armor;{s}
+ランページアーマー;{sub2{$1}sub2}
+
+Rampage Belt;{s}
+ランページベルト;{sub2{$1}sub2}
+
+Rampage Boots;{s}
+ランページブーツ;{sub2{$1}sub2}
+
+Rampage Legplates;{s}
+ランページ脚甲;{sub2{$1}sub2}
+
+Rampage Bracers;{s}
+ランページの腕甲;{sub2{$1}sub2}
+
+Rampage ring (Left);{s}
+ランページ指輪（左）;{sub2{$1}sub2}
+
+Rampage ring (Right);{s}
+ランページ指輪（右）;{sub2{$1}sub2}
+
+Stealth Mask;{s}
+ステルスマスク;{sub2{$1}sub2}
+
+Stealth Pendant;{s}
+ステルスペンダント;{sub2{$1}sub2}
+
+Stealth Cloak;{s}
+ステルスクローク;{sub2{$1}sub2}
+
+Stealth Suit;{s}
+ステルススーツ;{sub2{$1}sub2}
+
+Stealth Belt;{s}
+ステルスベルト;{sub2{$1}sub2}
+
+Stealth Boots;{s}
+ステルスブーツ;{sub2{$1}sub2}
+
+Stealth shorts;{s}
+ステルスパンツ;{sub2{$1}sub2}
+
+Stealth Gloves;{s}
+ステルスグローブ;{sub2{$1}sub2}
+
+Stealth Ring (Left);{s}
+ステルス指輪（左）;{sub2{$1}sub2}
+
+Stealth Ring (Right);{s}
+ステルス指輪（右）;{sub2{$1}sub2}
+
+sniper hat;{s}
+スナイパー帽子;{sub2{$1}sub2}
+
+Sniper Pendant;{s}
+スナイパーペンダント;{sub2{$1}sub2}
+
+sniper cape;{s}
+スナイパーマント;{sub2{$1}sub2}
+
+Sniper armor;{s}
+スナイパーアーマー;{sub2{$1}sub2}
+
+Sniper Belt;{s}
+スナイパーベルト;{sub2{$1}sub2}
+
+sniper boots;{s}
+スナイパーブーツ;{sub2{$1}sub2}
+
+Sniper Leggings;{s}
+スナイパーレギンス;{sub2{$1}sub2}
+
+Sniper Bracers;{s}
+スナイパーの腕甲;{sub2{$1}sub2}
+
+sniper ring (left);{s}
+スナイパー指輪（左）;{sub2{$1}sub2}
+
+sniper ring (right);{s}
+スナイパー指輪（右）;{sub2{$1}sub2}
+
+Blizzard Hat;{s}
+ブリザードハット;{sub2{$1}sub2}
+
+Blizzard Charm;{s}
+ブリザードチャーム;{sub2{$1}sub2}
+
+Blizzard Cloak;{s}
+ブリザードクローク;{sub2{$1}sub2}
+
+Blizzard Robe;{s}
+ブリザードローブ;{sub2{$1}sub2}
+
+Blizzard Belt;{s}
+ブリザードベルト;{sub2{$1}sub2}
+
+Blizzard Boots;{s}
+ブリザードブーツ;{sub2{$1}sub2}
+
+Blizzard Leggings;{s}
+ブリザードレギンス;{sub2{$1}sub2}
+
+Blizzard Bracelet;{s}
+ブリザードブレスレット;{sub2{$1}sub2}
+
+Blizzard Ring (Left);{s}
+ブリザード指輪（左）;{sub2{$1}sub2}
+
+blizzard ring (Right);{s}
+ブリザード指輪（右）;{sub2{$1}sub2}
+
+Firestorm Crown;{s}
+ファイアストームクラウン;{sub2{$1}sub2}
+
+Fire Storm Pendant;{s}
+ファイアストームペンダント;{sub2{$1}sub2}
+
+Firestorm Cloak;{s}
+ファイアストームクローク;{sub2{$1}sub2}
+
+Firestorm Tabard;{s}
+ファイアストームタバード;{sub2{$1}sub2}
+
+Firestorm Belt;{s}
+ファイアストームベルト;{sub2{$1}sub2}
+
+Firestorm Boots;{s}
+ファイアストームブーツ;{sub2{$1}sub2}
+
+Firestorm Leggings;{s}
+ファイアストームレギンス;{sub2{$1}sub2}
+
+Firestorm Bracelet;{s}
+ファイアストームブレスレット;{sub2{$1}sub2}
+
+Firestorm ring (Left);{s}
+ファイアストーム指輪（左）;{sub2{$1}sub2}
+
+Firestorm ring (Right);{s}
+ファイアストーム指輪（右）;{sub2{$1}sub2}
+
+Sermon Hood;{s}
+説教のフード;{sub2{$1}sub2}
+
+Sermon Pendant;{s}
+説教のペンダント;{sub2{$1}sub2}
+
+Sermon cloak;{s}
+説教のマント;{sub2{$1}sub2}
+
+Sermon Tabard;{s}
+説教のタバード;{sub2{$1}sub2}
+
+Sermon Belt;{s}
+説教のベルト;{sub2{$1}sub2}
+
+Sermon boots;{s}
+説教のブーツ;{sub2{$1}sub2}
+
+Sermon Leggings;{s}
+説教のレギンス;{sub2{$1}sub2}
+
+Sermon bracelet;{s}
+説教のブレスレット;{sub2{$1}sub2}
+
+Sermon ring (Left);{s}
+説教の指輪（左）;{sub2{$1}sub2}
+
+Sermon ring (Right);{s}
+説教の指輪（右）;{sub2{$1}sub2}
+
+Horror mask;{s}
+ホラーマスク;{sub2{$1}sub2}
+
+Horror Orb;{s}
+恐怖のオーブ;{sub2{$1}sub2}
+
+Horror cloak;{s}
+恐怖のマント;{sub2{$1}sub2}
+
+Horror Robe;{s}
+恐怖のローブ;{sub2{$1}sub2}
+
+Horror Belt;{s}
+恐怖のベルト;{sub2{$1}sub2}
+
+Horror Boots;{s}
+恐怖のブーツ;{sub2{$1}sub2}
+
+Horror Leggings;{s}
+恐怖のレギンス;{sub2{$1}sub2}
+
+Horror bracelets;{s}
+恐怖のブレスレット;{sub2{$1}sub2}
+
+Horror ring (left);{s}
+恐怖の指輪（左）;{sub2{$1}sub2}
+
+Horror ring (right);{s}
+恐怖の指輪（右）;{sub2{$1}sub2}
+
+Royal Victory;{s}
+ロイヤルビクトリー;{sub2{$1}sub2}
+
+Lethal Warhammer;{s}
+致命的なウォーハンマー;{sub2{$1}sub2}
+
+Bloodletting razor;{s}	
+ブラッドレッティングレイザー;{sub2{$1}sub2}
+
+Hydra crossbow;{s}
+ハイドラクロスボウ;{sub2{$1}sub2}
+
+Sealing Moon;{s}
+封印の月;{sub2{$1}sub2}
+
+eruption Magma;{s}
+噴火マグマ;{sub2{$1}sub2}
+
+Pure Wisdom;{s}
+純粋な知恵;{sub2{$1}sub2}
+
+mummy Curse;{s}
+ミイラの呪い;{sub2{$1}sub2}
+
+weightless sack;{s}
+無重力の袋;{sub2{$1}sub2}
+
+hero helmet;{s}
+ヒーローヘルメット;{sub2{$1}sub2}
+
+hero pendant;{s}
+ヒーローペンダント;{sub2{$1}sub2}
+
+Hero Pauldrons;{s}
+ヒーローの肩甲;{sub2{$1}sub2}
+
+Hero Armor;{s}
+ヒーローアーマー;{sub2{$1}sub2}
+
+Hero Belt;{s}
+ヒーローベルト;{sub2{$1}sub2}
+
+Hero Boots;{s}
+ヒーローブーツ;{sub2{$1}sub2}
+
+Hero Legplates;{s}
+ヒーロー脚甲;{sub2{$1}sub2}
+
+Heroic Bracers;{s}
+ヒーローの腕甲;{sub2{$1}sub2}
+
+Hero ring (left);{s}
+ヒーロー指輪（左）;{sub2{$1}sub2}
+
+Hero ring (right);{s}
+ヒーロー指輪（右）;{sub2{$1}sub2}
+
+Sentinel Helm;{s}
+センチネルヘルム;{sub2{$1}sub2}
+
+Sentinel Pendant;{s}
+センチネルペンダント;{sub2{$1}sub2}
+
+Sentinel Pauldrons;{s}
+センチネルの肩甲;{sub2{$1}sub2}
+
+Sentinel Armor;{s}
+センチネルアーマー;{sub2{$1}sub2}
+
+Sentinel Belt;{s}
+センチネルベルト;{sub2{$1}sub2}
+
+Sentinel boots;{s}
+センチネルブーツ;{sub2{$1}sub2}
+
+Sentinel Legplates;{s}
+センチネル脚甲;{sub2{$1}sub2}
+
+Sentinel Bracers;{s}
+センチネルの腕甲;{sub2{$1}sub2}
+
+Sentinel ring (left);{s}
+センチネル指輪（左）;{sub2{$1}sub2}
+
+Sentinel ring (right);{s}
+センチネル指輪（右）;{sub2{$1}sub2}
+
+Executioner Mask;{s}
+処刑者のマスク;{sub2{$1}sub2}
+
+Executioner Pendant;{s}
+処刑者のペンダント;{sub2{$1}sub2}
+
+Executioner Cloak;{s}
+処刑者のマント;{sub2{$1}sub2}
+
+Executioner Suit;{s}
+処刑者のスーツ;{sub2{$1}sub2}
+
+Executioner Belt;{s}
+処刑者のベルト;{sub2{$1}sub2}
+
+Executioner Boots;{s}
+処刑者のブーツ;{sub2{$1}sub2}
+
+Executioner Shorts;{s}
+処刑者のパンツ;{sub2{$1}sub2}
+
+Executioner Gloves;{s}
+処刑者の手袋;{sub2{$1}sub2}
+
+executioner ring (left;{s})
+処刑者の指輪（左）;{sub2{$1}sub2}
+
+executioner ring (right);{s}
+処刑者の指輪（右）;{sub2{$1}sub2}
+
+Penetrator helmet;{s}
+ペネトレーターヘルメット;{sub2{$1}sub2}
+
+Penetrator Pendant;{s}
+ペネトレーターペンダント;{sub2{$1}sub2}
+
+Penetrator shawl;{s}
+ペネトレーターショール;{sub2{$1}sub2}
+
+Penetrator Leather Armor;{s}
+ペネトレーター革アーマー;{sub2{$1}sub2}
+
+Penetrator Belt;{s}
+ペネトレーターベルト;{sub2{$1}sub2}
+
+Penetrator boots;{s}
+ペネトレーターブーツ;{sub2{$1}sub2}
+
+Penetrator Leather Pants;{s}
+ペネトレーター革パンツ;{sub2{$1}sub2}
+
+Penetrator Bracers;{s}
+ペネトレーターの腕甲;{sub2{$1}sub2}
+
+Penetrator ring (left);{s}
+ペネトレーター指輪（左）;{sub2{$1}sub2}
+
+Penetrator ring (right);{s}
+ペネトレーター指輪（右）;{sub2{$1}sub2}
+
+Glacier Helmet;{s}
+氷河ヘルメット;{sub2{$1}sub2}
+
+Glacier Pendant;{s}
+氷河ペンダント;{sub2{$1}sub2}
+
+Glacier Cloak;{s}
+氷河マント;{sub2{$1}sub2}
+
+Glacier Armor;{s}
+氷河アーマー;{sub2{$1}sub2}
+
+Glacier Belt;{s}
+氷河ベルト;{sub2{$1}sub2}
+
+Glacier Boots;{s}
+氷河ブーツ;{sub2{$1}sub2}
+
+Glacier Leggings;{s}
+氷河レギンス;{sub2{$1}sub2}
+
+Glacier Bracelet;{s}
+氷河ブレスレット;{sub2{$1}sub2}
+
+glacier ring (left);{s}
+氷河指輪（左）;{sub2{$1}sub2}
+
+glacier ring (right);{s}
+氷河指輪（右）;{sub2{$1}sub2}
+
+Volcano helmet;{s}
+火山ヘルメット;{sub2{$1}sub2}
+
+Volcano Orb;{s}
+火山のオーブ;{sub2{$1}sub2}
+
+Volcano Cape;{s}
+火山マント;{sub2{$1}sub2}
+
+Volcano Armor;{s}
+火山アーマー;{sub2{$1}sub2}
+
+Volcano Belt;{s}
+火山ベルト;{sub2{$1}sub2}
+
+Volcano boots;{s}
+火山ブーツ;{sub2{$1}sub2}
+
+Volcano Leggings;{s}
+火山レギンス;{sub2{$1}sub2}
+
+Volcano bracelet;{s}
+火山ブレスレット;{sub2{$1}sub2}
+
+Volcano ring (left);{s}
+火山指輪（左）;{sub2{$1}sub2}
+
+Volcano ring (right);{s}
+火山指輪（右）;{sub2{$1}sub2}
+
+Saint Helmet;{s}
+聖なるヘルメット;{sub2{$1}sub2}
+
+Saint Orb;{s}
+聖なるオーブ;{sub2{$1}sub2}
+
+Saint cloak;{s}
+聖なるマント;{sub2{$1}sub2}
+
+Saint Robe;{s}
+聖なるローブ;{sub2{$1}sub2}
+
+Saint Belt;{s}
+聖なるベルト;{sub2{$1}sub2}
+
+Saint boots;{s}
+聖なるブーツ;{sub2{$1}sub2}
+
+Saint Leggings;{s}
+聖なるレギンス;{sub2{$1}sub2}
+
+Saint bracelet;{s}
+聖なるブレスレット;{sub2{$1}sub2}
+
+Saint ring (left);{s}
+聖なる指輪（左）;{sub2{$1}sub2}
+
+Saint ring (right);{s}
+聖なる指輪（右）;{sub2{$1}sub2}
+
+Toxin mask;{s}
+毒性マスク;{sub2{$1}sub2}
+
+Toxin Magic Beads;{s}
+毒性の魔法玉;{sub2{$1}sub2}
+
+Toxin cloak;{s}
+毒性のマント;{sub2{$1}sub2}
+
+Toxin Robe;{s}
+毒性のローブ;{sub2{$1}sub2}
+
+Toxin Belt;{s}
+毒性のベルト;{sub2{$1}sub2}
+
+Toxin boots;{s}
+毒性のブーツ;{sub2{$1}sub2}
+
+Toxin Leggings;{s}
+毒性のレギンス;{sub2{$1}sub2}
+
+Toxin bracelet;{s}
+毒性のブレスレット;{sub2{$1}sub2}
+
+Toxin ring (left);{s}
+毒性の指輪（左）;{sub2{$1}sub2}
+
+Toxin ring (right);{s}
+毒性の指輪（右）;{sub2{$1}sub2}
+
+Broken Sky;{s}
+壊れた空;{sub2{$1}sub2}
+
+Lost Eternity;{s}
+失われた永遠;{sub2{$1}sub2}
+
+Dragon Scale;{s}
+ドラゴンファング;{sub2{$1}sub2}
+
+Star Fury;{s}
+星の怒り;{sub2{$1}sub2}
+
+Desolate Snow;{s}
+荒涼たる雪;{sub2{$1}sub2}
+
+Black Smoke;{s}
+黒い煙;{sub2{$1}sub2}
+
+Redemption finger;{s}
+救済の指;{sub2{$1}sub2}
+
+Demon Spine;{s}
+悪魔の脊椎;{sub2{$1}sub2}
+
+Pioneer Helm;{s}
+パイオニアヘルム;{sub2{$1}sub2}
+
+Pioneer Pendant;{s}
+パイオニアペンダント;{sub2{$1}sub2}
+
+Pioneer Shoulders;{s}
+パイオニアの肩甲;{sub2{$1}sub2}
+
+Pioneer Armor;{s}
+パイオニアアーマー;{sub2{$1}sub2}
+
+Pioneer Belt;{s}
+パイオニアベルト;{sub2{$1}sub2}
+
+Pioneer Boots;{s}
+パイオニアブーツ;{sub2{$1}sub2}
+
+Pioneer Legplates;{s}
+パイオニア脚甲;{sub2{$1}sub2}
+
+Pioneer Bracers;{s}
+パイオニアの腕甲;{sub2{$1}sub2}
+
+Pioneer Ring (Left);{s}
+パイオニア指輪（左）;{sub2{$1}sub2}
+
+Pioneer Ring (Right);{s}
+パイオニア指輪（右）;{sub2{$1}sub2}
+
+Giant Helm;{s}
+ジャイアントヘルム;{sub2{$1}sub2}
+
+giant pendant;{s}
+ジャイアントペンダント;{sub2{$1}sub2}
+
+Giant Pauldrons;{s}
+ジャイアントの肩甲;{sub2{$1}sub2}
+
+Giant Armor;{s}
+ジャイアントアーマー;{sub2{$1}sub2}
+
+Giant Belt;{s}
+ジャイアントベルト;{sub2{$1}sub2}
+
+Giant Boots;{s}
+ジャイアントブーツ;{sub2{$1}sub2}
+
+Giant Legplates;{s}
+ジャイアント脚甲;{sub2{$1}sub2}
+
+Giant Bracers;{s}
+ジャイアントの腕甲;{sub2{$1}sub2}
+
+giant ring (left);{s}
+ジャイアント指輪（左）;{sub2{$1}sub2}
+
+Giant Ring (Right);{s}
+ジャイアント指輪（右）;{sub2{$1}sub2}
+
+Reaper Mask;{s}
+死神のマスク;{sub2{$1}sub2}
+
+Reaper Pendant;{s}
+死神のペンダント;{sub2{$1}sub2}
+
+Reaper Cloak;{s}
+死神のマント;{sub2{$1}sub2}
+
+Reaper Suit;{s}
+死神のスーツ;{sub2{$1}sub2}
+
+Reaper Belt;{s}
+死神のベルト;{sub2{$1}sub2}
+
+Reaper Boots;{s}
+死神のブーツ;{sub2{$1}sub2}
+
+Reaper Shorts;{s}
+死神のパンツ;{sub2{$1}sub2}
+
+Reaper Gloves;{s}
+死神の手袋;{sub2{$1}sub2}
+
+reaper ring (left);{s}
+死神の指輪（左）;{sub2{$1}sub2}
+
+reaper ring (right);{s}
+死神の指輪（右）;{sub2{$1}sub2}
+
+Destroyer Hat;{s}
+破壊者の帽子;{sub2{$1}sub2}
+
+Destroyer Pendant;{s}
+破壊者のペンダント;{sub2{$1}sub2}
+
+Destroyer Cape;{s}
+破壊者のマント;{sub2{$1}sub2}
+
+Destroyer Armor;{s}
+破壊者のアーマー;{sub2{$1}sub2}
+
+Destroyer Belt;{s}
+破壊者のベルト;{sub2{$1}sub2}
+
+Destroyer Boots;{s}
+破壊者のブーツ;{sub2{$1}sub2}
+
+Destroyer Pants;{s}
+破壊者のパンツ;{sub2{$1}sub2}
+
+Destroyer Gauntlets;{s}
+破壊者の手甲;{sub2{$1}sub2}
+
+Destroyer ring (left);{s}
+破壊者の指輪（左）;{sub2{$1}sub2}
+
+Destroyer ring (right);{s}
+破壊者の指輪（右）;{sub2{$1}sub2}
+
+Winter helmet;{s}
+冬のヘルメット;{sub2{$1}sub2}
+
+Winter Pendant;{s}
+冬のペンダント;{sub2{$1}sub2}
+
+winter cloak;{s}
+冬のマント;{sub2{$1}sub2}
+
+Winter armor;{s}
+冬のアーマー;{sub2{$1}sub2}
+
+Winter Belt;{s}
+冬のベルト;{sub2{$1}sub2}
+
+winter boots;{s}
+冬のブーツ;{sub2{$1}sub2}
+
+Winter Leggings;{s}
+冬のレギンス;{sub2{$1}sub2}
+
+Winter bracelet;{s}
+冬のブレスレット;{sub2{$1}sub2}
+
+Winter ring (left);{s}
+冬の指輪（左）;{sub2{$1}sub2}
+
+Winter ring (right);{s}
+冬の指輪（右）;{sub2{$1}sub2}
+
+Inferno helmet;{s}
+インフェルノヘルメット;{sub2{$1}sub2}
+
+Inferno Pendant;{s}
+インフェルノペンダント;{sub2{$1}sub2}
+
+Inferno cape;{s}
+インフェルノマント;{sub2{$1}sub2}
+
+Inferno Armor;{s}
+インフェルノアーマー;{sub2{$1}sub2}
+
+Inferno Belt;{s}
+インフェルノベルト;{sub2{$1}sub2}
+
+Inferno boots;{s}
+インフェルノブーツ;{sub2{$1}sub2}
+
+Inferno Leggings;{s}
+インフェルノレギンス;{sub2{$1}sub2}
+
+Inferno bracelet;{s}
+インフェルノブレスレット;{sub2{$1}sub2}
+
+Inferno ring (left);{s}
+インフェルノ指輪（左）;{sub2{$1}sub2}
+
+Inferno ring (right);{s}
+インフェルノ指輪（右）;{sub2{$1}sub2}
+
+Revival headband;{s}
+復活のヘッドバンド;{sub2{$1}sub2}
+
+Revival Pendant;{s}
+復活のペンダント;{sub2{$1}sub2}
+
+Revival cape;{s}
+復活のマント;{sub2{$1}sub2}
+
+Revival Robe;{s}
+復活のローブ;{sub2{$1}sub2}
+
+Revival Belt;{s}
+復活のベルト;{sub2{$1}sub2}
+
+Revival boots;{s}
+復活のブーツ;{sub2{$1}sub2}
+
+Revival Leggings;{s}
+復活のレギンス;{sub2{$1}sub2}
+
+Revival bracelet;{s}
+復活のブレスレット;{sub2{$1}sub2}
+
+Revival ring (left);{s}
+復活の指輪（左）;{sub2{$1}sub2}
+
+Revival ring (right);{s}
+復活の指輪（右）;{sub2{$1}sub2}
+
+Undead mask;{s}
+アンデッドマスク;{sub2{$1}sub2}
+
+Undead Pendant;{s}
+アンデッドペンダント;{sub2{$1}sub2}
+
+Undead Cloak;{s}
+アンデッドマント;{sub2{$1}sub2}
+
+Undead Tabard;{s}
+アンデッドタバード;{sub2{$1}sub2}
+
+Undead Belt;{s}
+アンデッドベルト;{sub2{$1}sub2}
+
+Undead Boots;{s}
+アンデッドブーツ;{sub2{$1}sub2}
+
+Undead Leggings;{s}
+アンデッドレギンス;{sub2{$1}sub2}
+
+Undead bracelet;{s}
+アンデッドブレスレット;{sub2{$1}sub2}
+
+Undead Ring (Left);{s}
+アンデッド指輪（左）;{sub2{$1}sub2}
+
+Undead Ring (Right);{s}
+アンデッド指輪（右）;{sub2{$1}sub2}
+
+Evil Purger;{s}
+悪の清浄者;{sub2{$1}sub2}
+
+Thor Hammer;{s}
+トールハンマー;{sub2{$1}sub2}
+
+Revenge Tooth;{s}
+復讐の牙;{sub2{$1}sub2}
+
+Phoenix Longbow;{s}
+フェニックスロングボウ;{sub2{$1}sub2}
+
+Poseidon Trident;{s}
+ポセイドントライデント;{sub2{$1}sub2}
+
+Burning Corona;{s}
+燃え盛るコロナ;{sub2{$1}sub2}
+
+Salvation Cross;{s}
+救済の十字架;{sub2{$1}sub2}
+
+Death Scythe;{s}
+死の大鎌;{sub2{$1}sub2}
+
+Saviour helmet;{s}
+救世主のヘルメット;{sub2{$1}sub2}
+
+Saviour Pendant;{s}
+救世主のペンダント;{sub2{$1}sub2}
+
+Saviour Shoulders;{s}
+救世主の肩甲;{sub2{$1}sub2}
+
+Saviour Battlegear;{s}
+救世主の戦闘装備;{sub2{$1}sub2}
+
+Saviour Waistguard;{s}
+救世主の腰当て;{sub2{$1}sub2}
+
+Saviour boots;{s}
+救世主のブーツ;{sub2{$1}sub2}
+
+Saviour Legplates;{s}
+救世主の脚甲;{sub2{$1}sub2}
+
+Saviour Bracers;{s}
+救世主の腕甲;{sub2{$1}sub2}
+
+Saviour ring (left);{s}
+救世主の指輪（左）;{sub2{$1}sub2}
+
+Saviour ring (right);{s}
+救世主の指輪（右）;{sub2{$1}sub2}
+
+Patronus helmet;{s}
+パトローナスヘルメット;{sub2{$1}sub2}
+
+Patronus Pendant;{s}
+パトローナスペンダント;{sub2{$1}sub2}
+
+Patronus Pauldrons;{s}
+パトローナスの肩甲;{sub2{$1}sub2}
+
+Patronus Armor;{s}
+パトローナスアーマー;{sub2{$1}sub2}
+
+Patronus Waist;{s}
+パトローナスの腰;{sub2{$1}sub2}
+
+Patronus boots;{s}
+パトローナスブーツ;{sub2{$1}sub2}
+
+Patronus Legplates;{s}
+パトローナス脚甲;{sub2{$1}sub2}
+
+Patronus Bracers;{s}
+パトローナスの腕甲;{sub2{$1}sub2}
+
+Patronus ring (left);{s}
+パトローナス指輪（左）;{sub2{$1}sub2}
+
+Patronus ring (right);{s}
+パトローナス指輪（右）;{sub2{$1}sub2}
+
+Slaughterer Mask;{s}
+虐殺者のマスク;{sub2{$1}sub2}
+
+Slaughterer Pendant;{s}
+虐殺者のペンダント;{sub2{$1}sub2}
+
+Slaughterer Cloak;{s}
+虐殺者のマント;{sub2{$1}sub2}
+
+Slaughterer Suit;{s}
+虐殺者のスーツ;{sub2{$1}sub2}
+
+Slaughterer Belt;{s}
+虐殺者のベルト;{sub2{$1}sub2}
+
+Slaughterer Boots;{s}
+虐殺者のブーツ;{sub2{$1}sub2}
+
+Slaughterer Trousers;{s}
+虐殺者のズボン;{sub2{$1}sub2}
+
+Slaughterer Gloves;{s}
+虐殺者の手袋;{sub2{$1}sub2}
+
+Slaughterer Ring (Left);{s}
+虐殺者の指輪（左）;{sub2{$1}sub2}
+
+Slaughterer Ring (Right);{s}
+虐殺者の指輪（右）;{sub2{$1}sub2}
+
+Dominator hat;{s}
+支配者の帽子;{sub2{$1}sub2}
+
+Dominator Pendant;{s}
+支配者のペンダント;{sub2{$1}sub2}
+
+Dominator Shawl;{s}
+支配者のショール;{sub2{$1}sub2}
+
+Dominator Armor;{s}
+支配者のアーマー;{sub2{$1}sub2}
+
+Dominator Belt;{s}
+支配者のベルト;{sub2{$1}sub2}
+
+Dominator Boots;{s}
+支配者のブーツ;{sub2{$1}sub2}
+
+Dominator Leggings;{s}
+支配者のレギンス;{sub2{$1}sub2}
+
+Dominator Gauntlets;{s}
+支配者の手甲;{sub2{$1}sub2}
+
+Dominator ring (left);{s}
+支配者の指輪（左）;{sub2{$1}sub2}
+
+Dominator ring (right);{s}
+支配者の指輪（右）;{sub2{$1}sub2}
+
+Tsunami crown;{s}
+津波の王冠;{sub2{$1}sub2}
+
+Tsunami Pendant;{s}
+津波のペンダント;{sub2{$1}sub2}
+
+Tsunami cape;{s}
+津波のマント;{sub2{$1}sub2}
+
+Tsunami Tabard;{s}
+津波のタバード;{sub2{$1}sub2}
+
+Tsunami Belt;{s}
+津波のベルト;{sub2{$1}sub2}
+
+Tsunami boots;{s}
+津波のブーツ;{sub2{$1}sub2}
+
+Tsunami Leggings;{s}
+津波のレギンス;{sub2{$1}sub2}
+
+Tsunami bracelet;{s}
+津波のブレスレット;{sub2{$1}sub2}
+
+Tsunami ring left hand;{s}
+津波の指輪（左手）;{sub2{$1}sub2}
+
+Tsunami ring right hand;{s}
+津波の指輪（右手）;{sub2{$1}sub2}
+
+Sunfire Cap;{s}
+サンファイアキャップ;{sub2{$1}sub2}
+
+Sunfire Charm;{s}
+サンファイアチャーム;{sub2{$1}sub2}
+
+Sunfire Cloak;{s}
+サンファイアマント;{sub2{$1}sub2}
+
+Sunfire Robe;{s}
+サンファイアローブ;{sub2{$1}sub2}
+
+Sunfire Belt;{s}
+サンファイアベルト;{sub2{$1}sub2}
+
+Sunfire boots;{s}
+サンファイアブーツ;{sub2{$1}sub2}
+
+Sunfire Leggings;{s}
+サンファイアレギンス;{sub2{$1}sub2}
+
+Sunfire bracelet;{s}
+サンファイアブレスレット;{sub2{$1}sub2}
+
+Sunfire ring (left);{s}
+サンファイア指輪（左）;{sub2{$1}sub2}
+
+Sunfire Ring (Right);{s}
+サンファイア指輪（右）;{sub2{$1}sub2}
+
+Celestial Halo;{s}
+天界の後光;{sub2{$1}sub2}
+
+Celestial pendant;{s}
+天界のペンダント;{sub2{$1}sub2}
+
+Celestial Wings;{s}
+天界の翼;{sub2{$1}sub2}
+
+Celestial robe;{s}
+天界のローブ;{sub2{$1}sub2}
+
+Celestial Girdle;{s}
+天界の帯;{sub2{$1}sub2}
+
+Celestial Boots;{s}
+天界のブーツ;{sub2{$1}sub2}
+
+Celestial Leggings;{s}
+天界のレギンス;{sub2{$1}sub2}
+
+Celestial bracelet;{s}
+天界のブレスレット;{sub2{$1}sub2}
+
+Celestial ring (left);{s}
+天界の指輪（左）;{sub2{$1}sub2}
+
+Celestial ring (right);{s}
+天界の指輪（右）;{sub2{$1}sub2}
+
+Sacrifice Mask;{s}
+生贄のマスク;{sub2{$1}sub2}
+
+Sacrifice Pendant;{s}
+生贄のペンダント;{sub2{$1}sub2}
+
+Sacrifice Cloak;{s}
+生贄のマント;{sub2{$1}sub2}
+
+Sacrifice Tabard;{s}
+生贄のタバード;{sub2{$1}sub2}
+
+Sacrifice belt;{s}
+生贄のベルト;{sub2{$1}sub2}
+
+Sacrifice boots;{s}
+生贄のブーツ;{sub2{$1}sub2}
+
+Sacrifice Leggings;{s}
+生贄のレギンス;{sub2{$1}sub2}
+
+Sacrifice bracelet;{s}
+生贄のブレスレット;{sub2{$1}sub2}
+
+Sacrifice ring (left);{s}
+生贄の指輪（左）;{sub2{$1}sub2}
+
+Sacrifice ring (right);{s}
+生贄の指輪（右）;{sub2{$1}sub2}

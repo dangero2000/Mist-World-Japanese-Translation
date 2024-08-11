@@ -1,0 +1,41 @@
+5061 //The Shadow Assassin speaks in a weak voice (both male and female is OK):
+My child, I'm dying. but Death is our fate. As an assassin, you should have known that very well. So don't be sad, for life is evanescent like lightning.  Let me give you one last lesson, while my fire still burns. Do you remember the soul of Assassins?
+
+5062
+Tell me, what is the soul of Assassins?
+
+5064
+My child, words possess no power. Show me your training. Go break the stake to the north.
+
+5066
+Go break the stake to the north.
+
+5068
+Good. Here, take it, the basic weapon and outfit for you on your journey.
+
+5069 //When the player refuses the equipment
+No matter how tough you think you are, your body is no match for a blade. Assassins must become masters of weapons.
+
+5070 //When the player accepts the equipment
+Good, put them on.
+
+5072
+There's a tougher movable stake to the west, go break it.
+
+5074
+Nicely done. Come here, I have two more equipments for you.
+
+5075
+My child, these are a pair of shoes and a chest. Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Finally, let me see if you've mastered the martial arts I've taught you. there are mutants in a secret room to the northeast. Your final test is to defeat them. 
+
+5077
+Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Finally, let me see if you've mastered the martial arts I've taught you. there are mutants in a secret room to the northeast. Your final test is to defeat them. 
+
+5079
+there are mutants in a secret room to the northeast. Your final test is to defeat them. 
+
+5080
+My child, looks like I've taught you everything I can. You've obtained a Skill Crystal, use it to learn the Rapid Sting Skill. It will make you become a better Assassin.
+
+5081
+I'm at my last breath. Now, head out through the north. I don't want you to see my embarassing corpse. You don't have to avenge me, just live your own life. Remember, don't get emotionally attached to anyone. Solitude is your only friend, and only in darkness can you grow.

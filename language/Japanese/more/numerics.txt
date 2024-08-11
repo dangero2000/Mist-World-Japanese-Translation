@@ -1,0 +1,200 @@
+11st
+11番目
+
+1th
+1番目
+
+2th
+2番目
+
+3th
+3番目
+
+21th
+21番目
+
+22th
+22番目
+
+23th
+23番目
+
+31th
+31番目
+
+32th
+32番目
+
+33th
+33番目
+
+41th
+41番目
+
+42th
+42番目
+
+43th
+43番目
+
+51th
+51番目
+
+52th
+52番目
+
+53th
+53番目
+
+61th
+61番目
+
+62th
+62番目
+
+63th
+63番目
+
+71th
+71番目
+
+72th
+72番目
+
+73th
+73番目
+
+81th
+81番目
+
+82th
+82番目
+
+83th
+83番目
+
+91th
+91番目
+
+92th
+92番目
+
+93th
+93番目
+
+{d}01th
+{sub2{$1}sub2}01番目
+
+{d}02th
+{sub2{$1}sub2}02番目
+
+{d}03th
+{sub2{$1}sub2}03番目
+
+{d}21th
+{sub2{$1}sub2}21番目
+
+{d}22th
+{sub2{$1}sub2}22番目
+
+{d}23th
+{sub2{$1}sub2}23番目
+
+{d}31th
+{sub2{$1}sub2}31番目
+
+{d}32th
+{sub2{$1}sub2}32番目
+
+{d}33th
+{sub2{$1}sub2}33番目
+
+{d}41th
+{sub2{$1}sub2}41番目
+
+{d}42th
+{sub2{$1}sub2}42番目
+
+{d}43th
+{sub2{$1}sub2}43番目
+
+{d}51th
+{sub2{$1}sub2}51番目
+
+{d}52th
+{sub2{$1}sub2}52番目
+
+{d}53th
+{sub2{$1}sub2}53番目
+
+{d}61th
+{sub2{$1}sub2}61番目
+
+{d}62th
+{sub2{$1}sub2}62番目
+
+{d}63th
+{sub2{$1}sub2}63番目
+
+{d}71th
+{sub2{$1}sub2}71番目
+
+{d}72th
+{sub2{$1}sub2}72番目
+
+{d}73th
+{sub2{$1}sub2}73番目
+
+{d}81th
+{sub2{$1}sub2}81番目
+
+{d}82th
+{sub2{$1}sub2}82番目
+
+{d}83th
+{sub2{$1}sub2}83番目
+
+{d}91th
+{sub2{$1}sub2}91番目
+
+{d}92th
+{sub2{$1}sub2}92番目
+
+{d}93th
+{sub2{$1}sub2}93番目
+
+This is your {s} purchase today; Need to pay {d} diamonds
+これは今日の{sub2{$1}sub2}回目の購入です。{d}個のダイヤモンドが必要です。
+
+You win {d} times, Attend {d} times, are {s}
+{d}回勝利し、{d}回出場して、{s}位です。
+
+You are currently ranked {s}
+現在の順位は{sub2{$1}sub2}位です。
+
+Your own ranking is {s}; {s} the prize: {s}
+あなたのランキングは{sub2{$1}sub2}位です; {sub2{$2}sub2}の賞品：{sub2{$3}sub2}
+
+1thth: 1 {s} Gold medal, {s} and {d} battlefield merit points
+1位: {sub2{$1}sub2}金メダル1個、{sub2{$2}sub2}および{d}バトルフィールドメリットポイント
+
+{s}-{s}: 1 {s} silver medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-{sub2{$2}sub2}: {sub2{$3}sub2}銀メダル1個、{sub2{$4}sub2}および{d}バトルフィールドメリットポイント
+
+{s}-60th: 1 {s} medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-60位: {sub2{$2}sub2}メダル1個、{sub2{$3}sub2}および{d}バトルフィールドメリットポイント
+
+{s}-100th: 1 {s} medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-100位: {sub2{$2}sub2}メダル1個、{sub2{$3}sub2}および{d}バトルフィールドメリットポイント
+
+{s}-150th: {s}, and {d} battlefield merit points
+{sub2{$1}sub2}-150位: {sub2{$2}sub2}、および{d}バトルフィールドメリットポイント
+
+{s}-200th: {s}, and {d} battlefield merit points
+{sub2{$1}sub2}-200位: {sub2{$2}sub2}、および{d}バトルフィールドメリットポイント
+
+{s} place in the level {d} {s} Arena Fight, {s}, the prize is {s} battlefield merit points
+レベル{d}の{sub2{$3}sub2}アリーナファイトで{sub2{$1}sub2}位、{sub2{$4}sub2}、賞品は{sub2{$5}sub2}バトルフィールドメリットポイント
+
+Take the reward of the {s} Gang Tournament
+{sub2{$1}sub2}ギャングトーナメントの報酬を受け取る

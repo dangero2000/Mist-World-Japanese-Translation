@@ -1,0 +1,917 @@
+male
+男性
+
+female
+女性
+
+; level {d}
+; レベル$1
+
+; upgrading requires {d} experience
+; アップグレードには$1経験が必要です
+
+; Contribution {d}
+; 貢献$1
+
+; battlefield merit points {d}
+; 戦場の功績ポイント$1
+
+; {c} gang leader
+; $1ギャングリーダー
+
+; {c} gang internal affairs elder
+; $1ギャング内務長老
+
+; {c} gang foreign affairs elder
+; $1ギャング外事長老
+
+; {c} gang development elder
+; $1ギャング開発長老
+
+; {c} gang war elder
+; $1ギャング戦争長老
+
+; {c} gang member
+; $1ギャングメンバー
+
+; {c} team
+; $1チーム
+
+Outfit attack and defense value {d}
+装備の攻撃と防御の値$1
+
+; View details
+; 詳細を見る
+
+no set bonus
+セットボーナスなし
+
+{c} {c} Set of equipments
+{sub2{(1($1 $2セット)1)}sub2}
+
+; increase {d}% attack damage
+; 攻撃ダメージを$1%増加
+
+; reduce {d}% damage taken during defense
+; 防御中の被ダメージを$1%減少
+
+holding {t}\>\|\|\<{n}
+手に持っている{sub2{$1>||<$2}sub2}
+
+wearing {t}\>\|\|\<{n} on the head
+頭に{sub2{$1>||<$2}sub2}を着用
+
+wearing {t}\>\|\|\<{n} on the neck
+首に{sub2{$1>||<$2}sub2}を着用
+
+wearing {t}\>\|\|\<{n} on the shoulders
+肩に{sub2{$1>||<$2}sub2}を着用
+
+wearing {t}\>\|\|\<{n} on the body
+体に{sub2{$1>||<$2}sub2}を着用
+
+hands wearing {t}\>\|\|\<{n}, {t}\>\|\|\<{n}, {t}\>\|\|\<{n}
+手に{sub2{$1>||<$2}sub2},{sub2{$3>||<$4}sub2},{sub2{$5>||<$6}sub2}を着用
+
+hands wearing {t}\>\|\|\<{n}, {t}\>\|\|\<{n}
+手に{sub2{$1>||<$2}sub2},{sub2{$3>||<$4}sub2}を着用
+
+hands wearing {t}\>\|\|\<{n}
+手に{sub2{$1>||<$2}sub2}を着用
+
+{t}\>\|\|\<{n} is wrapped around the waist
+腰に{sub2{$1>||<$2}sub2}を巻いている
+
+wearing {t}\>\|\|\<{n} on the legs
+脚に{sub2{$1>||<$2}sub2}を着用
+
+wearing {t}\>\|\|\<{n} on the feet
+足に{sub2{$1>||<$2}sub2}を着用
+
+carrying {m}
+{sub2{$1}sub2}を背負っている
+
+wearing {n} on finger
+指に{sub2{$1}sub2}を着用
+
+with {n} on your clothes
+服に{sub2{$1}sub2}を付ける
+
+with {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2}を付ける
+
+with {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2}を付ける
+
+with {n}, {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2}を付ける
+
+with {n}, {n}, {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2}を付ける
+
+with {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2}を付ける
+
+with {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2}を付ける
+
+with {n}, {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+服に{sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2},{sub2{$8}sub2}を付ける
+
+with {n}
+{sub2{$1}sub2}を付ける
+
+{n} on your clothes
+服に{sub2{$1}sub2}
+
+incarnate in the form of {n}
+{sub2{$1}sub2}の形態に化身する
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<;{c}
+装備名: {sub2{$1>||<$2>||<;>||<$3}sub2}
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<
+装備名: {sub2{$1>||<$2}sub2}
+
+{t}\>\|\|\<{n}
+{sub2{$1>||<$2}sub2}
+
+state of the insert is:
+挿入の状態:
+
+no socketing
+ソケットなし
+
+Crimson socket
+深紅ソケット
+
+increase maximum HP {d}
+最大HPを$1増加
+
+Dark Blue socket
+濃い青ソケット
+
+increase maximum mana {d}
+最大マナを$1増加
+
+Brown Yellow socket
+茶色と黄色のソケット
+
+increase physical attack {d}
+物理攻撃を$1増加
+
+Honey Yellow socket
+ハニーイエローソケット
+
+increase magic attack {d}
+魔法攻撃を$1増加
+
+Pink socket
+ピンクソケット
+
+increase physical defense {d}
+物理防御を$1増加
+
+Blue socket
+青ソケット
+
+increase magic defense {d}
+魔法防御を$1増加
+
+Dark Purple socket
+濃い紫ソケット
+
+increase hit chance {d}
+命中率を$1増加
+
+Dark Yellow socket
+濃い黄色ソケット
+
+increase dodge chance {d}
+回避率を$1増加
+
+Blue purple socket
+青紫ソケット
+
+increase defense break chance {d}
+防御破壊率を$1増加
+
+Dark green socket
+濃い緑ソケット
+
+increase defense break damage {d}
+防御破壊ダメージを$1増加
+
+Golden yellow socket
+黄金の黄色ソケット
+
+increase toughness {d}
+タフネスを$1増加
+
+Black socket
+黒ソケット
+
+increase critical hit chance {d}
+クリティカルヒット率を$1増加
+
+Orange socket
+オレンジソケット
+
+increase critical hit damage {d}
+クリティカルヒットダメージを$1増加
+
+White socket
+白ソケット
+
+increase critical hit resistance {d}
+クリティカルヒット耐性を$1増加
+
+Emerald Green socket
+エメラルドグリーンソケット
+
+increase movement speed {d}
+移動速度を$1増加
+
+Ordinary bronze Set
+普通のブロンズセット
+
+Refined bronze Set
+洗練されたブロンズセット
+
+Ordinary silk Set
+普通のシルクセット
+
+Refined silk Set
+洗練されたシルクセット
+
+Ordinary Sword of Fighter
+普通の戦士の剣
+
+Refined Sword of Fighter
+洗練された戦士の剣
+
+Ordinary machete of Berserker
+普通の狂戦士のマチェーテ
+
+Refined machete of Berserker
+洗練された狂戦士のマチェーテ
+
+Ordinary Blade of Killer
+普通のキラーの刃
+
+Refined Blade of Killer
+洗練されたキラーの刃
+
+Ordinary Bow of chaser
+普通の追跡者の弓
+
+Refined Bow of chaser
+洗練された追跡者の弓
+
+Ordinary Staff of Wisdom
+普通の知恵の杖
+
+Refined Staff of Wisdom
+洗練された知恵の杖
+
+Ordinary Staff of Nature
+普通の自然の杖
+
+Refined Staff of Nature
+洗練された自然の杖
+
+Ordinary Scepter of Mercy
+普通の慈悲の杖
+
+Refined Scepter of Mercy
+洗練された慈悲の杖
+
+Ordinary Scepter of Bones
+普通の骨の杖
+
+Refined Scepter of Bones
+洗練された骨の杖
+
+Ordinary fighter Set
+普通の戦士セット
+
+Refined fighter Set
+洗練された戦士セット
+
+Ordinary Berserker Set
+普通の狂戦士セット
+
+Refined Berserker Set
+洗練された狂戦士セット
+
+Ordinary killer Set
+普通のキラーセット
+
+Refined killer Set
+洗練されたキラーセット
+
+Ordinary chaser Set
+普通の追跡者セット
+
+Refined chaser Set
+洗練された追跡者セット
+
+Ordinary Wisdom Set
+普通の知恵セット
+
+Refined Wisdom Set
+洗練された知恵セット
+
+Ordinary colorful Set
+普通のカラフルセット
+
+Refined colorful Set
+洗練されたカラフルセット
+
+Ordinary charity Set
+普通の慈善セット
+
+Refined charity Set
+洗練された慈善セット
+
+Ordinary Skull Set
+普通の頭蓋骨セット
+
+Refined Skull Set
+洗練された頭蓋骨セット
+
+Ordinary Ocean Roaring
+普通の海の咆哮
+
+Refined Ocean Roaring
+洗練された海の咆哮
+
+Ordinary Mountain Crushing
+普通の山の粉砕
+
+Refined Mountain Crushing
+洗練された山の粉砕
+
+Ordinary Shadow Kissing
+普通の影のキス
+
+Refined Shadow Kissing
+洗練された影のキス
+
+Ordinary Wind Dancing
+普通の風のダンス
+
+Refined Wind Dancing
+洗練された風のダンス
+
+Ordinary Ice Sighing
+普通の氷のため息
+
+Refined Ice Sighing
+洗練された氷のため息
+
+Ordinary Fire Enveloping
+普通の火の包囲
+
+Refined Fire Enveloping
+洗練された火の包囲
+
+Ordinary Light Weaving
+普通の光の織り
+
+Refined Light Weaving
+洗練された光の織り
+
+Ordinary Soul Sucking
+普通の魂の吸収
+
+Refined Soul Sucking
+洗練された魂の吸収
+
+Ordinary Fencer Set
+普通のフェンサーセット
+
+Refined Fencer Set
+洗練されたフェンサーセット
+
+Ordinary Gladiator Set
+普通の剣闘士セット
+
+Refined Gladiator Set
+洗練された剣闘士セット
+
+Ordinary Tearer Set
+普通の引裂きセット
+
+Refined Tearer Set
+洗練された引裂きセット
+
+Ordinary Windrunner Set
+普通の風走者セット
+
+Refined Windrunner Set
+洗練された風走者セット
+
+Ordinary Freezing Set
+普通の凍結セット
+
+Refined Freezing Set
+洗練された凍結セット
+
+Ordinary Flaming Set
+普通の炎のセット
+
+Refined Flaming Set
+洗練された炎のセット
+
+Ordinary Radiant Set
+普通の光輝セット
+
+Refined Radiant Set
+洗練された光輝セット
+
+Ordinary Ghost Set
+普通の幽霊セット
+
+Refined Ghost Set
+洗練された幽霊セット
+
+Ordinary Solemn Oath
+普通の厳粛な誓い
+
+Refined Solemn Oath
+洗練された厳粛な誓い
+
+Ordinary Savage invader
+普通の野蛮な侵略者
+
+Refined Savage invader
+洗練された野蛮な侵略者
+
+Ordinary Grief Bringer
+普通の悲嘆の持ち主
+
+Refined Grief Bringer
+洗練された悲嘆の持ち主
+
+Ordinary Mutant Slayer
+普通のミュータントスレイヤー
+
+Refined Mutant Slayer
+洗練されたミュータントスレイヤー
+
+Ordinary Frost Sorrow
+普通の霜の悲しみ
+
+Refined Frost Sorrow
+洗練された霜の悲しみ
+
+Ordinary Scorching Torch
+普通の灼熱の松明
+
+Refined Scorching Torch
+洗練された灼熱の松明
+
+Ordinary Praying seraph
+普通の祈るセラフ
+
+Refined Praying seraph
+洗練された祈るセラフ
+
+Ordinary Griffin Claw
+普通のグリフィンクロー
+
+Refined Griffin Claw
+洗練されたグリフィンクロー
+
+Ordinary Honor Set
+普通の名誉セット
+
+Refined Honor Set
+洗練された名誉セット
+
+Ordinary Barbarian Set
+普通の野蛮人セット
+
+Refined Barbarian Set
+洗練された野蛮人セット
+
+Ordinary ascetic Set
+普通の苦行者セット
+
+Refined ascetic Set
+洗練された苦行者セット
+
+Ordinary Raider Set
+普通の襲撃者セット
+
+Refined Raider Set
+洗練された襲撃者セット
+
+Ordinary Frost Set
+普通の霜セット
+
+Refined Frost Set
+洗練された霜セット
+
+Ordinary wildfire Set
+普通の野火セット
+
+Refined wildfire Set
+洗練された野火セット
+
+Ordinary angel Set
+普通の天使セット
+
+Refined angel Set
+洗練された天使セット
+
+Ordinary Lich Set
+普通のリッチセット
+
+Refined Lich Set
+洗練されたリッチセット
+
+Ordinary Ribcracker
+普通のリブクラッカー
+
+Refined Ribcracker
+洗練されたリブクラッカー
+
+Ordinary Tornado Scourge
+普通の竜巻のたたり
+
+Refined Tornado Scourge
+洗練された竜巻のたたり
+
+Ordinary Invisible Claw
+普通の見えない爪
+
+Refined Invisible Claw
+洗練された見えない爪
+
+Ordinary Heart Hitter
+普通の心臓打ち
+
+Refined Heart Hitter
+洗練された心臓打ち
+
+Ordinary Pelting Hail
+普通のたたきつける雹
+
+Refined Pelting Hail
+洗練されたたたきつける雹
+
+Ordinary Thousands Blast
+普通の千の爆発
+
+Refined Thousands Blast
+洗練された千の爆発
+
+Ordinary Inspire Scepter
+普通のインスパイアセプター
+
+Refined Inspire Scepter
+洗練されたインスパイアセプター
+
+Ordinary Terror Scepter
+普通の恐怖のセプター
+
+Refined Terror Scepter
+洗練された恐怖のセプター
+
+Ordinary Champion Set
+普通のチャンピオンセット
+
+Refined Champion Set
+洗練されたチャンピオンセット
+
+Ordinary Rampage Set
+普通の暴走セット
+
+Refined Rampage Set
+洗練された暴走セット
+
+Ordinary Stealth Set
+普通のステルスセット
+
+Refined Stealth Set
+洗練されたステルスセット
+
+Ordinary sniper Set
+普通の狙撃手セット
+
+Refined sniper Set
+洗練された狙撃手セット
+
+Ordinary Blizzard Set
+普通の吹雪セット
+
+Refined Blizzard Set
+洗練された吹雪セット
+
+Ordinary Firestorm Set
+普通の火の嵐セット
+
+Refined Firestorm Set
+洗練された火の嵐セット
+
+Ordinary Sermon Set
+普通の説教セット
+
+Refined Sermon Set
+洗練された説教セット
+
+Ordinary Horror Set
+普通のホラーセット
+
+Refined Horror Set
+洗練されたホラーセット
+
+Ordinary Royal Victory
+普通の王室の勝利
+
+Refined Royal Victory
+洗練された王室の勝利
+
+Ordinary Lethal Warhammer
+普通の致命的な戦鎚
+
+Refined Lethal Warhammer
+洗練された致命的な戦鎚
+
+Ordinary Bloodletting razor
+普通の血を流す剃刀
+
+Refined Bloodletting razor
+洗練された血を流す剃刀
+
+Ordinary Hydra crossbow
+普通のヒドラクロスボウ
+
+Refined Hydra crossbow
+洗練されたヒドラクロスボウ
+
+Ordinary Sealing Moon
+普通の封印月
+
+Refined Sealing Moon
+洗練された封印月
+
+Ordinary eruption Magma
+普通の噴火マグマ
+
+Refined eruption Magma
+洗練された噴火マグマ
+
+Ordinary Pure Wisdom
+普通の純粋な知恵
+
+Refined Pure Wisdom
+洗練された純粋な知恵
+
+Ordinary mummy Curse
+普通のミイラの呪い
+
+Refined mummy Curse
+洗練されたミイラの呪い
+
+Ordinary hero Set
+普通の英雄セット
+
+Refined hero Set
+洗練された英雄セット
+
+Ordinary Sentinel Set
+普通のセンチネルセット
+
+Refined Sentinel Set
+洗練されたセンチネルセット
+
+Ordinary Executioner Set
+普通の処刑人セット
+
+Refined Executioner Set
+洗練された処刑人セット
+
+Ordinary Penetrator Set
+普通の貫通者セット
+
+Refined Penetrator Set
+洗練された貫通者セット
+
+Ordinary Glacier Set
+普通の氷河セット
+
+Refined Glacier Set
+洗練された氷河セット
+
+Ordinary Volcano Set
+普通の火山セット
+
+Refined Volcano Set
+洗練された火山セット
+
+Ordinary Saint Set
+普通の聖人セット
+
+Refined Saint Set
+洗練された聖人セット
+
+Ordinary Toxin Set
+普通の毒素セット
+
+Refined Toxin Set
+洗練された毒素セット
+
+Ordinary Broken Sky
+普通の壊れた空
+
+Refined Broken Sky
+洗練された壊れた空
+
+Ordinary Lost Eternity
+普通の失われた永遠
+
+Refined Lost Eternity
+洗練された失われた永遠
+
+Ordinary Dragon Scale
+普通のドラゴンスケール
+
+Refined Dragon Scale
+洗練されたドラゴンスケール
+
+Ordinary Star Fury
+普通の星の怒り
+
+Refined Star Fury
+洗練された星の怒り
+
+Ordinary Desolate Snow
+普通の荒涼とした雪
+
+Refined Desolate Snow
+洗練された荒涼とした雪
+
+Ordinary Black Smoke
+普通の黒い煙
+
+Refined Black Smoke
+洗練された黒い煙
+
+Ordinary Redemption finger
+普通の贖罪の指
+
+Refined Redemption finger
+洗練された贖罪の指
+
+Ordinary Demon Spine
+普通の悪魔の脊椎
+
+Refined Demon Spine
+洗練された悪魔の脊椎
+
+Ordinary Pioneer Set
+普通の開拓者セット
+
+Refined Pioneer Set
+洗練された開拓者セット
+
+Ordinary Giant Set
+普通の巨人セット
+
+Refined Giant Set
+洗練された巨人セット
+
+Ordinary Reaper Set
+普通の死神セット
+
+Refined Reaper Set
+洗練された死神セット
+
+Ordinary Destroyer Set
+普通の破壊者セット
+
+Refined Destroyer Set
+洗練された破壊者セット
+
+Ordinary Winter Set
+普通の冬セット
+
+Refined Winter Set
+洗練された冬セット
+
+Ordinary Inferno Set
+普通の地獄セット
+
+Refined Inferno Set
+洗練された地獄セット
+
+Ordinary Revival Set
+普通の復活セット
+
+Refined Revival Set
+洗練された復活セット
+
+Ordinary Undead Set
+普通のアンデッドセット
+
+Refined Undead Set
+洗練されたアンデッドセット
+
+Ordinary Evil Purger
+普通の悪の清掃者
+
+Refined Evil Purger
+洗練された悪の清掃者
+
+Ordinary Thor Hammer
+普通のトールハンマー
+
+Refined Thor Hammer
+洗練されたトールハンマー
+
+Ordinary Revenge Tooth
+普通の復讐の歯
+
+Refined Revenge Tooth
+洗練された復讐の歯
+
+Ordinary Phoenix Longbow
+普通のフェニックスロングボウ
+
+Refined Phoenix Longbow
+洗練されたフェニックスロングボウ
+
+Ordinary Poseidon Trident
+普通のポセイドントライデント
+
+Refined Poseidon Trident
+洗練されたポセイドントライデント
+
+Ordinary Burning Corona
+普通の燃えるコロナ
+
+Refined Burning Corona
+洗練された燃えるコロナ
+
+Ordinary Salvation Cross
+普通の救済の十字架
+
+Refined Salvation Cross
+洗練された救済の十字架
+
+Ordinary Death Scythe
+普通の死の大鎌
+
+Refined Death Scythe
+洗練された死の大鎌
+
+Ordinary Saviour Set
+普通の救世主セット
+
+Refined Saviour Set
+洗練された救世主セット
+
+Ordinary Patronus Set
+普通の守護者セット
+
+Refined Patronus Set
+洗練された守護者セット
+
+Ordinary Slaughterer Set
+普通の虐殺者セット
+
+Refined Slaughterer Set
+洗練された虐殺者セット
+
+Ordinary Dominator Set
+普通の支配者セット
+
+Refined Dominator Set
+洗練された支配者セット
+
+Ordinary Tsunami Set
+普通の津波セット
+
+Refined Tsunami Set
+洗練された津波セット
+
+Ordinary Sunfire Set
+普通の太陽の炎セット
+
+Refined Sunfire Set
+洗練された太陽の炎セット
+
+Ordinary Celestial Set
+普通の天体セット
+
+Refined Celestial Set
+洗練された天体セット
+
+Ordinary Sacrifice Set
+普通の犠牲セット
+
+Refined Sacrifice Set
+洗練された犠牲セット

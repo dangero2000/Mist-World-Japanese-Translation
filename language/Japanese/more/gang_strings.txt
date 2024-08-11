@@ -1,0 +1,47 @@
+Daily Gang Construction, {s} time, get Active {d}
+日刊ギャング建設、{sub2{$1}sub2}回、活動{sub2{$2}sub2}を獲得
+
+Complete different gang missions per day, {s} time, get Active {d}
+毎日異なるギャングミッションを完了し、{sub2{$1}sub2}回、活動$2を獲得
+
+donation per day, {s} time, get Active {d}
+1日あたりの寄付、{sub2{$1}sub2}回、活動$2を獲得
+
+system ;Has become an allied gang with {s}
+システム；このギャングは{sub2{$1}sub2}と同盟を結びました
+
+{s};The {s} Gang Tournament bidding has begun. Gangs wanting to participate can sign up at the tournament messenger.
+{sub2{$1}sub2}；{sub2{$2}sub2}ギャングトーナメントの入札が始まりました。 参加希望のギャングは、トーナメントメッセンジャーでサインアップできます。
+
+{s};The {s} Gang Tournament bidding will end in {d} hours and {d} minutes. For gangs who want to participate, please sign up at the tournament messenger before the bidding end.
+{sub2{$1}sub2}；{sub2{$2}sub2}ギャングトーナメントの入札はあと$3時間$4分で終了します。 参加希望のギャングは、入札終了前にトーナメントメッセンジャーでサインアップしてください。
+
+{s};The {s} Gang Tournament is over, congratulations to {s} gang for winning the championship
+{sub2{$1}sub2}；{sub2{$2}sub2}ギャングトーナメントは終了しました、優勝した$3ギャングにおめでとう
+
+broadcast ;{c} joined a gang
+放送；$1 がギャングに参加しました！
+
+You are such a helpful person, just take the wound-healing powder, no need to give money! All parts of the world have become very dangerous, and it is also my mission to save the sick and save the sick.
+あなたはとても親切な人です。傷を治す粉を持っていってください、お金は必要ありません！ 世界のあらゆる地域が非常に危険になっており、病気の人々を救うことも私の使命です。
+
+Warrior, there have been giant locusts that can attack people in the farmland recently, which has made me afraid to water the crops. Can you help me water the farmland behind?
+戦士よ、最近、農地で人々を襲う巨大なバッタが発生しており、作物に水をやるのが怖くなっています。作物に水をやって、昆虫を退治してくれませんか？
+
+Then please, take this iron bucket, which can be watered after scooping up pond water on the farm. I'm letting you into the farm.
+それでは、この鉄のバケツを持ってください。これは、池の水をすくってから作物に水をやることができます。私はあなたを農場に入れています。
+
+Accept the bucket and go to
+バケツを受け取り、農地に入ります。
+
+Rewards for players of the {s} gang:{s}
+{sub2{$1}sub2} ギャングのプレイヤーへの報酬:{sub2{$2}sub2}
+
+{s}; gang reward {d} {s} in {s}
+{sub1{$1}sub1}；ギャング報酬 $2 {sub2{$3}sub2} in $4
+
+{s};gang reward one  {s} in {s}
+{sub1{$1}sub1}；ギャング報酬1 {sub2{$2}sub2} in $3
+
+{d} gangs have participated in the {s} gang tournament
+$1ギャングが{sub2{$2}sub2}ギャングトーナメントに参加しました

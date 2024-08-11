@@ -1,0 +1,89 @@
+Wrecked 
+破壊された
+
+Damaged 
+損傷した
+
+inserted with 
+挿入された:
+
+plus: When casting skills healing increase {d}%
+付加: スキル使用時に回復が{d}%増加
+
+plus: When attacked healing increase {d}%
+付加: 攻撃を受けた時に回復が{d}%増加
+
+plus: healing increase {d}%
+付加: 回復が{d}%増加
+
+plus: When casting skills physical damage increase {d}%
+付加: スキル使用時に物理ダメージが{d}%増加
+
+plus: When attacked physical damage increase {d}%
+付加: 攻撃を受けた時に物理ダメージが{d}%増加
+
+plus: When casting skills magic damage increase {d}%
+付加: スキル使用時に魔法ダメージが{d}%増加
+
+plus: When attacked magic damage increase {d}%
+付加: 攻撃を受けた時に魔法ダメージが{d}%増加
+
+plus: When casting skills damage increase {d}%
+付加: スキル使用時にダメージが{d}%増加
+
+plus: When attacked damage increase {d}%
+付加: 攻撃を受けた時にダメージが{d}%増加
+
+plus: When casting skills healing reduce {d}%
+付加: スキル使用時に回復が{d}%減少
+
+plus: When attacked healing reduce {d}%
+付加: 攻撃を受けた時に回復が{d}%減少
+
+plus: healing reduce {d}%
+付加: 回復が{d}%減少
+
+plus: When casting skills physical damage reduce {d}%
+付加: スキル使用時に物理ダメージが{d}%減少
+
+plus: When attacked physical damage reduce {d}%
+付加: 攻撃を受けた時に物理ダメージが{d}%減少
+
+plus: When casting skills magic damage reduce {d}%
+付加: スキル使用時に魔法ダメージが{d}%減少
+
+plus: When attacked magic damage reduce {d}%
+付加: 攻撃を受けた時に魔法ダメージが{d}%減少
+
+plus: When casting skills damage reduce {d}%
+付加: スキル使用時にダメージが{d}%減少
+
+plus: When attacked damage reduce {d}%
+付加: 攻撃を受けた時にダメージが{d}%減少
+
+plus: Disable Skill
+付加: スキル無効化
+
+plus: When casting skills hit chance increase {d}
+付加: スキル使用時に命中率が{d}増加
+
+plus: When attacked dodge chance increase {d}
+付加: 攻撃を受けた時に回避率が{d}増加
+
+plus: When casting skills defense break chance increase {d}
+付加: スキル使用時に防御破壊率が{d}増加
+
+plus: When casting skills defense break damage increase {d}
+付加: スキル使用時に防御破壊ダメージが{d}増加
+
+plus: When attacked toughness increase {d}
+付加: 攻撃を受けた時にタフネスが{d}増加
+
+plus: When casting skills critical hit chance increase {d}
+付加: スキル使用時にクリティカルヒット率が{d}増加
+
+plus: When casting skills critical hit damage increase {d}
+付加: スキル使用時にクリティカルヒットダメージが{d}増加
+
+plus: When attacked critical hit resistance increase {d}
+付加: 攻撃を受けた時にクリティカルヒット耐性が{d}増加

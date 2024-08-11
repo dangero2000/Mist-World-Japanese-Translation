@@ -1,0 +1,98 @@
+5391
+Now, the wedding begins. Newlyweds, please come forward, take your vow cards and deliver your vow of love to your partner. 
+
+5392
+Congratulations on becoming a couple, may the Mist Gods be witness to your love! Now, the guests can collect a blessing card from the usherette, and give the newlyweds your blessings.
+
+5393
+The newlyweds are going to thank the guests, and random gift boxes will drop from the hall. 
+
+5394
+Now it's time for the new couple to express their love. Please snuggle 100 times in front of the guests as a testament that you two will live happily ever after.
+
+5395
+10!
+
+5396
+20!
+
+5397
+30!
+
+5398
+40!
+
+5399
+50!
+
+5400
+60!
+
+5401
+70!
+
+5402
+80!
+
+5403
+90!
+
+5404
+100! Congratulations to the new couple! Please come forward and receive the blessing of the priest. This marks the end of the wedding ceremony. Distinguished guests, friends and family, thank you for your participation. Please go to the usherette to collect a wedding gift package before exiting the hall, thank you!
+
+5405
+The wedding ceremony has been fulfilled. Everyone, please collect the wedding gift package from the usherette before leaving.
+
+5406
+Congratulations on becoming a couple, may the Mist Gods be witness to your love! The Central Kingdom, the Loki Union and the Garth Empire have all sent envoys to celebrate this special moment. Please welcome them to the stage to deliver their gifts to the new couple!
+
+5407
+Thank you, esteemed envoys. Now, the guests can collect a blessing card from the usherette, and give the newlyweds your blessings.
+
+16393 //Wedding Priest:
+May the Light be with you.
+
+16394 //welcome lady
+May the blessings always accompany you.
+
+16395 //welcome lady
+May God's blessing be with you.
+
+16396 //welcome lady
+May the blessings of the tree of life be with you.
+
+16397 //welcome lady
+May the blessings of the tree of life be with you.
+
+16398 //Male guard of honor (young male):
+May God's blessing be with you
+
+16399 //Male guard of honor (young male):
+may god protect you
+
+16400 //Male guard of honor (middle-aged male in prayer tone):
+may god protect you
+
+16401 //Male guard of honor (middle-aged male in prayer tone):
+May God bless you.
+
+16402 //Male guard of honor (pious young and middle-aged men):
+Hope luck is with you.
+
+16403 //Male guard of honor (middle-aged male):
+May God's protection be with you.
+
+16404 //Male guard of honor (middle-aged male):
+May God's blessing be with you.
+
+16405 //Male guard of honor (stable middle-aged male):
+May God's blessing be with you.
+
+16406 //envoys A, majestic middle-aged male
+May God's protection be with you.
+
+16407 //envoys B, kind old man
+May you be blessed by God wherever you go.
+
+16408 //envoys C, arrogant middle-aged male
+May God's blessing be with you.

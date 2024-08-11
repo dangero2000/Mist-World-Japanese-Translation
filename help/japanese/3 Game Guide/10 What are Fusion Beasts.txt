@@ -1,0 +1,8 @@
+Fusion Beasts in the Mist World are inspired by anime and other games. You can simply think of them as mounts, but they are fundamentally different.
+Traditionally, characters can ride mounts to gain speed boosts or attribute bonuses, while Fusion Beasts can allow the character to transform himself and obtain their characteristics, such as mammoths in beast form, werewolves in Demi-human form, and iron beetles in insectoid form.
+Apart from the complete transformation, Fusion Beast allows players to semi-transform, and can float above the player's head to follow him closely.
+There are two types of Fusion Beasts: Swift and Fierce.
+Swift Fusion Beast will greatly increase the character's movement speed, up to twice as fast as before the transformation. But players cannot use skills when transformed.
+Fierce Fusion Beasts increase the character's movement speed, as well as their attributes, making them stronger in combat.
+Fusion power will be consumed when you transform. It is the second value you hear when pressing T.
+Players cannot transform when fusion power is less than 10. Transformation will be lifted when fusion power drops to 0. Fusion power will gradually recover when not transformed. So players should choose the right time to use their Fusion Beasts.

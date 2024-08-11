@@ -1,0 +1,14 @@
+1. Types of Control Skill
+Control skills can affect a character's actions. They include the following control effects:
+1. Stun: Stunned characters cannot attack, move, use items, dodge attacks, or wake up when taken damage.
+2. Restrain & Ensnare: Restrained or Ensnared characters cannot attack, use items, or dodge attacks.
+3. Knock-Out & Freeze: Knock-Outed or Frozen characters cannot attack, move, use items, or dodge attacks, but will wake up when taken damage.
+4. Transfix & Fire-Trap: Transfixed or Fire-Trapped characters cannot move.
+5. Silence: Silenced characters cannot cast channeling spells.
+As opposed to Control Skills, there are Counter-Control Skills. There are two types of such skills: decontrol and control immune. However, there are not many Counter-Control skills, players are encouraged to explore on their own.
+2. Control Overload Rules
+Control Skills adopt to the Control Overload Rules, which means, when a character is affected by too many Control Skills of the same type in a short period, he will be immune to that type of Control Skills for 15 seconds.
+The specific rules are: If a player is affected by a type of control skill, and is affected again by the same type within 15 seconds after the first effect ends, he will accumulate an "Affected Time" of that type. If the player is affected a third time by the same type within 15 seconds after the second effect ends, then he will accumulate more "Affected Time", and so on. When the "Affected Time" reaches or exceeds 15 seconds, the player will be immune to that type of Control Skills for 15 seconds.
+The "Affected Time" only resets when a player is not affected again by the same type of Control Skill within 15 seconds after the first effect ends.
+3. Control-Immune Characters
+In the game, some monsters are completely immune to Control Skills, mostly boss-level monsters. In addition, certain unique monsters have control-immune, including city guards, etc.

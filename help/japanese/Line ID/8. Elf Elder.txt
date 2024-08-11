@@ -1,0 +1,41 @@
+5151 //The Elf Elder asks the Player:
+Can you feel it, the pulsing of dark energy? The Demon World is expanding. Soon, it will encroach on human territory. It would be dangerous for you to go out now, we are only living here temporarily, you don't have to fight for humanity, sooner or later we will have to leave. Go back.
+
+5152
+Huh, you still insist on leaving?
+
+5154
+Sigh, I only want to avoid the meaningless death of elves. But you've got a point. Well, let me see your control over the fire element. If you prove yourself, I'll let you go. See that stake to the north? Go break it.
+
+5156
+See that stake to the north? Go break it.
+
+5158
+You really know your way around the Fire Ball spell. Here's the weapon and outfit. Equip them, and we'll have another go.
+
+5159 //When the player refuses the equipment
+Don't be stubborn, items can help you concentrate the fire element.
+
+5160 //When the player accepts the equipment
+Good, put them on.
+
+5162
+Weapons can increase fire damage. There's a movable stake to the west, go break it.
+
+5164
+You're on fire! Come here, I have two more equipment for you.
+
+5165
+Did you get it? Put those shoes on. There's also a chest, it's in the inventory, remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Go wipe them out. If you can pass this test, then you can leave.
+
+5167
+Put those shoes on. There's also a chest, it's in the inventory, remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Go wipe them out. If you can pass this test, then you can leave.
+
+5169
+There's a bunch of mutants in the northeast training room. Go wipe them out. If you can pass this test, then you can leave.
+
+5170
+Good work! Looks like you've obtained a Skill Crystal, use it to learn the Fire Impact Skill, which is a stronger fire elemental manipulation skill.
+
+5171
+Go, the exit is to the north. Danger lurks everywhere outside, so be careful. The future of Elves depend on young ones like you.

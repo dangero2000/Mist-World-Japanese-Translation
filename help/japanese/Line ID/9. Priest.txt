@@ -1,0 +1,41 @@
+5181 //The Priest speaks in a gentle, benevolent voice.
+The world used to be so beautiful when human beings could be in close contact with the Mist Gods. Now that we are under attack from mutants and demons, nowhere is safe. Perhaps in difficult times like this, our minds can be sharpened. But I can't help thinking back to the good old days. My child, you've been praying less. Have you lost faith in the Mist Gods?
+
+5182
+Have you lost faith in the Mist Gods because of the hardship we endure?
+
+5184
+Child, you have a loving heart. But your wish requires powerful light magic. Show me the results of your training. See that stake to the north? Go break it with magic.
+
+5186
+See that stake to the north? Go break it with magic.
+
+5188
+Nicely done. Now let's see how well you perform with equipment. Here are the weapon and outfit, take it.
+
+5189 //When the player refuses the equipment
+Will those who seek to spread fire refuse to use the torch?
+
+5190 //When the player accepts the equipment
+Good, put them on.
+
+5192
+There's a movable stake to the west, go break it.
+
+5194
+Much better. Come here, I have two more equipment for you.
+
+5195
+Here you go, these are a pair of shoes and a chest. Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out.
+
+5197
+Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out.
+
+5199
+There's a bunch of mutants in the northeast confession room. Go wipe them out.
+
+5200
+Very good, you are well-trained in magic. Looks like you've obtained a Skill Crystal, use it to learn the Mind Whip Skill. It will help you fight better against evil.
+
+5201
+Go, child, leave the church through the north. Go and purge the world of evil! May the Mist Gods bless you with strength.

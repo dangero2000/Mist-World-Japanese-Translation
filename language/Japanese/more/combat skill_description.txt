@@ -1,0 +1,1590 @@
+proficiency {d}/{d}; Upgrade needs character level {d}; 
+熟練度$1/$2；アップグレードには$3レベルが必要です；
+
+proficiency %%i0%/%%i1%; upgraded by learning requires character level %%i2%; 
+熟練度 $1/$2；学習によってアップグレードには$3レベルが必要です；
+
+proficiency is full; Upgrade needs character level {d}; 
+熟練度が満タンです；アップグレードには$1レベルが必要です；
+
+proficiency is full; upgraded by learning requires character level %%i0%; 
+熟練度が満タンです；学習によってアップグレードには$1レベルが必要です；
+
+proficiency is full, it will be upgraded after effective casting; 
+熟練度が満タンで、効果的なキャスティング後にアップグレードされます；
+
+proficiency is full, can learn to upgrade; 
+熟練度が満タンで、アップグレードを学ぶことができます；
+
+Level {d} Bash; {s}Base attack, strike {d} enemy within {d} yards, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+強打$レベル1；{sub2{$2}sub2}基本攻撃、$3ヤード内の$4体の敵を攻撃し、$5の怒りを得て、$6の物理攻撃力を増加し、$7のマナを消費します
+
+Level 2 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 230 points of physical attack, cost 20 mana
+強打レベル2；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、230の物理攻撃力を増加し、20のマナを消費します
+
+Level 3 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 380 points of physical attack, cost 40 mana
+強打レベル3；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、380の物理攻撃力を増加し、40のマナを消費します
+
+Level 4 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 630 points of physical attack, cost 60 mana
+強打レベル4；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、630の物理攻撃力を増加し、60のマナを消費します
+
+Level 5 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 940 points of physical attack, cost 90 mana
+強打レベル5；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、940の物理攻撃力を増加し、90のマナを消費します
+
+Level 6 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 1440 points of physical attack, cost 140 mana
+強打レベル6；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、1440の物理攻撃力を増加し、140のマナを消費します
+
+Level 7 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 2380 points of physical attack, cost 220 mana
+強打レベル7；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、2380の物理攻撃力を増加し、220のマナを消費します
+
+Level 8 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 3500 points of physical attack, cost 320 mana
+強打レベル8；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、3500の物理攻撃力を増加し、320のマナを消費します
+
+Level 1 Bash; {s}Base attack, strike 1 enemy within 5 yards, gain 10 rage, increase 5600 points of physical attack, cost 500 mana
+強打レベル1；{sub2{$1}sub2}基本攻撃、5ヤード以内の1体の敵を攻撃し、10の怒りを得て、5600の物理攻撃力を増加し、500のマナを消費します
+
+Level 1 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 230 points of physical attack, 20% attack bonus, cost 40 mana
+分裂斬レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、230の物理攻撃力を増加し、20%の攻撃ボーナスを得て、40のマナを消費します
+
+Level 2 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 350 points of physical attack, 20% attack bonus, cost 100 mana
+分裂斬レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、350の物理攻撃力を増加し、20%の攻撃ボーナスを得て、100のマナを消費します
+
+Level 3 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 560 points of physical attack, 20% attack bonus, cost 150 mana
+分裂斬レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、560の物理攻撃力を増加し、20%の攻撃ボーナスを得て、150のマナを消費します
+
+Level 4 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 960 points of physical attack, 20% attack bonus, cost 250 mana
+分裂斬レベル4；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、960の物理攻撃力を増加し、20%の攻撃ボーナスを得て、250のマナを消費します
+
+Level 5 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 1400 points of physical attack, 20% attack bonus, cost 380 mana
+分裂斬レベル5；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、1400の物理攻撃力を増加し、20%の攻撃ボーナスを得て、380のマナを消費します
+
+Level 6 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 2400 points of physical attack, 20% attack bonus, cost 750 mana
+分裂斬レベル6；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、2400の物理攻撃力を増加し、20%の攻撃ボーナスを得て、750のマナを消費します
+
+Level 7 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 3800 points of physical attack, 20% attack bonus, cost 1200 mana
+分裂斬レベル7；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、3800の物理攻撃力を増加し、20%の攻撃ボーナスを得て、1200のマナを消費します
+
+Level 8 Cleave; {s}Slash 1 enemy within 5 yards from top to bottom, 4 seconds CD, gain 3 rage, increase 6800 points of physical attack, 20% attack bonus, cost 2100 mana
+分裂斬レベル8；{sub2{$1}sub2}5ヤード以内の1体の敵を上から下に斬り、4秒のクールダウン、3の怒りを得て、6800の物理攻撃力を増加し、20%の攻撃ボーナスを得て、2100のマナを消費します
+
+Level 1 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 1150 points of physical attack, 50% attack bonus, cost 300 mana
+断罪レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、1150の物理攻撃力を増加し、50%の攻撃ボーナスを得て、300のマナを消費します
+
+Level 2 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 2840 points of physical attack, 50% attack bonus, cost 800 mana
+断罪レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、2840の物理攻撃力を増加し、50%の攻撃ボーナスを得て、800のマナを消費します
+
+Level 3 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 4000 points of physical attack, 50% attack bonus, cost 1300 mana
+断罪レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、4000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1300のマナを消費します
+
+Level 4 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 8000 points of physical attack, 50% attack bonus, cost 2250 mana
+断罪レベル4；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、8000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、2250のマナを消費します
+
+Level 5 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 12000 points of physical attack, 50% attack bonus, cost 3800 mana
+断罪レベル5；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、12000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、3800のマナを消費します
+
+Level 6 Execute; {s}Deal a final blow against 1 enemy within 5 yards, cost 100 rage, increase 18000 points of physical attack, 50% attack bonus, cost 6400 mana
+断罪レベル6；{sub2{$1}sub2}5ヤード以内の1体の敵に対して最終攻撃を行い、100の怒りを消費し、18000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、6400のマナを消費します
+
+Level 1 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 250 points of physical attack, cost 100 mana
+横斬り攻撃レベル1；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、250の物理攻撃力を増加し、100のマナを消費します
+
+Level 2 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 380 points of physical attack, cost 180 mana
+横斬り攻撃レベル2；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、380の物理攻撃力を増加し、180のマナを消費します
+
+Level 3 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 660 points of physical attack, cost 380 mana
+横斬り攻撃レベル3；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、660の物理攻撃力を増加し、380のマナを消費します
+
+Level 4 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 970 points of physical attack, cost 550 mana
+横斬り攻撃レベル4；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、970の物理攻撃力を増加し、550のマナを消費します
+
+Level 5 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 1500 points of physical attack, cost 750 mana
+横斬り攻撃レベル5；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、1500の物理攻撃力を増加し、750のマナを消費します
+
+Level 6 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 2380 points of physical attack, cost 1150 mana
+横斬り攻撃レベル6；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、2380の物理攻撃力を増加し、1150のマナを消費します
+
+Level 7 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 3600 points of physical attack, cost 1850 mana
+横斬り攻撃レベル7；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、3600の物理攻撃力を増加し、1850のマナを消費します
+
+Level 8 Sweep Attack; {s}Sweep through 2 enemies 5 yards ahead, 4 seconds CD, gain 6 rage, increase 5600 points of physical attack, cost 3000 mana
+横斬り攻撃レベル8；{sub2{$1}sub2}5ヤード前方の2体の敵を横掃し、4秒のクールダウン、6の怒りを得て、5600の物理攻撃力を増加し、3000のマナを消費します
+
+Level 1 Whirlwind Slash; {s}Deal a powerful strike to 4 enemies within a 5-yard radius, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 2600 mana
+旋風斬レベル1；{sub2{$1}sub2}5ヤード範囲内の4体の敵に強力な一撃を与え、200の怒りを消費し、3000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、2600のマナを消費します
+
+Level 2 Whirlwind Slash; {s}Deal a powerful strike to 4 enemies within a 5-yard radius, cost 200 rage, increase 7000 points of physical attack, 50% attack bonus, cost 4000 mana
+旋風斬レベル2；{sub2{$1}sub2}5ヤード範囲内の4体の敵に強力な一撃を与え、200の怒りを消費し、7000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、4000のマナを消費します
+
+Level 3 Whirlwind Slash; {s}Deal a powerful strike to 4 enemies within a 5-yard radius, cost 200 rage, increase 10000 points of physical attack, 50% attack bonus, cost 6000 mana
+旋風斬レベル3；{sub2{$1}sub2}5ヤード範囲内の4体の敵に強力な一撃を与え、200の怒りを消費し、10000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、6000のマナを消費します
+
+Level 4 Whirlwind Slash; {s}Deal a powerful strike to 4 enemies within a 5-yard radius, cost 200 rage, increase 16000 points of physical attack, 50% attack bonus, cost 10000 mana
+旋風斬レベル4；{sub2{$1}sub2}5ヤード範囲内の4体の敵に強力な一撃を与え、200の怒りを消費し、16000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、10000のマナを消費します
+
+Wind Step; {s}Increase 50% movement speed for 10 seconds, 30 seconds CD, cost 1% mana.
+風歩；{sub2{$1}sub2}10秒間、移動速度を50%増加させ、30秒のクールダウン、1%のマナを消費します。
+
+Swallow Dance; {s}Increase 50% movement speed for 10 seconds, 30 seconds CD, cost 1% mana.
+燕の舞；{sub2{$1}sub2}10秒間、移動速度を50%増加させ、30秒のクールダウン、1%のマナを消費します。
+
+Formless; {s}Reduce 40% damage taken for 10 seconds, 60 seconds CD, cost 1% mana.
+無形；{sub2{$1}sub2}10秒間、受けるダメージを40%減少させ、60秒のクールダウン、1%のマナを消費します。
+
+Level 1 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 500 points of physical attack, cost 50 mana
+跳躍斬レベル1；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、500の物理攻撃力を増加し、50のマナを消費します
+
+Level 2 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 650 points of physical attack, cost 60 mana
+跳躍斬レベル2；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、650の物理攻撃力を増加し、60のマナを消費します
+
+Level 3 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 940 points of physical attack, cost 90 mana
+跳躍斬レベル3；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、940の物理攻撃力を増加し、90のマナを消費します
+
+Level 4 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 1440 points of physical attack, cost 140 mana
+跳躍斬レベル4；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、1440の物理攻撃力を増加し、140のマナを消費します
+
+Level 5 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 2380 points of physical attack, cost 220 mana
+跳躍斬レベル5；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、2380の物理攻撃力を増加し、220のマナを消費します
+
+Level 6 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 3500 points of physical attack, cost 320 mana
+跳躍斬レベル6；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、3500の物理攻撃力を増加し、320のマナを消費します
+
+Level 7 Leap Slash; {s}Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, 30 seconds CD, gain 10 rage, increase 5600 points of physical attack, cost 500 mana
+跳躍斬レベル7；{sub2{$1}sub2}単体スキルで、ターゲットの側にジャンプして斬り下ろし、ターゲットを2.5秒間スタンさせ、10ヤードの有効範囲、30秒のクールダウン、10の怒りを得て、5600の物理攻撃力を増加し、500のマナを消費します
+
+Level 1 Rip and Tear; {s}Restrain 1 enemy within 5 yards for 3.5 seconds, 30 seconds CD, gain 6 rage, increase 2300 points of physical attack, cost 220 mana
+裂傷レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を3.5秒間拘束し、30秒のクールダウン、6の怒りを得て、2300の物理攻撃力を増加し、220のマナを消費します
+
+Level 2 Rip and Tear; {s}Restrain 1 enemy within 5 yards for 3.5 seconds, 30 seconds CD, gain 6 rage, increase 3500 points of physical attack, cost 320 mana
+裂傷レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を3.5秒間拘束し、30秒のクールダウン、6の怒りを得て、3500の物理攻撃力を増加し、320のマナを消費します
+
+Level 3 Rip and Tear; {s}Restrain 1 enemy within 5 yards for 3.5 seconds, 30 seconds CD, gain 6 rage, increase 5000 points of physical attack, cost 480 mana
+裂傷レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を3.5秒間拘束し、30秒のクールダウン、6の怒りを得て、5000の物理攻撃力を増加し、480のマナを消費します
+
+Level 1 Suppress; {s}Used when the target dodged the last attack, 100% hit chance, 5 yards of effective range, cost 50 rage, increase 1440 points of physical attack, 50% attack bonus, cost 420 mana
+抑制レベル1；{sub2{$1}sub2}ターゲットが最後の攻撃をかわした場合に使用され、100%の命中率を持ち、5ヤードの有効範囲、50の怒りを消費し、1440の物理攻撃力を増加し、50%の攻撃ボーナスを得て、420のマナを消費します
+
+Level 2 Suppress; {s}Used when the target dodged the last attack, 100% hit chance, 5 yards of effective range, cost 50 rage, increase 2000 points of physical attack, 50% attack bonus, cost 550 mana
+抑制レベル2；{sub2{$1}sub2}ターゲットが最後の攻撃をかわした場合に使用され、100%の命中率を持ち、5ヤードの有効範囲、50の怒りを消費し、2000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、550のマナを消費します
+
+Level 3 Suppress; {s}Used when the target dodged the last attack, 100% hit chance, 5 yards of effective range, cost 50 rage, increase 2750 points of physical attack, 50% attack bonus, cost 680 mana
+抑制レベル3；{sub2{$1}sub2}ターゲットが最後の攻撃をかわした場合に使用され、100%の命中率を持ち、5ヤードの有効範囲、50の怒りを消費し、2750の物理攻撃力を増加し、50%の攻撃ボーナスを得て、680のマナを消費します
+
+Level 4 Suppress; {s}Used when the target dodged the last attack, 100% hit chance, 5 yards of effective range, cost 50 rage, increase 4250 points of physical attack, 50% attack bonus, cost 1060 mana
+抑制レベル4；{sub2{$1}sub2}ターゲットが最後の攻撃をかわした場合に使用され、100%の命中率を持ち、5ヤードの有効範囲、50の怒りを消費し、4250の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1060のマナを消費します
+
+Level 5 Suppress; {s}Used when the target dodged the last attack, 100% hit chance, 5 yards of effective range, cost 50 rage, increase 6400 points of physical attack, 50% attack bonus, cost 1600 mana
+抑制レベル5；{sub2{$1}sub2}ターゲットが最後の攻撃をかわした場合に使用され、100%の命中率を持ち、5ヤードの有効範囲、50の怒りを消費し、6400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1600のマナを消費します
+
+Level 1 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 660 points of physical attack, cost 60 mana
+腱断ちレベル1；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、660の物理攻撃力を増加し、60のマナを消費します
+
+Level 2 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 850 points of physical attack, cost 80 mana
+腱断ちレベル2；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、850の物理攻撃力を増加し、80のマナを消費します
+
+Level 1 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 1200 points of physical attack, cost 120 mana
+腱断ちレベル3；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、1200の物理攻撃力を増加し、120のマナを消費します
+
+Level 4 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 1600 points of physical attack, cost 160 mana
+腱断ちレベル4；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、1600の物理攻撃力を増加し、160のマナを消費します
+
+Level 5 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 2600 points of physical attack, cost 250 mana
+腱断ちレベル5；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、2600の物理攻撃力を増加し、250のマナを消費します
+
+Level 6 Hamstring; {s}Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by 50% for 6 seconds, cost 60 rage, increase 4500 points of physical attack, cost 400 mana
+腱断ちレベル6；{sub2{$1}sub2}5ヤード以内の1体の敵の腱断ちを傷つけ、物理ダメージを与え、移動速度を6秒間50%減少させ、60の怒りを消費し、4500の物理攻撃力を増加し、400のマナを消費します
+
+Level 1 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 400 points of physical attack, 20% attack bonus, cost 120 mana
+装甲破壊レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、400の物理攻撃力を増加し、20%の攻撃ボーナスを得て、120のマナを消費します
+
+Level 2 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 600 points of physical attack, 20% attack bonus, cost 160 mana
+装甲破壊レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、600の物理攻撃力を増加し、20%の攻撃ボーナスを得て、160のマナを消費します
+
+Level 3 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 1000 points of physical attack, 20% attack bonus, cost 250 mana
+装甲破壊レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、1000の物理攻撃力を増加し、20%の攻撃ボーナスを得て、250のマナを消費します
+
+Level 4 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 1400 points of physical attack, 20% attack bonus, cost 380 mana
+装甲破壊レベル4；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、1400の物理攻撃力を増加し、20%の攻撃ボーナスを得て、380のマナを消費します
+
+Level 5 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 2400 points of physical attack, 20% attack bonus, cost 750 mana
+装甲破壊レベル5；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、2400の物理攻撃力を増加し、20%の攻撃ボーナスを得て、750のマナを消費します
+
+Level 6 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 3800 points of physical attack, 20% attack bonus, cost 1200 mana
+装甲破壊レベル6；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、3800の物理攻撃力を増加し、20%の攻撃ボーナスを得て、1200のマナを消費します
+
+Level 7 Armor Break; {s}Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 150 rage, gain substantial Threat from the target, increase 7000 points of physical attack, 20% attack bonus, cost 2100 mana
+装甲破壊レベル7；{sub2{$1}sub2}5ヤード以内の1体の敵の物理防御を30秒間4%減少させ、100%の命中率を持ち、最大20%の物理防御減少までスタック可能。150の怒りを消費し、ターゲットから大きな脅威を得て、7000の物理攻撃力を増加し、20%の攻撃ボーナスを得て、2100のマナを消費します
+
+Level 1 Rupture; {s}Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost 50 rage, Increase 1500 points of physical attack, 50% attack bonus, cost 450 mana
+破裂レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を出血させ、15秒間持続ダメージを与え、50の怒りを消費し、1500の物理攻撃力を増加し、50%の攻撃ボーナスを得て、450のマナを消費します
+
+Level 2 Rupture; {s}Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost 50 rage, Increase 2000 points of physical attack, 50% attack bonus, cost 550 mana
+破裂レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を出血させ、15秒間持続ダメージを与え、50の怒りを消費し、2000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、550のマナを消費します
+
+Level 3 Rupture; {s}Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost 50 rage, Increase 2750 points of physical attack, 50% attack bonus, cost 680 mana
+破裂レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を出血させ、15秒間持続ダメージを与え、50の怒りを消費し、2750の物理攻撃力を増加し、50%の攻撃ボーナスを得て、680のマナを消費します
+
+Level 4 Rupture; {s}Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost 50 rage, Increase 4250 points of physical attack, 50% attack bonus, cost 1060 mana
+破裂レベル4；{sub2{$1}sub2}5ヤード以内の1体の敵を出血させ、15秒間持続ダメージを与え、50の怒りを消費し、4250の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1060のマナを消費します
+
+Level 5 Rupture; {s}Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost 50 rage, Increase 6400 points of physical attack, 50% attack bonus, cost 1600 mana
+破裂レベル5；{sub2{$1}sub2}5ヤード以内の1体の敵を出血させ、15秒間持続ダメージを与え、50の怒りを消費し、6400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1600のマナを消費します
+
+Battle Cry; {s}Increase 10% attack damage for all allies within 20 yards for 2 minutes, cost 200 rage and 1% mana.
+戦闘叫び；{sub2{$1}sub2}20ヤード以内のすべての味方の攻撃ダメージを2分間10%増加させ、200の怒りと1%のマナを消費します
+
+Command Cry; {s}Increase 20% defense for all allies within 20 yards for 2 minutes, cost 200 rage and 1% mana.
+命令の叫び；{sub2{$1}sub2}20ヤード以内のすべての味方の防御を2分間20%増加させ、200の怒りと1%のマナを消費します
+
+Level 1 Taunt Attack; {s}Damage and force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD. Gain substantial Threat from the target. Increase 1000 points of physical attack, cost 100 mana
+挑発攻撃レベル1；{sub2{$1}sub2}8ヤード以内の1体のターゲットにダメージを与え、6秒間自分を攻撃させ、2分間のCD。ターゲットから大きな脅威を得て、1000の物理攻撃力を増加し、100のマナを消費します
+
+Level 2 Taunt Attack; {s}Damage and force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD. Gain substantial Threat from the target. Increase 1400 points of physical attack, cost 140 mana
+挑発攻撃レベル2；{sub2{$1}sub2}8ヤード以内の1体のターゲットにダメージを与え、6秒間自分を攻撃させ、2分間のCD。ターゲットから大きな脅威を得て、1400の物理攻撃力を増加し、140のマナを消費します
+
+Level 3 Taunt Attack; {s}Damage and force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD. Gain substantial Threat from the target. Increase 2000 points of physical attack, cost 200 mana
+挑発攻撃レベル3；{sub2{$1}sub2}8ヤード以内の1体のターゲットにダメージを与え、6秒間自分を攻撃させ、2分間のCD。ターゲットから大きな脅威を得て、2000の物理攻撃力を増加し、200のマナを消費します
+
+Level 4 Taunt Attack; {s}Damage and force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD. Gain substantial Threat from the target. Increase 2800 points of physical attack, cost 280 mana
+挑発攻撃レベル4；{sub2{$1}sub2}8ヤード以内の1体のターゲットにダメージを与え、6秒間自分を攻撃させ、2分間のCD。ターゲットから大きな脅威を得て、2800の物理攻撃力を増加し、280のマナを消費します
+
+Level 5 Taunt Attack; {s}Damage and force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD. Gain substantial Threat from the target. Increase 4500 points of physical attack, cost 450 mana
+挑発攻撃レベル5；{sub2{$1}sub2}8ヤード以内の1体のターゲットにダメージを与え、6秒間自分を攻撃させ、2分間のCD。ターゲットから大きな脅威を得て、4500の物理攻撃力を増加し、450のマナを消費します
+
+Challenge Cry; {s}Force all targets within 10 yards to attack you for 6 seconds, 5 minutes CD, cost 1% mana.
+挑戦の叫び；{sub2{$1}sub2}10ヤード以内のすべてのターゲットを6秒間自分を攻撃させ、5分間のCDを持ち、1%のマナを消費します
+
+Level 1 Lethal Strike; {s}Deal damage to 1 enemy within 5 yards and reduce 50% of all healing effects on the target for 10 seconds. Cost 100 rage, increase 5000 points of physical attack, 30% attack bonus, cost 3200 mana
+致命的な打撃レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、10秒間ターゲットに対するすべての回復効果を50%減少させます。100の怒りを消費し、5000の物理攻撃力を増加し、30%の攻撃ボーナスを得て、3200のマナを消費します
+
+Level 2 Lethal Strike; {s}Deal damage to 1 enemy within 5 yards and reduce 50% of all healing effects on the target for 10 seconds. Cost 100 rage, increase 8000 points of physical attack, 30% attack bonus, cost 4000 mana
+致命的な打撃レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、10秒間ターゲットに対するすべての回復効果を50%減少させます。100の怒りを消費し、8000の物理攻撃力を増加し、30%の攻撃ボーナスを得て、4000のマナを消費します
+
+Level 1 Lethal Strike; {s}Deal damage to 1 enemy within 5 yards and reduce 50% of all healing effects on the target for 10 seconds. Cost 100 rage, increase 12000 points of physical attack, 30% attack bonus, cost 6000 mana
+致命的な打撃レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、10秒間ターゲットに対するすべての回復効果を50%減少させます。100の怒りを消費し、12000の物理攻撃力を増加し、30%の攻撃ボーナスを得て、6000のマナを消費します
+
+Level 1 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 120 points of physical attack, 10% attack bonus, cost 10 mana
+勇敢な打撃レベル1；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、120の物理攻撃力を増加し、10%の攻撃ボーナスを得て、10のマナを消費します
+
+Level 2 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 270 points of physical attack, 10% attack bonus, cost 20 mana
+勇敢な打撃レベル2；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、270の物理攻撃力を増加し、10%の攻撃ボーナスを得て、20のマナを消費します
+
+Level 3 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 480 points of physical attack, 10% attack bonus, cost 40 mana
+勇敢な打撃レベル3；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、480の物理攻撃力を増加し、10%の攻撃ボーナスを得て、40のマナを消費します
+
+Level 3 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 750 points of physical attack, 10% attack bonus, cost 70 mana
+勇敢な打撃レベル3；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、750の物理攻撃力を増加し、10%の攻撃ボーナスを得て、70のマナを消費します
+
+Level 5 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 1080 points of physical attack, 10% attack bonus, cost 100 mana
+勇敢な打撃レベル5；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、1080の物理攻撃力を増加し、10%の攻撃ボーナスを得て、100のマナを消費します
+
+Level 6 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 1680 points of physical attack, 10% attack bonus, cost 160 mana
+勇敢な打撃レベル6；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、1680の物理攻撃力を増加し、10%の攻撃ボーナスを得て、160のマナを消費します
+
+Level 7 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 2500 points of physical attack, 10% attack bonus, cost 250 mana
+勇敢な打撃レベル7；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、2500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、250のマナを消費します
+
+Level 8 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 3600 points of physical attack, 10% attack bonus, cost 400 mana
+勇敢な打撃レベル8；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、3600の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 9 Valiant Strike; {s}Base attack, 5 yards of effective range, gain 15 rage, increase 6200 points of physical attack, 10% attack bonus, cost 600 mana
+勇敢な打撃レベル9；{sub2{$1}sub2}基本攻撃、有効範囲5ヤード、15の怒りを獲得し、6200の物理攻撃力を増加し、10%の攻撃ボーナスを得て、600のマナを消費します
+
+Level 1 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 250 points of physical attack, 30% attack bonus, cost 50 mana
+無謀な打撃レベル1；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、250の物理攻撃力を増加し、30%の攻撃ボーナスを得て、50のマナを消費します
+
+Level 2 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 500 points of physical attack, 30% attack bonus, cost 120 mana
+無謀な打撃レベル2；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、500の物理攻撃力を増加し、30%の攻撃ボーナスを得て、120のマナを消費します
+
+Level 3 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 750 points of physical attack, 30% attack bonus, cost 200 mana
+無謀な打撃レベル3；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、750の物理攻撃力を増加し、30%の攻撃ボーナスを得て、200のマナを消費します
+
+Level 4 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 1150 points of physical attack, 30% attack bonus, cost 350 mana
+無謀な打撃レベル4；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、1150の物理攻撃力を増加し、30%の攻撃ボーナスを得て、350のマナを消費します
+
+Level 5 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 1680 points of physical attack, 30% attack bonus, cost 550 mana
+無謀な打撃レベル5；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、1680の物理攻撃力を増加し、30%の攻撃ボーナスを得て、550のマナを消費します
+
+Level 6 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 2600 points of physical attack, 30% attack bonus, cost 900 mana
+無謀な打撃レベル6；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、2600の物理攻撃力を増加し、30%の攻撃ボーナスを得て、900のマナを消費します
+
+Level 7 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 4000 points of physical attack, 30% attack bonus, cost 1500 mana
+無謀な打撃レベル7；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、4000の物理攻撃力を増加し、30%の攻撃ボーナスを得て、1500のマナを消費します
+
+Level 9 Reckless Strike; {s}Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain 5 rage, increase 6400 points of physical attack, 30% attack bonus, cost 2400 mana
+無謀な打撃レベル9；{sub2{$1}sub2}強力な単体攻撃、有効範囲5ヤード、4.8秒のCD、5の怒りを獲得し、6400の物理攻撃力を増加し、30%の攻撃ボーナスを得て、2400のマナを消費します
+
+Level 1 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 1400 points of physical attack, 50% attack bonus, cost 500 mana
+血に飢えたレベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、1400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、500のマナを消費します
+
+Level 2 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 1860 points of physical attack, 50% attack bonus, cost 660 mana
+血に飢えたレベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、1860の物理攻撃力を増加し、50%の攻撃ボーナスを得て、660のマナを消費します
+
+Level 3 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 2400 points of physical attack, 50% attack bonus, cost 850 mana
+血に飢えたレベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、2400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、850のマナを消費します
+
+Level 4 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 5000 points of physical attack, 50% attack bonus, cost 1800 mana
+血に飢えたレベル4；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、5000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1800のマナを消費します
+
+Level 5 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 7400 points of physical attack, 50% attack bonus, cost 2650 mana
+血に飢えたレベル5；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、7400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、2650のマナを消費します
+
+Level 6 Bloodthirsty; {s}Attack 1 enemy within 5 yards and recover 30% of damage as HP. Always increase 20% damage of the next attack even if the skill missed. Cost 80 rage, increase 9800 points of physical attack, 50% attack bonus, cost 3500 mana
+血に飢えたレベル6；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、与えたダメージの30%をHPとして回復します。スキルがミスしても次の攻撃のダメージを常に20%増加させます。80の怒りを消費し、9800の物理攻撃力を増加し、50%の攻撃ボーナスを得て、3500のマナを消費します
+
+Level 1 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 160 points of physical attack, 10% attack bonus, cost 100 mana
+肉体切り裂きレベル1；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、160の物理攻撃力を増加し、10%の攻撃ボーナスを得て、100のマナを消費します
+
+Level 2 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 240 points of physical attack, 10% attack bonus, cost 180 mana
+肉体切り裂きレベル2；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、240の物理攻撃力を増加し、10%の攻撃ボーナスを得て、180のマナを消費します
+
+Level 3 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 350 points of physical attack, 10% attack bonus, cost 320 mana
+肉体切り裂きレベル3；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、350の物理攻撃力を増加し、10%の攻撃ボーナスを得て、320のマナを消費します
+
+Level 4 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 500 points of physical attack, 10% attack bonus, cost 450 mana
+肉体切り裂きレベル4；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、450のマナを消費します
+
+Level 5 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 770 points of physical attack, 10% attack bonus, cost 700 mana
+肉体切り裂きレベル5；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、770の物理攻撃力を増加し、10%の攻撃ボーナスを得て、700のマナを消費します
+
+Level 6 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1150 points of physical attack, 10% attack bonus, cost 1040 mana
+肉体切り裂きレベル6；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、1150の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1040のマナを消費します
+
+Level 7 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 1750 points of physical attack, 10% attack bonus, cost 1600 mana
+肉体切り裂きレベル7；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、1750の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1600のマナを消費します
+
+Level 8 Flesh Cleave; {s}Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain 10 rage, increase 2880 points of physical attack, 10% attack bonus, cost 2500 mana
+肉体切り裂きレベル8；{sub2{$1}sub2}前方5ヤード以内の3体の敵を攻撃し、4.8秒のCD、10の怒りを獲得し、2880の物理攻撃力を増加し、10%の攻撃ボーナスを得て、2500のマナを消費します
+
+Level 1 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 3000 points of physical attack, 50% attack bonus, cost 1000 mana
+暴走斬レベル1；{sub2{$1}sub2}前方5ヤード以内の6体の敵に強力な一撃を与え、200の怒りを消費し、3000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1000のマナを消費します
+
+Level 2 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 4400 points of physical attack, 50% attack bonus, cost 1500 mana
+暴走斬レベル2；{sub2{$1}sub2}前方5ヤード以内の6体の敵に強力な一撃を与え、200の怒りを消費し、4400の物理攻撃力を増加し、50%の攻撃ボーナスを得て、1500のマナを消費します
+
+Level 3 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 6800 points of physical attack, 50% attack bonus, cost 2400 mana
+暴走斬レベル3；{sub2{$1}sub2}前方5ヤード以内の6体の敵に強力な一撃を与え、200の怒りを消費し、6800の物理攻撃力を増加し、50%の攻撃ボーナスを得て、2400のマナを消費します
+
+Level 4 Rampage Hack; {s}Deal a powerful strike to 6 enemies within 5 yards ahead, cost 200 rage, increase 9000 points of physical attack, 50% attack bonus, cost 3300 mana
+暴走斬レベル4；{sub2{$1}sub2}前方5ヤード以内の6体の敵に強力な一撃を与え、200の怒りを消費し、9000の物理攻撃力を増加し、50%の攻撃ボーナスを得て、3300のマナを消費します
+
+Haste; {s}Increase 30% movement speed for 10 seconds, 30 seconds CD, cost 1% mana.
+迅速；{sub2{$1}sub2}10秒間、移動速度を30%増加させます。30秒のCD、1%のマナを消費します
+
+Ignore the Pain; {s}Reduce 40% physical damage taken and 20% magic damage taken for 10 seconds, 60 seconds CD, cost 1% mana.
+痛みを無視；{sub2{$1}sub2}10秒間、受ける物理ダメージを40%、魔法ダメージを20%軽減します。60秒のCD、1%のマナを消費します
+
+Furious Recovery; {s}Reduce 30% physical damage taken and 15% magic damage taken, recover 20% more HP with Bloodthirsty. Lasts for 8 seconds. Share CD with Ignore the Pain, cost 1% mana.
+激怒の回復；{sub2{$1}sub2}受ける物理ダメージを30%、魔法ダメージを15%軽減し、血に飢えたでHPを20%多く回復します。8秒間持続。痛みを無視とCDを共有し、1%のマナを消費します
+
+Level 1 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 650 points of physical attack, 10% attack bonus, cost 60 mana
+古のハンマーレベル1；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、650の物理攻撃力を増加し、10%の攻撃ボーナスを得て、60のマナを消費します
+
+Level 2 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 850 points of physical attack, 10% attack bonus, cost 80 mana
+古のハンマーレベル2；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、850の物理攻撃力を増加し、10%の攻撃ボーナスを得て、80のマナを消費します
+
+Level 3 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1100 points of physical attack, 10% attack bonus, cost 100 mana
+古のハンマーレベル3；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、1100の物理攻撃力を増加し、10%の攻撃ボーナスを得て、100のマナを消費します
+
+Level 4 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 1680 points of physical attack, 10% attack bonus, cost 160 mana
+古のハンマーレベル4；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、1680の物理攻撃力を増加し、10%の攻撃ボーナスを得て、160のマナを消費します
+
+Level 5 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 2500 points of physical attack, 10% attack bonus, cost 250 mana
+古のハンマーレベル5；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、2500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、250のマナを消費します
+
+Level 6 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 3600 points of physical attack, 10% attack bonus, cost 400 mana
+古のハンマーレベル6；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、3600の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 7 Ancestral Hammer; {s}Stun the target for 4 seconds from a distance, 15 yards of effective range, 30 seconds CD, increase 6200 points of physical attack, 10% attack bonus, cost 600 mana
+古のハンマーレベル7；{sub2{$1}sub2}15ヤードの有効範囲からターゲットを4秒間スタンさせ、30秒のCD、6200の物理攻撃力を増加し、10%の攻撃ボーナスを得て、600のマナを消費します
+
+Earthshaking Stomp; {s}Shatter the ground, Transfix 1 target within 8 yards for 5 seconds, 30 seconds CD, cost 1% mana
+地震の踏みつけ；{sub2{$1}sub2}地面を砕き、8ヤード以内の1体のターゲットを5秒間固定します。30秒のCD、1%のマナを消費します
+
+Level 1 Vengeance; {s}Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, 3 seconds CD, increase 3000 points of physical attack, 20% attack bonus, cost 700 mana
+復讐レベル1；{sub2{$1}sub2}敵の攻撃を回避した後、5ヤード以内の1体のターゲットに報復の一撃を与えます。3秒のCD、3000の物理攻撃力を増加し、20%の攻撃ボーナスを得て、700のマナを消費します
+
+Level 2 Vengeance; {s}Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, 3 seconds CD, increase 4000 points of physical attack, 20% attack bonus, cost 1000 mana
+復讐レベル2；{sub2{$1}sub2}敵の攻撃を回避した後、5ヤード以内の1体のターゲットに報復の一撃を与えます。3秒のCD、4000の物理攻撃力を増加し、20%の攻撃ボーナスを得て、1000のマナを消費します
+
+Level 3 Vengeance; {s}Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, 3 seconds CD, increase 6000 points of physical attack, 20% attack bonus, cost 1500 mana
+復讐レベル3；{sub2{$1}sub2}敵の攻撃を回避した後、5ヤード以内の1体のターゲットに報復の一撃を与えます。3秒のCD、6000の物理攻撃力を増加し、20%の攻撃ボーナスを得て、1500のマナを消費します
+
+Level 1 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 750 points of physical attack, 10% attack bonus, cost 70 mana
+サンダーストライクレベル1；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、750の物理攻撃力を増加し、10%の攻撃ボーナスを得て、70のマナを消費します
+
+Level 2 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 950 points of physical attack, 10% attack bonus, cost 90 mana
+サンダーストライクレベル2；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、950の物理攻撃力を増加し、10%の攻撃ボーナスを得て、90のマナを消費します
+
+Level 3 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 1360 points of physical attack, 10% attack bonus, cost 130 mana
+サンダーストライクレベル3；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、1360の物理攻撃力を増加し、10%の攻撃ボーナスを得て、130のマナを消費します
+
+Level 4 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 1800 points of physical attack, 10% attack bonus, cost 180 mana
+サンダーストライクレベル4；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、1800の物理攻撃力を増加し、10%の攻撃ボーナスを得て、180のマナを消費します
+
+Level 5 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 2500 points of physical attack, 10% attack bonus, cost 250 mana
+サンダーストライクレベル5；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、2500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、250のマナを消費します
+
+Level 6 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 3600 points of physical attack, 10% attack bonus, cost 400 mana
+サンダーストライクレベル6；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、3600の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 7 Thunderous Blow; {s}Attack 1 target within 8 range and decrease its movement speed by 30% for 5 seconds, cost 100 rage, increase 6200 points of physical attack, 10% attack bonus, cost 600 mana
+サンダーストライクレベル7；{sub2{$1}sub2}8ヤード以内の1体のターゲットを攻撃し、その移動速度を5秒間30%減少させます。100の怒りを消費し、6200の物理攻撃力を増加し、10%の攻撃ボーナスを得て、600のマナを消費します
+
+Level 1 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 650 points of physical attack, 30% attack bonus, cost 180 mana
+巨人ストライクレベル1；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、650の物理攻撃力を増加し、30%の攻撃ボーナスを得て、180のマナを消費します
+
+Level 2 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 800 points of physical attack, 30% attack bonus, cost 220 mana
+巨人ストライクレベル2；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、800の物理攻撃力を増加し、30%の攻撃ボーナスを得て、220のマナを消費します
+
+Level 3 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 1150 points of physical attack, 30% attack bonus, cost 350 mana
+巨人ストライクレベル3；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、1150の物理攻撃力を増加し、30%の攻撃ボーナスを得て、350のマナを消費します
+
+Level 4 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 1680 points of physical attack, 30% attack bonus, cost 550 mana
+巨人ストライクレベル4；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、1680の物理攻撃力を増加し、30%の攻撃ボーナスを得て、550のマナを消費します
+
+Level 5 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 2600 points of physical attack, 30% attack bonus, cost 900 mana
+巨人ストライクレベル5；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、2600の物理攻撃力を増加し、30%の攻撃ボーナスを得て、900のマナを消費します
+
+Level 6 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 4000 points of physical attack, 30% attack bonus, cost 1500 mana
+巨人ストライクレベル6；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、4000の物理攻撃力を増加し、30%の攻撃ボーナスを得て、1500のマナを消費します
+
+Level 7 Giant Strike; {s}Attack 1 target within 5 yards, and decrease its physical defense by 5% for 40 seconds, 100% hit chance, can be stacked to up to 20% physical defense decrease. Cost 220 rage, gain substantial Threat from the target, increase 6400 points of physical attack, 30% attack bonus, cost 2400 mana
+巨人ストライクレベル7；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、物理防御を5%減少させます。40秒間持続し、100%の命中率で、物理防御の減少を最大20%まで累積可能です。220の怒りを消費し、ターゲットから大きな脅威を獲得し、6400の物理攻撃力を増加し、30%の攻撃ボーナスを得て、2400のマナを消費します
+
+Berserk Roar; {s}Increase 30 points of Critical Hit for all allies within 20 yards for 2 minutes, cost 250 rage and 1% mana.
+狂戦士の咆哮；{sub2{$1}sub2}20ヤード以内のすべての味方のクリティカルヒットを30ポイント増加させます。持続時間は2分で、250の怒りと1%のマナを消費します
+
+Battle Roar; {s}Decrease 20% of all damage taken for all allies within 20 yards for 2 minutes, cost 250 rage and 1% mana.
+戦闘咆哮；{sub2{$1}sub2}20ヤード以内のすべての味方が受けるダメージを20%減少させます。持続時間は2分で、250の怒りと1%のマナを消費します
+
+Taunt; {s}Force 1 target within 8 yards to attack you for 6 seconds, 2 minutes CD, cost 1% mana.
+挑発；{sub2{$1}sub2}8ヤード以内の1体のターゲットを6秒間自分を攻撃させます。CDは2分で、1%のマナを消費します
+
+Challenge Cry; {s}Force all targets within 10 yards to attack you for 6 seconds, 5 minutes CD, cost 1% mana.
+挑戦の叫び；{sub2{$1}sub2}10ヤード以内のすべてのターゲットを6秒間自分を攻撃させます。CDは5分で、1%のマナを消費します
+
+Reckless; {s}Increase 100% Critical Hit and reduce 30% defense for 5 seconds, 30 seconds CD, cost 1% mana
+無謀；{sub2{$1}sub2}クリティカルヒットを100%増加させ、防御力を5秒間30%減少させます。CDは30秒で、1%のマナを消費します
+
+Level 1 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 100 points of physical attack, cost 10 mana
+刃の一撃レベル1；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。100の物理攻撃力を増加し、10のマナを消費します
+
+Level 2 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 220 points of physical attack, cost 20 mana
+刃の一撃レベル2；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。220の物理攻撃力を増加し、20のマナを消費します
+
+Level 3 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 350 points of physical attack, cost 40 mana
+刃の一撃レベル3；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。350の物理攻撃力を増加し、40のマナを消費します
+
+Level 4 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 550 points of physical attack, cost 60 mana
+刃の一撃レベル4；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。550の物理攻撃力を増加し、60のマナを消費します
+
+Level 5 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 930 points of physical attack, cost 90 mana
+刃の一撃レベル5；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。930の物理攻撃力を増加し、90のマナを消費します
+
+Level 6 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 1400 points of physical attack, cost 150 mana
+刃の一撃レベル6；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。1400の物理攻撃力を増加し、150のマナを消費します
+
+Level 7 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 1800 points of physical attack, cost 200 mana
+刃の一撃レベル7；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。1800の物理攻撃力を増加し、200のマナを消費します
+
+Level 8 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 2600 points of physical attack, cost 280 mana
+刃の一撃レベル8；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。2600の物理攻撃力を増加し、280のマナを消費します
+
+Level 9 Blade Strike; {s}Base single-target attack, 5 yards and 180 degrees of effective range, increase 4000 points of physical attack, cost 420 mana
+刃の一撃レベル9；{sub2{$1}sub2}基本の単体攻撃で、有効範囲は5ヤード、180度です。4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 240 points of physical attack, 10% attack bonus, cost 60 mana
+急速刺しレベル1；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。240の物理攻撃力を増加し、10%の攻撃ボーナスを得て、60のマナを消費します
+
+Level 2 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 500 points of physical attack, 10% attack bonus, cost 140 mana
+急速刺しレベル2；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、140のマナを消費します
+
+Level 3 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 720 points of physical attack, 10% attack bonus, cost 220 mana
+急速刺しレベル3；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。720の物理攻撃力を増加し、10%の攻撃ボーナスを得て、220のマナを消費します
+
+Level 4 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 1300 points of physical attack, 10% attack bonus, cost 400 mana
+急速刺しレベル4；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。1300の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 5 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 1920 points of physical attack, 10% attack bonus, cost 620 mana
+急速刺しレベル5；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。1920の物理攻撃力を増加し、10%の攻撃ボーナスを得て、620のマナを消費します
+
+Level 6 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 2900 points of physical attack, 10% attack bonus, cost 1160 mana
+急速刺しレベル6；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。2900の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1160のマナを消費します
+
+Level 7 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 4500 points of physical attack, 10% attack bonus, cost 1700 mana
+急速刺しレベル7；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。4500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1700のマナを消費します
+
+Level 8 Rapid Sting; {s}Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, 6 seconds CD, increase 7000 points of physical attack, 10% attack bonus, cost 280 mana
+急速刺しレベル8；{sub2{$1}sub2}強力な単体攻撃、有効範囲は5ヤード、0-8コンボを消費し、クールダウンは6秒です。7000の物理攻撃力を増加し、10%の攻撃ボーナスを得て、280のマナを消費します
+
+Level 1 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 400 points of physical attack, cost 140 mana
+ナイフの乱舞レベル1；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。400の物理攻撃力を増加し、140のマナを消費します
+
+Level 2 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 560 points of physical attack, cost 240 mana
+ナイフの乱舞レベル2；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。560の物理攻撃力を増加し、240のマナを消費します
+
+Level 3 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 850 points of physical attack, cost 500 mana
+ナイフの乱舞レベル3；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。850の物理攻撃力を増加し、500のマナを消費します
+
+Level 4 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 1200 points of physical attack, cost 700 mana
+ナイフの乱舞レベル4；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。1200の物理攻撃力を増加し、700のマナを消費します
+
+Level 5 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 1720 points of physical attack, cost 980 mana
+ナイフの乱舞レベル5；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。1720の物理攻撃力を増加し、980のマナを消費します
+
+Level 6 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 2250 points of physical attack, cost 1350 mana
+ナイフの乱舞レベル6；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。2250の物理攻撃力を増加し、1350のマナを消費します
+
+Level 7 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 3600 points of physical attack, cost 2000 mana
+ナイフの乱舞レベル7；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。3600の物理攻撃力を増加し、2000のマナを消費します
+
+Level 8 Fan of Knives; {s}Attack 3 targets within 5 yards and 180 degrees, 6 seconds CD, increase 5800 points of physical attack, cost 4000 mana
+ナイフの乱舞レベル8；{sub2{$1}sub2}5ヤード、180度以内の3体のターゲットを攻撃し、クールダウンは6秒です。5800の物理攻撃力を増加し、4000のマナを消費します
+
+Level 1 Blade Fury Dance; {s}Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, 20 seconds CD, increase 1200 points of physical attack, cost 1200 mana
+刃の狂舞レベル1；{sub2{$1}sub2}5ヤードの範囲内で5人の敵を攻撃します。0-20コンボを消費し、クールダウンは20秒、1200の物理攻撃力を増加し、1200のマナを消費します
+
+Level 2 Blade Fury Dance; {s}Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, 20 seconds CD, increase 1800 points of physical attack, cost 2000 mana
+ブレードフューリーダンスレベル2；{sub2{$1}sub2}5ヤードの範囲内で5人の敵を攻撃します。0-20コンボを消費し、クールダウンは20秒、1800の物理攻撃力を増加し、2000のマナを消費します
+
+Level 3 Blade Fury Dance; {s}Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, 20 seconds CD, increase 2200 points of physical attack, cost 3600 mana
+ブレードフューリーダンスレベル3；{sub2{$1}sub2}5ヤードの範囲内で5人の敵を攻撃します。0-20コンボを消費し、クールダウンは20秒、2200の物理攻撃力を増加し、3600のマナを消費します
+
+Level 4 Blade Fury Dance; {s}Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, 20 seconds CD, increase 2400 points of physical attack, cost 4000 mana
+ブレードフューリーダンスレベル4；{sub2{$1}sub2}5ヤードの範囲内で5人の敵を攻撃します。0-20コンボを消費し、クールダウンは20秒、2400の物理攻撃力を増加し、4000のマナを消費します
+
+Shadow Steps; {s}Increase 50% movement speed and 100% dodge for 10 seconds, 30 seconds CD, cost 1% mana
+シャドウステップ；{sub2{$1}sub2}10秒間、移動速度を50%、回避率を100%増加、クールダウンは30秒、1%のマナを消費します
+
+Level 1 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 450 points of physical attack, cost 50 mana
+リープガウジレベル1；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。450の物理攻撃力を増加し、50のマナを消費します
+
+Level 2 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 650 points of physical attack, cost 70 mana
+リープガウジレベル2；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。650の物理攻撃力を増加し、70のマナを消費します
+
+Level 3 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 950 points of physical attack, cost 90 mana
+リープガウジレベル3；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。950の物理攻撃力を増加し、90のマナを消費します
+
+Level 4 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 1400 points of physical attack, cost 150 mana
+リープガウジレベル4；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。1400の物理攻撃力を増加し、150のマナを消費します
+
+Level 5 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 1800 points of physical attack, cost 200 mana
+リープガウジレベル5；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。1800の物理攻撃力を増加し、200のマナを消費します
+
+Level 6 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 2600 points of physical attack, cost 280 mana
+リープガウジレベル6；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。2600の物理攻撃力を増加し、280のマナを消費します
+
+Level 7 Leap Gouge; {s}20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase 100% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by 30% for 10 seconds, 30 seconds CD, share CD with Kidney Strike. Increase 4000 points of physical attack, cost 420 mana
+リープガウジレベル7；{sub2{$1}sub2}有効範囲は20ヤード、チャネリング時間は2.5秒。チャネリング中は有効範囲が30ヤードになります。スキル使用後、10秒間クリティカルヒット率を100%増加させ、その後ターゲットにテレポートして攻撃し、1.5秒間ターゲットをスタンさせ、10秒間移動速度を30%低下させます。クールダウンは30秒、キドニーストライクとクールダウンを共有します。4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 700 points of physical attack, 10% attack bonus, cost 220 mana
+執拗な斬撃レベル1；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。700の物理攻撃力を増加し、10%の攻撃ボーナスを得て、220のマナを消費します
+
+Level 2 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 1200 points of physical attack, 10% attack bonus, cost 400 mana
+執拗な斬撃レベル2；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。1200の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 3 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 1800 points of physical attack, 10% attack bonus, cost 600 mana
+執拗な斬撃レベル3；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。1800の物理攻撃力を増加し、10%の攻撃ボーナスを得て、600のマナを消費します
+
+Level 4 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 2700 points of physical attack, 10% attack bonus, cost 1100 mana
+執拗な斬撃レベル4；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。2700の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1100のマナを消費します
+
+Level 5 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 4200 points of physical attack, 10% attack bonus, cost 1700 mana
+執拗な斬撃レベル5；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。4200の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1700のマナを消費します
+
+Level 6 Relentless Slash; {s}Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every Relentless Slash increases 30% damage of the next Relentless Slash, stacks 4 times at max. Increase 6500 points of physical attack, 10% attack bonus, cost 2800 mana
+執拗な斬撃レベル6；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。8コンボを消費し、クリティカルヒットで8コンボを回復します。毎回の執拗な斬撃が次の執拗な斬撃のダメージを30%増加させ、最大4回スタックします。6500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、2800のマナを消費します
+
+Level 1 Sap; {s}Attack 1 target within 5 yards and Knock-Out it for 5 seconds, 30 seconds CD, increase 1800 points of physical attack, cost 200 mana
+サップレベル1；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、5秒間ノックアウトします。クールダウンは30秒、1800の物理攻撃力を増加し、200のマナを消費します
+
+Level 2 Sap; {s}Attack 1 target within 5 yards and Knock-Out it for 5 seconds, 30 seconds CD, increase 2300 points of physical attack, cost 250 mana
+サップレベル2；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、5秒間ノックアウトします。クールダウンは30秒、2300の物理攻撃力を増加し、250のマナを消費します
+
+Level 3 Sap; {s}Attack 1 target within 5 yards and Knock-Out it for 5 seconds, 30 seconds CD, increase 2800 points of physical attack, cost 300 mana
+サップレベル3；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、5秒間ノックアウトします。クールダウンは30秒、2800の物理攻撃力を増加し、300のマナを消費します
+
+Level 4 Sap; {s}Attack 1 target within 5 yards and Knock-Out it for 5 seconds, 30 seconds CD, increase 4000 points of physical attack, cost 420 mana
+サップレベル4；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、5秒間ノックアウトします。クールダウンは30秒、4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 600 points of physical attack, 10% attack bonus, cost 180 mana
+パンクチャーレベル1；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。600の物理攻撃力を増加し、10%の攻撃ボーナスを得て、180のマナを消費します
+
+Level 2 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 750 points of physical attack, 10% attack bonus, cost 230 mana
+パンクチャーレベル2；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。750の物理攻撃力を増加し、10%の攻撃ボーナスを得て、230のマナを消費します
+
+Level 3 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 1300 points of physical attack, 10% attack bonus, cost 400 mana
+パンクチャーレベル3；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。1300の物理攻撃力を増加し、10%の攻撃ボーナスを得て、400のマナを消費します
+
+Level 4 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 1920 points of physical attack, 10% attack bonus, cost 620 mana
+パンクチャーレベル4；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。1920の物理攻撃力を増加し、10%の攻撃ボーナスを得て、620のマナを消費します
+
+Level 5 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 2900 points of physical attack, 10% attack bonus, cost 1160 mana
+パンクチャーレベル5；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。2900の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1160のマナを消費します
+
+Level 6 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 4500 points of physical attack, 10% attack bonus, cost 1700 mana
+パンクチャーレベル6；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。4500の物理攻撃力を増加し、10%の攻撃ボーナスを得て、1700のマナを消費します
+
+Level 7 Puncture; {s}Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease 1% physical defense for every 4 combos, 100% hit chance, can be stacked to up to 20% physical defense decrease. Increase 7000 points of physical attack, 10% attack bonus, cost 2800 mana
+パンクチャーレベル7；{sub2{$1}sub2}5ヤード以内の1体のターゲットを攻撃し、30秒間物理防御を減少させます。4-20コンボを消費し、4コンボごとに物理防御を1%減少、命中率100%、最大20%まで物理防御減少をスタック可能。7000の物理攻撃力を増加し、10%の攻撃ボーナスを得て、2800のマナを消費します
+
+Piercing Shriek; {s}Increase 50% critical hit for all allies for 2 minutes, cost 20 combos and 1% mana.
+突き刺す叫び；{sub2{$1}sub2}すべての味方のクリティカルヒット率を50%増加させます。2分間持続し、20コンボと1%のマナを消費します
+
+Void Shift; {s}Partially shift all allies into the Void Dimension, increase 50% dodge for all allies for 2 minutes, cost 20 combos and 1% mana.
+虚無シフト；{sub2{$1}sub2}すべての味方を部分的に虚無次元にシフトし、2分間すべての味方の回避率を50%増加させます。20コンボと1%のマナを消費します
+
+Scorn; {s}Force 1 target within 8 yards to attack you for 3 seconds, gain substantial Threat from the target, 2 minutes CD, cost 1% mana.
+軽蔑；{sub2{$1}sub2}8ヤード以内の1体のターゲットを3秒間攻撃させます。ターゲットから大きな脅威を獲得し、クールダウンは2分、1%のマナを消費します
+
+Dark Quake; {s}Force all targets within 10 yards to attack you for 3 seconds, gain substantial Threat from all targets, 5 minutes CD, cost 1% mana.
+暗黒の震え；{sub2{$1}sub2}10ヤード以内のすべてのターゲットに3秒間攻撃させます。すべてのターゲットから大きな脅威を獲得し、クールダウンは5分、1%のマナを消費します
+
+Level 1 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 850 points of physical attack, cost 80 mana
+腎撃レベル1；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。850の物理攻撃力を増加し、80のマナを消費します
+
+Level 2 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 1150 points of physical attack, cost 120 mana
+腎撃レベル2；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。1150の物理攻撃力を増加し、120のマナを消費します
+
+Level 3 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 1500 points of physical attack, cost 160 mana
+腎撃レベル3；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。1500の物理攻撃力を増加し、160のマナを消費します
+
+Level 4 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 1800 points of physical attack, cost 200 mana
+腎撃レベル4；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。1800の物理攻撃力を増加し、200のマナを消費します
+
+Level 5 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 2600 points of physical attack, cost 280 mana
+腎撃レベル5；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。2600の物理攻撃力を増加し、280のマナを消費します
+
+Level 6 Kidney Strike; {s}Increase 100% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, 30 seconds CD, share CD with Leap Gouge. Increase 4000 points of physical attack, cost 420 mana
+腎撃レベル6；{sub2{$1}sub2}10秒間クリティカルヒットを100%増加します。5ヤード以内の1体のターゲットを攻撃し、1.5秒間スタンさせます。クールダウンは30秒で、リープゴージとクールダウンを共有します。4000の物理攻撃力を増加し、420のマナを消費します
+
+Shadow Cloak; {s}Remove and gain immunity to all magic debuffs (all non-poison debuffs and non-curse debuffs), reduce 50% magic damage taken for 5 seconds, 30 seconds CD, cost 1% mana.
+影のクローク；{sub2{$1}sub2}すべての魔法デバフ（すべての非毒デバフと非呪いデバフ）を解除し、免疫を得ます。5秒間魔法ダメージを50%減少させます。クールダウンは30秒、1%のマナを消費します
+
+Level 1 Shattering Moon; {s}Deal damage to 1 enemy within 5 yards and reduce its healing skill effect by 40% for 15 seconds, 20 seconds CD. Increase 2500 points of physical attack, cost 280 mana
+粉砕の月レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、15秒間その回復スキル効果を40%減少させます。クールダウンは20秒、2500の物理攻撃力を増加し、280のマナを消費します
+
+Level 2 Shattering Moon; {s}Deal damage to 1 enemy within 5 yards and reduce its healing skill effect by 40% for 15 seconds, 20 seconds CD. Increase 3200 points of physical attack, cost 340 mana
+粉砕の月レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、15秒間その回復スキル効果を40%減少させます。クールダウンは20秒、3200の物理攻撃力を増加し、340のマナを消費します
+
+Level 3 Shattering Moon; {s}Deal damage to 1 enemy within 5 yards and reduce its healing skill effect by 40% for 15 seconds, 20 seconds CD. Increase 4000 points of physical attack, cost 420 mana
+粉砕の月レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵にダメージを与え、15秒間その回復スキル効果を40%減少させます。クールダウンは20秒、4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Slit Throat; {s}Attack 1 enemy within 5 yards and inflict Bleeding for 18 seconds, the target cannot cast channeling skills for 8 seconds. Costs 8 combos. Increase 1300 points of physical attack, cost 150 mana
+喉切りレベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、18秒間出血状態を与えます。ターゲットは8秒間チャネリングスキルを発動できません。8コンボを消費します。1300の物理攻撃力を増加し、150のマナを消費します
+
+Level 2 Slit Throat; {s}Attack 1 enemy within 5 yards and inflict Bleeding for 18 seconds, the target cannot cast channeling skills for 8 seconds. Costs 8 combos. Increase 1600 points of physical attack, cost 180 mana
+喉切りレベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、18秒間出血状態を与えます。ターゲットは8秒間チャネリングスキルを発動できません。8コンボを消費します。1600の物理攻撃力を増加し、180のマナを消費します
+
+Level 3 Slit Throat; {s}Attack 1 enemy within 5 yards and inflict Bleeding for 18 seconds, the target cannot cast channeling skills for 8 seconds. Costs 8 combos. Increase 2000 points of physical attack, cost 220 mana
+喉切りレベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、18秒間出血状態を与えます。ターゲットは8秒間チャネリングスキルを発動できません。8コンボを消費します。2000の物理攻撃力を増加し、220のマナを消費します
+
+Level 4 Slit Throat; {s}Attack 1 enemy within 5 yards and inflict Bleeding for 18 seconds, the target cannot cast channeling skills for 8 seconds. Costs 8 combos. Increase 2800 points of physical attack, cost 280 mana
+喉切りレベル4；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、18秒間出血状態を与えます。ターゲットは8秒間チャネリングスキルを発動できません。8コンボを消費します。2800の物理攻撃力を増加し、280のマナを消費します
+
+Level 5 Slit Throat; {s}Attack 1 enemy within 5 yards and inflict Bleeding for 18 seconds, the target cannot cast channeling skills for 8 seconds. Costs 8 combos. Increase 4000 points of physical attack, cost 420 mana
+喉切りレベル5；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、18秒間出血状態を与えます。ターゲットは8秒間チャネリングスキルを発動できません。8コンボを消費します。4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Poison Blade; {s}Attack 1 enemy within 5 yards and inflict poison, reduce 50% of all healing effects on the target for 12 seconds, 2 minutes CD. Increase 1200 points of physical attack, cost 120 mana
+毒刃レベル1；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、毒を付与します。ターゲットのすべての回復効果を12秒間50%減少させます。クールダウンは2分、1200の物理攻撃力を増加し、120のマナを消費します
+
+Level 2 Poison Blade; {s}Attack 1 enemy within 5 yards and inflict poison, reduce 50% of all healing effects on the target for 12 seconds, 2 minutes CD. Increase 1500 points of physical attack, cost 160 mana
+毒刃レベル2；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、毒を付与します。ターゲットのすべての回復効果を12秒間50%減少させます。クールダウンは2分、1500の物理攻撃力を増加し、160のマナを消費します
+
+Level 3 Poison Blade; {s}Attack 1 enemy within 5 yards and inflict poison, reduce 50% of all healing effects on the target for 12 seconds, 2 minutes CD. Increase 1800 points of physical attack, cost 200 mana
+毒刃レベル3；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、毒を付与します。ターゲットのすべての回復効果を12秒間50%減少させます。クールダウンは2分、1800の物理攻撃力を増加し、200のマナを消費します
+
+Level 4 Poison Blade; {s}Attack 1 enemy within 5 yards and inflict poison, reduce 50% of all healing effects on the target for 12 seconds, 2 minutes CD. Increase 2600 points of physical attack, cost 280 mana
+毒刃レベル4；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、毒を付与します。ターゲットのすべての回復効果を12秒間50%減少させます。クールダウンは2分、2600の物理攻撃力を増加し、280のマナを消費します
+
+Level 5 Poison Blade; {s}Attack 1 enemy within 5 yards and inflict poison, reduce 50% of all healing effects on the target for 12 seconds, 2 minutes CD. Increase 4000 points of physical attack, cost 420 mana
+毒刃レベル5；{sub2{$1}sub2}5ヤード以内の1体の敵を攻撃し、毒を付与します。ターゲットのすべての回復効果を12秒間50%減少させます。クールダウンは2分、4000の物理攻撃力を増加し、420のマナを消費します
+
+Level 1 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 120 points of physical attack, 20% attack bonus, cost 10 mana
+秘法の矢レベル1；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。120の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。10のマナを消費します
+
+Level 2 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 250 points of physical attack, 20% attack bonus, cost 20 mana
+秘法の矢レベル2；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。250の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。20のマナを消費します
+
+Level 3 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 360 points of physical attack, 20% attack bonus, cost 40 mana
+秘法の矢レベル3；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。360の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。40のマナを消費します
+
+Level 4 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 550 points of physical attack, 20% attack bonus, cost 60 mana
+秘法の矢レベル4；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。550の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。60のマナを消費します
+
+Level 5 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 860 points of physical attack, 20% attack bonus, cost 90 mana
+秘法の矢レベル5；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。860の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。90のマナを消費します
+
+Level 6 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 1350 points of physical attack, 20% attack bonus, cost 140 mana
+秘法の矢レベル6；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。1350の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。140のマナを消費します
+
+Level 7 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 1800 points of physical attack, 20% attack bonus, cost 180 mana
+秘法の矢レベル7；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。1800の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。180のマナを消費します
+
+Level 8 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 2400 points of physical attack, 20% attack bonus, cost 240 mana
+秘法の矢レベル8；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。2400の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。240のマナを消費します
+
+Level 9 Arcane Shot; {s}Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase 4000 points of physical attack, 20% attack bonus, cost 400 mana
+秘法の矢レベル9；{sub2{$1}sub2}基本攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。4000の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。400のマナを消費します
+
+Level 1 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 340 points of physical attack, 40% attack bonus, cost 70 mana
+狙い撃ちレベル1；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、340の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。70のマナを消費します
+
+Level 2 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 500 points of physical attack, 40% attack bonus, cost 160 mana
+狙い撃ちレベル2；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、500の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。160のマナを消費します
+
+Level 3 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 700 points of physical attack, 40% attack bonus, cost 240 mana
+狙い撃ちレベル3；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、700の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。240のマナを消費します
+
+Level 4 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 1200 points of physical attack, 40% attack bonus, cost 400 mana
+狙い撃ちレベル4；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、1200の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。400のマナを消費します
+
+Level 5 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 1800 points of physical attack, 40% attack bonus, cost 600 mana
+狙い撃ちレベル5；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、1800の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。600のマナを消費します
+
+Level 6 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 2200 points of physical attack, 40% attack bonus, cost 1000 mana
+狙い撃ちレベル6；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、2200の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。1000のマナを消費します
+
+Level 7 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 2800 points of physical attack, 40% attack bonus, cost 1400 mana
+狙い撃ちレベル7；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、2800の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。1400のマナを消費します
+
+Level 8 Aimed Shot; {s}Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 4800 points of physical attack, 40% attack bonus, cost 280 mana
+狙い撃ちレベル8；{sub2{$1}sub2}強力な単体攻撃、20ヤードの有効範囲。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、4800の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。280のマナを消費します
+
+Level 1 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 250 points of physical attack, 20% attack bonus, cost 140 mana
+乱れ撃ちレベル1；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、250の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。140のマナを消費します
+
+Level 2 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 350 points of physical attack, 20% attack bonus, cost 260 mana
+乱れ撃ちレベル2；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、350の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。260のマナを消費します
+
+Level 3 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 520 points of physical attack, 20% attack bonus, cost 400 mana
+乱れ撃ちレベル3；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、520の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。400のマナを消費します
+
+Level 4 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 820 points of physical attack, 20% attack bonus, cost 520 mana
+乱れ撃ちレベル4；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、820の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。520のマナを消費します
+
+Level 5 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 1280 points of physical attack, 20% attack bonus, cost 720 mana
+乱れ撃ちレベル5；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、1280の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。720のマナを消費します
+
+Level 6 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 1600 points of physical attack, 20% attack bonus, cost 1050 mana
+乱れ撃ちレベル6；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、1600の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。1050のマナを消費します
+
+Level 7 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 2200 points of physical attack, 20% attack bonus, cost 1800 mana
+乱れ撃ちレベル7；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、2200の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。1800のマナを消費します
+
+Level 8 Multi Shot; {s}Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, 6 seconds CD. Increase 3650 points of physical attack, 20% attack bonus, cost 3000 mana
+乱れ撃ちレベル8；{sub2{$1}sub2}20ヤード以内、90度の範囲で4体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは6秒、3650の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。3000のマナを消費します
+
+Level 1 Rapid Arrows; {s}Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 2000 points of physical attack, 30% attack bonus, cost 1750 mana
+速射矢レベル1；{sub2{$1}sub2}15ヤード以内、180度の範囲で8体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは30秒、2000の物理攻撃力を増加し、30%の攻撃ボーナスを得ます。1750のマナを消費します
+
+Level 2 Rapid Arrows; {s}Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 2500 points of physical attack, 30% attack bonus, cost 1200 mana
+速射矢レベル2；{sub2{$1}sub2}15ヤード以内、180度の範囲で8体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは30秒、2500の物理攻撃力を増加し、30%の攻撃ボーナスを得ます。1200のマナを消費します
+
+Level 3 Rapid Arrows; {s}Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 4500 points of physical attack, 30% attack bonus, cost 4000 mana
+速射矢レベル3；{sub2{$1}sub2}15ヤード以内、180度の範囲で8体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは30秒、4500の物理攻撃力を増加し、30%の攻撃ボーナスを得ます。4000のマナを消費します
+
+Level 4 Rapid Arrows; {s}Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 5600 points of physical attack, 30% attack bonus, cost 5000 mana
+速射矢レベル4；{sub2{$1}sub2}15ヤード以内、180度の範囲で8体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。クールダウンは30秒、5600の物理攻撃力を増加し、30%の攻撃ボーナスを得ます。5000のマナを消費します
+
+Level 1 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 360 points of physical attack, 20% attack bonus, cost 120 mana
+印付け撃ちレベル1；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。360の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。120のマナを消費します
+
+Level 2 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 540 points of physical attack, 20% attack bonus, cost 350 mana
+印付け撃ちレベル2；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。540の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。350のマナを消費します
+
+Level 3 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 840 points of physical attack, 20% attack bonus, cost 650 mana
+印付け撃ちレベル3；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。840の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。650のマナを消費します
+
+Level 4 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 1320 points of physical attack, 20% attack bonus, cost 1100 mana
+印付け撃ちレベル4；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。1320の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。1100のマナを消費します
+
+Level 5 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 1700 points of physical attack, 20% attack bonus, cost 1500 mana
+印付け撃ちレベル5；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。1700の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。1500のマナを消費します
+
+Level 6 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 2320 points of physical attack, 20% attack bonus, cost 2300 mana
+印付け撃ちレベル6；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。2320の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。2300のマナを消費します
+
+Level 7 Marked Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. Increase 3900 points of physical attack, 20% attack bonus, cost 4000 mana
+印付け撃ちレベル7；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。3900の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。4000のマナを消費します
+
+Level 1 Burst Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. 2 minutes CD. Increase 2500 points of physical attack, 40% attack bonus, cost 2500 mana
+爆発撃ちレベル1；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。クールダウンは2分、2500の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。2500のマナを消費します
+
+Level 2 Burst Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. 2 minutes CD. Increase 3500 points of physical attack, 40% attack bonus, cost 4500 mana
+爆発撃ちレベル2；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。クールダウンは2分、3500の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。4500のマナを消費します
+
+Level 3 Burst Shot; {s}Attack all marked targets within 30 yards. The marks disappear after the attack. 2 minutes CD. Increase 5000 points of physical attack, 40% attack bonus, cost 6000 mana
+爆発撃ちレベル3；{sub2{$1}sub2}30ヤード以内のすべてのマークされた対象を攻撃。攻撃後、マークは消えます。クールダウンは2分、5000の物理攻撃力を増加し、40%の攻撃ボーナスを得ます。6000のマナを消費します
+
+Bull's Eye; {s}Increase 100 points of Accuracy for 10 seconds, 30 seconds CD, cost 1% mana.
+ブルズアイ；{sub2{$1}sub2}10秒間、100ポイントの命中精度を増加させる。クールダウンは30秒、1%のマナを消費します
+
+Level 1 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 550 points of physical attack, 20% attack bonus, cost 60 mana
+衝撃撃ちレベル1；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、550の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。60のマナを消費します
+
+Level 2 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 860 points of physical attack, 20% attack bonus, cost 90 mana
+衝撃撃ちレベル2；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、860の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。90のマナを消費します
+
+Level 3 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 1300 points of physical attack, 20% attack bonus, cost 130 mana
+衝撃撃ちレベル3；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、1300の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。130のマナを消費します
+
+Level 4 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 1700 points of physical attack, 20% attack bonus, cost 170 mana
+衝撃撃ちレベル4；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、1700の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。170のマナを消費します
+
+Level 5 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 2300 points of physical attack, 20% attack bonus, cost 230 mana
+衝撃撃ちレベル5；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、2300の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。230のマナを消費します
+
+Level 6 Concussive Shot; {s}Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, 30 seconds CD. Increase 3800 points of physical attack, 20% attack bonus, cost 380 mana
+衝撃撃ちレベル6；{sub2{$1}sub2}20ヤード以内、180度の範囲で1体の敵を攻撃。攻撃が命中したときに敵をマークするチャンスがあります。敵が獣の場合、5秒間スタンします。クールダウンは30秒、3800の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。380のマナを消費します
+
+Level 1 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 550 points of physical attack, 20% attack bonus, cost 60 mana
+狩猟網投げレベル1；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、550の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。60のマナを消費します
+
+Level 2 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 750 points of physical attack, 20% attack bonus, cost 80 mana
+狩猟網投げレベル2；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、750の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。80のマナを消費します
+
+Level 3 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 1050 points of physical attack, 20% attack bonus, cost 110 mana
+狩猟網投げレベル3；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、1050の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。110のマナを消費します
+
+Level 4 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 1400 points of physical attack, 20% attack bonus, cost 140 mana
+狩猟網投げレベル4；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、1400の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。140のマナを消費します
+
+Level 5 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 1800 points of physical attack, 20% attack bonus, cost 180 mana
+狩猟網投げレベル5；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、1800の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。180のマナを消費します
+
+Level 6 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 2400 points of physical attack, 20% attack bonus, cost 240 mana
+狩猟網投げレベル6；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、2400の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。240のマナを消費します
+
+Level 7 Throw Hunting Net; {s}Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by 25% for 8 seconds, 60 seconds CD. Increase 4000 points of physical attack, 20% attack bonus, cost 400 mana
+狩猟網投げレベル7；{sub2{$1}sub2}フック付き狩猟網でターゲットを捕獲し、継続的なダメージを与え、8秒間移動速度を25%減少させます。クールダウンは60秒、4000の物理攻撃力を増加し、20%の攻撃ボーナスを得ます。400のマナを消費します
+
+Tar Trap; {s}Place a trap of a 4-yard radius. When the first 3 enemies approach, they will knock down the tar barrel and stick with tar, reducing 50% movement speed for 5 seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+タートラップ；{sub2{$1}sub2}半径4ヤードのトラップを設置します。最初の3体の敵が近づくと、タールの樽を倒し、タールで粘着し、5秒間移動速度を50%減少させます。トラップは1分間存在し、クールダウンは1分、1%のマナを消費します
+
+Vine Trap; {s}Place a trap of a 3-yard radius. When the first enemy approaches, he will be Ensnared with vines and cannot attack or use items for 6 seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+蔓のトラップ；{sub2{$1}sub2}半径3ヤードのトラップを設置します。最初の敵が近づくと、蔓で絡まり、6秒間攻撃やアイテムの使用ができなくなります。トラップは1分間存在し、クールダウンは1分、1%のマナを消費します
+
+Turtle Guardian; {s}Deflect all attacks, reducing 30% of all damage taken for 8 seconds, but you cannot attack. 30 seconds CD, cost 1% mana.
+カメの守護者；{sub2{$1}sub2}すべての攻撃を弾き、8秒間受けるダメージを30%減少させますが、攻撃はできません。クールダウンは30秒、1%のマナを消費します
+
+Strong-Arm Aura; {s}Increase 25% attack damage for all allies within 30 yards for 2 minutes, 5 minutes CD, cost 1% mana.
+力強い腕のオーラ；{sub2{$1}sub2}30ヤード以内のすべての味方の攻撃ダメージを2分間25%増加させます。クールダウンは5分、1%のマナを消費します
+
+Tranquility Aura; {s}Increase 100% Accuracy for all allies within 30 yards for 2 minutes, 5 minutes CD, cost 1% mana.
+静寂のオーラ；{sub2{$1}sub2}30ヤード以内のすべての味方の命中率を2分間100%増加させます。クールダウンは5分、1%のマナを消費します
+
+Viper Sting; {s}15 yards of effective range, the target will take 10% more damage when being attacked for 1 minute, 2 minutes CD, cost 1% mana.
+バイパースティング；{sub2{$1}sub2}15ヤードの有効範囲で、ターゲットは1分間攻撃を受けると10%の追加ダメージを受けます。クールダウンは2分、1%のマナを消費します
+
+Adder Sting; {s}15 yards of effective range, the target will take 30% more Bleeding damage for 2 minutes, 2 minutes CD. Share CD with Viper Sting, cost 1% mana.
+アダースティング；{sub2{$1}sub2}15ヤードの有効範囲で、ターゲットは2分間出血ダメージを30%多く受けます。クールダウンは2分、バイパースティングと共有します。1%のマナを消費します
+
+Scorpion Sting; {s}15 yards of effective range, reduce 50% Accuracy of the target for 30 seconds, 2 minutes CD. Share CD with Viper Sting, cost 1% mana.
+スコーピオンスティング；{sub2{$1}sub2}15ヤードの有効範囲で、ターゲットの命中率を30秒間50%減少させます。クールダウンは2分、バイパースティングと共有します。1%のマナを消費します
+
+Escape; {s}Jump backward by 12 yards, 20 seconds CD, not affected by global CD. Cost 1% Mana.
+エスケープ；{sub2{$1}sub2}12ヤード後方にジャンプします。クールダウンは20秒、グローバルクールダウンの影響を受けません。1%のマナを消費します
+
+Level 1 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 185 points of magic attack, 10% attack bonus, cost 20 mana
+魔法球レベル1；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が185増加し、10%の攻撃ボーナスを得ます。20のマナを消費します
+
+Level 2 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 390 points of magic attack, 10% attack bonus, cost 40 mana
+魔法球レベル2；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が390増加し、10%の攻撃ボーナスを得ます。40のマナを消費します
+
+Level 3 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 600 points of magic attack, 10% attack bonus, cost 60 mana
+魔法球レベル3；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が600増加し、10%の攻撃ボーナスを得ます。60のマナを消費します
+
+Level 4 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 680 points of magic attack, 10% attack bonus, cost 70 mana
+魔法球レベル4；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が680増加し、10%の攻撃ボーナスを得ます。70のマナを消費します
+
+Level 5 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 820 points of magic attack, 10% attack bonus, cost 80 mana
+魔法球レベル5；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が820増加し、10%の攻撃ボーナスを得ます。80のマナを消費します
+
+Level 6 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1200 points of magic attack, 10% attack bonus, cost 120 mana
+魔法球レベル6；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が1200増加し、10%の攻撃ボーナスを得ます。120のマナを消費します
+
+Level 7 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 1550 points of magic attack, 10% attack bonus, cost 150 mana
+魔法球レベル7；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が1550増加し、10%の攻撃ボーナスを得ます。150のマナを消費します
+
+Level 8 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 2400 points of magic attack, 10% attack bonus, cost 240 mana
+魔法球レベル8；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が2400増加し、10%の攻撃ボーナスを得ます。240のマナを消費します
+
+Level 9 Magic Sphere; {s}Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase 4000 points of magic attack, 10% attack bonus, cost 400 mana
+魔法球レベル9；{sub2{$1}sub2}基本攻撃、20ヤード以内の1体の敵に水元素の魔法球を投げます。魔法攻撃力が4000増加し、10%の攻撃ボーナスを得ます。400のマナを消費します
+
+Level 1 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 540 points of magic attack, 30% attack bonus, cost 70 mana
+氷の槍レベル1；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が540増加し、30%の攻撃ボーナスを得ます。70のマナを消費します
+
+Level 2 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 700 points of magic attack, 30% attack bonus, cost 140 mana
+氷の槍レベル2；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が700増加し、30%の攻撃ボーナスを得ます。140のマナを消費します
+
+Level 3 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1000 points of magic attack, 30% attack bonus, cost 230 mana
+氷の槍レベル3；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が1000増加し、30%の攻撃ボーナスを得ます。230のマナを消費します
+
+Level 4 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1300 points of magic attack, 30% attack bonus, cost 500 mana
+氷の槍レベル4；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が1300増加し、30%の攻撃ボーナスを得ます。500のマナを消費します
+
+Level 5 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 1800 points of magic attack, 30% attack bonus, cost 900 mana
+氷の槍レベル5；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が1800増加し、30%の攻撃ボーナスを得ます。900のマナを消費します
+
+Level 6 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2200 points of magic attack, 30% attack bonus, cost 1330 mana
+氷の槍レベル6；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が2200増加し、30%の攻撃ボーナスを得ます。1330のマナを消費します
+
+Level 7 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 2800 points of magic attack, 30% attack bonus, cost 2000 mana
+氷の槍レベル7；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が2800増加し、30%の攻撃ボーナスを得ます。2000のマナを消費します
+
+Level 8 Ice Lance; {s}Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. Ice Lance deals 3x damage to frozen or condensed targets. 6 seconds CD. In addition, if you have Ice Spike, each Ice Spike deals 20% extra damage to the target. Increase 4200 points of magic attack, 30% attack bonus, cost 3000 mana
+氷の槍レベル8；{sub2{$1}sub2}強力な単体攻撃、20ヤード以内の1体の敵に高速の氷の破片を発射し、霜ダメージを与えます。氷の槍は、凍結または凝縮されたターゲットに3倍のダメージを与えます。クールダウンは6秒。また、アイススパイクを持っている場合、各アイススパイクはターゲットに20%の追加ダメージを与えます。魔法攻撃力が4200増加し、30%の攻撃ボーナスを得ます。3000のマナを消費します
+
+Level 1 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 360 points of magic attack, 10% attack bonus, cost 200 mana
+氷嵐レベル1；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が360増加し、10%の攻撃ボーナスを得ます。200のマナを消費します
+
+Level 2 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 580 points of magic attack, 10% attack bonus, cost 400 mana
+氷嵐レベル2；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が580増加し、10%の攻撃ボーナスを得ます。400のマナを消費します
+
+Level 3 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 660 points of magic attack, 10% attack bonus, cost 550 mana
+氷嵐レベル3；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が660増加し、10%の攻撃ボーナスを得ます。550のマナを消費します
+
+Level 4 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 800 points of magic attack, 10% attack bonus, cost 700 mana
+氷嵐レベル4；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が800増加し、10%の攻撃ボーナスを得ます。700のマナを消費します
+
+Level 5 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1150 points of magic attack, 10% attack bonus, cost 1100 mana
+氷嵐レベル5；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が1150増加し、10%の攻撃ボーナスを得ます。1100のマナを消費します
+
+Level 6 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 1500 points of magic attack, 10% attack bonus, cost 1320 mana
+氷嵐レベル6；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が1500増加し、10%の攻撃ボーナスを得ます。1320のマナを消費します
+
+Level 7 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 2300 points of magic attack, 10% attack bonus, cost 2000 mana
+氷嵐レベル7；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が2300増加し、10%の攻撃ボーナスを得ます。2000のマナを消費します
+
+Level 8 Ice Storm; {s}Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, 6 seconds CD. Increase 3800 points of magic attack, 10% attack bonus, cost 4000 mana
+氷嵐レベル8；{sub2{$1}sub2}基本広範囲攻撃、20ヤード以内、180度の範囲で6体のターゲットを攻撃します。クールダウンは6秒。魔法攻撃力が3800増加し、10%の攻撃ボーナスを得ます。4000のマナを消費します
+
+Level 1 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1200 points of magic attack, 30% attack bonus, cost 1000 mana
+氷のオーブレベル1；{sub2{$1}sub2}強力な広範囲攻撃、20ヤード以内、90度の範囲で4体のターゲットを攻撃します。クールダウンは15秒。魔法攻撃力が1200増加し、30%の攻撃ボーナスを得ます。1000のマナを消費します
+
+Level 2 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 1800 points of magic attack, 30% attack bonus, cost 1750 mana
+氷のオーブレベル2；{sub2{$1}sub2}強力な広範囲攻撃、20ヤード以内、90度の範囲で4体のターゲットを攻撃します。クールダウンは15秒。魔法攻撃力が1800増加し、30%の攻撃ボーナスを得ます。1750のマナを消費します
+
+Level 3 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 2600 points of magic attack, 30% attack bonus, cost 2800 mana
+氷のオーブレベル3；{sub2{$1}sub2}強力な広範囲攻撃、20ヤード以内、90度の範囲で4体のターゲットを攻撃します。クールダウンは15秒。魔法攻撃力が2600増加し、30%の攻撃ボーナスを得ます。2800のマナを消費します
+
+Level 4 Ice Orb; {s}Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, 15 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3800 mana
+氷のオーブレベル4；{sub2{$1}sub2}強力な広範囲攻撃、20ヤード以内、90度の範囲で4体のターゲットを攻撃します。クールダウンは15秒。魔法攻撃力が3500増加し、30%の攻撃ボーナスを得ます。3800のマナを消費します
+
+Level 1 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 1500 points of magic attack, 30% attack bonus, cost 800 mana
+アクアジェットレベル1；{sub2{$1}sub2}継続的な単体攻撃、15ヤードの有効範囲で氷冷の水を対象に向けて発射し、霜ダメージを6秒間与えます。クールダウンは20秒。魔法攻撃力が1500増加し、30%の攻撃ボーナスを得ます。800のマナを消費します
+
+Level 2 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2200 points of magic attack, 30% attack bonus, cost 1200 mana
+アクアジェットレベル2；{sub2{$1}sub2}継続的な単体攻撃、15ヤードの有効範囲で氷冷の水を対象に向けて発射し、霜ダメージを6秒間与えます。クールダウンは20秒。魔法攻撃力が2200増加し、30%の攻撃ボーナスを得ます。1200のマナを消費します
+
+Level 3 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 2800 mana
+アクアジェットレベル3；{sub2{$1}sub2}継続的な単体攻撃、15ヤードの有効範囲で氷冷の水を対象に向けて発射し、霜ダメージを6秒間与えます。クールダウンは20秒。魔法攻撃力が2800増加し、30%の攻撃ボーナスを得ます。2800のマナを消費します
+
+Level 4 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 3500 points of magic attack, 30% attack bonus, cost 3600 mana
+アクアジェットレベル4；{sub2{$1}sub2}継続的な単体攻撃、15ヤードの有効範囲で氷冷の水を対象に向けて発射し、霜ダメージを6秒間与えます。クールダウンは20秒。魔法攻撃力が3500増加し、30%の攻撃ボーナスを得ます。3600のマナを消費します
+
+Level 5 Aqua Jet; {s}Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. 20 seconds CD. Increase 4800 points of magic attack, 30% attack bonus, cost 5000 mana
+アクアジェットレベル5；{sub2{$1}sub2}継続的な単体攻撃、15ヤードの有効範囲で氷冷の水を対象に向けて発射し、霜ダメージを6秒間与えます。クールダウンは20秒。魔法攻撃力が4800増加し、30%の攻撃ボーナスを得ます。5000のマナを消費します
+
+Blizzard; {s}Continuous AOE damage, summon ice shards to fall from the sky in an area of 10-yard radius, deal frost damage for 8 seconds. 30 seconds CD, cost 2% mana.
+ブリザード；{sub2{$1}sub2}継続的な範囲攻撃、10ヤード半径のエリアに氷の破片を召喚し、8秒間霜ダメージを与えます。クールダウンは30秒。マナを2%消費します
+
+Level 1 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 600 points of magic attack, 10% attack bonus, cost 120 mana
+氷の矢レベル1；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が600増加し、10%の攻撃ボーナスを得ます。120のマナを消費します
+
+Level 2 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 680 points of magic attack, 10% attack bonus, cost 140 mana
+氷の矢レベル2；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が680増加し、10%の攻撃ボーナスを得ます。140のマナを消費します
+
+Level 3 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 820 points of magic attack, 10% attack bonus, cost 160 mana
+氷の矢レベル3；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が820増加し、10%の攻撃ボーナスを得ます。160のマナを消費します
+
+Level 4 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 240 mana
+氷の矢レベル4；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が1200増加し、10%の攻撃ボーナスを得ます。240のマナを消費します
+
+Level 5 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 1550 points of magic attack, 10% attack bonus, cost 300 mana
+氷の矢レベル5；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が1550増加し、10%の攻撃ボーナスを得ます。300のマナを消費します
+
+Level 6 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 2400 points of magic attack, 10% attack bonus, cost 480 mana
+氷の矢レベル6；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が2400増加し、10%の攻撃ボーナスを得ます。480のマナを消費します
+
+Level 7 Ice Arrow; {s}1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by 30% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase 4000 points of magic attack, 10% attack bonus, cost 800 mana
+氷の矢レベル7；{sub2{$1}sub2}チャネリング時間1.5秒、20ヤード以内の1体の敵に氷の矢を発射し、霜ダメージを与え、ターゲットの移動速度を30%低下させます。効果は5秒間持続します。氷の矢が命中するたびに、最大5本までの氷スパイクが生成されます。魔法攻撃力が4000増加し、10%の攻撃ボーナスを得ます。800のマナを消費します
+
+Icicle; {s}Attack 5 targets within 12 yards and 90 degrees, decrease the targets' movement speed by 50% for 6 seconds. 20 seconds CD, cost 1% mana.
+つらら；{sub2{$1}sub2}12ヤード以内で90度の範囲の5つのターゲットを攻撃し、6秒間ターゲットの移動速度を50%低下させます。クールダウンは20秒。マナを1%消費します
+
+Level 1 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 500 points of magic attack, 10% attack bonus, cost 500 mana
+フロストノヴァレベル1；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が500増加し、10%の攻撃ボーナスを得ます。500のマナを消費します
+
+Level 2 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 600 points of magic attack, 10% attack bonus, cost 650 mana
+フロストノヴァレベル2；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が600増加し、10%の攻撃ボーナスを得ます。650のマナを消費します
+
+Level 3 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 800 points of magic attack, 10% attack bonus, cost 900 mana
+フロストノヴァレベル3；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が800増加し、10%の攻撃ボーナスを得ます。900のマナを消費します
+
+Level 4 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1550 points of magic attack, 10% attack bonus, cost 1300 mana
+フロストノヴァレベル4；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が1550増加し、10%の攻撃ボーナスを得ます。1300のマナを消費します
+
+Level 5 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 1600 points of magic attack, 10% attack bonus, cost 1800 mana
+フロストノヴァレベル5；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が1600増加し、10%の攻撃ボーナスを得ます。1800のマナを消費します
+
+Level 6 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 2400 points of magic attack, 10% attack bonus, cost 2900 mana
+フロストノヴァレベル6；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が2400増加し、10%の攻撃ボーナスを得ます。2900のマナを消費します
+
+Level 7 Frost Nova; {s}Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, 20 seconds CD. Dealing damage to the target will break its Frozen effect. Increase 4000 points of magic attack, 10% attack bonus, cost 5000 mana
+フロストノヴァレベル7；{sub2{$1}sub2}8ヤード半径以内のすべての敵に影響を与え、霜ダメージを与えて5秒間その場で凍結させます。クールダウンは20秒。ターゲットにダメージを与えると、凍結効果が解除されます。魔法攻撃力が4000増加し、10%の攻撃ボーナスを得ます。5000のマナを消費します
+
+Cold Winter; {s}Increase 20% attack speed for 15 seconds, 30 seconds CD. Not affected by global CD, cost 1% mana.
+冷たい冬；{sub2{$1}sub2}15秒間、攻撃速度を20%増加させます。クールダウンは30秒。グローバルクールダウンの影響を受けません。マナを1%消費します
+
+Ice Barrier; {s} Cover yourself with an ice barrier, immune to all damage for 10 seconds, during which you cannot attack, move, or cast skills. It will also trigger Hypothermia, which causes you to be unable to cast Ice Barrier again for 30 seconds, cost 1% mana.
+アイスバリア；{sub2{$1}sub2}自分を氷のバリアで覆い、10秒間すべてのダメージを無効化します。この間、攻撃、移動、スキルの使用ができません。さらに、低体温症を引き起こし、30秒間再びアイスバリアを使用できなくなります。マナを1%消費します
+
+Level 1 Ice Shield; {s}Cast a shield that absorbs 16000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+アイスシールドレベル1；{sub2{$1}sub2}16000ダメージを吸収し、30秒間持続するシールドを発動します。シールドが存在する限り、スキルを使用する際にダメージで中断されることはありません。クールダウンは30秒。マナを2%消費します
+
+Level 2 Ice Shield; {s}Cast a shield that absorbs 24000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+アイスシールドレベル2；{sub2{$1}sub2}24000ダメージを吸収し、30秒間持続するシールドを発動します。シールドが存在する限り、スキルを使用する際にダメージで中断されることはありません。クールダウンは30秒。マナを2%消費します
+
+Level 3 Ice Shield; {s}Cast a shield that absorbs 38000 damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 30 seconds CD, cost 2% mana.
+アイスシールドレベル3；{sub2{$1}sub2}38000ダメージを吸収し、30秒間持続するシールドを発動します。シールドが存在する限り、スキルを使用する際にダメージで中断されることはありません。クールダウンは30秒。マナを2%消費します
+
+Winter Horn; {s}Increase 30% magic damage for all allies within 20 yards for 30 seconds, 2 minutes CD, cost 1% mana.
+ウィンターホーン；{sub2{$1}sub2}20ヤード以内のすべての味方の魔法ダメージを30秒間30%増加させます。クールダウンは2分。マナを1%消費します
+
+Crushed Ice Fetters; {s}Wrap 1 enemy within 20 yards with crushed ice, decrease 50% critical hit resist of the target for 15 seconds, 30 seconds CD, cost 1% mana.
+砕けた氷の枷；{sub2{$1}sub2}20ヤード以内の1体の敵を砕けた氷で包み、15秒間対象のクリティカルヒット抵抗を50%低下させます。クールダウンは30秒。マナを1%消費します
+
+Chilling Frost; {s}Cast Chilling Frost to 1 enemy within 20 yards, reduce 25% of all healing effects on the target for 15 seconds, 30 seconds CD, cost 1% mana.
+寒気の霜；{sub2{$1}sub2}20ヤード以内の1体の敵に寒気の霜をかけ、15秒間対象に対するすべての回復効果を25%低下させます。クールダウンは30秒。マナを1%消費します
+
+Dispel Magic; {s}15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy. Cost 1% Mana.
+魔法解呪；{sub2{$1}sub2}有効範囲15ヤード、1体の味方から魔法デバフまたは呪いデバフを除去するか、1体の敵からバフを除去します。マナを1%消費します
+
+Level 1 Teleportation; {s}10 seconds of channeling time, teleport to Sunset City, Giant Rock City or White Sand City. Cost 30% mana.
+テレポーテーションレベル1；{sub2{$1}sub2}チャネリング時間10秒、サンセットシティ、ジャイアントロックシティ、またはホワイトサンドシティにテレポートします。マナを30%消費します
+
+Level 2 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル2；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 3 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル3；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 4 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル4；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 5 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル5；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 6 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル6；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 7 Teleportation; {s}10 seconds of channeling time, Teleport to several cities. Cost 30% mana.
+テレポーテーションレベル7；{sub2{$1}sub2}チャネリング時間10秒、いくつかの都市にテレポートします。マナを30%消費します
+
+Level 1 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+テレポーテーションポータルレベル1；{sub2{$1}sub2}チャネリング時間10秒、味方のために都市テレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します
+
+Level 2 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+テレポーテーションポータルレベル2；{sub2{$1}sub2}チャネリング時間10秒、味方のために都市テレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します
+
+Level 3 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+テレポーテーションポータルレベル3；{sub2{$1}sub2}チャネリング時間10秒、味方のために都市テレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します
+
+Level 4 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+テレポーテーションポータルレベル4；{sub2{$1}sub2}チャネリング時間10秒、味方のために都市テレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します
+
+Level 5 Teleportation Portal; {s}10 seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+テレポーテーションポータルレベル5；{sub2{$1}sub2}チャネリング時間10秒、味方のために都市テレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します
+
+Retract the  Barrier; {s}Retract the Ice Barrier, Cost 1% Mana, not affected by global CD.
+バリアを解除；{sub2{$1}sub2}アイスバリアを解除します。マナを1%消費します。グローバルクールダウンの影響を受けません
+
+Level 1 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 180 points of magic attack, 10% attack bonus, cost 20 mana
+ファイアボールレベル1；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を180増加させ、10%の攻撃ボーナスを得ます。マナを20消費します
+
+Level 2 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 420 points of magic attack, 10% attack bonus, cost 40 mana
+ファイアボールレベル2；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を420増加させ、10%の攻撃ボーナスを得ます。マナを40消費します
+
+Level 3 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 700 points of magic attack, 10% attack bonus, cost 70 mana
+ファイアボールレベル3；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を700増加させ、10%の攻撃ボーナスを得ます。マナを70消費します
+
+Level 4 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1120 points of magic attack, 10% attack bonus, cost 100 mana
+ファイアボールレベル4；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を1120増加させ、10%の攻撃ボーナスを得ます。マナを100消費します
+
+Level 5 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 1760 points of magic attack, 10% attack bonus, cost 150 mana
+ファイアボールレベル5；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を1760増加させ、10%の攻撃ボーナスを得ます。マナを150消費します
+
+Level 6 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 2550 points of magic attack, 10% attack bonus, cost 220 mana
+ファイアボールレベル6；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を2550増加させ、10%の攻撃ボーナスを得ます。マナを220消費します
+
+Level 7 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 3780 points of magic attack, 10% attack bonus, cost 300 mana
+ファイアボールレベル7；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を3780増加させ、10%の攻撃ボーナスを得ます。マナを300消費します
+
+Level 8 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 5100 points of magic attack, 10% attack bonus, cost 380 mana
+ファイアボールレベル8；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を5100増加させ、10%の攻撃ボーナスを得ます。マナを380消費します
+
+Level 9 Fireball; {s}Base Attack, throw a fireball at 1 enemy within 20 yards, increase 7800 points of magic attack, 10% attack bonus, cost 580 mana
+ファイアボールレベル9；{sub2{$1}sub2}ベース攻撃、20ヤード以内の1体の敵にファイアボールを投げ、魔法攻撃力を7800増加させ、10%の攻撃ボーナスを得ます。マナを580消費します
+
+Level 1 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 560 points of magic attack, 30% attack bonus, cost 70 mana
+ファイアインパクトレベル1；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を560増加させ、30%の攻撃ボーナスを得ます。マナを70消費します
+
+Level 2 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 800 points of magic attack, 30% attack bonus, cost 150 mana
+ファイアインパクトレベル2；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を800増加させ、30%の攻撃ボーナスを得ます。マナを150消費します
+
+Level 3 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1250 points of magic attack, 30% attack bonus, cost 260 mana
+ファイアインパクトレベル3；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を1250増加させ、30%の攻撃ボーナスを得ます。マナを260消費します
+
+Level 4 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 1950 points of magic attack, 30% attack bonus, cost 650 mana
+ファイアインパクトレベル4；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を1950増加させ、30%の攻撃ボーナスを得ます。マナを650消費します
+
+Level 5 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 2800 points of magic attack, 30% attack bonus, cost 900 mana
+ファイアインパクトレベル5；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を2800増加させ、30%の攻撃ボーナスを得ます。マナを900消費します
+
+Level 6 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 4400 points of magic attack, 30% attack bonus, cost 1600 mana
+ファイアインパクトレベル6；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を4400増加させ、30%の攻撃ボーナスを得ます。マナを1600消費します
+
+Level 7 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
+ファイアインパクトレベル7；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を6200増加させ、30%の攻撃ボーナスを得ます。マナを2500消費します
+
+Level 8 Fire Impact; {s}Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. 6 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
+ファイアインパクトレベル8；{sub2{$1}sub2}20ヤード以内の1体の敵に衝撃を与え、火のダメージを与えます。常にクリティカルヒット。6秒CD。魔法攻撃力を9400増加させ、30%の攻撃ボーナスを得ます。マナを4000消費します
+
+Level 1 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 400 points of magic attack, 10% attack bonus, cost 180 mana
+ファイアサージレベル1；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を400増加させ、10%の攻撃ボーナスを得ます。マナを180消費します
+
+Level 2 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 640 points of magic attack, 10% attack bonus, cost 350 mana
+ファイアサージレベル2；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を640増加させ、10%の攻撃ボーナスを得ます。マナを350消費します
+
+Level 3 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1050 points of magic attack, 10% attack bonus, cost 500 mana
+ファイアサージレベル3；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を1050増加させ、10%の攻撃ボーナスを得ます。マナを500消費します
+
+Level 4 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 1660 points of magic attack, 10% attack bonus, cost 800 mana
+ファイアサージレベル4；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を1660増加させ、10%の攻撃ボーナスを得ます。マナを800消費します
+
+Level 5 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 2400 points of magic attack, 10% attack bonus, cost 1200 mana
+ファイアサージレベル5；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を2400増加させ、10%の攻撃ボーナスを得ます。マナを1200消費します
+
+Level 6 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 3570 points of magic attack, 10% attack bonus, cost 1800 mana
+ファイアサージレベル6；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を3570増加させ、10%の攻撃ボーナスを得ます。マナを1800消費します
+
+Level 7 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 4800 points of magic attack, 10% attack bonus, cost 2300 mana
+ファイアサージレベル7；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を4800増加させ、10%の攻撃ボーナスを得ます。マナを2300消費します
+
+Level 8 Fire Surge; {s}Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, 6 seconds CD. Increase 7200 points of magic attack, 10% attack bonus, cost 4000 mana
+ファイアサージレベル8；{sub2{$1}sub2}基本広範囲攻撃、20ヤードおよび90度以内の6つのターゲットを攻撃、6秒CD。魔法攻撃力を7200増加させ、10%の攻撃ボーナスを得ます。マナを4000消費します
+
+Level 1 Sear; {s}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 6200 points of magic attack, 30% attack bonus, cost 2500 mana
+シアレベル1；{sub2{$1}sub2}強力な単体攻撃、1.5秒のチャネリング時間、20ヤード以内の1体の敵を焼き、火のダメージを与えます。ターゲットは15秒間、魔法ダメージを20%多く受けます。30秒CD。魔法攻撃力を6200増加させ、30%の攻撃ボーナスを得ます。マナを2500消費します
+
+Level 2 Sear; {s}Powerful single-target attack, 1.5 seconds of channeling time, Sear 1 enemy within 20 yards and deal fire damage, the target will take 20% more magic damage for 15 seconds, 30 seconds CD. Increase 9400 points of magic attack, 30% attack bonus, cost 4000 mana
+シアレベル2；{sub2{$1}sub2}強力な単体攻撃、1.5秒のチャネリング時間、20ヤード以内の1体の敵を焼き、火のダメージを与えます。ターゲットは15秒間、魔法ダメージを20%多く受けます。30秒CD。魔法攻撃力を9400増加させ、30%の攻撃ボーナスを得ます。マナを4000消費します
+
+Level 1 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1200 points of magic attack, 10% attack bonus, cost 2500 mana
+パイロブラストレベル1；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を1200増加させ、10%の攻撃ボーナスを得ます。マナを2500消費します
+
+Level 2 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 1760 points of magic attack, 10% attack bonus, cost 3750 mana
+パイロブラストレベル2；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を1760増加させ、10%の攻撃ボーナスを得ます。マナを3750消費します
+
+Level 3 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 2550 points of magic attack, 10% attack bonus, cost 5600 mana
+パイロブラストレベル3；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を2550増加させ、10%の攻撃ボーナスを得ます。マナを5600消費します
+
+Level 4 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 3780 points of magic attack, 10% attack bonus, cost 7500 mana
+パイロブラストレベル4；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を3780増加させ、10%の攻撃ボーナスを得ます。マナを7500消費します
+
+Level 5 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 5100 points of magic attack, 10% attack bonus, cost 9500 mana
+パイロブラストレベル5；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を5100増加させ、10%の攻撃ボーナスを得ます。マナを9500消費します
+
+Level 6 Pyroblast; {s}Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 7800 points of magic attack, 10% attack bonus, cost 14500 mana
+パイロブラストレベル6；{sub2{$1}sub2}20ヤード以内の1体の敵を攻撃し、4.5秒のチャネリング時間で火のダメージを与え、12秒間燃焼を与えます。パイロブラストがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を7800増加させ、10%の攻撃ボーナスを得ます。マナを14500消費します
+
+Level 1 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 4000 points of magic attack, 30% attack bonus, cost 3500 mana
+ブレイジングストームレベル1；{sub2{$1}sub2}強力な広範囲攻撃、3秒のチャネリング時間で20ヤードと180度以内の8つのターゲットを攻撃し、火のダメージを与え、8秒間燃焼を与えます。ブレイジングストームがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を4000増加させ、30%の攻撃ボーナスを得ます。マナを3500消費します
+
+Level 2 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 6000 points of magic attack, 30% attack bonus, cost 4800 mana
+ブレイジングストームレベル2；{sub2{$1}sub2}強力な広範囲攻撃、3秒のチャネリング時間で20ヤードと180度以内の8つのターゲットを攻撃し、火のダメージを与え、8秒間燃焼を与えます。ブレイジングストームがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を6000増加させ、30%の攻撃ボーナスを得ます。マナを4800消費します
+
+Level 3 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 8100 points of magic attack, 30% attack bonus, cost 9000 mana
+ブレイジングストームレベル3；{sub2{$1}sub2}強力な広範囲攻撃、3秒のチャネリング時間で20ヤードと180度以内の8つのターゲットを攻撃し、火のダメージを与え、8秒間燃焼を与えます。ブレイジングストームがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を8100増加させ、30%の攻撃ボーナスを得ます。マナを9000消費します
+
+Level 4 Blazing Storm; {s}Powerful wide-range attack, 3 seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase 10800 points of magic attack, 30% attack bonus, cost 15000 mana
+ブレイジングストームレベル4；{sub2{$1}sub2}強力な広範囲攻撃、3秒のチャネリング時間で20ヤードと180度以内の8つのターゲットを攻撃し、火のダメージを与え、8秒間燃焼を与えます。ブレイジングストームがターゲットに当たるたびに、最大5つの火の元素を生成します。魔法攻撃力を10800増加させ、30%の攻撃ボーナスを得ます。マナを15000消費します
+
+Magma; {s}Fire-trap the target with magma, the target cannot move for 2 seconds, 3 seconds CD, cost 1% mana.
+マグマ；{sub2{$1}sub2}ターゲットをマグマで火トラップし、2秒間動けなくします。3秒CD、マナを1%消費します。
+
+Dragon's Breath; {s}Decrease 50% movement speed of all enemies within 11 yards and 90 degrees for 8 seconds, 30 seconds CD, cost 1% mana.
+ドラゴンズブレス；{sub2{$1}sub2}11ヤードと90度以内のすべての敵の移動速度を50%減少させます。8秒間持続し、30秒CD。マナを1%消費します。
+
+Elven Ascension; {s}Remove Stunned effect and gain Stun immunity for 10 seconds, not affected by global CD, cost 1% mana.
+エルフの昇華；{sub2{$1}sub2}スタン効果を取り除き、10秒間スタン免疫を得ます。グローバルCDに影響されません。マナを1%消費します。
+
+Lava Armor; {s}Increase 15% Critical Hit and reduce 30% physical damage taken for 10 seconds, 30 seconds CD, cost 1% mana.
+ラバーアーマー；{sub2{$1}sub2}クリティカルヒットを15%増加し、被る物理ダメージを30%減少させます。10秒間持続し、30秒CD。マナを1%消費します。
+
+Scorch; {s}Wrap yourself in flames, increase 50% Critical Hit for 10 seconds. Not affected by global CD. Can be cast when casting other spells. 30 seconds CD, cost 1% mana.
+スコーチ；{sub2{$1}sub2}自分を炎で包み、クリティカルヒットを50%増加させます。10秒間持続。グローバルCDに影響されず、他の呪文を唱える際にも使用可能。30秒CD。マナを1%消費します。
+
+Purification; {s}15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy, cost 1% mana.
+浄化；{sub2{$1}sub2}有効範囲15ヤード、1人の味方から魔法デバフまたは呪いデバフを取り除くか、1人の敵からバフを取り除きます。マナを1%消費します。
+
+Ignition; {s}Ignite your Fire Elements and release them in your next attack. Cause 1 enemy to burn and take additional continuous damage equal to 6% of direct damage. With each additional Fire Element, you deal continuous damage 1 more time, and each continuous damage will spread the Ignition effect to another enemy nearby. The skill is not affected by global CD and costs 1% mana.
+イグニッション；{sub2{$1}sub2}火の元素を点火し、次の攻撃でそれを解放します。1体の敵を燃焼させ、直接ダメージの6%に相当する追加の継続ダメージを与えます。追加の火の元素ごとに、さらに1回の継続ダメージを与え、各継続ダメージは近くの別の敵にイグニッション効果を広げます。グローバルCDに影響されず、マナを1%消費します。
+
+Magic Shield; {s}Cast a shield that absorbs all attack damage and lasts for 10 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 1 minute CD, cost 1% mana.
+マジックシールド；{sub2{$1}sub2}すべての攻撃ダメージを吸収する盾を張り、10秒間持続します。盾が存在する限り、スキルを使用する際にダメージで中断されません。1分CD。マナを1%消費します。
+
+Invisibility; {s}Gain invisibility for 10 seconds, 1 minute CD. During invisibility, you cannot be targeted by enemies. Any action will end the invisibility effect, cost 1% mana.
+インビジビリティ；{sub2{$1}sub2}10秒間透明状態を得ます。1分CD。透明状態中は敵からターゲットにされません。任意の行動が透明状態を解除します。マナを1%消費します。
+
+Critical Blaze; {s}Attach flame nets to all allies and increase their magic Critical Hit by 50% for 30 seconds, 2 minutes CD, cost 1% mana.
+クリティカルブレイズ；{sub2{$1}sub2}すべての味方に火のネットを付け、魔法クリティカルヒットを50%増加させます。30秒間持続し、2分CD。マナを1%消費します。
+
+Level 1 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 2 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル2；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 3 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル3；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 4 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル4；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 5 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル5；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 6 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル6；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 7 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル7；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 8 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル8；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 9 Elven Teleportation; {s}10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+エルフテレポーテーションレベル9；{sub2{$1}sub2}10秒のチャネリング時間で、霊気の地へテレポートします。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Elven Teleportation Portal; {s}10 seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost 30% mana.
+エルフテレポーテーションポータルレベル1；{sub2{$1}sub2}10秒のチャネリング時間で、味方のためにエルフテレポーテーションポータルを召喚します。ポータルは1分間持続します。マナを30%消費します。
+
+Level 1 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 190 points of magic attack, 15% attack bonus, cost 20 mana
+レトリビューションレベル1；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を190ポイント増加させ、攻撃ボーナスを15%増加させます。マナを20消費します。
+
+Level 2 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 400 points of magic attack, 15% attack bonus, cost 40 mana
+レトリビューションレベル2；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を400ポイント増加させ、攻撃ボーナスを15%増加させます。マナを40消費します。
+
+Level 3 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 600 points of magic attack, 15% attack bonus, cost 60 mana
+レトリビューションレベル3；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を600ポイント増加させ、攻撃ボーナスを15%増加させます。マナを60消費します。
+
+Level 4 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 1000 points of magic attack, 15% attack bonus, cost 100 mana
+レトリビューションレベル4；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を1000ポイント増加させ、攻撃ボーナスを15%増加させます。マナを100消費します。
+
+Level 5 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 1600 points of magic attack, 15% attack bonus, cost 160 mana
+レトリビューションレベル5；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を1600ポイント増加させ、攻撃ボーナスを15%増加させます。マナを160消費します。
+
+Level 6 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 2000 points of magic attack, 15% attack bonus, cost 200 mana
+レトリビューションレベル6；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を2000ポイント増加させ、攻撃ボーナスを15%増加させます。マナを200消費します。
+
+Level 7 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 2600 points of magic attack, 15% attack bonus, cost 270 mana
+レトリビューションレベル7；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を2600ポイント増加させ、攻撃ボーナスを15%増加させます。マナを270消費します。
+
+Level 8 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 4000 points of magic attack, 15% attack bonus, cost 420 mana
+レトリビューションレベル8；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を4000ポイント増加させ、攻撃ボーナスを15%増加させます。マナを420消費します。
+
+Level 9 Retribution; {s}Basic skill, deal divine damage to 1 enemy within 20 yards, increase 5600 points of magic attack, 15% attack bonus, cost 600 mana
+レトリビューションレベル9；{sub2{$1}sub2}基本スキル、20ヤード以内の1体の敵に神聖ダメージを与えます。魔法攻撃を5600ポイント増加させ、攻撃ボーナスを15%増加させます。マナを600消費します。
+
+Level 1 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 360 points of magic attack, 15% attack bonus, cost 180 mana
+ホーリーライトウェーブレベル1；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を360ポイント増加させ、攻撃ボーナスを15%増加させます。マナを180消費します。
+
+Level 2 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 540 points of magic attack, 15% attack bonus, cost 320 mana
+ホーリーライトウェーブレベル2；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を540ポイント増加させ、攻撃ボーナスを15%増加させます。マナを320消費します。
+
+Level 3 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 900 points of magic attack, 15% attack bonus, cost 550 mana
+ホーリーライトウェーブレベル3；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を900ポイント増加させ、攻撃ボーナスを15%増加させます。マナを550消費します。
+
+Level 4 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 1440 points of magic attack, 15% attack bonus, cost 900 mana
+ホーリーライトウェーブレベル4；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を1440ポイント増加させ、攻撃ボーナスを15%増加させます。マナを900消費します。
+
+Level 5 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 1100 mana
+ホーリーライトウェーブレベル5；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を1800ポイント増加させ、攻撃ボーナスを15%増加させます。マナを1100消費します。
+
+Level 6 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 2400 points of magic attack, 15% attack bonus, cost 1800 mana
+ホーリーライトウェーブレベル6；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を2400ポイント増加させ、攻撃ボーナスを15%増加させます。マナを1800消費します。
+
+Level 7 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 3700 points of magic attack, 15% attack bonus, cost 2500 mana
+ホーリーライトウェーブレベル7；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を3700ポイント増加させ、攻撃ボーナスを15%増加させます。マナを2500消費します。
+
+Level 8 Holy Light Wave; {s}Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase 5280 points of magic attack, 15% attack bonus, cost 4000 mana
+ホーリーライトウェーブレベル8；{sub2{$1}sub2}20ヤード以内および180度の範囲で6体のターゲットを攻撃します。4.5秒CD。魔法攻撃を5280ポイント増加させ、攻撃ボーナスを15%増加させます。マナを4000消費します。
+
+Level 1 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1250 points of magic attack, 35% attack bonus, cost 700 mana
+ディバインノヴァレベル1；{sub2{$1}sub2}強力な広範囲スキル、12ヤードの範囲内のすべての敵ターゲットに神聖ダメージを与える聖なる光の爆発を発生させます。クリティカルヒットの場合、ディバインファイアのクールダウンをリセットします。12秒CD。魔法攻撃を1250ポイント増加させ、攻撃ボーナスを35%増加させます。マナを700消費します。
+
+Level 2 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 1500 points of magic attack, 35% attack bonus, cost 1200 mana
+ディバインノヴァレベル2；{sub2{$1}sub2}強力な広範囲スキル、12ヤードの範囲内のすべての敵ターゲットに神聖ダメージを与える聖なる光の爆発を発生させます。クリティカルヒットの場合、ディバインファイアのクールダウンをリセットします。12秒CD。魔法攻撃を1500ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1200消費します。
+
+Level 3 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 2000 points of magic attack, 35% attack bonus, cost 1800 mana
+ディバインノヴァレベル3；{sub2{$1}sub2}強力な広範囲スキル、12ヤードの範囲内のすべての敵ターゲットに神聖ダメージを与える聖なる光の爆発を発生させます。クリティカルヒットの場合、ディバインファイアのクールダウンをリセットします。12秒CD。魔法攻撃を2000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1800消費します。
+
+Level 4 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 3000 points of magic attack, 35% attack bonus, cost 2800 mana
+ディバインノヴァレベル4；{sub2{$1}sub2}強力な広範囲スキル、12ヤードの範囲内のすべての敵ターゲットに神聖ダメージを与える聖なる光の爆発を発生させます。クリティカルヒットの場合、ディバインファイアのクールダウンをリセットします。12秒CD。魔法攻撃を3000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを2800消費します。
+
+Level 5 Divine Nova; {s}Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of Divine Fire. 12 seconds CD. Increase 4200 points of magic attack, 35% attack bonus, cost 4800 mana
+ディバインノヴァレベル5；{sub2{$1}sub2}強力な広範囲スキル、12ヤードの範囲内のすべての敵ターゲットに神聖ダメージを与える聖なる光の爆発を発生させます。クリティカルヒットの場合、ディバインファイアのクールダウンをリセットします。12秒CD。魔法攻撃を4200ポイント増加させ、攻撃ボーナスを35%増加させます。マナを4800消費します。
+
+Concentrated Will; {s}Reduce 20% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.
+集中意志；{sub2{$1}sub2}15秒間、被ダメージを20%減少させます。40秒CD、グローバルCDの影響を受けません。マナを1%消費します。
+
+Level 1 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 3600 points of magic attack, 35% attack bonus, cost 300 mana
+ディバインファイアレベル1；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を3600ポイント増加させ、攻撃ボーナスを35%増加させます。マナを300消費します。
+
+Level 2 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 5000 points of magic attack, 35% attack bonus, cost 450 mana
+ディバインファイアレベル2；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を5000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを450消費します。
+
+Level 3 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 7200 points of magic attack, 35% attack bonus, cost 700 mana
+ディバインファイアレベル3；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を7200ポイント増加させ、攻撃ボーナスを35%増加させます。マナを700消費します。
+
+Level 4 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 10000 points of magic attack, 35% attack bonus, cost 1000 mana
+ディバインファイアレベル4；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を10000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1000消費します。
+
+Level 5 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 16000 points of magic attack, 35% attack bonus, cost 1800 mana
+ディバインファイアレベル5；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を16000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1800消費します。
+
+Level 6 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 30000 points of magic attack, 35% attack bonus, cost 3500 mana
+ディバインファイアレベル6；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を30000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを3500消費します。
+
+Level 7 Divine Fire; {s}Continuous single-target attack, 20 yards of effective range, 3 seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, 30 seconds CD. Increase 50000 points of magic attack, 35% attack bonus, cost 6000 mana
+ディバインファイアレベル7；{sub2{$1}sub2}継続的な単体攻撃、20ヤードの有効範囲、3秒のチャネリング時間で、神聖な炎で対象を包み、10秒間神聖ダメージと継続ダメージを与えます。30秒CD。魔法攻撃を50000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを6000消費します。
+
+Heal; {s}Base single-target healing skill, cost 2% mana.
+ヒール；{sub2{$1}sub2}基本の単体回復スキル、マナを2%消費します。
+
+Recover; {s}Continuous single-target healing skill, lasts for 15 seconds. 1.5x healing effect of Heal. Cost 3% mana.
+リカバー；{sub2{$1}sub2}継続的な単体回復スキル、15秒間持続します。ヒールの1.5倍の回復効果。マナを3%消費します。
+
+Healing Prayers; {s}Powerful single-target healing skill, 2 seconds of channeling time, 4x healing effect of Heal. Cost 6% mana.
+ヒーリングプレイヤー；{sub2{$1}sub2}強力な単体回復スキル、2秒のチャネリング時間で、ヒールの4倍の回復効果。マナを6%消費します。
+
+Light of Miracles; {s}Wide-range healing skill, heal up to 6 allies within 10 yards. Cost 4% mana.
+奇跡の光；{sub2{$1}sub2}広範囲の回復スキル、10ヤード以内の最大6人の味方を回復します。マナを4%消費します。
+
+Divine Anthem; {s}Powerful wide-range healing skill, heal up to 5 wounded allies within 15 yards, 3 seconds of channeling time, 6x healing effect of Light of Miracles, increase 20% of all healing effects on allies for 8 seconds. Cost 16% mana.
+神聖の賛歌；{sub2{$1}sub2}強力な広範囲の回復スキル、15ヤード以内の最大5人の負傷した味方を回復します。3秒のチャネリング時間で、奇跡の光の6倍の回復効果を持ち、8秒間味方への全ての回復効果を20%増加させます。マナを16%消費します。
+
+Resurrection; {s}Resurrect 1 target within 5 yards, the resurrected target will have 35% HP and MP. 10 minutes CD, cost 60% mana.
+復活；{sub2{$1}sub2}5ヤード以内の1体のターゲットを復活させます。復活したターゲットは35%のHPとMPを持ちます。10分CD、マナを60%消費します。
+
+Holy Light; {s}15 yards of effective range, remove all magic debuffs and curse debuffs from 1 ally, or remove 1 magic buff from 1 enemy. 6 seconds CD, cost 1% mana.
+聖なる光；{sub2{$1}sub2}15ヤードの有効範囲、1体の味方から全ての魔法デバフと呪いデバフを除去するか、1体の敵から1つの魔法バフを除去します。6秒CD、マナを1%消費します。
+
+Group Dispel; {s}Dispel all magic within a 10-yard radius, remove all magic debuffs and curse debuffs from up to 5 allies, and remove 1 magic buff from 5 enemies. 15 seconds CD, cost 10% mana.
+グループディスペル；{sub2{$1}sub2}10ヤードの半径内のすべての魔法を解除し、最大5体の味方から全ての魔法デバフと呪いデバフを除去し、5体の敵から1つの魔法バフを除去します。15秒CD、マナを10%消費します。
+
+Spiral Blast; {s}Push the target 18 yards away, and decrease its movement speed by 30% for 8 seconds. 15 seconds CD, cost 1% mana.
+スパイラルブラスト；{sub2{$1}sub2}対象を18ヤード押し出し、8秒間移動速度を30%減少させます。15秒CD、マナを1%消費します。
+
+Divine Protection; {s}Remove and gain immunity to Restrained and Transfixed effects for 10 seconds. 30 seconds CD, not affected by global CD, cost 1% mana.
+神聖の保護；{sub2{$1}sub2}10秒間、拘束と固縛の効果を解除し、免疫を得ます。30秒CD、グローバルCDの影響を受けません。マナを1%消費します。
+
+Soul of Redemption; {s}The Priest transforms into a Soul of Redemption for 10 seconds. The Soul of Redemption cannot move, attack, be attacked, or be targeted by spells and effects. In this form, the Priest can cast healing skills without costing mana. 60 seconds CD, cost 1% mana.
+贖いの魂；{sub2{$1}sub2}プリーストは10秒間贖いの魂に変身します。贖いの魂は移動、攻撃、攻撃される、または呪文や効果のターゲットになることができません。この形態では、プリーストはマナを消費せずに回復スキルを発動できます。60秒CD、マナを1%消費します。
+
+Requiem; {s}Bless all allies with divine energy within 20 yards and reduce their physical damage taken by 20% for 2 minutes, cost 1% mana.
+レクイエム；{sub2{$1}sub2}20ヤード以内の全ての味方を神聖なエネルギーで祝福し、2分間彼らの受ける物理ダメージを20%減少させます。マナを1%消費します。
+
+Level 1 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 800 points of magic attack, 35% attack bonus, cost 70 mana
+マインドウィップレベル1；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を800ポイント増加させ、攻撃ボーナスを35%増加させます。マナを70消費します。
+
+Level 2 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 1600 points of magic attack, 35% attack bonus, cost 140 mana
+マインドウィップレベル2；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を1600ポイント増加させ、攻撃ボーナスを35%増加させます。マナを140消費します。
+
+Level 3 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 2400 points of magic attack, 35% attack bonus, cost 200 mana
+マインドウィップレベル3；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を2400ポイント増加させ、攻撃ボーナスを35%増加させます。マナを200消費します。
+
+Level 4 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 4000 points of magic attack, 35% attack bonus, cost 350 mana
+マインドウィップレベル4；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を4000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを350消費します。
+
+Level 5 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 6000 points of magic attack, 35% attack bonus, cost 700 mana
+マインドウィップレベル5；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を6000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを700消費します。
+
+Level 6 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 8000 points of magic attack, 35% attack bonus, cost 1200 mana
+マインドウィップレベル6；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を8000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1200消費します。
+
+Level 7 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 10500 points of magic attack, 35% attack bonus, cost 2200 mana
+マインドウィップレベル7；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を10500ポイント増加させ、攻撃ボーナスを35%増加させます。マナを2200消費します。
+
+Level 8 Mind Whip; {s}Mental attack 1 enemy within 20 yards, deal continuous damage and decrease 30% dodge of the target for 15 seconds. Increase 18000 points of magic attack, 35% attack bonus, cost 4000 mana
+マインドウィップレベル8；{sub2{$1}sub2}20ヤード以内の1体の敵に精神攻撃を行い、15秒間持続ダメージを与え、対象の回避率を30%減少させます。魔法攻撃を18000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを4000消費します。
+
+Level 1 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 190 points of magic attack, 15% attack bonus, cost 20 mana
+シャドウアローレベル1；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を190ポイント増加させ、攻撃ボーナスを15%増加させます。マナを20消費します。
+
+Level 2 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 400 points of magic attack, 15% attack bonus, cost 40 mana
+シャドウアローレベル2；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を400ポイント増加させ、攻撃ボーナスを15%増加させます。マナを40消費します。
+
+Level 3 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 620 points of magic attack, 15% attack bonus, cost 60 mana
+シャドウアローレベル3；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を620ポイント増加させ、攻撃ボーナスを15%増加させます。マナを60消費します。
+
+Level 4 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana
+シャドウアローレベル4；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を1030ポイント増加させ、攻撃ボーナスを15%増加させます。マナを100消費します。
+
+Level 5 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana
+シャドウアローレベル5；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を1650ポイント増加させ、攻撃ボーナスを15%増加させます。マナを160消費します。
+
+Level 6 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana
+シャドウアローレベル6；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を1800ポイント増加させ、攻撃ボーナスを15%増加させます。マナを180消費します。
+
+Level 7 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana
+シャドウアローレベル7；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を2700ポイント増加させ、攻撃ボーナスを15%増加させます。マナを270消費します。
+
+Level 8 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana
+シャドウアローレベル8；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を4200ポイント増加させ、攻撃ボーナスを15%増加させます。マナを420消費します。
+
+Level 9 Shadow Arrow; {s}Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana
+シャドウアローレベル9；{sub2{$1}sub2}基本攻撃、暗黒の力でシャドウアローを形成し、20ヤード以内の1体の敵に発射します。魔法攻撃を6000ポイント増加させ、攻撃ボーナスを15%増加させます。マナを580消費します。
+
+Level 1 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 350 points of magic attack, 15% attack bonus, cost 180 mana  
+スケルトンエクスプロージョンレベル1；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を350ポイント増加させ、攻撃ボーナスを15%増加させます。マナを180消費します。
+
+Level 2 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 530 points of magic attack, 15% attack bonus, cost 300 mana  
+スケルトンエクスプロージョンレベル2；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を530ポイント増加させ、攻撃ボーナスを15%増加させます。マナを300消費します。
+
+Level 3 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 870 points of magic attack, 15% attack bonus, cost 540 mana  
+スケルトンエクスプロージョンレベル3；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を870ポイント増加させ、攻撃ボーナスを15%増加させます。マナを540消費します。
+
+Level 4 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 1400 points of magic attack, 15% attack bonus, cost 780 mana  
+スケルトンエクスプロージョンレベル4；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を1400ポイント増加させ、攻撃ボーナスを15%増加させます。マナを780消費します。
+
+Level 5 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 1500 points of magic attack, 15% attack bonus, cost 900 mana  
+スケルトンエクスプロージョンレベル5；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を1500ポイント増加させ、攻撃ボーナスを15%増加させます。マナを900消費します。
+
+Level 6 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 2250 points of magic attack, 15% attack bonus, cost 1600 mana  
+スケルトンエクスプロージョンレベル6；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を2250ポイント増加させ、攻撃ボーナスを15%増加させます。マナを1600消費します。
+
+Level 7 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 3250 points of magic attack, 15% attack bonus, cost 2400 mana  
+スケルトンエクスプロージョンレベル7；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を3250ポイント増加させ、攻撃ボーナスを15%増加させます。マナを2400消費します。
+
+Level 8 Skeleton Explosion; {s}Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD.  Increase 4100 points of magic attack, 15% attack bonus, cost 4000 mana  
+スケルトンエクスプロージョンレベル8；{sub2{$1}sub2}広範囲攻撃、10ヤード以内の1体の敵にスケルトンを投げて接触時に爆発を引き起こします。爆発は8ヤードの半径内の5つの追加ターゲットにダメージを与えます。クールダウン4.5秒。魔法攻撃を4100ポイント増加させ、攻撃ボーナスを15%増加させます。マナを4000消費します。
+
+Level 1 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1540 points of magic attack, 35% attack bonus, cost 1000 mana  
+デッドトキシンレベル1；{sub2{$1}sub2}強力な広範囲攻撃。デッドトキシンが地面に広がり、12ヤードの半径でダメージを与えます。クールダウン12秒。魔法攻撃を1540ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1000消費します。
+
+Level 2 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 1850 points of magic attack, 35% attack bonus, cost 1800 mana  
+デッドトキシンレベル2；{sub2{$1}sub2}強力な広範囲攻撃。デッドトキシンが地面に広がり、12ヤードの半径でダメージを与えます。クールダウン12秒。魔法攻撃を1850ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1800消費します。
+
+Level 3 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 2500 points of magic attack, 35% attack bonus, cost 2500 mana  
+デッドトキシンレベル3；{sub2{$1}sub2}強力な広範囲攻撃。デッドトキシンが地面に広がり、12ヤードの半径でダメージを与えます。クールダウン12秒。魔法攻撃を2500ポイント増加させ、攻撃ボーナスを35%増加させます。マナを2500消費します。
+
+Level 4 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 3800 points of magic attack, 35% attack bonus, cost 3500 mana  
+デッドトキシンレベル4；{sub2{$1}sub2}強力な広範囲攻撃。デッドトキシンが地面に広がり、12ヤードの半径でダメージを与えます。クールダウン12秒。魔法攻撃を3800ポイント増加させ、攻撃ボーナスを35%増加させます。マナを3500消費します。
+
+Level 5 Dead Toxin; {s}Powerful wide-range attack. Dead Toxin spreads out on the ground and deals damage in a 12-yard radius, 12 seconds CD. Increase 5400 points of magic attack, 35% attack bonus, cost 5400 mana  
+デッドトキシンレベル5；{sub2{$1}sub2}強力な広範囲攻撃。デッドトキシンが地面に広がり、12ヤードの半径でダメージを与えます。クールダウン12秒。魔法攻撃を5400ポイント増加させ、攻撃ボーナスを35%増加させます。マナを5400消費します。
+
+Level 1 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 1000 points of magic attack, 35% attack bonus, cost 100 mana  
+コロージョンスペルレベル1；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を1000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを100消費します。
+
+Level 2 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 2000 points of magic attack, 35% attack bonus, cost 200 mana  
+コロージョンスペルレベル2；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を2000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを200消費します。
+
+Level 3 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 3200 points of magic attack, 35% attack bonus, cost 400 mana  
+コロージョンスペルレベル3；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を3200ポイント増加させ、攻撃ボーナスを35%増加させます。マナを400消費します。
+
+Level 4 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 5000 points of magic attack, 35% attack bonus, cost 700 mana  
+コロージョンスペルレベル4；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を5000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを700消費します。
+
+Level 5 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 7000 points of magic attack, 35% attack bonus, cost 1100 mana  
+コロージョンスペルレベル5；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を7000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1100消費します。
+
+Level 6 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 10000 points of magic attack, 35% attack bonus, cost 1500 mana  
+コロージョンスペルレベル6；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を10000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを1500消費します。
+
+Level 7 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 14000 points of magic attack, 35% attack bonus, cost 2500 mana  
+コロージョンスペルレベル7；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を14000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを2500消費します。
+
+Level 8 Corrosion Spell; {s}Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by 10% for 15 seconds, 10 seconds CD. Toughness decrease can be stacked up to 5 times. Increase 25000 points of magic attack, 35% attack bonus, cost 4600 mana  
+コロージョンスペルレベル8；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象を腐食させ、ダメージを与え、15秒間、耐久性を10%減少させます。クールダウン10秒。耐久性の減少は最大5回までスタックできます。魔法攻撃を25000ポイント増加させ、攻撃ボーナスを35%増加させます。マナを4600消費します。
+
+Level 1 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 620 points of magic attack, 15% attack bonus, cost 60 mana  
+インセサントペインレベル1；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を620ポイント増加させ、攻撃ボーナスを15%増加させます。マナを60消費します。
+
+Level 2 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1030 points of magic attack, 15% attack bonus, cost 100 mana  
+インセサントペインレベル2；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を1030ポイント増加させ、攻撃ボーナスを15%増加させます。マナを100消費します。
+
+Level 3 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1650 points of magic attack, 15% attack bonus, cost 160 mana  
+インセサントペインレベル3；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を1650ポイント増加させ、攻撃ボーナスを15%増加させます。マナを160消費します。
+
+Level 4 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 1800 points of magic attack, 15% attack bonus, cost 180 mana  
+インセサントペインレベル4；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を1800ポイント増加させ、攻撃ボーナスを15%増加させます。マナを180消費します。
+
+Level 5 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 2700 points of magic attack, 15% attack bonus, cost 270 mana  
+インセサントペインレベル5；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を2700ポイント増加させ、攻撃ボーナスを15%増加させます。マナを270消費します。
+
+Level 6 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 4200 points of magic attack, 15% attack bonus, cost 420 mana  
+インセサントペインレベル6；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を4200ポイント増加させ、攻撃ボーナスを15%増加させます。マナを420消費します。
+
+Level 7 Incessant Pain; {s}Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. 20 seconds CD. Increase 6000 points of magic attack, 15% attack bonus, cost 580 mana  
+インセサントペインレベル7；{sub2{$1}sub2}連続単体ダメージ、有効範囲20ヤード。対象に8秒間連続ダメージを与えます。連続してキャストする必要はなく、同じターゲットに複数回キャストすると、より高いダメージが累積されます。ダメージは最大10回までスタック可能。クールダウン20秒。魔法攻撃を6000ポイント増加させ、攻撃ボーナスを15%増加させます。マナを580消費します。
+
+Healing Wave; {s}Base single-target healing skill, 20 yards of effective range, cost 2% mana.  
+ヒーリングウェーブ；{sub2{$1}sub2}基本単体回復スキル、有効範囲20ヤード、マナを2%消費します。
+
+Healing Surge; {s}Continuous single-target healing skill, 20 yards of effective range, 1.5 seconds of channeling time, continuous healing for 18 seconds. 6x healing effect of Healing Wave, 20 yards of effective range, cost 6% mana.  
+ヒーリングサージ；{sub2{$1}sub2}連続単体回復スキル、有効範囲20ヤード、チャネリング時間1.5秒、18秒間連続回復します。ヒーリングウェーブの回復効果の6倍、有効範囲20ヤード、マナを6%消費します。
+
+Healing Fountain Totem; {s}Summon a totem at your location for 15 seconds. The totem heals some HP for 1 wounded team or party member within 25 yards every 2 seconds. 1 minute CD. Cost 8% mana.  
+ヒーリングファウンテン・トーテム；{sub2{$1}sub2}15秒間、自分の位置にトーテムを召喚します。トーテムは25ヤード以内の傷ついたチームまたはパーティーメンバー1人のHPを2秒ごとに回復します。クールダウン1分。マナを8%消費します。
+
+Healing Chain; {s}2 seconds of channeling time, heal HP for 1 ally within 12 yards, then the healing effect jumps to the team or party member with the least HP every 2 seconds. The healing effect is reduced by 30% with each jump. A total of 4 targets can be healed. 12 yards of effective range, 8 yards of healing effect jump range, cost 5% mana.  
+ヒーリングチェイン；{sub2{$1}sub2}チャネリング時間2秒、12ヤード以内の味方1人のHPを回復し、その後2秒ごとにHPが最も少ないチームまたはパーティーメンバーに回復効果がジャンプします。ジャンプするごとに回復効果が30%減少します。合計4つのターゲットを回復できます。有効範囲12ヤード、回復効果ジャンプ範囲8ヤード、マナを5%消費します。
+
+Healing Tide Totem; {s}Summon a totem at your location for 10 seconds. The totem heals some HP for all team or party members within 20 yards every 2 seconds. 2 minutes CD, cost 16% mana.  
+ヒーリングタイド・トーテム；{sub2{$1}sub2}10秒間、自分の位置にトーテムを召喚します。トーテムは20ヤード以内の全てのチームまたはパーティーメンバーのHPを2秒ごとに回復します。クールダウン2分、マナを16%消費します。
+
+Soul Returnal; {s}Resurrect 1 target within 5 yards, the resurrected target will have 60% HP and 15% MP. 10 minutes CD, cost 60% mana.  
+ソウルリターナル；{sub2{$1}sub2}5ヤード以内のターゲット1体を復活させます。復活したターゲットはHPが60%、MPが15%の状態で復活します。クールダウン10分、マナを60%消費します。
+
+Soul Purify; {s}15 yards of effective range, remove all magic debuffs and curse debuffs from 1 ally, or remove 1 buff from 1 enemy, cost 1% mana.  
+ソウルピュリファイ；{sub2{$1}sub2}有効範囲15ヤード、味方1人からすべての魔法デバフと呪いデバフを取り除くか、敵1人からバフを1つ取り除きます。マナを1%消費します。
+
+Summon Spirit; {s}Summon a spirit to protect you, reduce 30% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.  
+召喚スピリット；{sub2{$1}sub2}あなたを守るためにスピリットを召喚し、15秒間、受けるすべてのダメージを30%軽減します。クールダウン40秒、グローバルクールダウンの影響を受けません。マナを1%消費します。
+
+Undead Grip; {s}Summon hands of the undead from underground to decrease 50% movement speed and 20% attack speed of the enemy for 8 seconds, 30 seconds CD, cost 1% mana.  
+アンデッドグリップ；{sub2{$1}sub2}地面からアンデッドの手を召喚し、8秒間、敵の移動速度を50%、攻撃速度を20%減少させます。クールダウン30秒、マナを1%消費します。
+
+Break the Chain; {s}Remove and gain immunity to Knock-Outed and Fire-Trapped effects for 10 seconds. 30 seconds CD, not affected by global CD, cost 1% mana.  
+ブレイクザチェイン；{sub2{$1}sub2}10秒間、ノックアウトとファイアトラップ効果を取り除き、免疫を得ます。クールダウン30秒、グローバルクールダウンの影響を受けません。マナを1%消費します。
+
+Undying Resolve; {s}Harden your skin, reduce 40% of all damage taken, as well as remove and gain immunity to Silenced effect for 8 seconds, 30 seconds CD, cost 1% mana.  
+不死の決意；{sub2{$1}sub2}肌を硬化させ、受けるすべてのダメージを40%軽減し、8秒間、サイレンス効果を取り除き、免疫を得ます。クールダウン30秒、マナを1%消費します。
+
+Spiritual Totem; {s}Summon a totem at your location for 30 seconds. The totem increases 100% magic accuracy on all allies within 20 yards for 2.5 seconds every 2 seconds. 2 minutes CD, cost 2% mana.  
+スピリチュアルトーテム；{sub2{$1}sub2}30秒間、自分の位置にトーテムを召喚します。トーテムは20ヤード以内のすべての味方の魔法命中率を2秒ごとに2.5秒間100%増加させます。クールダウン2分、マナを2%消費します。
+
+Undead Ensnare; {s}Summon undeads to ensnare all enemies within 15 yards and reduce 50% critical hit resist of the targets for 30 seconds, 2 minutes CD, cost 2% mana.  
+アンデッドスネア；{sub2{$1}sub2}アンデッドを召喚して15ヤード以内のすべての敵を捕らえ、ターゲットのクリティカルヒット耐性を30秒間50%減少させます。クールダウン2分、マナを2%消費します。
+

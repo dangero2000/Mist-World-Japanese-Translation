@@ -1,0 +1,584 @@
+no mutation
+変異なし
+
+primary mutation
+初級変異
+
+intermediate mutation
+中級変異
+
+advanced mutation
+上級変異
+
+super mutation
+超変異
+
+perfect mutation
+完全変異
+
+cautious
+慎重
+
+loyal
+忠実
+
+smart
+賢い
+
+courageous
+勇敢
+
+{s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}と{sub2{$13}sub2}，才能スキル：$14，資質$15，成長率$16，性格：{sub2{$17}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}と{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}と{sub2{$10}sub2}，才能スキル：$11，資質$12，成長率$13，性格：{sub2{$14}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}，才能スキル：$12，資質$13，成長率$14，性格：{sub2{$15}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1カエル$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}，才能スキル：$10，資質$11，成長率$12，性格：{sub2{$13}sub2}，歌が好きなカエルで、空腹になると歌う。
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}と{sub2{$13}sub2}，才能スキル：$14，資質$15，成長率$16，性格：{sub2{$17}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}と{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}と{sub2{$10}sub2}，才能スキル：$11，資質$12，成長率$13，性格：{sub2{$14}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}，才能スキル：$12，資質$13，成長率$14，性格：{sub2{$15}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1カブトムシ$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}，才能スキル：$10，資質$11，成長率$12，性格：{sub2{$13}sub2}，殻は光沢があり非常に硬そうです。背中には2対の半透明の翼があり、前肢は鋭いナイフのようで、強力な攻撃力を持っています。
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}と{sub2{$13}sub2}，才能スキル：$14，資質$15，成長率$16，性格：{sub2{$17}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}と{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}と{sub2{$10}sub2}，才能スキル：$11，資質$12，成長率$13，性格：{sub2{$14}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}，才能スキル：$12，資質$13，成長率$14，性格：{sub2{$15}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1黄金の鶏$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}，才能スキル：$10，資質$11，成長率$12，性格：{sub2{$13}sub2}，その毛は黄金色で、小さな頭を高く掲げています。何を考えているのかわからない。
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1アヒル$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}と{sub2{$13}sub2}，才能スキル：$14，資質$15，成長率$16，性格：{sub2{$17}sub2}，危険に直面しても立ち上がる小さな愚か者で、非常に可愛らしい。
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1アヒル$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}と{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，危険に直面しても立ち上がる小さな愚か者で、非常に可愛らしい。
+
+{s}Duck{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1アヒル$2，レベル$3，{sub2{$4}sub2}，HP$5/$6，MP$7/$8，スキル{sub2{$9}sub2}と{sub2{$10}sub2}，才能スキル：$11，資質$12，成長率$13，性格：{sub2{$14}sub2}，危険に直面しても立ち上がる小さな愚か者で、非常に可愛らしい。
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1アヒル$2，レベル$3，アップグレードには$4経験が必要，{sub2{$5}sub2}，突破指数$6，友好度$7，HP$8/$9，MP$10/$11，スキル{sub2{$12}sub2}，才能スキル：$13，資質$14，成長率$15，性格：{sub2{$16}sub2}，危険に直面しても立ち上がる小さな愚か者で、非常に可愛らしい。
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1アヒル$2，レベル$3，{sub2{$4}sub2}，突破指数$5，友好度$6，HP$7/$8，MP$9/$10，スキル{sub2{$11}sub2}，才能スキル：$12，資質$13，成長率$14，性格：{sub2{$15}sub2}，危険に直面しても立ち上がる小さな愚か者で、非常に可愛らしい。
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、愚かで可愛いロバ
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、愚かで可愛いロバ
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、愚かで可愛いロバ
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、愚かで可愛いロバ
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、才能スキル：$12、資質$13、成長率$14、性格：{sub2{$15}sub2}、愚かで可愛いロバ
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1ロバ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、才能スキル：$10、資質$11、成長率$12、性格：{sub2{$13}sub2}、愚かで可愛いロバ
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、真っ白なヤギ
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、真っ白なヤギ
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、真っ白なヤギ
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、真っ白なヤギ
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、才能スキル：$12、資質$13、成長率$14、性格：{sub2{$15}sub2}、真っ白なヤギ
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1ヤギ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、才能スキル：$10、資質$11、成長率$12、性格：{sub2{$13}sub2}、真っ白なヤギ
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、背の高い馬
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、背の高い馬
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、背の高い馬
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、背の高い馬
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、才能スキル：$12、資質$13、成長率$14、性格：{sub2{$15}sub2}、背の高い馬
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1馬$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、才能スキル：$10、資質$11、成長率$12、性格：{sub2{$13}sub2}、背の高い馬
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、頑丈な牛
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、頑丈な牛
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、頑丈な牛
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、頑丈な牛
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、才能スキル：$12、資質$13、成長率$14、性格：{sub2{$15}sub2}、頑丈な牛
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1牛$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、才能スキル：$10、資質$11、成長率$12、性格：{sub2{$13}sub2}、頑丈な牛
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、元気な短毛猫
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、元気な短毛猫
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、元気な短毛猫
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、元気な短毛猫
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、才能スキル：$12、資質$13、成長率$14、性格：{sub2{$15}sub2}、元気な短毛猫
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1短毛猫$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、才能スキル：$10、資質$11、成長率$12、性格：{sub2{$13}sub2}、元気な短毛猫
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1猟犬$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、才能スキル：$14、資質$15、成長率$16、性格：{sub2{$17}sub2}、忠実な猟犬
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1猟犬$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、才能スキル：$13、資質$14、成長率$15、性格：{sub2{$16}sub2}、忠実な猟犬
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1猟犬$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、才能スキル：$11、資質$12、成長率$13、性格：{sub2{$14}sub2}、忠実な猟犬
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1ハウンド$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、忠実なハウンド
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1ハウンド$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、忠実なハウンド
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1ハウンド$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、忠実なハウンド
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个，资质$15，成长率$16，性格：{sub2{$17}sub2}、かわいいカーリーキャット
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、かわいいカーリーキャット
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个，资质$12，成长率$13，性格：{sub2{$14}sub2}、かわいいカーリーキャット
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、かわいいカーリーキャット
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、かわいいカーリーキャット
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1カーリーキャット$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、かわいいカーリーキャット
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个，资质$15，成长率$16，性格：{sub2{$17}sub2}、勇敢なコリー
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、勇敢なコリー
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个，资质$12，成长率$13，性格：{sub2{$14}sub2}、勇敢なコリー
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、勇敢なコリー
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、勇敢なコリー
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1シェパードドッグ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、勇敢なコリー
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个，资质$15，成长率$16，性格：{sub2{$17}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个，资质$12，成长率$13，性格：{sub2{$14}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1オウム$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、活発なオウムはナッツを食べるのが好きで、ナッツを武器として使って敵を攻撃することもあります
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个，资质$15，成长率$16，性格：{sub2{$17}sub2}、従順でかわいいトカゲ
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、従順でかわいいトカゲ
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个，资质$12，成长率$13，性格：{sub2{$14}sub2}、従順でかわいいトカゲ
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、従順でかわいいトカゲ
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、従順でかわいいトカゲ
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1リザード$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、従順でかわいいトカゲ
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个，资质$15，成长率$16，性格：{sub2{$17}sub2}、活発で非常に賢い。
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、活発で非常に賢い。
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个，资质$12，成长率$13，性格：{sub2{$14}sub2}、活発で非常に賢い。
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个，资质$14，成长率$15，性格：{sub2{$16}sub2}、活発で非常に賢い。
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个，资质$13，成长率$14，性格：{sub2{$15}sub2}、活発で非常に賢い。
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1モンキー$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个，资质$11，成长率$12，性格：{sub2{$13}sub2}、活発で非常に賢い。
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个、资质$12、成長率$13、性格：{sub2{$14}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个、资质$13、成長率$14、性格：{sub2{$15}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1ワイルドイーグル$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个、资质$11、成長率$12、性格：{sub2{$13}sub2}、華麗な羽を持つ誇り高き風の精霊。
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个、资质$12、成長率$13、性格：{sub2{$14}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个、资质$13、成長率$14、性格：{sub2{$15}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1カバ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个、资质$11、成長率$12、性格：{sub2{$13}sub2}、巨大なサイズの穏やかなカバ。怒ると、大きな口でお互いに教訓を与えます。
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个、资质$12、成長率$13、性格：{sub2{$14}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个、资质$13、成長率$14、性格：{sub2{$15}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1イノシシ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个、资质$11、成長率$12、性格：{sub2{$13}sub2}、威厳のあるイノシシ、特技は長い牙を使って突くことです。
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个、资质$12、成長率$13、性格：{sub2{$14}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个、资质$13、成長率$14、性格：{sub2{$15}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1ゾウ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个、资质$11、成長率$12、性格：{sub2{$13}sub2}、最大の陸上哺乳類で、非常に賢く、鼻を使って敵を攻撃したり自分を守ったりするのが得意です。
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}と{sub2{$10}sub2}、天赋技能：$11个、资质$12、成長率$13、性格：{sub2{$14}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}、天赋技能：$12个、资质$13、成長率$14、性格：{sub2{$15}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1ヒグマ$2、レベル$3、{sub2{$4}sub2}、血量$5/$6、魔力$7/$8、技能{sub2{$9}sub2}、天赋技能：$10个、资质$11、成長率$12、性格：{sub2{$13}sub2}、勇敢なヒグマ、平手打ちが最強の武器です。
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1ユキオオカミ$2、レベル$3、アップグレードには$4の経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、血量$8/$9、魔力$10/$11、技能{sub2{$12}sub2}と{sub2{$13}sub2}、天赋技能：$14个、资质$15、成長率$16、性格：{sub2{$17}sub2}、極地に生息する先住生物、冷たい表情、非常に警戒心が強い
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1ユキオオカミ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、血量$7/$8、魔力$9/$10、技能{sub2{$11}sub2}と{sub2{$12}sub2}、天赋技能：$13个、资质$14、成長率$15、性格：{sub2{$16}sub2}、極地に生息する先住生物、冷たい表情、非常に警戒心が強い
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1雪狼$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、極地に生息する先住生物で、冷酷な表情を持ち、非常に警戒心が強い。
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1雪狼$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、極地に生息する先住生物で、冷酷な表情を持ち、非常に警戒心が強い。
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1雪狼$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、極地に生息する先住生物で、冷酷な表情を持ち、非常に警戒心が強い。
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1雪狼$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、極地に生息する先住生物で、冷酷な表情を持ち、非常に警戒心が強い。
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、草原の威厳ある王。
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、草原の威厳ある王。
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、草原の威厳ある王。
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、草原の威厳ある王。
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、草原の威厳ある王。
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1ライオン$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、草原の威厳ある王。
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、自然界の迅速な殺手。
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、自然界の迅速な殺手。
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、自然界の迅速な殺手。
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、自然界の迅速な殺手。
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、自然界の迅速な殺手。
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1チーター$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、自然界の迅速な殺手。
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1虎$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、獰猛で粘り強く、脅威に直面しても躊躇なく飛びかかる。
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1ピクシー$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、とても行儀が良く、少し臆病で非常に美しく、背中に2対の天使の翼を持っている。
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1スプライト$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、小柄で可愛く、元気で微笑んでいる。
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1ゴブリン$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、緑色の肌を持つ痩せた小さなもの、計算が得意。
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes.
+$1スライム$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、半透明の青い体の前には大きな目が輝いている。
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、明るい青い毛皮に濃い青の縞があり、氷の属性のために比較的静かですが、敵と遭遇すると非常に激しい。
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、明るい青い毛皮に濃い青の縞があり、氷の属性のために比較的静かですが、敵と遭遇すると非常に激しい。
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、薄い青い毛皮に濃い青の縞があり、氷の属性のため比較的静かだが、敵と遭遇すると非常に凶暴。
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、薄い青い毛皮に濃い青の縞があり、氷の属性のため比較的静かだが、敵と遭遇すると非常に凶暴。
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、薄い青い毛皮に濃い青の縞があり、氷の属性のため比較的静かだが、敵と遭遇すると非常に凶暴。
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1アイスタイガー$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、薄い青い毛皮に濃い青の縞があり、氷の属性のため比較的静かだが、敵と遭遇すると非常に凶暴。
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1ナイトキャット$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、丸い顔と頭の上に二つの猫の耳を持つ珍しいエルフ。
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}と{sub2{$13}sub2}、天賦スキル：$14個、資質$15、成長率$16、性格：{sub2{$17}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}と{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}と{sub2{$10}sub2}、天賦スキル：$11個、資質$12、成長率$13、性格：{sub2{$14}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、アップグレードには$4経験が必要、{sub2{$5}sub2}、突破指数$6、友好度$7、HP$8/$9、MP$10/$11、スキル{sub2{$12}sub2}、天賦スキル：$13個、資質$14、成長率$15、性格：{sub2{$16}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、{sub2{$4}sub2}、突破指数$5、友好度$6、HP$7/$8、MP$9/$10、スキル{sub2{$11}sub2}、天賦スキル：$12個、資質$13、成長率$14、性格：{sub2{$15}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1ケルブ$2、レベル$3、{sub2{$4}sub2}、HP$5/$6、MP$7/$8、スキル{sub2{$9}sub2}、天賦スキル：$10個、資質$11、成長率$12、性格：{sub2{$13}sub2}、頭には金色の光輪があり、目は澄んでいて、ピンク色の柔らかい顔には笑顔が浮かんでいて、体の後ろには二対の発光する翼がある。

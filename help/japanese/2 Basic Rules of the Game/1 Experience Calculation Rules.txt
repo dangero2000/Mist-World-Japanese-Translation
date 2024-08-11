@@ -1,0 +1,14 @@
+//Experience Gaining¡ªSolo
+1. When fighting a monster of the same level, you will gain standard experience.
+2. When fighting a monster Level 1-4 higher, you will gain 104%, 108%, 112%, 116% of standard experience respectively.
+3. When fighting a monster Level 5 higher and above, you will gain 120% of standard experience.
+4. When fighting a monster of lower level, you will gain 4% less standard experience for each lower level.
+5. When fighting a monster Level 25 lower and below, you will gain no experience.
+//Experience Gaining¡ªTeam
+1. When players of similar levels team up to fight monsters, they will enjoy an experience bonus. There is a 10% experience bonus for every additional player in the team.
+For example, there is a Level 30 monster that is worth 100 experience:
+If it is slain by a Level 30 player, the player will gain 100 experience;
+If it is slain by two Level 30 players, there is 110 experience in total, and each of the players will gain 55 experience;
+If it is slain by three Level 30 players, there is 120 experience in total, and each of the players will gain 40 experience; and so on.
+2. When players with large level gaps team up to fight monsters, the total experience gained will be less, and it will be tilted towards the higher level players. The specifics will not be detailed here, players can find out in the game.
+3. Players who can gain experience: All the team members within 40 yards of the slain monster.

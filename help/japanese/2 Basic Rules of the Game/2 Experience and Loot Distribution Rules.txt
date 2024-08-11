@@ -1,0 +1,8 @@
+1. When no one tries to kill-steal, the player who dealt the killing bow to the monster will receive the experience and loot;
+2. When there are multiple players trying to kill-steal, the player with the highest Threat in the monster's hostile list will receive the experience and loot;
+3. If a team of players defeated the monster, the experience and loot will be distributed to all team members within 40 yards of the monster. In which, loot will be randomly distributed, and the experience will be distributed according to the Experience Calculation Rules.
+4. As for loot, players need to fight monsters at least level 9 lower than themselves on the public map to have 100% loot drop rate. For example, if the player is Level 40, he needs to slay monsters that are Level 31 and above to ensure he gets loot.
+5. On the public map, if the monster is level 10-19 lower than the player, the loot drop rate will become 50%. For example, if the player is Level 40, when he slays monsters that are Level 21-30, he will only have a 50% chance to receive loot;
+6. On the public map, if the monster is level 20-29 lower than the player, the loot drop rate will become 25%. For example, if the player is Level 40, when he slays monsters that are Level 11-20, he will only have a 25% chance to receive loot;
+7. On the public map, if the monster is level 30 and lower than the player, it will not drop any loot when slain.
+8. Most of the monsters on dungeon maps follow the same rules, and some may have different rules. Players are encouraged to explore on their own.

@@ -1,0 +1,9 @@
+Hit Chance: affects the chance of hitting the target when casting skills. Your hit chance interacts with the target's dodge.
+Dodge: Affects your chances of dodging when being attacked. Your dodge interacts with the attacker's hit chance.
+Defense Break Chance: Affects the chance of breaking the target's defense when casting skills. Your defense break chance interacts with the target's toughness.
+Defense Break Damage: Affects the amount of bonus damage when your attack inflicts defense break.
+Toughness: Affects the chance of suffering defense break when being attacked. Your toughness interacts with the attacker's defense break chance.
+Critical Hit: Affects the chance of causing amplified damage when casting skills. Your Critical Hit interacts with the target's critical hit resist.
+Critical Damage: Affects the amount of amplified damage when your attack inflicts critical hit.
+Critical Hit Resist: Affects the chance of suffering critical hit when being attacked. Your critical hit resist interacts with the attacker's Critical Hit."
+Movement Speed: Affects the amount of additional movement speed added to your basic movement speed.

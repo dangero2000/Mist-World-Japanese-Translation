@@ -1,0 +1,16 @@
+FAQ: What are Profession Skills?
+A: Profession Skills are a type of skills that provide support in the character's daily activities. There are three main categories.
+The first is Corpse Harvesting skills, including Draw Blood, Skinning, Cut Flesh, which can be used on monster corpses to obtain its blood, pelt and jerky respectively. These items can be used to craft medicines and food. You can only learn one Corpse Harvesting skill.
+Blood can be used to craft Red Potions that replenish HP; Pelts can be used to craft Blue Potions that replenish SP/MP; Jerky can be used to craft foods that slowly restore HP over a long period of time.
+Learning Corpse Harvesting skills will save you a lot of money for future supplies.
+The second is Production & Collection skills, including Mining, Fishing and Collect Herbs. These skills can only be used in designated locations, such as Mining Area, Lake and Herbal Garden. Similarly, you can only learn one Production & Collection skill. Production & Collection is an important source of Arnebia.
+The third is the unique Profession Skills of different professions. Including the Husband and Wife's Snuggle, and the tutor and pupil's Blood Transfusion. These skills are automatically acquired when the character has a spouse or pupil.
+FAQ: How should I choose Profession Skills?
+A: Corpse Harvesting skills are chosen according to the daily consumption of your Class. Production & Collection skills are chosen according to the Gang Production Area of your Gang (you need to join a Gang first).
+For example, Melee Classes consume a lot of Red Potions, so Draw Blood is the best choice for them.
+Healing Classes can heal HP by themselves, but they consume a lot of MP, so Skinning is the best choice for them.
+As for Hunters, Mages, and Elves, they should chose the skill according to their usual gameplay.
+If you're a solo player, then you probably need more Red Potions. If you have a team, then you might only consume Blue Potion as you have healers.
+As your character level up, food will become more important as they will be more effective when you have higher HP. However, food can only be crafted, so learning to craft food and sell them will be an important source of gold coins.
+When you don't belong to any Gang, it is okay to learn any of the Production & Collection skills as they have the same benefits.
+But if you intend to join a Gang, then you should chose the Production & Collection skill according to the Gang's Gang Production Area.

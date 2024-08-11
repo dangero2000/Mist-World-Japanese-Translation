@@ -1,0 +1,5 @@
+Empty chest
+空の箱
+
+belongs to {s}
+{S} に属する

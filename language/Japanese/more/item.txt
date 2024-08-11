@@ -1,0 +1,3425 @@
+Gold Coin
+ゴールドコイン
+
+Arnebia
+アルネビア
+
+Resurrection Crystal
+復活のクリスタル
+
+Skill Protection Stone
+スキル保護石
+
+Hexagram Key
+ヘキサグラムキー
+
+Romance Stone
+ロマンスストーン
+
+Lovebird Stone
+ラブバードストーン
+
+Eternity Stone
+エタニティストーン
+
+Value Monthly Card
+バリューマンスリーカード
+
+{d}x experience acceleration card
+$1倍経験加速カード
+
+Channel Card
+チャンネルカード
+
+Channel group rename card
+チャンネルグループ改名カード
+
+Yin-Yang Water
+陰陽水
+
+Blessed Pet Reset and Transfer Card
+祝福されたペットリセット転送カード
+
+Player Rename Card
+プレイヤー改名カード
+
+Pet rename card
+ペット改名カード
+
+Gang Rename Card
+ギャング改名カード
+
+Gang Kill Order Token
+ギャングキルオーダートークン
+
+Gang Token
+ギャングトークン
+
+Gang Environment Card-Greenery
+ギャング環境カード-緑
+
+Gang Environment Card-Bridge and Stream
+ギャング環境カード-橋と小川
+
+Gang Environment Card-Falling Leaves
+ギャング環境カード-落ち葉
+
+Gang Environment Card-Snowy Fortress
+ギャング環境カード-雪の要塞
+
+Worthless Blood
+無価値な血液
+
+Lesser Blood
+低等血液
+
+medium Blood
+中等血液
+
+Higher blood
+上等血液
+
+Excellent Blood
+優秀な血液
+
+Premium Blood
+高級血液
+
+Worthless Jerky
+無価値なジャーキー
+
+Lesser Jerky
+低等ジャーキー
+
+Medium Jerky
+中等ジャーキー
+
+Higher Jerky
+上等ジャーキー
+
+Excellent Jerky
+優秀なジャーキー
+
+Premium Jerky
+高級ジャーキー
+
+Worthless Pelt
+無価値な毛皮
+
+Lesser Pelt
+低等毛皮
+
+Medium Pelt
+中等毛皮
+
+Higher Pelt
+上等毛皮
+
+Excellent Pelt
+優秀な毛皮
+
+Premium Pelt
+高級毛皮
+
+Snakeskin
+ヘビの皮
+
+Anaconda's Gall
+アナコンダの胆嚢
+
+Insulating glue
+絶縁接着剤
+
+Ironclad crystal
+アイアンクラッドクリスタル
+
+Glowstone
+グロウストーン
+
+Ebony Metal
+黒檀金属
+
+Suspicious Plating
+疑わしいメッキ
+
+Green cotton yarn
+緑の綿糸
+
+Red velvet
+赤いベルベット
+
+Crystal Wolf Teeth
+クリスタルウルフの歯
+
+Werewolf Soul Orb
+ウェアウルフの魂珠
+
+Crystal coral
+クリスタルサンゴ
+
+Sea Spirit Soul Orb
+海の精霊の魂珠
+
+Turquoise Metal
+ターコイズメタル
+
+White Bone Piece
+白骨の甲片
+
+Nether Fire
+冥火
+
+Lesser Demon Core
+低等悪魔のコア
+
+Glazed Diamond
+琉璃ダイヤモンド
+
+Crystal horn
+クリスタルホーン
+
+Minotaur Soul Orb
+ミノタウロスの魂珠
+
+Blood of Source
+源の血
+
+Blood Spirit Soul Orb
+血の精霊の魂珠
+
+Powerful magnet
+強力な磁石
+
+Liquid metal
+液体金属
+
+Silver white metal
+銀白色金属
+
+Gel essence
+ゲルエッセンス
+
+Horseshoe stone
+蹄鉄石
+
+Wind Chaser Soul Orb
+ウインドチェイサーの魂珠
+
+Medium Demon Essence
+中等悪魔のエッセンス
+
+Lake Blue Diamond
+湖ブルーダイヤモンド
+
+Crystal ivory
+クリスタル象牙
+
+Mammoth Soul Orb
+マンモスの魂珠
+
+Seed of Blaze
+烈焔の種
+
+Flame Spirit Soul Orb
+炎の精霊の魂珠
+
+Bright Yellow Metal
+明るい黄色の金属
+
+Dark matter crystal
+ダークマター結晶
+
+Flame Feather
+炎の羽
+
+Fire-capped tit soul orb
+火冠雀の魂珠
+
+Earth Center Diamond
+地心のダイヤモンド
+
+Eternal Star
+永遠の星
+
+Higher Demon Core
+高等悪魔のコア
+
+Dark Purple Gold
+暗紫色の金
+
+Spiral Golden Horn
+螺旋の金角
+
+Unicorn Soul Orb
+ユニコーンの魂珠
+
+Polar Ice
+極地の氷
+
+Glacier Giant Bear Soul Fragment
+氷河の巨熊の魂の断片
+
+Hexagon ice crystal
+六角氷晶
+
+Frost Spirit Soul Orb
+霜の精霊の魂珠
+
+Orb of Space-Time
+時空珠
+
+Dimension Key
+次元の鍵
+
+Bactrian camel's metatarsal
+双峰ラクダの中足骨
+
+Alpaca's Pelt
+アルパカの毛皮
+
+Vulture's Claw
+ハゲタカの爪
+
+Golden Eagle's Wings
+金色の鷲の翼
+
+Sand Snake's Fang
+砂蛇の牙
+
+Sand Snake's Scales
+砂蛇の鱗
+
+Death Worm's Horn
+死虫の角
+
+Death Worm's Venom Sac
+死虫の毒嚢
+
+Crested Penguin's Wings
+冠ペンギンの翼
+
+Ring Seal's Paws
+輪封印の足
+
+Sea Lion's Whiskers
+アシカのひげ
+
+Snow Leopard's Tail
+雪豹の尾
+
+White Bear's Gall
+白熊の胆嚢
+
+Ice Lizard's Tail
+氷トカゲの尾
+
+Ice Lizard's Tongue
+氷トカゲの舌
+
+Handmaiden's bracelet
+侍女のブレスレット
+
+Handmaiden's hairpin
+侍女のかんざし
+
+Queen's Ice Orb
+女王の氷珠
+
+Queen's Cold Jade
+女王の寒玉
+
+Gnome's pocket
+ノームのポケット
+
+Goblin's Bamboo Bow
+ゴブリンの竹弓
+
+Dwarf elf's staff
+ドワーフエルフの杖
+
+Dark elf's dagger
+ダークエルフの短剣
+
+Dwarf's Hammer
+ドワーフのハンマー
+
+Gnome Leader's Pocket
+ノームリーダーのポケット
+
+Goblin Leader's Bamboo Bow
+ゴブリンリーダーの竹弓
+
+Dwarf elf elder's staff
+ドワーフエルフ長老の杖
+
+Dark Elf Leader's Dagger
+ダークエルフリーダーの短剣
+
+Dwarf Leader's Hammer
+ドワーフリーダーのハンマー
+
+Elven King's Arrows
+エルフ王の矢
+
+Elven King's Phalanx
+エルフ王のファランクス
+
+Robot Fly's Antenna
+ロボットハエの触角
+
+Robot Bird's Wings
+ロボットバードの翼
+
+Robot Dog's Tail
+ロボットドッグの尾
+
+Robot Cat's Ears
+ロボットキャットの耳
+
+Robot Dinosaur's Tooth
+ロボット恐竜の歯
+
+Robot Guard's Arm
+ロボットガードの腕
+
+Robot Guard's Breastplate
+ロボットガードの胸当て
+
+Flame Researcher's Nozzle
+炎研究者のノズル
+
+Bomb Researcher's Detonator
+爆弾研究者の起爆装置
+
+The Doctor's Brain-Computer Chip
+博士の脳コンピューターチップ
+
+The Doctor's Motor Runner
+博士のモーターランナー
+
+Cannibal's Skull's
+食人族の頭蓋骨
+
+Cannibal Tooth
+食人族の歯
+
+Bloodthirsty Demon's Blood Core
+血に飢えた悪魔の血核
+
+Bloodthirsty Demon's Spirit Orb
+血に飢えた悪魔の魂珠
+
+Little Devil's Tears
+小悪魔の涙
+
+Little Devil's Wings
+小悪魔の翼
+
+Lightning Spirit's Electric Orb
+雷精の電珠
+
+Lightning Spirit's yin-yang Charm
+雷精の陰陽符
+
+Thunder Beast's Thunder Core
+雷獣の雷核
+
+Thunder Beast's Thunder Charm
+雷獣の雷符
+
+Two-Faced Demon's Man Face
+二面悪魔の男の顔
+
+Two-Faced Demon's Woman Face
+二面悪魔の女の顔
+
+Succubus's Eyeball
+サキュバスの眼球
+
+Succubus's Tongue
+サキュバスの舌
+
+Thunder Lord's Broken palm
+雷神の折れた掌
+
+Thunder Lord's Patella
+雷神の膝蓋骨
+
+Masked Knifeman's Machete
+仮面のナイフマンのマチェテ
+
+Masked Knifeman's Mask
+仮面のナイフマンの仮面
+
+Masked Thrower's Boomerang
+仮面の投手のブーメラン
+
+Masked Thrower's Mask
+仮面の投手の仮面
+
+Aqua Witch's Crystal Staff
+アクアウィッチの水晶の杖
+
+Aqua Witch's Dress
+アクアウィッチのドレス
+
+Fire Witch's Flame Staff
+ファイアウィッチの炎の杖
+
+Fire Witch's Skirt
+ファイアウィッチのスカート
+
+Temptress's Scepter
+誘惑者のセプター
+
+Temptress's Cape
+誘惑者のマント
+
+Nightmare's Soul
+悪夢の魂
+
+Nightmare's Gemstone
+悪夢の宝石
+
+Meteor Witch's Leather Vest
+流星魔女の革ベスト
+
+Meteor Witch's Leather Dress
+流星魔女の革ドレス
+
+Meteor Queen's Black Ribbon
+流星女王の黒いリボン
+
+Meteor Queen's Luminous Pearl
+流星女王の光る真珠
+
+Apostle's Ears
+使徒の耳
+
+Apostle's Nose
+使徒の鼻
+
+Harpy's Wings
+ハーピーの翼
+
+Harpy's Claws
+ハーピーの爪
+
+Hag's Tongue
+魔女の舌
+
+Hag's Eyeball
+魔女の眼球
+
+Black Witcher's Ribs
+ブラックウィッチャーの肋骨
+
+Black Witcher's Kidney
+ブラックウィッチャーの腎臓
+
+Death Knight's Leg Bone
+死の騎士の脚骨
+
+Death Knight's Liver
+死の騎士の肝臓
+
+Dark Messenger's Spine
+暗黒の使者の背骨
+
+Dark Messenger's Shoulder Bone
+暗黒の使者の肩骨
+
+Altar Guard's Heart
+祭壇の守護者の心臓
+
+Alter Guard's Head
+祭壇の守護者の頭
+
+Dark Priest's Magic Core
+ダークプリーストの魔法コア
+
+Dark Priest's Wand
+ダークプリーストの杖
+
+Greenleaf Fish
+グリーンリーフフィッシュ
+
+Bigmouth Fish
+ビッグマウスフィッシュ
+
+Red Shrimp
+赤エビ
+
+Crystal Fish
+クリスタルフィッシュ
+
+Scallop
+ホタテ
+
+Pink Fish
+ピンクフィッシュ
+
+Barracuda
+バラクーダ
+
+Rice Shrimp
+ライスエビ
+
+Ice Crab
+アイスクラブ
+
+Milkfish
+ミルクフィッシュ
+
+Bullfrog
+ウシガエル
+
+Blue Goldfish
+ブルーゴールドフィッシュ
+
+Long-age Turtle
+長寿亀
+
+Mitten Crab
+ミツガニ
+
+Flying Fish
+飛魚
+
+Lobster
+ロブスター
+
+Map Turtle
+地図亀
+
+Puffer Fish
+フグ
+
+Swallowtail Fish
+アゲハチョウフィッシュ
+
+Butterfly shell
+バタフライシェル
+
+Crystal shrimp
+クリスタルエビ
+
+Saw-Edged Blue Crab
+鋸歯状のブルークラブ
+
+Water Rabbit
+ウォーターラビット
+
+Rainbow Fish
+レインボーフィッシュ
+
+General Crab
+ジェネラルクラブ
+
+Long-snouted Alligator
+長吻ワニ
+
+Golden Dragonfish
+ゴールデンドラゴンフィッシュ
+
+Silver Dragonfish
+シルバードラゴンフィッシュ
+
+Big black shark
+大黒サメ
+
+Ghost Octopus
+幽霊タコ
+
+Wine Glass Jellyfish
+ワイングラスタコクラゲ
+
+Flame Starfish
+フレームヒトデ
+
+Yellow pearl
+黄真珠
+
+Green Pearl
+緑真珠
+
+Blue pearl
+青真珠
+
+Licorice
+リコリス
+
+Destruction Weeds
+破壊雑草
+
+Wild Chrysanthemum
+野生の菊
+
+Spring grass
+春草
+
+Acacia Bean
+アカシア豆
+
+Lantern Flower
+ランタンフラワー
+
+Dancing Grass
+踊る草
+
+Albizia Flower
+ネムノキの花
+
+Edelweiss
+エーデルワイス
+
+Vigna umbellata
+ナンバンサイカチ
+
+Snowflake Bean
+雪花豆
+
+Centenarian Orchid
+百年蘭
+
+Sunflower
+ヒマワリ
+
+Rose
+バラ
+
+Mimosa
+ミモザ
+
+Golden bean
+金豆
+
+Maltiflower
+マルチフラワー
+
+Honeysuckle
+スイカズラ
+
+Immy Flower
+イミーフラワー
+
+Prunella
+ウツボグサ
+
+Saffron
+サフラン
+
+Ghost Needle
+幽霊針
+
+Devil flower
+悪魔の花
+
+Fox charm flower
+狐魅花
+
+Trumpet Creeper
+ラッパカズラ
+
+Snake Vine
+スネークバイン
+
+Ice Flake Grass
+氷片草
+
+Flame Flower
+フレームフラワー
+
+Twin Flower
+ツインフラワー
+
+Soul Revival Grass
+魂の復活草
+
+Blood Vine
+ブラッドバイン
+
+Ice Nine-Leaf Lotus
+氷九葉蓮
+
+Sugar-loving Earthworm
+砂糖好きのミミズ
+
+Destiny Cicada
+運命セミ
+
+Music Bamboo Worm
+音楽竹虫
+
+Iron ore
+鉄鉱石
+
+Copper ore
+銅鉱石
+
+Silica ore
+シリカ鉱石
+
+Flint
+フリント
+
+Green Crystal ore
+グリーンクリスタル鉱石
+
+Primal Stone
+プライマルストーン
+
+Silver ore
+銀鉱石
+
+Flame ore
+炎鉱石
+
+Blue crystal ore
+青色クリスタル鉱石
+
+Ice ore
+氷鉱石
+
+Lanthanum ore
+ランタン鉱石
+
+Red Crystal ore
+赤色クリスタル鉱石
+
+Dark Green ore
+濃緑色鉱石
+
+Gold ore
+金鉱石
+
+Vajra Ore
+ヴァジュラ鉱石
+
+Thorium ore
+トリウム鉱石
+
+Black Crystal ore
+黒色クリスタル鉱石
+
+Black Iron ore
+黒鉄鉱石
+
+Mythril ore
+ミスリル鉱石
+
+Purple Crystal ore
+紫色クリスタル鉱石
+
+Violet Gold ore
+紫金鉱石
+
+Magic Iron ore
+魔法の鉄鉱石
+
+Fine Gold ore
+上質金鉱石
+
+Rainbow Crystal ore
+虹色クリスタル鉱石
+
+Blood ore
+血鉱石
+
+White Crystal ore
+白色クリスタル鉱石
+
+Fire Crystal
+炎のクリスタル
+
+Ambergris Crystal
+アンバーグリスクリスタル
+
+Elven Tear
+エルフの涙
+
+Seabed Cloud Iron
+海底雲の鉄
+
+Ice Stone
+アイスストーン
+
+Elemental Crystal
+元素クリスタル
+
+Primordial Iron
+原始の鉄
+
+Chaos Stone
+カオスストーン
+
+Heaven Jade
+天国の翡翠
+
+Compensation Chest
+補償チェスト
+
+Black Shipwreck Chest
+黒船のチェスト
+
+Green Shipwreck Chest
+緑船のチェスト
+
+Red Shipwreck Chest
+赤船のチェスト
+
+blue Shipwreck Chest
+青船のチェスト
+
+purple Shipwreck Chest
+紫船のチェスト
+
+Gang Tournament Chest
+ギャングトーナメントチェスト
+
+Black Herbal Chest
+黒のハーブチェスト
+
+Green Herbal Chest
+緑のハーブチェスト
+
+red Herbal Chest
+赤のハーブチェスト
+
+blue Herbal Chest
+青のハーブチェスト
+
+Purple Herbal Chest
+紫のハーブチェスト
+
+Contribution Chest
+寄付チェスト
+
+Black Earth God Chest
+黒の地神チェスト
+
+Green Earth God Chest
+緑の地神チェスト
+
+Red Earth God Chest
+赤の地神チェスト
+
+Blue Earth God Chest
+青の地神チェスト
+
+Purple Earth God Chest
+紫の地神チェスト
+
+Level 15 New Year Chest
+レベル15新年チェスト
+
+Level 3 Mystery Chest
+レベル3ミステリーチェスト
+
+Festive Silver-Silk Red Envelope
+祝祭シルクの赤封筒
+
+Festive Gold-Foil Red Envelope
+祝祭金箔の赤封筒
+
+Festive Diamond-Inlaid Red Envelope
+祝祭ダイヤモンドインレイ赤封筒
+
+Wedding Gift Package
+結婚式ギフトパッケージ
+
+Exquisite Wedding Gift Package
+精巧な結婚式ギフトパッケージ
+
+Deluxe Wedding Gift Package
+デラックス結婚式ギフトパッケージ
+
+Firecracker
+爆竹
+
+Gift Balloon
+ギフトバルーン
+
+Fun Capsule Toy
+ファンカプセル玩具
+
+Birthday Music Box
+誕生日音楽箱
+
+Church Large Fireworks
+教会の大花火
+
+Noble Large Fireworks
+貴族の大花火
+
+Royal Large Fireworks
+王室の大花火
+
+Church Fireworks
+教会の花火
+
+Noble Fireworks
+貴族の花火
+
+Royal Fireworks
+王室の花火
+
+New Year Fireworks
+新年の花火
+
+Beautiful Gift Box
+美しいギフトボックス
+
+Team Gift Box
+チームギフトボックス
+
+Gang Gift Box
+ギャングギフトボックス
+
+Mist God's Blessing
+霧の神の祝福
+
+Red Envelope
+赤封筒
+
+Large Red Envelope
+大きな赤封筒
+
+New Year Gift Box
+新年ギフトボックス
+
+Spring Festival Gift Box
+春節ギフトボックス
+
+Festival Gift Box
+祭りギフトボックス
+
+Glazed Treasure Box
+琉璃の宝箱
+
+Moonlight Treasure Box
+月光の宝箱
+
+Temple Treasure Box
+神殿の宝箱
+
+Abyss Demon Box
+深淵の悪魔箱
+
+Sealed Demon Box
+封印された悪魔箱
+
+Universe Bag
+宇宙の袋
+
+Enhanced Lucky Chest
+強化された幸運の箱
+
+Gem Shard Pack
+宝石の破片パック
+
+Level {d} Bash Skill Crystal
+レベル$1の強打スキルクリスタル
+
+Level {d} Cleave Crystal
+レベル$1の切断クリスタル
+
+Level {d} Sweep Attack Crystal
+レベル$1の横斬り攻撃クリスタル
+
+Level {d} Armor Break Crystal
+レベル$1の装甲破壊クリスタル
+
+Wind Step Crystal
+風の歩みクリスタル
+
+Swallow Dance Crystal
+燕舞クリスタル
+
+Level {d} Execute Crystal
+レベル$1の実行クリスタル
+
+Level {d} Taunt Attack Crystal
+レベル$1の挑発攻撃クリスタル
+
+Level {d} Rupture Crystal
+レベル$1の破裂クリスタル
+
+Level {d} Lethal Strike Crystal
+レベル$1の致命打クリスタル
+
+Command Cry Crystal
+命令の叫びクリスタル
+
+Level {d} Valiant Strike Crystal
+レベル$1の勇猛打クリスタル
+
+Level {d} Reckless Strike Crystal
+レベル$1の無謀な打クリスタル
+
+Level {d} Flesh Cleave Crystal
+レベル$1の肉切断クリスタル
+
+Level {d} Giant Strike Crystal
+レベル$1の巨人打クリスタル
+
+Level {d} Thunderous Blow Crystal
+レベル$1の雷鳴の一撃クリスタル
+
+Haste Crystal
+急げクリスタル
+
+Level {d} Bloodthirsty Crystal
+レベル$1の血に飢えたクリスタル
+
+Taunt Crystal
+挑発クリスタル
+
+Ignore the Pain Crystal
+痛みを無視クリスタル
+
+Reckless Crystal
+無謀クリスタル
+
+Challenge Cry Crystal
+挑戦の叫びクリスタル
+
+Level {d} Vengeance Crystal
+レベル$1の復讐クリスタル
+
+Battle Roar Crystal
+戦闘の吠えクリスタル
+
+Level {d} Blade Strike Crystal
+レベル$1の剣打クリスタル
+
+Level {d} Rapid Sting Crystal
+レベル$1の迅速な刺突クリスタル
+
+Level {d} Fan of Knives Crystal
+レベル$1のナイフ扇クリスタル
+
+Level {d} Puncture Crystal
+レベル$1の刺突クリスタル
+
+Level {d} Leap Gouge Crystal
+レベル$1の跳躍裂傷クリスタル
+
+Shadow Steps Crystal
+影の歩みクリスタル
+
+Level {d} Kidney Strike Crystal
+レベル$1の腎臓打クリスタル
+
+Level {d} Kidney Strike Crystal
+レベル$1の腎臓打クリスタル
+
+Scorn Crystal
+軽蔑クリスタル
+
+Level {d} Shattering Moon Crystal
+レベル$1の月砕きクリスタル
+
+Void Shift Crystal
+虚空移動クリスタル
+
+Level {d} Arcane Shot Crystal
+レベル$1の神秘射撃クリスタル
+
+Level {d} Aimed Shot Crystal
+レベル$1の狙い撃ちクリスタル
+
+Level {d} Multi Shot Crystal
+レベル$1の多重射撃クリスタル
+
+Vine Trap Crystal
+つる罠クリスタル
+
+Level {d} Marked Shot Crystal
+レベル$1の標的射撃クリスタル
+
+Level {d} Concussive Shot Crystal
+レベル$1の衝撃射撃クリスタル
+
+Turtle Guardian Crystal
+亀守護クリスタル
+
+Level {d} Rapid Arrows Crystal
+レベル$1の迅速矢クリスタル
+
+Level {d} Burst Shot Crystal
+レベル$1の爆発射撃クリスタル
+
+Tranquility Aura Crystal
+静寂のオーラクリスタル
+
+Level {d} Magic Sphere Crystal
+レベル$1の魔法球クリスタル
+
+Level {d} Ice Lance Crystal
+レベル$1の氷槍クリスタル
+
+Level {d} Ice Storm Crystal
+レベル$1の氷嵐クリスタル
+
+Level {d} Ice Arrow Crystal
+レベル$1の氷矢クリスタル
+
+Level {d} Frost Nova Crystal
+レベル$1のフロストノヴァクリスタル
+
+Icicle Crystal
+氷柱クリスタル
+
+Teleportation Crystal
+テレポーテーションクリスタル
+
+Blizzard Crystal
+吹雪クリスタル
+
+Chilling Frost Crystal
+凍える霜クリスタル
+
+Cold Winter Crystal
+寒冬クリスタル
+
+Level {d} Fireball Crystal
+レベル$1の火球クリスタル
+
+Level {d} Fire Impact Crystal
+レベル$1の火の衝撃クリスタル
+
+Level {d} Fire Surge Crystal
+レベル$1の火の波動クリスタル
+
+Invisibility Crystal
+透明クリスタル
+
+Level {d} Pyroblast Crystal
+レベル$1の炎爆クリスタル
+
+Ignition Crystal
+点火クリスタル
+
+Level {d} Blazing Storm Crystal
+レベル$1の燃え盛る嵐クリスタル
+
+Level {d} Sear Crystal
+レベル$1の焼き尽くすクリスタル
+
+Scorch Crystal
+焦げるクリスタル
+
+Level {d} Retribution Crystal
+レベル$1の報復クリスタル
+
+Level {d} Mind Whip Crystal
+レベル$1の精神の鞭クリスタル
+
+Level {d} Holy Light Wave Crystal
+レベル$1の聖光波クリスタル
+
+Recover Crystal
+回復クリスタル
+
+Level {d} Divine Fire Crystal
+レベル$1の神聖火クリスタル
+
+Divine Protection Crystal
+神聖保護クリスタル
+
+Holy Light Crystal
+聖光クリスタル
+
+Level {d} Divine Nova Crystal
+レベル$1の神聖ノヴァクリスタル
+
+Group Dispel Crystal
+集団解除クリスタル
+
+Resurrection Skill Crystal
+復活スキルクリスタル
+
+Level {d} Shadow Arrow Crystal
+レベル$1の影矢クリスタル
+
+Level {d} Corrosion Spell Crystal
+レベル$1の腐食呪文クリスタル
+
+Level {d} Skeleton Explosion Crystal
+レベル$1の骸骨爆発クリスタル
+
+Healing Surge Crystal
+治癒の波動クリスタル
+
+Level {d} Incessant Pain Crystal
+レベル$1の絶え間ない痛みクリスタル
+
+Break the Chain Crystal
+鎖を断つクリスタル
+
+Soul Purify Crystal
+魂の浄化クリスタル
+
+Level {d} Dead Toxin Crystal
+レベル$1の死毒クリスタル
+
+Spiritual Totem Crystal
+霊的トーテムクリスタル
+
+Soul Returnal Crystal
+魂の回帰クリスタル
+
+Bash Skill Crystal Shard
+強打スキルクリスタルの破片
+
+Execute Crystal Shard
+実行クリスタルの破片
+
+Sweep Attack Skill Crystal Shard
+横斬り攻撃スキルクリスタルの破片
+
+Rupture Skill Crystal Shard
+破裂スキルクリスタルの破片
+
+Valiant Strike Skill Crystal Shard
+勇猛打スキルクリスタルの破片
+
+Bloodthirsty Skill Crystal Shard
+血に飢えたスキルクリスタルの破片
+
+Flesh Cleave Skill Crystal Shard
+肉切断スキルクリスタルの破片
+
+Thunderous Blow Skill Crystal Shard
+雷鳴の一撃スキルクリスタルの破片
+
+Blade Strike Skill Crystal Shard
+剣打スキルクリスタルの破片
+
+Fan of Knives Skill Crystal Shard
+ナイフ扇スキルクリスタルの破片
+
+Leap Gouge Skill Crystal Shard
+跳躍裂傷スキルクリスタルの破片
+
+Kidney Strike Skill Crystal Shard
+腎臓打スキルクリスタルの破片
+
+Arcane Shot Skill Crystal Shard
+神秘射撃スキルクリスタルの破片
+
+Multi Shot Skill Crystal Shard
+多重射撃スキルクリスタルの破片
+
+Rapid Arrows Skill Crystal Shard
+迅速矢スキルクリスタルの破片
+
+Marked Shot Skill Crystal Shard
+標的射撃スキルクリスタルの破片
+
+Magic Sphere Skill Crystal Shard
+魔法球スキルクリスタルの破片
+
+Ice Storm Skill Crystal Shard
+氷嵐スキルクリスタルの破片
+
+Ice Arrow Skill Crystal Shard
+氷矢スキルクリスタルの破片
+
+Frost Nova Skill Crystal Shard
+フロストノヴァスキルクリスタルの破片
+
+Fireball Skill Crystal Shard
+火球スキルクリスタルの破片
+
+Fire Surge Skill Crystal Shard
+火の波動スキルクリスタルの破片
+
+Pyroblast Skill Crystal Shard
+炎爆スキルクリスタルの破片
+
+Blazing Storm Skill Crystal Shard
+燃え盛る嵐スキルクリスタルの破片
+
+Retribution Skill Crystal Shard
+報復スキルクリスタルの破片
+
+Holy Light Wave Skill Crystal Shard
+聖光波スキルクリスタルの破片
+
+Divine Nova Skill Crystal Shard
+神聖ノヴァスキルクリスタルの破片
+
+Divine Fire Skill Crystal Shard
+神聖火スキルクリスタルの破片
+
+Shadow Arrow Skill Crystal Shard
+影矢スキルクリスタルの破片
+
+Skeleton Explosion Skill Crystal Shard
+骸骨爆発スキルクリスタルの破片
+
+Dead Toxin Skill Crystal Shard
+死毒スキルクリスタルの破片
+
+Incessant Pain Skill Crystal Shard
+絶え間ない痛みスキルクリスタルの破片
+
+Level {d} Ruby Shard
+レベル$1のルビーの破片
+
+Level {d} Ruby
+レベル$1のルビー
+
+Level {d} Sapphire Shard
+レベル$1のサファイアの破片
+
+Level {d} Sapphire
+レベル$1のサファイア
+
+Level {d} Tiger Eye Stone Shard
+レベル$1の虎目石の破片
+
+Level {d} Tiger Eye Stone
+レベル$1の虎目石
+
+Level {d} Opal Shard
+レベル$1のオパールの破片
+
+Level {d} Opal
+レベル$1のオパール
+
+Level {d} Spinel Shard
+レベル$1のスピネルの破片
+
+Level {d} Spinel
+レベル$1のスピネル
+
+Level {d} Aquamarine Shard
+レベル$1のアクアマリンの破片
+
+Level {d} Aquamarine
+レベル$1のアクアマリン
+
+Level {d} Garnet Shard
+レベル$1のガーネットの破片
+
+Level {d} Garnet
+レベル$1のガーネット
+
+Level {d} Blond Jade Shard
+レベル$1の金色翡翠の破片
+
+Level {d} Blond Jade
+レベル$1の金色翡翠
+
+Level {d} Grape Stone Shard
+レベル$1の葡萄石の破片
+
+Level {d} Grape Stone
+レベル$1の葡萄石
+
+Level {d} Olivine Shard
+レベル$1の橄欖石の破片
+
+Level {d} Olivine
+レベル$1の橄欖石
+
+Level {d} Topaz Shard
+レベル$1のトパーズの破片
+
+Level {d} Topaz
+レベル$1のトパーズ
+
+Level {d} Obsidian Shard
+レベル$1の黒曜石の破片
+
+Level {d} Obsidian
+レベル$1の黒曜石
+
+Level {d} Sunlight Stone Shard
+レベル$1の日光石の破片
+
+Level {d} Sunlight Stone
+レベル$1の日光石
+
+Level {d} Moonstone Shard
+レベル$1のムーンストーンの破片
+
+Level {d} Moonstone
+レベル$1のムーンストーン
+
+Level {d} Turquoise Shard
+レベル$1のトルコ石の破片
+
+Level {d} Turquoise
+レベル$1のトルコ石
+
+Weapon Enhance Crystal Shard
+武器強化クリスタルの破片
+
+Level {d} Weapon Enhance Crystal
+レベル$1の武器強化クリスタル
+
+Equipment Enhance Crystal Shard
+装備強化クリスタルの破片
+
+Level {d} Equipment Enhance Crystal
+レベル$1の装備強化クリスタル
+
+Gem Protection Rune
+宝石保護ルーン
+
+Socket Protection Stone
+ソケット保護石
+
+Weapon Enhance Boost Rune
+武器強化ブーストルーン
+
+Equipment Enhance Boost Rune
+装備強化ブーストルーン
+
+Weapon Enhance Protection Rune
+武器強化保護ルーン
+
+Equipment Enhance Protection Rune
+装備強化保護ルーン
+
+Pale Jade Crystal
+淡緑色の翡翠クリスタル
+
+Violet Haze Crystal
+紫色の霞クリスタル
+
+Cannonball
+キャノンボール
+
+Key
+鍵
+
+Metal Plate
+金属板
+
+Enchanted Bead
+魔法のビーズ
+
+Kumiss
+クミス
+
+Ore
+鉱石
+
+Barr's Letter
+バールの手紙
+
+Silk
+シルク
+
+Merlin's Letter
+マーリンの手紙
+
+Snow Leopard Leather Coat
+ユキヒョウの革コート
+
+Tiger Mountain Pass
+虎山峠
+
+Bandit Hideout Key
+盗賊の隠れ家の鍵
+
+Octorium
+オクトリウム
+
+Fruit of the Wisdom Tree
+知恵の木の果実
+
+Seed of the Wisdom Tree
+知恵の木の種
+
+Potions
+ポーション
+
+Weapon
+武器
+
+White Bear's Pelt
+白熊の毛皮
+
+Wolf's Head
+狼の頭
+
+Frostbite Ointment
+凍傷軟膏
+
+Packed Licorice
+包装された甘草
+
+Water of Moonlight River
+月光川の水
+
+Stone Ball
+石の球
+
+Wedding Dress
+ウェディングドレス
+
+Cicada Robe
+セミのローブ
+
+Antidote
+解毒剤
+
+Empty iron bucket
+空の鉄のバケツ
+
+Iron Bucket
+鉄のバケツ
+
+wound-healing powder
+傷を癒す粉
+
+Clay Block
+粘土ブロック
+
+Iron Bucket
+鉄のバケツ
+
+Raw Milk
+生乳
+
+Forage
+飼料
+
+Raw Milk
+生乳
+
+Blue key
+青い鍵
+
+Yellow key
+黄色い鍵
+
+White key
+白い鍵
+
+Black key
+黒い鍵
+
+Red crystal stone
+赤い水晶石
+
+Green crystal stone
+緑の水晶石
+
+Blue crystal stone
+青い水晶石
+
+Penetration Ring
+貫通の指輪
+
+Reward order
+報酬令状
+
+Punishment order
+罰令状
+
+Fertilizer
+肥料
+
+C4 Explosive
+C4爆薬
+
+magnetic card
+磁気カード
+
+Beast's head
+獣の頭
+
+Beast's Leg
+獣の脚
+
+Probe Stick
+探査棒
+
+Spirit Crystal
+精霊クリスタル
+
+Orb of Benevolence
+慈悲の珠
+
+Magic Stand
+魔法の台
+
+Secret Letter of the Moon Princess
+月姫の秘密の手紙
+
+Carpenter's family letter
+大工の家族の手紙
+
+Secret Letter of the Master Antino
+アントニオ師の秘密の手紙
+
+Lord Garcina's Token
+ガルシナ卿のトークン
+
+Ice bead
+氷のビーズ
+
+Peach
+桃
+
+Black Comb
+黒い櫛
+
+Stallone's Head
+スタローンの頭
+
+Secret Letter of the High Priest Theo
+テオ大神官の秘密の手紙
+
+Purchase order
+購買注文
+
+Contract
+契約
+
+Family Letter to Sailor Ron
+船員ロンへの家族の手紙
+
+Wheat Head
+麦の穂
+
+Bait
+餌
+
+Rice Spikelet
+稲の穂
+
+Grass carp
+草魚
+
+Medical Supply
+医療供給品
+
+Large brick
+大きなレンガ
+
+Unprocessed brick
+未加工のレンガ
+
+Perfect brick
+完璧なレンガ
+
+Unidentified cannonball
+未確認のキャノンボール
+
+Water Monster's Egg
+水の怪物の卵
+
+Water Convex Lens
+水の凸レンズ
+
+Full Note
+全音符
+
+Semi Note
+半音符
+
+Loofah seedling
+ヘチマの苗
+
+Pea seed
+エンドウ豆の種
+
+Cross
+十字架
+
+Shining Cross
+輝く十字架
+
+Canned spinach
+缶詰のほうれん草
+
+Rice Cracker
+ライスクラッカー
+
+potatoes
+ジャガイモ
+
+Tomato
+トマト
+
+Chestnut
+栗
+
+Mashed potatoes
+マッシュポテト
+
+Tomato juice
+トマトジュース
+
+Chestnut powder
+栗の粉
+
+Crispy potato and vegetable pie
+カリカリのジャガイモと野菜のパイ
+
+Bronze fruit
+青銅の果実
+
+Silver fruit
+銀の果実
+
+Gold Fruit
+金の果実
+
+Platinum fruit
+プラチナの果実
+
+Star Diamond Fruit
+スターダイヤモンドの果実
+
+Dough
+生地
+
+Pie
+パイ
+
+Festive Bronze Gift Package
+祝祭の青銅ギフトパッケージ
+
+Festive Silver Gift Package
+祝祭の銀ギフトパッケージ
+
+Festive Gold Gift Package
+祝祭の金ギフトパッケージ
+
+Festive Platinum Gift Package
+祝祭のプラチナギフトパッケージ
+
+Festive Star Diamond Gift Package
+祝祭のスターダイヤモンドギフトパッケージ
+
+Dragon-Moth Double Jade
+ドラゴン-モスダブルジェイド
+
+lightning rod
+避雷針
+
+Magic Fossil
+魔法の化石
+
+Identification Scroll
+識別の巻物
+
+Common fossil
+一般的な化石
+
+Damaged Cube
+損傷したキューブ
+
+Interdimensional Cube
+異次元キューブ
+
+Golden Rice dumpling seed
+黄金の餅の種
+
+Colorful Golden Rice Dumpling
+カラフルな黄金の餅
+
+BBQ Pork Seed
+バーベキューポークの種
+
+BBQ Pork bun
+バーベキューポークのバン
+
+Phantom Ice Crystal
+幻の氷のクリスタル
+
+Time Bomb
+時限爆弾
+
+Godmother Zoira's Magic Charm
+ゾイラの魔法の魅力
+
+Godmother Zoira's Seal Letter
+ゾイラの封印された手紙
+
+Templar Knight's Letter
+テンプル騎士の手紙
+
+Exploration data
+探査データ
+
+Hunting net
+狩猟網
+
+Mojito
+モヒート
+
+Delicate Fruit
+繊細な果実
+
+Hunting Medal
+狩猟メダル
+
+Hunting Gift Package
+狩猟ギフトパッケージ
+
+Hunting Pass
+狩猟パス
+
+Samael Emblem
+サマエルの紋章
+
+Fish Gelatin
+魚のゼラチン
+
+Five-Nuts Filling
+五つのナッツのフィリング
+
+Crust
+クラスト
+
+Egg
+卵
+
+Osmanthus wine
+キンモクセイの酒
+
+Five-Nuts Mooncake
+五つのナッツの月餅
+
+Wind Chaser Soul Fragment
+風追いの魂の断片
+
+Knight Code
+騎士のコード
+
+Refined Iron
+精錬鉄
+
+Spear
+槍
+
+Shield
+盾
+
+Armor
+鎧
+
+Equipment
+装備
+
+Tinder
+火口
+
+Silver Cross
+銀十字
+
+Flash Bomb
+閃光弾
+
+Great Dragon Valley Bar
+大竜谷バー
+
+Dragon Village Token
+ドラゴン村のトークン
+
+Christmas stockings
+クリスマスストッキング
+
+Colorful Shard Pack
+カラフルな破片パック
+
+Snowball
+スノーボール
+
+Hat
+帽子
+
+Scarf
+スカーフ
+
+Broom
+ほうき
+
+Marbles
+ビー玉
+
+Button
+ボタン
+
+Stones
+石
+
+Little snowman
+小さな雪だるま
+
+Christmas gift box
+クリスマスギフトボックス
+
+Magnet
+磁石
+
+Dragon Power Stone
+ドラゴンパワーストーン
+
+Remote Control Bomb
+リモコン爆弾
+
+Remote Control
+リモコン
+
+Energy Shield
+エネルギーシールド
+
+Apple
+リンゴ
+
+Chocolate Popsicle
+チョコレートアイスキャンディー
+
+Butter Popsicle
+バターアイスキャンディー
+
+Chocolate ice cream
+チョコレートアイスクリーム
+
+Butter ice cream
+バターアイスクリーム
+
+Candy
+キャンディー
+
+Rat Tooth Shovel
+ラットトゥースショベル
+
+Jumping Spring
+ジャンピングスプリング
+
+dumpling
+餃子
+
+Cat ears
+猫耳
+
+Nian Monster's Demon Crystal
+年獣の悪魔クリスタル
+
+Wish Blessing
+願いの祝福
+
+Fortune Blessing
+幸運の祝福
+
+Peace Blessing
+平和の祝福
+
+Luck Blessing
+運の祝福
+
+Happiness Blessing
+幸福の祝福
+
+Packaged Rice Ball
+パッケージ化されたおにぎり
+
+sesame rice ball
+ゴマおにぎり
+
+peanut rice ball
+ピーナッツおにぎり
+
+Zoira's earring
+ゾイラのイヤリング
+
+Zoira's earring
+ゾイラのイヤリング
+
+Purified water
+精製水
+
+Earth Magic Stone
+地の魔石
+
+Water Magic Stone
+水の魔石
+
+Fire Magic Stone
+火の魔石
+
+Wind Magic Stone
+風の魔石
+
+Wood
+木材
+
+Insecticide
+殺虫剤
+
+Ghost vacuum cleaner
+ゴースト掃除機
+
+Control Button
+コントロールボタン
+
+Time Bomb
+時限爆弾
+
+Fatal Tenderness
+致命的な優しさ
+
+Beauty of the Forest
+森の美しさ
+
+Midnight Kiss
+真夜中のキス
+
+Satisfied Morning
+満足な朝
+
+Bones of the mutant skeleton
+変異骨格の骨
+
+Black Magic Antidote
+黒魔法の解毒剤
+
+Ghost
+ゴースト
+
+Intelligence letter
+諜報書
+
+Rock
+岩
+
+Clown Box
+クラウンボックス
+
+Grimace Cookie
+グリマスクッキー
+
+Bookmark Badge
+ブックマークバッジ
+
+Sabre Badge
+サーベルバッジ
+
+Cross Badge
+十字バッジ
+
+Soul Bottle
+魂の瓶
+
+Axe
+斧
+
+Divine Light Orb
+神聖な光の珠
+
+Iron Wire
+鉄線
+
+Black Rock
+黒い岩
+
+White Rock
+白い岩
+
+Remote Control Bomb
+リモートコントロール爆弾
+
+Remote Control
+リモートコントロール
+
+Demining Stick
+地雷処理棒
+
+Scissors
+はさみ
+
+Note
+ノート
+
+Note
+ノート
+
+Master's Pendant
+師匠のペンダント
+
+Cherub Illustration
+天使のイラスト
+
+Colorful Golden Rice Dumpling
+カラフルな黄金餅
+
+Beast King Demon General's Blood
+獣王悪魔将軍の血
+
+Candy
+キャンディー
+
+Blue Ice Crystal
+青い氷のクリスタル
+
+Werebear Commander's Head
+人狼司令官の頭
+
+Concentrated Fire Source Crystal
+集中火源クリスタル
+
+Silver Cross
+銀十字架
+
+Small Red Potion
+小さな赤いポーション
+
+Medium Red Potion
+中型赤いポーション
+
+Large Red Potion
+大きな赤いポーション
+
+Super Red Potion
+スーパー赤いポーション
+
+Plasma
+プラズマ
+
+Potent Plasma
+強力なプラズマ
+
+Serum Protein
+血清タンパク質
+
+Hemoglobin
+ヘモグロビン
+
+Small Blue Potion
+小さな青いポーション
+
+Medium Blue Potion
+中型青いポーション
+
+Large Blue Potion
+大きな青いポーション
+
+Super Blue Potion
+スーパー青いポーション
+
+Magic Potion
+魔法のポーション
+
+Potent Magic Potion
+強力な魔法のポーション
+
+Mist Potion
+ミストポーション
+
+Mist Essence
+ミストエッセンス
+
+Chicken Drumstick
+鶏のドラムスティック
+
+Steak
+ステーキ
+
+Ham
+ハム
+
+Pie
+パイ
+
+Burrito
+ブリトー
+
+Pizza
+ピザ
+
+Hot Dog
+ホットドッグ
+
+Sandwich
+サンドイッチ
+
+Hamburger
+ハンバーガー
+
+Coco
+ココ
+
+Coffee
+コーヒー
+
+Tea
+紅茶
+
+Orange Juice
+オレンジジュース
+
+Grapefruit Juice
+グレープフルーツジュース
+
+Lemonade
+レモネード
+
+Raspberry Juice
+ラズベリージュース
+
+Plum Juice
+プラムジュース
+
+Blueberry Juice
+ブルーベリージュース
+
+Arena Power Pill
+アリーナパワーピル
+
+Arena Iron Stone Pill
+アリーナアイアンストーンピル
+
+Tactical Power Pill
+戦術パワーピル
+
+Tactical Iron Stone Pill
+戦術アイアンストーンピル
+
+Pet Small Red Potion
+ペット小さな赤いポーション
+
+Pet Medium Red Potion
+ペット中型赤いポーション
+
+Pet Large Red Potion
+ペット大きな赤いポーション
+
+Pet Super Red Potion
+ペットスーパー赤いポーション
+
+Pet Plasma
+ペットプラズマ
+
+Pet Potent Plasma
+ペット強力なプラズマ
+
+Pet Albumin
+ペットアルブミン
+
+Pet globulin
+ペットグロブリン
+
+Pet Small Blue Potion
+ペット小さな青いポーション
+
+Pet Medium Blue Potion
+ペット中型青いポーション
+
+Pet Large Blue Potion
+ペット大きな青いポーション
+
+Pet Super Blue Potion
+ペットスーパー青いポーション
+
+Bone Cookie
+骨クッキー
+
+Fine Bone Cookie
+上質な骨クッキー
+
+Bone Marrow Soup
+骨髄スープ
+
+Potent Bone Marrow Soup
+強力な骨髄スープ
+
+Pet Meat Cube
+ペットの肉キューブ
+
+Pet Jerky
+ペットのジャーキー
+
+Pet Sausage
+ペットソーセージ
+
+Pet Pie
+ペットパイ
+
+Pet Burrito
+ペットブリトー
+
+Pet Pizza
+ペットピザ
+
+Pet Hot Dog
+ペットホットドッグ
+
+Pet Sandwich
+ペットサンドイッチ
+
+Pet Hamburger
+ペットハンバーガー
+
+Pet Peach Juice
+ペットピーチジュース
+
+Pet Mango Juice
+ペットマンゴージュース
+
+Pet Apple Juice
+ペットアップルジュース
+
+Pet Orange Juice
+ペットオレンジジュース
+
+Pet Grapefruit Juice
+ペットグレープフルーツジュース
+
+Pet Lemonade
+ペットレモネード
+
+Pet Raspberry Juice
+ペットラズベリージュース
+
+Pet Plum Juice
+ペットプラムジュース
+
+Pet Blueberry Juice
+ペットブルーベリージュース
+
+Pet Rice Roll
+ペットライスロール
+
+Lesser Frog Soul Stone
+下級カエルの魂石
+
+Medium Frog Soul Stone
+中級カエルの魂石
+
+Higher Frog Soul Stone
+上級カエルの魂石
+
+Pure Frog Soul Stone
+純粋なカエルの魂石
+
+Brilliant Frog Soul Stone
+輝くカエルの魂石
+
+Lesser Beetle Soul Stone
+下級カブトムシの魂石
+
+Medium Beetle Soul Stone
+中級カブトムシの魂石
+
+Higher Beetle Soul Stone
+上級カブトムシの魂石
+
+Pure Beetle Soul Stone
+純粋なカブトムシの魂石
+
+Brilliant Beetle Soul Stone
+輝くカブトムシの魂石
+
+Lesser Golden Rooster Soul Stone
+下級黄金鶏の魂石
+
+Medium Golden Rooster Soul Stone
+中級黄金鶏の魂石
+
+Higher Golden Rooster Soul Stone
+上級黄金鶏の魂石
+
+Pure Golden Rooster Soul Stone
+純粋な黄金鶏の魂石
+
+Brilliant Golden Rooster Soul Stone
+輝く黄金鶏の魂石
+
+Lesser Duck Soul Stone
+下級アヒルの魂石
+
+Medium Duck Soul Stone
+中級アヒルの魂石
+
+Higher Duck Soul Stone
+上級アヒルの魂石
+
+Pure Duck Soul Stone
+純粋なアヒルの魂石
+
+Brilliant Duck Soul Stone
+輝くアヒルの魂石
+
+Lesser Donkey Soul Stone
+下級ロバの魂石
+
+Medium Donkey Soul Stone
+中級ロバの魂石
+
+Higher Donkey Soul Stone
+上級ロバの魂石
+
+Pure Donkey Soul Stone
+純粋なロバの魂石
+
+Brilliant Donkey Soul Stone
+輝くロバの魂石
+
+Lesser Goat Soul Stone
+下級ヤギの魂石
+
+Medium Goat Soul Stone
+中級ヤギの魂石
+
+Higher Goat Soul Stone
+上級ヤギの魂石
+
+Pure Goat Soul Stone
+純粋なヤギの魂石
+
+Brilliant Goat Soul Stone
+輝くヤギの魂石
+
+Lesser Steed Soul Stone
+下級馬の魂石
+
+Medium Steed Soul Stone
+中級馬の魂石
+
+Higher Steed Soul Stone
+上級馬の魂石
+
+Pure Steed Soul Stone
+純粋な馬の魂石
+
+Brilliant Steed Soul Stone
+輝く馬の魂石
+
+Lesser Cattle Soul Stone
+下級牛の魂石
+
+Medium Cattle Soul Stone
+中級牛の魂石
+
+Higher Cattle Soul Stone
+上級牛の魂石
+
+Pure Cattle Soul Stone
+純粋な牛の魂石
+
+Brilliant Cattle Soul Stone
+輝く牛の魂石
+
+Lesser Shorthair Cat Soul Stone
+下級短毛猫の魂石
+
+Medium Shorthair Cat Soul Stone
+中級短毛猫の魂石
+
+Higher Shorthair Cat Soul Stone
+上級短毛猫の魂石
+
+Pure Shorthair Cat Soul Stone
+純粋な短毛猫の魂石
+
+Brilliant Shorthair Cat Soul Stone
+輝く短毛猫の魂石
+
+Lesser Hound Soul Stone
+下級猟犬の魂石
+
+Medium Hound Soul Stone
+中級猟犬の魂石
+
+Higher Hound Soul Stone
+上級猟犬の魂石
+
+Pure Hound Soul Stone
+純粋な猟犬の魂石
+
+Brilliant Hound Soul Stone
+輝く猟犬の魂石
+
+Lesser Curly Cat Soul Stone
+下級カールした猫の魂石
+
+Medium Curly Cat Soul Stone
+中級カールした猫の魂石
+
+Higher Curly Cat Soul Stone
+上級カールした猫の魂石
+
+Pure Curly Cat Soul Stone
+純粋なカールした猫の魂石
+
+Brilliant Curly Cat Soul Stone
+輝くカールした猫の魂石
+
+Lesser Shepard Dog Soul Stone
+下級シェパード犬の魂石
+
+Medium Shepard Dog Soul Stone
+中級シェパード犬の魂石
+
+Higher Shepard Dog Soul Stone
+上級シェパード犬の魂石
+
+Pure Shepard Dog Soul Stone
+純粋なシェパード犬の魂石
+
+Brilliant Shepard Dog Soul Stone
+輝くシェパード犬の魂石
+
+Lesser Parrot Soul Stone
+下級オウムの魂石
+
+Medium Parrot Soul Stone
+中級オウムの魂石
+
+Higher Parrot Soul Stone
+上級オウムの魂石
+
+Pure Parrot Soul Stone
+純粋なオウムの魂石
+
+Brilliant Parrot Soul Stone
+輝くオウムの魂石
+
+Lesser Lizard Soul Stone
+下級トカゲの魂石
+
+Medium Lizard Soul Stone
+中級トカゲの魂石
+
+Higher Lizard Soul Stone
+上級トカゲの魂石
+
+Pure Lizard Soul Stone
+純粋なトカゲの魂石
+
+Brilliant Lizard Soul Stone
+輝くトカゲの魂石
+
+Lesser Monkey Soul Stone
+下級サルの魂石
+
+Medium Monkey Soul Stone
+中級サルの魂石
+
+Higher Monkey Soul Stone
+上級サルの魂石
+
+Pure Monkey Soul Stone
+純粋なサルの魂石
+
+Brilliant Monkey Soul Stone
+輝くサルの魂石
+
+Lesser Eagle Soul Stone
+下級ワシの魂石
+
+Medium Eagle Soul Stone
+中級ワシの魂石
+
+Higher Eagle Soul Stone
+上級ワシの魂石
+
+Pure Eagle Soul Stone
+純粋なワシの魂石
+
+Brilliant Eagle Soul Stone
+輝くワシの魂石
+
+Lesser Hippo Soul Stone
+下級カバの魂石
+
+Medium Hippo Soul Stone
+中級カバの魂石
+
+Higher Hippo Soul Stone
+上級カバの魂石
+
+Pure Hippo Soul Stone
+純粋なカバの魂石
+
+Brilliant Hippo Soul Stone
+輝くカバの魂石
+
+Lesser Boar Soul Stone
+下級イノシシの魂石
+
+Medium Boar Soul Stone
+中級イノシシの魂石
+
+Higher Boar Soul Stone
+上級イノシシの魂石
+
+Pure Boar Soul Stone
+純粋なイノシシの魂石
+
+Brilliant Boar Soul Stone
+輝くイノシシの魂石
+
+Lesser Elephant Soul Stone
+下級ゾウの魂石
+
+Medium Elephant Soul Stone
+中級ゾウの魂石
+
+Higher Elephant Soul Stone
+上級ゾウの魂石
+
+Pure Elephant Soul Stone
+純粋なゾウの魂石
+
+Brilliant Elephant Soul Stone
+輝くゾウの魂石
+
+Lesser Brown Bear Soul Stone
+下級茶色の熊の魂石
+
+Medium Brown Bear Soul Stone
+中級茶色の熊の魂石
+
+Higher Brown Bear Soul Stone
+上級茶色の熊の魂石
+
+Pure Brown Bear Soul Stone
+純粋な茶色の熊の魂石
+
+Brilliant Brown Bear Soul Stone
+輝く茶色の熊の魂石
+
+Lesser Snow Wolf Soul Stone
+下級雪狼の魂石
+
+Medium Snow Wolf Soul Stone
+中級雪狼の魂石
+
+Higher Snow Wolf Soul Stone
+上級雪狼の魂石
+
+Pure Snow Wolf Soul Stone
+純粋な雪狼の魂石
+
+Brilliant Snow Wolf Soul Stone
+輝く雪狼の魂石
+
+Lesser Lion Soul Stone
+下級ライオンの魂石
+
+Medium Lion Soul Stone
+中級ライオンの魂石
+
+Higher Lion Soul Stone
+上級ライオンの魂石
+
+Pure Lion Soul Stone
+純粋なライオンの魂石
+
+Brilliant Lion Soul Stone
+輝くライオンの魂石
+
+Lesser Cheetah Soul Stone
+下級チーターの魂石
+
+Medium Cheetah Soul Stone
+中級チーターの魂石
+
+Higher Cheetah Soul Stone
+上級チーターの魂石
+
+Pure Cheetah Soul Stone
+純粋なチーターの魂石
+
+Brilliant Cheetah Soul Stone
+輝くチーターの魂石
+
+Lesser Tiger Soul Stone
+下級トラの魂石
+
+Medium Tiger Soul Stone
+中級トラの魂石
+
+Higher Tiger Soul Stone
+上級トラの魂石
+
+Pure Tiger Soul Stone
+純粋なトラの魂石
+
+Brilliant Tiger Soul Stone
+輝くトラの魂石
+
+Wild Frog Soul Stone
+野生のカエルの魂石
+
+Wild Beetle Soul Stone
+野生のカブトムシの魂石
+
+Wild Golden Rooster Soul Stone
+野生の黄金の鶏の魂石
+
+Wild Duck Soul Stone
+野生のアヒルの魂石
+
+Wild Donkey Soul Stone
+野生のロバの魂石
+
+Wild Goat Soul Stone
+野生のヤギの魂石
+
+Wild Steed Soul Stone
+野生の馬の魂石
+
+Wild Cattle Soul Stone
+野生の牛の魂石
+
+Wild Shorthair Cat Soul Stone
+野生の短毛猫の魂石
+
+Wild Hound Soul Stone
+野生の猟犬の魂石
+
+Wild Curly Cat Soul Stone
+野生のカールした猫の魂石
+
+Wild Shepard Dog Soul Stone
+野生のシェパード犬の魂石
+
+Wild Parrot Soul Stone
+野生のオウムの魂石
+
+Wild Lizard Soul Stone
+野生のトカゲの魂石
+
+Wild Monkey Soul Stone
+野生のサルの魂石
+
+Wild Eagle Soul Stone
+野生のワシの魂石
+
+Wild Hippo Soul Stone
+野生のカバの魂石
+
+Wild Boar Soul Stone
+野生のイノシシの魂石
+
+Wild Elephant Soul Stone
+野生のゾウの魂石
+
+Wild Brown Bear Soul Stone
+野生の茶色の熊の魂石
+
+Wild Snow Wolf Soul Stone
+野生の雪狼の魂石
+
+Wild Lion Soul Stone
+野生のライオンの魂石
+
+Wild Cheetah Soul Stone
+野生のチーターの魂石
+
+Wild Tiger Soul Stone
+野生のトラの魂石
+
+Ice Tiger Soul Stone
+氷のトラの魂石
+
+Pixie Super Soul Stone
+妖精の超魂石
+
+Sprite Super Soul Stone
+スプライトの超魂石
+
+Goblin Super Soul Stone
+ゴブリンの超魂石
+
+Slime Super Soul Stone
+スライムの超魂石
+
+Night Cat Soul Stone
+夜猫の魂石
+
+Cherub Super Soul Stone
+ケルブの超魂石
+
+Primary Warpath
+初級戦闘
+
+Medium Warpath
+中級戦闘
+
+Advanced Warpath
+上級戦闘
+
+Super Warpath
+超戦闘
+
+Primary Determination
+初級決意
+
+Medium Determination
+中級決意
+
+Advanced Determination
+上級決意
+
+Super Determination
+超決意
+
+Primary Focus
+初級集中
+
+Medium Focus
+中級集中
+
+Advanced Focus
+上級集中
+
+Super Focus
+超集中
+
+Primary Spirit Lock
+初級魂の錠
+
+Medium Spirit Lock
+中級魂の錠
+
+Advanced Spirit Lock
+上級魂の錠
+
+Super Spirit Lock
+超魂の錠
+
+Primary Destruction
+初級破壊
+
+Medium Destruction
+中級破壊
+
+Advanced Destruction
+上級破壊
+
+Super Destruction
+超破壊
+
+Primary Soul Turmoil
+初級魂の混乱
+
+Medium Soul Turmoil
+中級魂の混乱
+
+Advanced Soul Turmoil
+上級魂の混乱
+
+Super Soul Turmoil
+超魂の混乱
+
+Primary Ferocious
+初級凶暴
+
+Medium Ferocious
+中級凶暴
+
+Advanced Ferocious
+上級凶暴
+
+Super Ferocious
+超凶暴
+
+Primary Demonize
+初級悪魔化
+
+Medium Demonize
+中級悪魔化
+
+Advanced Demonize
+上級悪魔化
+
+Super Demonize
+超悪魔化
+
+Primary Fury
+初級激怒
+
+Medium Fury
+中級激怒
+
+Advanced Fury
+上級激怒
+
+Super Fury
+超激怒
+
+Primary Magic Maniac
+初級魔法狂
+
+Medium Magic Maniac
+中級魔法狂
+
+Advanced Magic Maniac
+上級魔法狂
+
+Super Magic Maniac
+超魔法狂
+
+Primary Fighter Form
+初級戦士形態
+
+Medium Fighter Form
+中級戦士形態
+
+Advanced Fighter Form
+上級戦士形態
+
+Super Fighter Form
+超戦士形態
+
+Primary Energy Form
+初級エネルギー形態
+
+Medium Energy Form
+中級エネルギー形態
+
+Advanced Energy Form
+上級エネルギー形態
+
+Super Energy Form
+超エネルギー形態
+
+Primary Unbreakable Form
+初級不滅形態
+
+Medium Unbreakable Form
+中級不滅形態
+
+Advanced Unbreakable Form
+上級不滅形態
+
+Super Unbreakable Form
+超不滅形態
+
+Primary Spiritual Form
+初級霊的形態
+
+Medium Spiritual Form
+中級霊的形態
+
+Advanced Spiritual Form
+上級霊的形態
+
+Super Spiritual Form
+超霊的形態
+
+Primary Steady Form
+初級安定形態
+
+Medium Steady Form
+中級安定形態
+
+Advanced Steady Form
+上級安定形態
+
+Super Steady Form
+超安定形態
+
+Primary Concentration Form
+初級集中形態
+
+Medium Concentration Form
+中級集中形態
+
+Advanced Concentration Form
+上級集中形態
+
+Super Concentration Form
+超集中形態
+
+Primary Hunt Form
+初級狩猟形態
+
+Medium Hunt Form
+中級狩猟形態
+
+Advanced Hunt Form
+上級狩猟形態
+
+Super Hunt Form
+超狩猟形態
+
+Primary Soul Chaser Form
+初級魂追跡形態
+
+Medium Soul Chaser Form
+中級魂追跡形態
+
+Advanced Soul Chaser Form
+上級魂追跡形態
+
+Super Soul Chaser Form
+超魂追跡形態
+
+Primary Berserk Form
+初級狂暴形態
+
+Medium Berserk Form
+中級狂暴形態
+
+Advanced Berserk Form
+上級狂暴形態
+
+Super Berserk Form
+超狂暴形態
+
+Primary Demon Form
+初級悪魔形態
+
+Medium Demon Form
+中級悪魔形態
+
+Advanced Demon Form
+上級悪魔形態
+
+Super Demon Form
+超悪魔形態
+
+Small Plier
+小型プライヤー
+
+Large Plier
+大型プライヤー
+
+Alloy Plier
+合金プライヤー
+
+Small Toolbox
+小型ツールボックス
+
+Large Toolbox
+大型ツールボックス
+
+Alloy Toolbox
+合金ツールボックス
+
+Repair Scroll
+修理の巻物
+
+Advanced Repair Scroll
+上級修理の巻物
+
+Super Repair Scroll
+超修理の巻物
+
+Iron Crystal Water
+鉄の水晶水
+
+Iron Crystal Water (Condensed)
+鉄の水晶水（濃縮）
+
+Iron Crystal Water (Essence)
+鉄の水晶水（エッセンス）
+
+World Broadcast Card
+世界放送カード
+
+Map Broadcast Card
+マップ放送カード
+
+Nearby Broadcast Card
+近隣放送カード
+
+Gang Broadcast Card
+ギャング放送カード
+
+New Year Greeting Card
+新年の挨拶カード
+
+Christmas Greeting Card
+クリスマスの挨拶カード
+
+Spring Festival Greeting Card
+春節の挨拶カード
+
+Greeting Card
+挨拶カード
+
+Wedding Vow Card
+結婚の誓いカード
+
+Wedding Blessing Card
+結婚の祝福カード
+
+Hearthstone
+炉石
+
+Memory Butterfly
+記憶の蝶
+
+Karon Village Teleportation stone
+カロン村の転送石
+
+Sunset City Teleportation stone
+サンセットシティの転送石
+
+Giant rock City Teleportation stone
+巨石市の転送石
+
+White Sands City Teleportation stone
+ホワイトサンズシティの転送石
+
+Tulip City Teleportation stone
+チューリップシティの転送石
+
+Moon City Teleportation stone
+月の都市の転送石
+
+Holy Blood City Teleportation stone
+聖血市の転送石
+
+Gouging Knife City Teleportation stone
+ガウジングナイフ市の転送石
+
+Violet City Teleportation stone
+バイオレットシティの転送石
+
+Night City Teleportation stone
+ナイトシティの転送石
+
+Soul Burial Village Teleportation stone
+魂埋葬村の転送石
+
+Plague Abyss Teleportation stone
+疫病の淵の転送石
+
+Orchid Woods Village Teleportation stone
+蘭の森村の転送石
+
+City of the Ancient Tower Teleportation stone
+古塔市の転送石
+
+Mist Gods Ruins Teleportation stone
+霧の神の遺跡の転送石
+
+West Sealing Tower Teleportation stone
+西封印塔の転送石
+
+Hermit Camp Teleportation stone
+隠者キャンプの転送石
+
+East Sealing Tower Teleportation stone
+東封印塔の転送石
+
+Portal of the Demon World Teleportation stone
+魔界のポータル転送石
+
+Central Kingdom Teleportation stone
+中央王国の転送石
+
+Loki Union Teleportation stone
+ロキ連合の転送石
+
+Garth Empire Teleportation stone
+ガース帝国の転送石
+
+Spirit Teleportation stone
+精神の転送石
+
+Ruins Teleportation stone
+廃墟の転送石
+
+Seal Teleportation stone
+封印の転送石
+
+Platinum Teleportation stone
+プラチナの転送石
+
+Black Gold Teleportation stone
+ブラックゴールドの転送石
+
+Cherry Wedding Candy
+さくらんぼの結婚キャンディー
+
+Strawberry Wedding Candy
+いちごの結婚キャンディー
+
+Pearl Wedding Candy
+真珠の結婚キャンディー
+
+Milk Wedding Candy
+ミルクの結婚キャンディー
+
+White Chocolate Candy
+ホワイトチョコレートキャンディー
+
+Chocolate Candy
+チョコレートキャンディー
+
+Gouging Knife Strike Force
+ガウジングナイフ打撃部隊
+
+Innocent Moon
+無垢の月
+
+Bloody Holy Blood
+血まみれの聖血
+
+Free White Sand
+自由な白砂
+
+Princess William
+ウィリアム姫
+
+White Tulip
+白いチューリップ
+
+Pet Experience Pill (small)
+ペットの経験値ピル（小）
+
+Pet Experience Pill (medium)
+ペットの経験値ピル（中）
+
+Pet Experience Pill (large)
+ペットの経験値ピル（大）
+
+Pet Experience Pill (potent)
+ペットの経験値ピル（強力）
+
+Skill Proficiency Pill (small)
+スキル熟練度ピル（小）
+
+Skill Proficiency Pill (medium)
+スキル熟練度ピル（中）
+
+Skill Proficiency Pill (large)
+スキル熟練度ピル（大）
+
+Behemoth Beast Crystal
+ベヒモスビーストクリスタル
+
+Behemoth Lord Beast Crystal
+ベヒモスロードビーストクリスタル
+
+Thunderbird Crystal
+サンダーバードクリスタル
+
+Thunderbird Lord Crystal
+サンダーバードロードクリスタル
+
+Wind Spirit Crystal
+風の精霊クリスタル
+
+Super Wind Spirit Crystal
+超風の精霊クリスタル
+
+Phantom Wyvern Crystal
+ファントムワイバーンクリスタル
+
+Bluish White Horse Crystal
+青白馬クリスタル
+
+Bluish White Horse—Cloud Crystal
+青白馬—クラウドクリスタル
+
+Nightmare Beast Crystal
+ナイトメアビーストクリスタル
+
+Nightmare of Ice Crystal
+氷の悪夢クリスタル
+
+Nightmare of Fire Crystal
+火の悪夢クリスタル
+
+Nightmare of Blood Crystal
+血の悪夢クリスタル
+
+Wind Chaser Crystal
+風の追跡者クリスタル
+
+Wind Chaser-Precipice Crystal
+風の追跡者-絶壁クリスタル
+
+Wind Chaser-Shadow Crystal
+風の追跡者-影クリスタル
+
+Wind Chaser-Mist Crystal
+風の追跡者-霧クリスタル
+
+Small Wind Chaser Crystal
+小さな風の追跡者クリスタル
+
+Fire-Capped Tit Crystal
+火冠雀クリスタル
+
+Blue Fire Plume Crystal
+青い火の羽根クリスタル
+
+Black Fire Plume Crystal
+黒い火の羽根クリスタル
+
+White Fire Plume Crystal
+白い火の羽根クリスタル
+
+Unicorn Crystal
+ユニコーンクリスタル
+
+Unicorn—Lightning Crystal
+ユニコーン—稲妻クリスタル
+
+Unicorn—Light Chaser Crystal
+ユニコーン—光の追跡者クリスタル
+
+Unicorn Lord Crystal
+ユニコーンロードクリスタル
+
+Rock Spirit Beast Crystal
+岩の精霊ビーストクリスタル
+
+Ice Scale Leopard Crystal
+氷鱗豹クリスタル
+
+Ghost Baby Crystal
+幽霊ベビークリスタル
+
+Shadow Wolf Crystal
+影狼クリスタル
+
+Angel Baby Crystal
+天使のベビークリスタル
+
+Iron Beetle Crystal
+鉄甲虫クリスタル
+
+Firefly Crystal
+ホタルクリスタル
+
+Werewolf Crystal
+狼男クリスタル
+
+Sea Spirit Crystal
+海の精霊クリスタル
+
+Minotaur Crystal
+ミノタウルスクリスタル
+
+Blood Spirit Crystal
+血の精霊クリスタル
+
+Mammoth Crystal
+マンモスクリスタル
+
+Flame Spirit Crystal
+炎の精霊クリスタル
+
+Glacier Giant Bear Crystal
+氷河巨熊クリスタル
+
+Polar Ice Bear Crystal
+極地氷熊クリスタル
+
+Frost Spirit Crystal
+霜の精霊クリスタル
+
+Frog
+カエル

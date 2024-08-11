@@ -1,0 +1,52 @@
+¡¾1: Pet Personality¡¿
+Pet Personality determines the behavior of the pet when following the character to fight monsters. Pets with different personalities are suitable for different Classes.
+Cautious: quick attack monsters that are not locked on them; change the target along with the player.
+Rely on the player to withstand attack, recommended for melee classes.
+Loyal: quick attack monsters that are attacking the player; change the target along with the player.
+Rely on the player to withstand attack. Recommended for melee classes. Loyal pets have almost the same functions as cautious pets, the only difference is that cautious pets have a wider range of quick attacks (they quick attack all monsters not attacking them, while loyal pets only quick attack monsters attacking the player).
+In other words, players with loyal pets require more demanding gaming techniques, and need to be able to withstand more damage as tanks in team fights.
+For example, when several players are fighting a boss together, Warrior A is taking damage, while Warrior B is assisting with attacks. If Warrior B is using a cautious pet, it can quick attack; but if he is using a loyal pet, it cannot quick attack.
+Smart: quick attack monsters that are targeting them, and will not change target until the monster is slain.
+Able to withstand attack themselves. The best choice when players need to split up with their pets to fight monsters; great for fighting small monsters.
+Smart pets can be used as tanks, but players need to beware when smart pets fail to attract the monster's attention, in which case, they will stop quick attack, and it is harder for them to attract the monster's attention again than courageous pets. Healing Classes are recommended to used smart pets as tanks, especially pets that attack high-defense targets.
+Courageous: quick attack monsters that are attacking the player and will not change target until the monster is slain.
+Able to withstand attack themselves. The best tank companions as they concentrate their attack with the player together.
+The drawback is they are not suitable to attack monsters separately with the player, in which case they cannot quick attack. Also, they cannot change their target at will. The bigger drawback is their defense tend to go overboard. They either have high physical defense and low magic defense, or have low physical defense and high magic defense.
+The above is the general choice for pet personality.
+In practice, melee class can also choose a tank pet, which may bring unexpected results;
+As a long-range class, if you are well-equipped, you can also choose aggressive pets and withstand attacks yourself. That way, your pet will be safer.
+A variety of pet soul stones will be dropped in the later game, and players can explore the fun of pairing with pets of different personalities.
+¡¾2:Pet Rebirth¡¿
+1. Pet Rebirth can regenerate the five pet assets: Strength, Physique, Spirit, Resolve, Agility. You can stop the process when your pet has good assets.
+2. The functions of the five pet assets are:
+Strength increases attack and defense break chance
+Physique increases hit chance and critical damage
+Spirit increases critical hit chance and defense break damage
+Resolve increases toughness and critical hit resistance
+Agility increases dodge chance and defense
+3. In addition, the pet's overall assets grant damage bonus and damage resistance, the higher the assets, the better the effect.
+4.Every player has two free Pet Rebirths per day, and any additional attempts will require a certain amount of diamonds.
+5. When undergoing Pet Rebirth, the pet will add 1-2 Rebirth Points, which will be accumulated in a weak. At 24:00 every Sunday, half of the Rebirth Points will be merged into the pet's Foundation, and the rest will be cleared.
+6. The sum of Foundation and Rebirth Points is the pet's Breakthrough Index. After the Breakthrough Index is increased, the pet has a chance to mutate into a Mutant Pet when undergoing Pet Rebirth, and will have higher assets. The higher the Breakthrough Index, the greater the chance of pet mutation when undergoing Pet Rebirth. When the Breakthrough Index reaches maximum level, pet mutation has a 100% chance to happen.
+7. When the pet mutates, its Foundation and Rebirth Points will be reset.
+8. There are five levels of pet mutations: primary mutation, intermediate mutation, advanced mutation, super mutation and perfect mutation. The higher the mutation level, the smaller the chance of another mutation.
+¡¾3:What places are pets not allowed? ¡¿
+General adventure dungeons and level dungeons don't allow pets to enter.
+These dungeons are designed to test the players' game techniques and cooperation, allowing players to bring pets will make these dungeons meaningless and boring. So when entering these dungeons, your pet will be put back to your inventory temporarily, and will be released once you've completed the dungeon.
+In addition, pets are not allowed in competitions. Players should win through skill and cooperation.
+The above are the places that don't allow pets to enter. They only take up over an hour per day in terms of gameplay. The time is even shorter if you don't play competitions.
+Except for the above, players can bring pets when exploring maps, doing missions, slaying monsters in monster area, fighting bosses, and playing experience dungeons, etc. In the majority of the game, pets will be your amazing companion in combat.
+¡¾4: The difference between a blessed pet and an ordinary pet¡¿
+In the previous public beta, some players compared blessed pets to other pets (such as beetles) at level 30, and felt that their stats were similar, so why are blessed pets be put on sale in the mall? What's so special about them?
+This is related to pet's potential. Pets with higher potential will gain more stats when leveling up. Blessed pets have high potential and can be used throughout the entire game.
+For players who want to keep the same pet that always has good stats, blessed pets are a good choice.
+Ordinary pets need to be replaced, generally once every other generation. Good ordinary pets have similar basic stats as blessed pets when they have the same level. It an ordinary pet is summoned with a particular high-quality soul stone, it may even have higher stats than blessed pets.
+So, if you don't want to purchase blessed pet, ordinary pets are also very useful in the game.
+The only downside is ordinary pets will have lower stats compared to blessed pets after a period of time, and needs to be replaced and trained again. For blessed pets, their foundation, mutation level and Talents can all be accumulated, thus opening up the gap with ordinary pets. This is the biggest advantage of blessed pets.
+¡¾5: How to choose a blessed pet¡¿
+The Blessed pet soul stone have been adjusted. Now, you can choose from any of the four pet personalities when summoning pets with a soul stone. So, players don't need to consider the pet's personality when purchasing the soul stone.
+Instead, you need to think about whether you want a physical-attack pet or magic-attack pet.
+When fighting monsters, the two have little difference. Generally, monster's physical defense is slightly higher than magic defense, which corresponds to the attack stats of the pet.
+The main difference is that when fighting against the player, it is more advantageous for physical-attack pets to fight Mages, Elves and other players with low physical defense, while magic pets are suitable for classes with low magic defenses such as Orcs and Hunters.
+Goblins are the only kind of physical-attack pets; magic-attack pets include Sprites, Pixies, and Slime.
+Secondly, you need to choose your favorite pet voice. There's a few recordings in the file folder for reference.

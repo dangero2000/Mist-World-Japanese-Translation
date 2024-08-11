@@ -1,0 +1,41 @@
+5121 //The Old Mage talks to himself:
+Sigh, The barrier of the human sanctuary is weakening against the beasts. I fear that Matthew and Sison will abandon us. When will there be another great mage like the ancestors, who can establish connection with the two Mist Gods...Hey, young one, aren't you supposed to be studying magic? Why are you here?
+
+5122
+Why are you here, instead of studying magic?
+
+5124
+That's a nice thought. But I gotta see if you have what it takes first, young one. Break the stake on the north side to prove yourself.
+
+5126
+Break the stake on the north side to prove yourself.
+
+5128
+Not bad, but not enough. You should have another try with weapon and outfit equipped. Here, take it.
+
+5129 //When the player refuses the equipment
+Never underestimate the power of items.
+
+5130 //When the player accepts the equipment
+Good, put them on.
+
+5132
+There's a bigger movable stake to the west, go break it.
+
+5134
+That's more like it. Come here, I have two more equipments for you.
+
+5135
+Did you get it? Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Defeat them, and I'll give you my permission to leave.
+
+5137
+Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Defeat them, and I'll give you my permission to leave.
+
+5139
+There's a bunch of mutants in the northeast training room. Defeat them, and I'll give you my permission to leave.
+
+5140
+Well done, young one! Looks like you've obtained a Skill Crystal. You should use it to learn the Ice Lance Skill, which will make your spells stronger.
+
+5141
+Go, the gate is to the north. I hope you'll find a way to communicate with the Mist Gods. Monsters are coming, but the Mist Gods' protection is weakening. Humanity is at stake.

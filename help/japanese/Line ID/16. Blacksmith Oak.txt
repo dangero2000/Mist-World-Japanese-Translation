@@ -1,0 +1,17 @@
+5281 //Greeting newly-arrived customers
+Are you here to repair your equipment?
+
+5282 and 5283 //Greeting newly-arrived customers
+If you have damaged equipments, bring them here.
+
+5286 and 5287 //Saying goodbye at a distance
+Take care now!
+
+5284 and 5285 //Saying goodbye at a distance
+Don't go too rough on your equipment!
+
+5288 and 5289 //asking face to face
+What equipment do you want to repair?
+
+5290 //Embarrassed
+Um, I can't handle such a high-end equipment. I'm afraid you'll have to go to Sunset City and ask the blacksmiths there.

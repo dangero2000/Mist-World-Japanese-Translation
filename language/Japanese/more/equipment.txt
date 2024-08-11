@@ -1,0 +1,3557 @@
+cudgel
+棍棒
+
+bamboo bow
+竹弓
+
+straw hat
+草帽
+
+mahogany necklace
+マホガニーネックレス
+
+tulle cape
+チュールケープ
+
+cotton clothes
+綿服
+
+Bark Belt
+樹皮ベルト
+
+straw sandals
+草履
+
+linen trousers
+リネンパンツ
+
+mahogany bracelet
+マホガニーブレスレット
+
+mahogany ring (left)
+マホガニーリング（左）
+
+mahogany ring (right)
+マホガニーリング（右）
+
+iron sword
+鉄の剣
+
+iron hammer
+鉄のハンマー
+
+dagger
+短剣
+
+wooden bow
+木の弓
+
+Ivy Staff
+アイビースタッフ
+
+Ivy Scepter
+アイビーセプター
+
+bronze helmet
+青銅の兜
+
+Golden necklace
+ゴールデンネックレス
+
+Bronze Shoulders
+青銅の肩当て
+
+bronze armor
+青銅の鎧
+
+Bronze Belt
+青銅のベルト
+
+Bronze Boots
+青銅のブーツ
+
+Bronze Leggings
+青銅のレギンス
+
+gold bracelet
+金のブレスレット
+
+gold ring (left)
+金のリング（左）
+
+gold ring (right)
+金のリング（右）
+
+silk hat
+シルクハット
+
+jade necklace
+翡翠のネックレス
+
+silk cape
+シルクケープ
+
+silk robe
+シルクローブ
+
+silk belt
+シルクベルト
+
+silk boots
+シルクブーツ
+
+silk pants
+シルクパンツ
+
+jade bracelet
+翡翠のブレスレット
+
+jade ring (left)
+翡翠のリング（左）
+
+jade ring (right)
+翡翠のリング（右）
+
+Sword of Fighter
+ファイターの剣
+
+machete of Berserker
+バーサーカーのマチェーテ
+
+Blade of Killer
+キラーの刃
+
+Bow of chaser
+チェイサーの弓
+
+Staff of Wisdom
+知恵の杖
+
+Staff of Nature
+自然の杖
+
+Scepter of Mercy
+慈悲のセプター
+
+Scepter of Bones
+骨のセプター
+
+soft pouch
+柔らかいポーチ
+
+fighter Helm
+ファイターヘルム
+
+fighter's Courage
+ファイターの勇気
+
+fighter Shoulders
+ファイターショルダー
+
+fighter Armor
+ファイターアーマー
+
+fighter Waistguard
+ファイターの腰当て
+
+fighter Boots
+ファイターブーツ
+
+fighter Legplates
+ファイターレッグプレート
+
+fighter Bracers
+ファイターブレーサー
+
+fighter ring (left)
+ファイターリング（左）
+
+fighter ring (right)
+ファイターリング（右）
+
+Berserker Helm
+バーサーカーヘルム
+
+Berserker's power
+バーサーカーの力
+
+Berserker Shoulders
+バーサーカーショルダー
+
+Berserker Armor
+バーサーカーアーマー
+
+Berserker Waistguard
+バーサーカーの腰当て
+
+Berserker Boots
+バーサーカーブーツ
+
+Berserker Legplates
+バーサーカーレッグプレート
+
+Berserker Bracers
+バーサーカーブレーサー
+
+Berserker Ring (Left)
+バーサーカーリング（左）
+
+Berserker Ring (right)
+バーサーカーリング（右）
+
+killer Mask
+キラーマスク
+
+killer's lethality
+キラーの致死性
+
+killer Cloak
+キラーマント
+
+killer Armor
+キラーアーマー
+
+killer Waistguard
+キラーの腰当て
+
+killer Boots
+キラーブーツ
+
+killer Leggings
+キラーレギンス
+
+killer Gloves
+キラーグローブ
+
+Killing Ring (Left)
+キリングリング（左）
+
+Killing Ring (Right)
+キリングリング（右）
+
+chaser Hat
+チェイサーハット
+
+chaser's gaze
+チェイサーの視線
+
+chaser Cloak
+チェイサーマント
+
+chaser jacket
+チェイサージャケット
+
+chaser Waistguard
+チェイサーの腰当て
+
+chaser Riding Boots
+チェイサーライディングブーツ
+
+chaser Leather Pants
+チェイサーレザーパンツ
+
+chaser Gauntlets
+チェイサーガントレット
+
+Eagle eye ring (left)
+イーグルアイリング（左）
+
+Eagle eye ring (right)
+イーグルアイリング（右）
+
+Wisdom Hat
+知恵の帽子
+
+magic from Wisdom
+知恵からの魔法
+
+Wisdom Cloak
+知恵のマント
+
+Wisdom Robe
+知恵のローブ
+
+Wisdom Belt
+知恵のベルト
+
+Wisdom Boots
+知恵のブーツ
+
+Wisdom Pants
+知恵のパンツ
+
+Wisdom bracelet
+知恵のブレスレット
+
+Wisdom Ring (left)
+知恵のリング（左）
+
+Wisdom Ring (right)
+知恵のリング（右）
+
+colorful wreath
+カラフルな花冠
+
+breath of nature
+自然の息吹
+
+Leaf wings
+葉の翼
+
+green robe
+緑のローブ
+
+vine Belt
+つるのベルト
+
+lotus Boots
+蓮のブーツ
+
+green hakama
+緑の袴
+
+nature bracelet
+自然のブレスレット
+
+nature ring (left)
+自然のリング（左）
+
+nature ring (right)
+自然のリング（右）
+
+charity Hat
+慈善の帽子
+
+forgiving from heart
+心からの許し
+
+benevolence Cloak
+慈悲のマント
+
+Fraternity Robe
+友愛のローブ
+
+Kindness Girdle
+優しさのガードル
+
+Compassion Boots
+思いやりのブーツ
+
+Fraternity Leggings
+友愛のレギンス
+
+loving Bracelet
+愛のブレスレット
+
+loving ring (left)
+愛のリング（左）
+
+loving ring (right)
+愛のリング（右）
+
+Skull Mask
+スカルマスク
+
+odor of decay
+腐敗の臭い
+
+Corpse Cloak
+死体のマント
+
+Carrion Tabard
+キャリオンタバード
+
+shroud belt
+シュラウドベルト
+
+Zombie Boots
+ゾンビブーツ
+
+Skeleton Leggings
+スケルトンレギンス
+
+Bone Bracelet
+骨のブレスレット
+
+Bone Ring (left)
+骨のリング（左）
+
+Bone Ring (right)
+骨のリング（右）
+
+Ocean Roaring
+海の咆哮
+
+Mountain Crushing
+山の砕き
+
+Shadow Kissing
+影の口づけ
+
+Wind Dancing
+風の踊り
+
+Ice Sighing
+氷のため息
+
+Fire Enveloping
+炎の包み込み
+
+Light Weaving
+光の織り
+
+Soul Sucking
+魂の吸引
+
+Fencer helmet
+フェンサーの兜
+
+Fencer's Heart
+フェンサーの心
+
+Fencer Shoulder Guard
+フェンサーショルダーガード
+
+Fencer Armor
+フェンサーアーマー
+
+Fencer waist guard
+フェンサーの腰当て
+
+Fencer boots
+フェンサーブーツ
+
+Fencer Legplates
+フェンサーレッグプレート
+
+Fencer Bracers
+フェンサーブレーサー
+
+Fencer Ring (Left)
+フェンサーリング（左）
+
+Fencer Ring (Right)
+フェンサーリング（右）
+
+Gladiator Helmet
+グラディエーターの兜
+
+Pulse of Gladiator
+グラディエーターの鼓動
+
+Gladiator Shoulders
+グラディエーターショルダー
+
+Gladiator Armor
+グラディエーターアーマー
+
+Gladiator Waistguard
+グラディエーターの腰当て
+
+Gladiator Boots
+グラディエーターブーツ
+
+Gladiator Legplates
+グラディエーターレッグプレート
+
+Gladiator Bracers
+グラディエーターブレーサー
+
+Gladiator ring (Left)
+グラディエーターリング（左）
+
+Gladiator ring (Right)
+グラディエーターリング（右）
+
+Tearer mask
+ティアラーマスク
+
+Judgment Of Tearer
+ティアラーの裁き
+
+Tearer Cloak
+ティアラーマント
+
+tearer suit
+ティアラスーツ
+
+tearer Belt
+ティアラーベルト
+
+tearer Boots
+ティアラーブーツ
+
+tearer Leggings
+ティアラーレギンス
+
+tearer Gloves
+ティアラーグローブ
+
+tearer Ring (Left)
+ティアラーリング（左）
+
+tearer Ring (Right)
+ティアラーリング（右）
+
+Windrunner Hood
+ウィンドランナーフード
+
+Windrunner's Harvest
+ウィンドランナーの収穫
+
+Windrunner Cloak
+ウィンドランナークローク
+
+Windrunner Armor
+ウィンドランナーアーマー
+
+Windrunner Belt
+ウィンドランナーベルト
+
+Windrunner Boots
+ウィンドランナーブーツ
+
+Windrunner Leather Pants
+ウィンドランナーレザーパンツ
+
+Windrunner Gauntlets
+ウィンドランナーガントレット
+
+Windrunner ring (Left)
+ウィンドランナーリング（左）
+
+Windrunner ring (Right)
+ウィンドランナーリング（右）
+
+Freezing cap
+凍える帽子
+
+Freezing pendant
+凍えるペンダント
+
+Freezing Cloak
+凍えるクローク
+
+Freezing Robe
+凍えるローブ
+
+Freezing Belt
+凍えるベルト
+
+Freezing boots
+凍えるブーツ
+
+Freezing Leggings
+凍えるレギンス
+
+Freezing Bracelet
+凍えるブレスレット
+
+Freezing ring (Left)
+凍えるリング（左）
+
+Freezing ring (Right)
+凍えるリング（右）
+
+Flaming headband
+炎のヘッドバンド
+
+Flaming Pendant
+炎のペンダント
+
+Flaming Cloak
+炎のクローク
+
+Flaming Robe
+炎のローブ
+
+Flaming Belt
+炎のベルト
+
+Flaming Boots
+炎のブーツ
+
+Flaming Leggings
+炎のレギンス
+
+Flaming Bracelet
+炎のブレスレット
+
+Flaming ring (Left)
+炎のリング（左）
+
+Flaming ring (Right)
+炎のリング（右）
+
+Radiant Hood
+光輝のフード
+
+Radiant Pendant
+光輝のペンダント
+
+Radiant Cloak
+光輝のクローク
+
+Radiant Tabard
+光輝のタバード
+
+Radiant Belt
+光輝のベルト
+
+Radiant Boots
+光輝のブーツ
+
+Radiant Leggings
+光輝のレギンス
+
+Radiant Bracelet
+光輝のブレスレット
+
+Radiant Ring (Left)
+光輝のリング（左）
+
+Radiant Ring (Right)
+光輝のリング（右）
+
+Ghost Mask
+幽霊のマスク
+
+Ghost Pendant
+幽霊のペンダント
+
+Ghost Cloak
+幽霊のクローク
+
+Ghost Robe
+幽霊のローブ
+
+Ghost Belt
+幽霊のベルト
+
+Ghost Boots
+幽霊のブーツ
+
+Ghost Leggings
+幽霊のレギンス
+
+Ghost Bracelet
+幽霊のブレスレット
+
+Ghost Ring (Left)
+幽霊のリング（左）
+
+Ghost Ring (Right)
+幽霊のリング（右）
+
+Solemn Oath
+厳粛な誓い
+
+Savage invader
+野蛮な侵略者
+
+Grief Bringer
+悲嘆の使者
+
+Mutant Slayer
+ミュータントスレイヤー
+
+Frost Sorrow
+フロストソロウ
+
+Scorching Torch
+焦熱のトーチ
+
+Praying seraph
+祈るセラフ
+
+Griffin Claw
+グリフィンクロー
+
+hot bag
+ホットバッグ
+
+Honor Helm
+名誉の兜
+
+Honor Pendant
+名誉のペンダント
+
+Honor Shoulders
+名誉の肩当て
+
+Honor Armor
+名誉のアーマー
+
+Honor Belt
+名誉のベルト
+
+Honor Boots
+名誉のブーツ
+
+Honor Legplates
+名誉のレッグプレート
+
+Honorable Bracers
+名誉のブレイサー
+
+Honor Ring (Left)
+名誉のリング（左）
+
+Honor Ring (Right)
+名誉のリング（右）
+
+Barbarian Helm
+野蛮な兜
+
+Barbarian Pendant
+野蛮なペンダント
+
+Barbarian Shoulders
+野蛮な肩当て
+
+Barbarian Heavy Armor
+野蛮な重鎧
+
+Barbarian Waistguard
+野蛮な腰当て
+
+Barbarian Boots
+野蛮なブーツ
+
+Barbarian Legplates
+野蛮なレッグプレート
+
+Barbarian Bracers
+野蛮なブレイサー
+
+Barbarian Ring (Left)
+野蛮なリング（左）
+
+Barbarian Ring (Right)
+野蛮なリング（右）
+
+ascetic mask
+禁欲のマスク
+
+Ascetic Pendant
+禁欲のペンダント
+
+Ascetic cloak
+禁欲のクローク
+
+Ascetic Suit
+禁欲のスーツ
+
+Ascetic Belt
+禁欲のベルト
+
+Ascetic Boots
+禁欲のブーツ
+
+Ascetic Leggings
+禁欲のレギンス
+
+Ascetic Gloves
+禁欲のグローブ
+
+Ascetic ring (Left)
+禁欲のリング（左）
+
+Ascetic ring (Right)
+禁欲のリング（右）
+
+Raider Hat
+襲撃者の帽子
+
+Raider Pendant
+襲撃者のペンダント
+
+Raider Cape
+襲撃者のマント
+
+Raider Leather Armor
+襲撃者の革鎧
+
+Raider Belt
+襲撃者のベルト
+
+Raider Boots
+襲撃者のブーツ
+
+Raider Leather Pants
+襲撃者の革パンツ
+
+Raider Gauntlets
+襲撃者のガントレット
+
+Raider Ring (Left)
+襲撃者のリング（左）
+
+Raider Ring (Right)
+襲撃者のリング（右）
+
+Frost Helm
+氷の兜
+
+Frost pendant
+氷のペンダント
+
+Frost shawl
+氷のショール
+
+Frost Armor
+氷のアーマー
+
+Frost Belt
+氷のベルト
+
+Frost Boots
+氷のブーツ
+
+Frost Leggings
+氷のレギンス
+
+Frost Bracelet
+氷のブレスレット
+
+Frost Ring (Left)
+氷のリング（左）
+
+Frost Ring (Right)
+氷のリング（右）
+
+wildfire helmet
+野火のヘルメット
+
+Wildfire Pendant
+野火のペンダント
+
+Wildfire Cloak
+野火のクローク
+
+Wildfire Armor
+野火のアーマー
+
+Wildfire Belt
+野火のベルト
+
+Wildfire Boots
+野火のブーツ
+
+Wildfire Leggings
+野火のレギンス
+
+wildfire bracelets
+野火のブレスレット
+
+wildfire ring (Left)
+野火のリング（左）
+
+wildfire ring (Right)
+野火のリング（右）
+
+angel halo
+天使の光輪
+
+Angel's Tears
+天使の涙
+
+Angel Wings
+天使の翼
+
+Angel Clothes
+天使の服
+
+Angel Girdle
+天使のガードル
+
+Angel Boots
+天使のブーツ
+
+Angel Leggings
+天使のレギンス
+
+angel bracelet
+天使のブレスレット
+
+Angel ring (Left)
+天使のリング（左）
+
+angel ring (Right)
+天使のリング（右）
+
+Lich Mask
+リッチのマスク
+
+Legacy of the Lich
+リッチの遺産
+
+Lich Cloak
+リッチのクローク
+
+Lich Tabard
+リッチのタバード
+
+Lich Belt
+リッチのベルト
+
+Lich Boots
+リッチのブーツ
+
+Lich Leggings
+リッチのレギンス
+
+Lich Bracelet
+リッチのブレスレット
+
+Lich Ring (Left)
+リッチのリング（左）
+
+Lich Ring (Right)
+リッチのリング（右）
+
+Ribcracker
+リブクラッカー
+
+Tornado Scourge
+竜巻の災厄
+
+Invisible Claw
+インビジブルクロー
+
+Heart Hitter
+ハートヒッター
+
+Pelting Hail
+ひょうの打撃
+
+Thousands Blast
+千の爆発
+
+Inspire Scepter
+鼓舞のセプター
+
+Terror Scepter
+恐怖のセプター
+
+Champion Helm
+チャンピオンの兜
+
+Champion Pendant
+チャンピオンのペンダント
+
+Champion Shoulders
+チャンピオンの肩当て
+
+Champion armor
+チャンピオンのアーマー
+
+champion belt
+チャンピオンのベルト
+
+Champion Boots
+チャンピオンのブーツ
+
+Champion Legplates
+チャンピオンのレッグプレート
+
+Champion bracers
+チャンピオンのブレイサー
+
+Champion ring (Left)
+チャンピオンのリング（左）
+
+Champion ring (Right)
+チャンピオンのリング（右）
+
+Rampage Helm
+ランページの兜
+
+Rampage Pendant
+ランページのペンダント
+
+Rampage Pauldrons
+ランページのポールドロン
+
+Rampage Armor
+ランページのアーマー
+
+Rampage Belt
+ランページのベルト
+
+Rampage Boots
+ランページのブーツ
+
+Rampage Legplates
+ランページのレッグプレート
+
+Rampage Bracers
+ランページのブレイサー
+
+Rampage ring (Left)
+ランページのリング（左）
+
+Rampage ring (Right)
+ランページのリング（右）
+
+Stealth Mask
+ステルスマスク
+
+Stealth Pendant
+ステルスペンダント
+
+Stealth Cloak
+ステルスクローク
+
+Stealth Suit
+ステルススーツ
+
+Stealth Belt
+ステルスベルト
+
+Stealth Boots
+ステルスブーツ
+
+Stealth shorts
+ステルスショーツ
+
+Stealth Gloves
+ステルスグローブ
+
+Stealth Ring (Left)
+ステルスリング（左）
+
+Stealth Ring (Right)
+ステルスリング（右）
+
+sniper hat
+スナイパーハット
+
+Sniper Pendant
+スナイパーペンダント
+
+sniper cape
+スナイパーケープ
+
+Sniper armor
+スナイパーアーマー
+
+Sniper Belt
+スナイパーベルト
+
+sniper boots
+スナイパーブーツ
+
+Sniper Leggings
+スナイパーレギンス
+
+Sniper Bracers
+スナイパーブレイサー
+
+sniper ring (left)
+スナイパーリング（左）
+
+sniper ring (right)
+スナイパーリング（右）
+
+Blizzard Hat
+ブリザードハット
+
+Blizzard Charm
+ブリザードチャーム
+
+Blizzard Cloak
+ブリザードクローク
+
+Blizzard Robe
+ブリザードローブ
+
+Blizzard Belt
+ブリザードベルト
+
+Blizzard Boots
+ブリザードブーツ
+
+Blizzard Leggings
+ブリザードレギンス
+
+Blizzard Bracelet
+ブリザードブレスレット
+
+Blizzard Ring (Left)
+ブリザードリング（左）
+
+blizzard ring (Right)
+ブリザードリング（右）
+
+Firestorm Crown
+ファイアストームクラウン
+
+Fire Storm Pendant
+ファイアストームペンダント
+
+Firestorm Cloak
+ファイアストームクローク
+
+Firestorm Tabard
+ファイアストームタバード
+
+Firestorm Belt
+ファイアストームベルト
+
+Firestorm Boots
+ファイアストームブーツ
+
+Firestorm Leggings
+ファイアストームレギンス
+
+Firestorm Bracelet
+ファイアストームブレスレット
+
+Firestorm ring (Left)
+ファイアストームリング（左）
+
+Firestorm ring (Right)
+ファイアストームリング（右）
+
+Sermon Hood
+説教フード
+
+Sermon Pendant
+説教ペンダント
+
+Sermon cloak
+説教クローク
+
+Sermon Tabard
+説教タバード
+
+Sermon Belt
+説教ベルト
+
+Sermon boots
+説教ブーツ
+
+Sermon Leggings
+説教レギンス
+
+Sermon bracelet
+説教ブレスレット
+
+Sermon ring (Left)
+説教リング（左）
+
+Sermon ring (Right)
+説教リング（右）
+
+Horror mask
+ホラーマスク
+
+Horror Orb
+ホラーオーブ
+
+Horror cloak
+ホラークローク
+
+Horror Robe
+ホローローブ
+
+Horror Belt
+ホラーベルト
+
+Horror Boots
+ホラーブーツ
+
+Horror Leggings
+ホラーレギンス
+
+Horror bracelets
+ホラーブレスレット
+
+Horror ring (left)
+ホラーリング（左）
+
+Horror ring (right)
+ホラーリング（右）
+
+Royal Victory
+ロイヤルビクトリー
+
+Lethal Warhammer
+致命的なウォーハンマー
+
+Bloodletting razor
+放血の剃刀
+
+Hydra crossbow
+ヒドラクロスボウ
+
+Sealing Moon
+シーリングムーン
+
+eruption Magma
+噴火のマグマ
+
+Pure Wisdom
+純粋な知恵
+
+mummy Curse
+ミイラの呪い
+
+weightless sack
+無重力の袋
+
+hero helmet
+ヒーローヘルメット
+
+hero pendant
+ヒーローペンダント
+
+Hero Pauldrons
+ヒーローポールドロン
+
+Hero Armor
+ヒーローアーマー
+
+Hero Belt
+ヒーローベルト
+
+Hero Boots
+ヒーローブーツ
+
+Hero Legplates
+ヒーローレッグプレート
+
+Heroic Bracers
+ヒーローブレイサー
+
+Hero ring (left)
+ヒーローリング（左）
+
+Hero ring (right)
+ヒーローリング（右）
+
+Sentinel Helm
+センチネルヘルム
+
+Sentinel Pendant
+センチネルペンダント
+
+Sentinel Pauldrons
+センチネルポールドロン
+
+Sentinel Armor
+センチネルアーマー
+
+Sentinel Belt
+センチネルベルト
+
+Sentinel boots
+センチネルブーツ
+
+Sentinel Legplates
+センチネルレッグプレート
+
+Sentinel Bracers
+センチネルブレイサー
+
+Sentinel ring (left)
+センチネルリング（左）
+
+Sentinel ring (right)
+センチネルリング（右）
+
+Executioner Mask
+死刑執行人のマスク
+
+Executioner Pendant
+死刑執行人のペンダント
+
+Executioner Cloak
+死刑執行人のクローク
+
+Executioner Suit
+死刑執行人のスーツ
+
+Executioner Belt
+死刑執行人のベルト
+
+Executioner Boots
+死刑執行人のブーツ
+
+Executioner Shorts
+死刑執行人のショーツ
+
+Executioner Gloves
+死刑執行人のグローブ
+
+executioner ring (left)
+死刑執行人のリング（左）
+
+executioner ring (right)
+死刑執行人のリング（右）
+
+Penetrator helmet
+突入者のヘルメット
+
+Penetrator Pendant
+突入者のペンダント
+
+Penetrator shawl
+突入者のショール
+
+Penetrator Leather Armor
+突入者の革鎧
+
+Penetrator Belt
+突入者のベルト
+
+Penetrator boots
+突入者のブーツ
+
+Penetrator Leather Pants
+突入者の革パンツ
+
+Penetrator Bracers
+突入者のブレイサー
+
+Penetrator ring (left)
+突入者のリング（左）
+
+Penetrator ring (right)
+突入者のリング（右）
+
+Glacier Helmet
+氷河の兜
+
+Glacier Pendant
+氷河のペンダント
+
+Glacier Cloak
+氷河のクローク
+
+Glacier Armor
+氷河のアーマー
+
+Glacier Belt
+氷河のベルト
+
+Glacier Boots
+氷河のブーツ
+
+Glacier Leggings
+氷河のレギンス
+
+Glacier Bracelet
+氷河のブレスレット
+
+glacier ring (left)
+氷河のリング（左）
+
+glacier ring (right)
+氷河のリング（右）
+
+Volcano helmet
+火山の兜
+
+Volcano Orb
+火山のオーブ
+
+Volcano Cape
+火山のマント
+
+Volcano Armor
+火山のアーマー
+
+Volcano Belt
+火山のベルト
+
+Volcano boots
+火山のブーツ
+
+Volcano Leggings
+火山のレギンス
+
+Volcano bracelet
+火山のブレスレット
+
+Volcano ring (left)
+火山のリング（左）
+
+Volcano ring (right)
+火山のリング（右）
+
+Saint Helmet
+聖者の兜
+
+Saint Orb
+聖者のオーブ
+
+Saint cloak
+聖者のクローク
+
+Saint Robe
+聖者のローブ
+
+Saint Belt
+聖者のベルト
+
+Saint boots
+聖者のブーツ
+
+Saint Leggings
+聖者のレギンス
+
+Saint bracelet
+聖者のブレスレット
+
+Saint ring (left)
+聖者のリング（左）
+
+Saint ring (right)
+聖者のリング（右）
+
+Toxin mask
+毒のマスク
+
+Toxin Magic Beads
+毒の魔法ビーズ
+
+Toxin cloak
+毒のクローク
+
+Toxin Robe
+毒のローブ
+
+Toxin Belt
+毒のベルト
+
+Toxin boots
+毒のブーツ
+
+Toxin Leggings
+毒のレギンス
+
+Toxin bracelet
+毒のブレスレット
+
+Toxin ring (left)
+毒のリング（左）
+
+Toxin ring (right)
+毒のリング（右）
+
+Broken Sky
+壊れた空
+
+Lost Eternity
+失われた永遠
+
+Dragon Scale
+ドラゴンスケール
+
+Star Fury
+星の怒り
+
+Desolate Snow
+荒涼たる雪
+
+Black Smoke
+黒煙
+
+Redemption finger
+贖罪の指
+
+Demon Spine
+悪魔の脊椎
+
+Pioneer Helm
+パイオニアの兜
+
+Pioneer Pendant
+パイオニアのペンダント
+
+Pioneer Shoulders
+パイオニアの肩当て
+
+Pioneer Armor
+パイオニアのアーマー
+
+Pioneer Belt
+パイオニアのベルト
+
+Pioneer Boots
+パイオニアのブーツ
+
+Pioneer Legplates
+パイオニアのレッグプレート
+
+Pioneer Bracers
+パイオニアのブレイサー
+
+Pioneer Ring (Left)
+パイオニアのリング（左）
+
+Pioneer Ring (Right)
+パイオニアのリング（右）
+
+Giant Helm
+巨人の兜
+
+giant pendant
+巨人のペンダント
+
+Giant Pauldrons
+巨人のポールドロン
+
+Giant Armor
+巨人のアーマー
+
+Giant Belt
+巨人のベルト
+
+Giant Boots
+巨人のブーツ
+
+Giant Legplates
+巨人のレッグプレート
+
+Giant Bracers
+巨人のブレイサー
+
+giant ring (left)
+巨人のリング（左）
+
+Giant Ring (Right)
+巨人のリング（右）
+
+Reaper Mask
+死神のマスク
+
+Reaper Pendant
+死神のペンダント
+
+Reaper Cloak
+死神のクローク
+
+Reaper Suit
+死神のスーツ
+
+Reaper Belt
+死神のベルト
+
+Reaper Boots
+死神のブーツ
+
+Reaper Shorts
+死神のショーツ
+
+Reaper Gloves
+死神のグローブ
+
+reaper ring (left)
+死神のリング（左）
+
+reaper ring (right)
+死神のリング（右）
+
+Destroyer Hat
+デストロイヤーハット
+
+Destroyer Pendant
+デストロイヤーペンダント
+
+Destroyer Cape
+デストロイヤーケープ
+
+Destroyer Armor
+デストロイヤーアーマー
+
+Destroyer Belt
+デストロイヤーベルト
+
+Destroyer Boots
+デストロイヤーブーツ
+
+Destroyer Pants
+デストロイヤーパンツ
+
+Destroyer Gauntlets
+デストロイヤーガントレット
+
+Destroyer ring (left)
+デストロイヤーリング（左）
+
+Destroyer ring (right)
+デストロイヤーリング（右）
+
+Winter helmet
+冬のヘルメット
+
+Winter Pendant
+冬のペンダント
+
+winter cloak
+冬のクローク
+
+Winter armor
+冬のアーマー
+
+Winter Belt
+冬のベルト
+
+winter boots
+冬のブーツ
+
+Winter Leggings
+冬のレギンス
+
+Winter bracelet
+冬のブレスレット
+
+Winter ring (left)
+冬のリング（左）
+
+Winter ring (right)
+冬のリング（右）
+
+Inferno helmet
+インフェルノヘルメット
+
+Inferno Pendant
+インフェルノペンダント
+
+Inferno cape
+インフェルノケープ
+
+Inferno Armor
+インフェルノアーマー
+
+Inferno Belt
+インフェルノベルト
+
+Inferno boots
+インフェルノブーツ
+
+Inferno Leggings
+インフェルノレギンス
+
+Inferno bracelet
+インフェルノブレスレット
+
+Inferno ring (left)
+インフェルノリング（左）
+
+Inferno ring (right)
+インフェルノリング（右）
+
+Revival headband
+リバイバルヘッドバンド
+
+Revival Pendant
+リバイバルペンダント
+
+Revival cape
+リバイバルケープ
+
+Revival Robe
+リバイバルローブ
+
+Revival Belt
+リバイバルベルト
+
+Revival boots
+リバイバルブーツ
+
+Revival Leggings
+リバイバルレギンス
+
+Revival bracelet
+リバイバルブレスレット
+
+Revival ring (left)
+リバイバルリング（左）
+
+Revival ring (right)
+リバイバルリング（右）
+
+Undead mask
+アンデッドマスク
+
+Undead Pendant
+アンデッドペンダント
+
+Undead Cloak
+アンデッドクローク
+
+Undead Tabard
+アンデッドタバード
+
+Undead Belt
+アンデッドベルト
+
+Undead Boots
+アンデッドブーツ
+
+Undead Leggings
+アンデッドレギンス
+
+Undead bracelet
+アンデッドブレスレット
+
+Undead Ring (Left)
+アンデッドリング（左）
+
+Undead Ring (Right)
+アンデッドリング（右）
+
+Evil Purger
+邪悪な清浄者
+
+Thor Hammer
+トールハンマー
+
+Revenge Tooth
+復讐の牙
+
+Phoenix Longbow
+フェニックスロングボウ
+
+Poseidon Trident
+ポセイドントライデント
+
+Burning Corona
+燃え上がるコロナ
+
+Salvation Cross
+救世の十字架
+
+Death Scythe
+死の鎌
+
+Realm Pack
+領域パック
+
+Saviour helmet
+救世者の兜
+
+Saviour Pendant
+救世者のペンダント
+
+Saviour Shoulders
+救世者の肩当て
+
+Saviour Battlegear
+救世者の戦闘装備
+
+Saviour Waistguard
+救世者の腰当て
+
+Saviour boots
+救世者のブーツ
+
+Saviour Legplates
+救世者のレッグプレート
+
+Saviour Bracers
+救世者のブレイサー
+
+Saviour ring (left)
+救世者のリング（左）
+
+Saviour ring (right)
+救世者のリング（右）
+
+Patronus helmet
+守護者の兜
+
+Patronus Pendant
+守護者のペンダント
+
+Patronus Pauldrons
+守護者のポールドロン
+
+Patronus Armor
+守護者のアーマー
+
+Patronus Waist
+守護者のウエスト
+
+Patronus boots
+守護者のブーツ
+
+Patronus Legplates
+守護者のレッグプレート
+
+Patronus Bracers
+守護者のブレイサー
+
+Patronus ring (left)
+守護者のリング（左）
+
+Patronus ring (right)
+守護者のリング（右）
+
+Slaughterer Mask
+虐殺者のマスク
+
+Slaughterer Pendant
+虐殺者のペンダント
+
+Slaughterer Cloak
+虐殺者のクローク
+
+Slaughterer Suit
+虐殺者のスーツ
+
+Slaughterer Belt
+虐殺者のベルト
+
+Slaughterer Boots
+虐殺者のブーツ
+
+Slaughterer Trousers
+虐殺者のズボン
+
+Slaughterer Gloves
+虐殺者のグローブ
+
+Slaughterer Ring (Left)
+虐殺者のリング（左）
+
+Slaughterer Ring (Right)
+虐殺者のリング（右）
+
+Dominator hat
+支配者の帽子
+
+Dominator Pendant
+支配者のペンダント
+
+Dominator Shawl
+支配者のショール
+
+Dominator Armor
+支配者のアーマー
+
+Dominator Belt
+支配者のベルト
+
+Dominator Boots
+支配者のブーツ
+
+Dominator Leggings
+支配者のレギンス
+
+Dominator Gauntlets
+支配者のガントレット
+
+Dominator ring (left)
+支配者のリング（左）
+
+Dominator ring (right)
+支配者のリング（右）
+
+Tsunami crown
+海神皇冠
+
+Tsunami Pendant
+海神吊坠
+
+Tsunami cape
+海神护肩
+
+Tsunami Tabard
+海神战袍
+
+Tsunami Belt
+海神腰带
+
+Tsunami boots
+海神战靴
+
+Tsunami Leggings
+海神护腿
+
+Tsunami bracelet
+海神手镯
+
+Tsunami ring left hand
+海神左戒
+
+Tsunami ring right hand
+海神右戒
+
+Sunfire Cap
+サンファイアキャップ
+
+Sunfire Charm
+サンファイアチャーム
+
+Sunfire Cloak
+サンファイアクローク
+
+Sunfire Robe
+サンファイアローブ
+
+Sunfire Belt
+サンファイアベルト
+
+Sunfire boots
+サンファイアブーツ
+
+Sunfire Leggings
+サンファイアレギンス
+
+Sunfire bracelet
+サンファイアブレスレット
+
+Sunfire ring (left)
+サンファイアリング（左）
+
+Sunfire Ring (Right)
+サンファイアリング（右）
+
+Celestial Halo
+天上の光輪
+
+Celestial pendant
+天上のペンダント
+
+Celestial Wings
+天上の翼
+
+Celestial robe
+天上のローブ
+
+Celestial Girdle
+天上のガードル
+
+Celestial Boots
+天上のブーツ
+
+Celestial Leggings
+天上のレギンス
+
+Celestial bracelet
+天上のブレスレット
+
+Celestial ring (left)
+天上のリング（左）
+
+Celestial ring (right)
+天上のリング（右）
+
+Sacrifice Mask
+犠牲のマスク
+
+Sacrifice Pendant
+犠牲のペンダント
+
+Sacrifice Cloak
+犠牲のクローク
+
+Sacrifice Tabard
+犠牲のタバード
+
+Sacrifice belt
+犠牲のベルト
+
+Sacrifice boots
+犠牲のブーツ
+
+Sacrifice Leggings
+犠牲のレギンス
+
+Sacrifice bracelet
+犠牲のブレスレット
+
+Sacrifice ring (left)
+献祭戒指（左）
+
+Sacrifice ring (right)
+献祭戒指（右）
+
+War badge {d}
+戦争バッジ{d}
+
+_Arena lzs0lzs2250lzs1lzsGold medal
+_アリーナ lzs0lzs2250lzs1lzs金メダル
+
+_Arena lzs0lzs2249lzs1lzsSilver medal
+_アリーナ lzs0lzs2249lzs1lzs銀メダル
+
+_Arena lzs0lzs2248lzs1lzsBlue medal
+_アリーナ lzs0lzs2248lzs1lzs青メダル
+
+_Arena lzs0lzs2247lzs1lzsWhite medal
+_アリーナ lzs0lzs2247lzs1lzs白メダル
+
+_Arena Outstanding
+_アリーナ傑出した
+
+Arena medal
+アリーナメダル
+
+_Tactical lzs0lzs2250lzs1lzsGold medal
+_戦術 lzs0lzs2250lzs1lzs金メダル
+
+_Tactical lzs0lzs2249lzs1lzsSilver medal
+_戦術 lzs0lzs2249lzs1lzs銀メダル
+
+_Tactical lzs0lzs2248lzs1lzsBlue medal
+_戦術 lzs0lzs2248lzs1lzs青メダル
+
+_Tactical lzs0lzs2247lzs1lzsWhite medal
+_戦術 lzs0lzs2247lzs1lzs白メダル
+
+_Tactical Outstanding
+_戦術傑出した
+
+Tactical medal
+戦術メダル
+
+One Star Attack Medal
+1つ星攻撃メダル
+
+Two Star Attack Medal
+2つ星攻撃メダル
+
+Three Star Attack Medal
+3つ星攻撃メダル
+
+Four Star Attack Medal
+4つ星攻撃メダル
+
+Five Star Attack Medal
+5つ星攻撃メダル
+
+Medal of the demon Hunting boy
+悪魔狩り少年のメダル
+
+Medal of the Demon Chasing girl
+悪魔追跡少女のメダル
+
+Medal of adored by Female Soldiers
+女性兵士に愛されるメダル
+
+Medal of loved by the Counts
+伯爵に愛されるメダル
+
+Princess's Kiss
+王女のキス
+
+Prince's Tears
+王子の涙
+
+White skeleton
+白いスケルトン
+
+Bloody Skeleton
+血まみれのスケルトン
+
+Undead Skeleton
+アンデッドスケルトン
+
+Demon Skeleton
+デモンスケルトン
+
+Gold medal of Hunting
+狩猟金メダル
+
+Silver medal of Hunting
+狩猟銀メダル
+
+Blue medal of Hunting
+狩猟青メダル
+
+White medal of Hunting
+狩猟白メダル
+
+Expert of Hunting
+狩猟の専門家
+
+Apprentice of Hunting
+狩猟の見習い
+
+gold wedding ring
+黄金婚戒
+
+Platinum wedding ring
+白金婚戒
+
+lzs0lzs2243lzs1lzsdiamond wedding ring
+lzs0lzs2243lzs1lzsダイヤモンド婚戒
+
+Tutor Medal
+チューターメダル
+
+Benevolent Medal
+慈善メダル
+
+Kindhearted Medal
+親切メダル
+
+Renowned Medal
+有名メダル
+
+Master Medal
+マスターメダル
+
+Contribution Medal
+貢献メダル
+
+Mist god Emblem
+霧の神の紋章
+
+Crispy potato and vegetable pie
+カリカリのジャガイモと野菜のパイ
+
+concentric knot
+同心結び
+
+Five-Nuts Osmanthus Cake
+五仁桂花ケーキ
+
+Festival Medal
+フェスティバルメダル
+
+Great iron sword
+大鉄剣
+
+Epic iron sword
+叙事詩鉄剣
+
+Heavenly iron sword
+天国鉄剣
+
+Godbless iron sword
+神祝鉄剣
+
+Great iron hammer
+大鉄槌
+
+Epic iron hammer
+叙事詩鉄槌
+
+Heavenly iron hammer
+天国鉄槌
+
+Godbless iron hammer
+神祝鉄槌
+
+Great dagger
+大短剣
+
+Epic dagger
+叙事詩短剣
+
+Heavenly dagger
+天国短剣
+
+Godbless dagger
+神祝短剣
+
+Great wooden bow
+大木弓
+
+Epic wooden bow
+叙事詩木弓
+
+Heavenly wooden bow
+天国木弓
+
+Godbless wooden bow
+神祝木弓
+
+Great Ivy Staff
+大蔦杖
+
+Epic Ivy Staff
+叙事詩蔦杖
+
+Heavenly Ivy Staff
+天国蔦杖
+
+Godbless Ivy Staff
+神祝蔦杖
+
+Great Ivy Scepter
+大蔦笏
+
+Epic Ivy Scepter
+叙事詩蔦笏
+
+Heavenly Ivy Scepter
+天国蔦笏
+
+Godbless Ivy Scepter
+神祝蔦笏
+
+Great bronze Set
+大青銅セット
+
+Epic bronze Set
+叙事詩青銅セット
+
+Heavenly bronze Set
+天国青銅セット
+
+Godbless bronze Set
+神祝青銅セット
+
+Great silk Set
+大絹セット
+
+Epic silk Set
+叙事詩絹セット
+
+Heavenly silk Set
+天国絹セット
+
+Godbless silk Set
+神祝絹セット
+
+Great Sword of Fighter
+大戦士の剣
+
+Epic Sword of Fighter
+叙事詩戦士の剣
+
+Heavenly Sword of Fighter
+天国戦士の剣
+
+Godbless Sword of Fighter
+神祝戦士の剣
+
+Great machete of Berserker
+大狂戦士のマチェーテ
+
+Epic machete of Berserker
+叙事詩狂戦士のマチェーテ
+
+Heavenly machete of Berserker
+天国狂戦士のマチェーテ
+
+Godbless machete of Berserker
+神祝狂戦士のマチェーテ
+
+Great Blade of Killer
+大キラーの刃
+
+Epic Blade of Killer
+叙事詩キラーの刃
+
+Heavenly Blade of Killer
+天国キラーの刃
+
+Godbless Blade of Killer
+神祝キラーの刃
+
+Great Bow of chaser
+大追跡者の弓
+
+Epic Bow of chaser
+叙事詩追跡者の弓
+
+Heavenly Bow of chaser
+天国追跡者の弓
+
+Godbless Bow of chaser
+神祝追跡者の弓
+
+Great Staff of Wisdom
+大知恵の杖
+
+Epic Staff of Wisdom
+叙事詩知恵の杖
+
+Heavenly Staff of Wisdom
+天国知恵の杖
+
+Godbless Staff of Wisdom
+神祝知恵の杖
+
+Great Staff of Nature
+大自然の杖
+
+Epic Staff of Nature
+叙事詩自然の杖
+
+Heavenly Staff of Nature
+天国自然の杖
+
+Godbless Staff of Nature
+神祝自然の杖
+
+Great Scepter of Mercy
+大慈悲の笏
+
+Epic Scepter of Mercy
+叙事詩慈悲の笏
+
+Heavenly Scepter of Mercy
+天国慈悲の笏
+
+Godbless Scepter of Mercy
+神祝慈悲の笏
+
+Great Scepter of Bones
+大骨の笏
+
+Epic Scepter of Bones
+叙事詩骨の笏
+
+Heavenly Scepter of Bones
+天国骨の笏
+
+Godbless Scepter of Bones
+神祝骨の笏
+
+Great fighter Set
+大戦士セット
+
+Epic fighter Set
+叙事詩戦士セット
+
+Heavenly fighter Set
+天国戦士セット
+
+Godbless fighter Set
+神祝戦士セット
+
+Great Berserker Set
+大狂戦士セット
+
+Epic Berserker Set
+叙事詩狂戦士セット
+
+Heavenly Berserker Set
+天国狂戦士セット
+
+Godbless Berserker Set
+神祝狂戦士セット
+
+Great killer Set
+大キラーセット
+
+Epic killer Set
+叙事詩キラーセット
+
+Heavenly killer Set
+天国キラーセット
+
+Godbless killer Set
+神祝キラーセット
+
+Great chaser Set
+大追跡者セット
+
+Epic chaser Set
+叙事詩追跡者セット
+
+Heavenly chaser Set
+天国追跡者セット
+
+Godbless chaser Set
+神祝追跡者セット
+
+Great Wisdom Set
+大知恵セット
+
+Epic Wisdom Set
+叙事詩知恵セット
+
+Heavenly Wisdom Set
+天国知恵セット
+
+Godbless Wisdom Set
+神祝知恵セット
+
+Great colorful Set
+大色とりどりセット
+
+Epic colorful Set
+叙事詩色とりどりセット
+
+Heavenly colorful Set
+天国色とりどりセット
+
+Godbless colorful Set
+神祝色とりどりセット
+
+Great charity Set
+大慈善セット
+
+Epic charity Set
+叙事詩慈善セット
+
+Heavenly charity Set
+天国慈善セット
+
+Godbless charity Set
+神祝慈善セット
+
+Great Skull Set
+大スカルセット
+
+Epic Skull Set
+叙事詩スカルセット
+
+Heavenly Skull Set
+天国スカルセット
+
+Godbless Skull Set
+神祝スカルセット
+
+Great Ocean Roaring
+大海の咆哮
+
+Epic Ocean Roaring
+叙事詩海の咆哮
+
+Heavenly Ocean Roaring
+天国海の咆哮
+
+Godbless Ocean Roaring
+神祝海の咆哮
+
+Great Mountain Crushing
+大山の砕ける
+
+Epic Mountain Crushing
+叙事詩山の砕ける
+
+Heavenly Mountain Crushing
+天国山の砕ける
+
+Godbless Mountain Crushing
+神祝山の砕ける
+
+Great Shadow Kissing
+大影の口づけ
+
+Epic Shadow Kissing
+叙事詩影の口づけ
+
+Heavenly Shadow Kissing
+天国影の口づけ
+
+Godbless Shadow Kissing
+神祝影の口づけ
+
+Great Wind Dancing
+大風の舞
+
+Epic Wind Dancing
+叙事詩風の舞
+
+Heavenly Wind Dancing
+天国風の舞
+
+Godbless Wind Dancing
+神祝風の舞
+
+Great Ice Sighing
+大氷の溜息
+
+Epic Ice Sighing
+叙事詩氷の溜息
+
+Heavenly Ice Sighing
+天国氷の溜息
+
+Godbless Ice Sighing
+神祝氷の溜息
+
+Great Fire Enveloping
+大火の包囲
+
+Epic Fire Enveloping
+叙事詩火の包囲
+
+Heavenly Fire Enveloping
+天国火の包囲
+
+Godbless Fire Enveloping
+神祝火の包囲
+
+Great Light Weaving
+大光の織り
+
+Epic Light Weaving
+叙事詩光の織り
+
+Heavenly Light Weaving
+天国光の織り
+
+Godbless Light Weaving
+神祝光の織り
+
+Great Soul Sucking
+偉大な魂の吸引
+
+Epic Soul Sucking
+叙事詩的な魂の吸引
+
+Heavenly Soul Sucking
+天国の魂の吸引
+
+Godbless Soul Sucking
+神の祝福された魂の吸引
+
+Great Fencer Set
+偉大なフェンサーセット
+
+Epic Fencer Set
+叙事詩的なフェンサーセット
+
+Heavenly Fencer Set
+天国のフェンサーセット
+
+Godbless Fencer Set
+神の祝福されたフェンサーセット
+
+Great Gladiator Set
+偉大な剣闘士セット
+
+Epic Gladiator Set
+叙事詩的な剣闘士セット
+
+Heavenly Gladiator Set
+天国の剣闘士セット
+
+Godbless Gladiator Set
+神の祝福された剣闘士セット
+
+Great Tearer Set
+偉大な破壊者セット
+
+Epic Tearer Set
+叙事詩的な破壊者セット
+
+Heavenly Tearer Set
+天国の破壊者セット
+
+Godbless Tearer Set
+神の祝福された破壊者セット
+
+Great Windrunner Set
+偉大な風のランナーセット
+
+Epic Windrunner Set
+叙事詩的な風のランナーセット
+
+Heavenly Windrunner Set
+天国の風のランナーセット
+
+Godbless Windrunner Set
+神の祝福された風のランナーセット
+
+Great Freezing Set
+偉大な凍結セット
+
+Epic Freezing Set
+叙事詩的な凍結セット
+
+Heavenly Freezing Set
+天国の凍結セット
+
+Godbless Freezing Set
+神の祝福された凍結セット
+
+Great Flaming Set
+偉大な火炎セット
+
+Epic Flaming Set
+叙事詩的な火炎セット
+
+Heavenly Flaming Set
+天国の火炎セット
+
+Godbless Flaming Set
+神の祝福された火炎セット
+
+Great Radiant Set
+偉大な輝くセット
+
+Epic Radiant Set
+叙事詩的な輝くセット
+
+Heavenly Radiant Set
+天国の輝くセット
+
+Godbless Radiant Set
+神の祝福された輝くセット
+
+Great Ghost Set
+偉大な幽霊セット
+
+Epic Ghost Set
+叙事詩的な幽霊セット
+
+Heavenly Ghost Set
+天国の幽霊セット
+
+Godbless Ghost Set
+神の祝福された幽霊セット
+
+Great Solemn Oath
+偉大な厳粛な誓い
+
+Epic Solemn Oath
+叙事詩的な厳粛な誓い
+
+Heavenly Solemn Oath
+天国の厳粛な誓い
+
+Godbless Solemn Oath
+神の祝福された厳粛な誓い
+
+Great Savage invader
+偉大な野蛮な侵略者
+
+Epic Savage invader
+叙事詩的な野蛮な侵略者
+
+Heavenly Savage invader
+天国の野蛮な侵略者
+
+Godbless Savage invader
+神の祝福された野蛮な侵略者
+
+Great Grief Bringer
+偉大な悲しみのもたらす者
+
+Epic Grief Bringer
+叙事詩的な悲しみのもたらす者
+
+Heavenly Grief Bringer
+天国の悲しみのもたらす者
+
+Godbless Grief Bringer
+神の祝福された悲しみのもたらす者
+
+Great Mutant Slayer
+偉大な突然変異体のスレイヤー
+
+Epic Mutant Slayer
+叙事詩的な突然変異体のスレイヤー
+
+Heavenly Mutant Slayer
+天国の突然変異体のスレイヤー
+
+Godbless Mutant Slayer
+神の祝福された突然変異体のスレイヤー
+
+Great Frost Sorrow
+偉大な霜の悲しみ
+
+Epic Frost Sorrow
+叙事詩的な霜の悲しみ
+
+Heavenly Frost Sorrow
+天国の霜の悲しみ
+
+Godbless Frost Sorrow
+神の祝福された霜の悲しみ
+
+Great Scorching Torch
+偉大な焼き焦がすたいまつ
+
+Epic Scorching Torch
+叙事詩的な焼き焦がすたいまつ
+
+Heavenly Scorching Torch
+天国の焼き焦がすたいまつ
+
+Godbless Scorching Torch
+神の祝福された焼き焦がすたいまつ
+
+Great Praying seraph
+偉大な祈るセラフ
+
+Epic Praying seraph
+叙事詩的な祈るセラフ
+
+Heavenly Praying seraph
+天国の祈るセラフ
+
+Godbless Praying seraph
+神の祝福された祈るセラフ
+
+Great Griffin Claw
+偉大なグリフィンクロー
+
+Epic Griffin Claw
+叙事詩的なグリフィンクロー
+
+Heavenly Griffin Claw
+天国のグリフィンクロー
+
+Godbless Griffin Claw
+神の祝福されたグリフィンクロー
+
+Great Honor Set
+偉大な名誉セット
+
+Epic Honor Set
+叙事詩的な名誉セット
+
+Heavenly Honor Set
+天国の名誉セット
+
+Godbless Honor Set
+神の祝福された名誉セット
+
+Great Barbarian Set
+偉大な野蛮人セット
+
+Epic Barbarian Set
+叙事詩的な野蛮人セット
+
+Heavenly Barbarian Set
+天国の野蛮人セット
+
+Godbless Barbarian Set
+神の祝福された野蛮人セット
+
+Great ascetic Set
+偉大な禁欲者セット
+
+Epic ascetic Set
+叙事詩的な禁欲者セット
+
+Heavenly ascetic Set
+天国の禁欲者セット
+
+Godbless ascetic Set
+神の祝福された禁欲者セット
+
+Great Raider Set
+偉大な襲撃者セット
+
+Epic Raider Set
+叙事詩的な襲撃者セット
+
+Heavenly Raider Set
+天国の襲撃者セット
+
+Godbless Raider Set
+神の祝福された襲撃者セット
+
+Great Frost Set
+偉大な霜セット
+
+Epic Frost Set
+叙事詩的な霜セット
+
+Heavenly Frost Set
+天国の霜セット
+
+Godbless Frost Set
+神の祝福された霜セット
+
+Great wildfire Set
+偉大な山火事セット
+
+Epic wildfire Set
+叙事詩的な山火事セット
+
+Heavenly wildfire Set
+天国の山火事セット
+
+Godbless wildfire Set
+神の祝福された山火事セット
+
+Great angel Set
+偉大な天使セット
+
+Epic angel Set
+叙事詩的な天使セット
+
+Heavenly angel Set
+天国の天使セット
+
+Godbless angel Set
+神の祝福された天使セット
+
+Great Lich Set
+偉大なリッチセット
+
+Epic Lich Set
+叙事詩的なリッチセット
+
+Heavenly Lich Set
+天国のリッチセット
+
+Godbless Lich Set
+神の祝福されたリッチセット
+
+Great Ribcracker
+偉大なリブクラッカー
+
+Epic Ribcracker
+叙事詩的なリブクラッカー
+
+Heavenly Ribcracker
+天国のリブクラッカー
+
+Godbless Ribcracker
+神の祝福されたリブクラッカー
+
+Great Tornado Scourge
+偉大なトルネードの災い
+
+Epic Tornado Scourge
+叙事詩的なトルネードの災い
+
+Heavenly Tornado Scourge
+天国のトルネードの災い
+
+Godbless Tornado Scourge
+神の祝福されたトルネードの災い
+
+Great Invisible Claw
+偉大な目に見えない爪
+
+Epic Invisible Claw
+叙事詩的な目に見えない爪
+
+Heavenly Invisible Claw
+天国の目に見えない爪
+
+Godbless Invisible Claw
+神の祝福された目に見えない爪
+
+Great Heart Hitter
+偉大な心の打撃者
+
+Epic Heart Hitter
+叙事詩的な心の打撃者
+
+Heavenly Heart Hitter
+天国の心の打撃者
+
+Godbless Heart Hitter
+神の祝福された心の打撃者
+
+Great Pelting Hail
+偉大な氷の殴打
+
+Epic Pelting Hail
+叙事詩的な氷の殴打
+
+Heavenly Pelting Hail
+天国の氷の殴打
+
+Godbless Pelting Hail
+神の祝福された氷の殴打
+
+Great Thousands Blast
+偉大な千の爆発
+
+Epic Thousands Blast
+叙事詩的な千の爆発
+
+Heavenly Thousands Blast
+天国の千の爆発
+
+Godbless Thousands Blast
+神の祝福された千の爆発
+
+Great Inspire Scepter
+偉大な霊感のセプター
+
+Epic Inspire Scepter
+叙事詩的な霊感のセプター
+
+Heavenly Inspire Scepter
+天国の霊感のセプター
+
+Godbless Inspire Scepter
+神の祝福された霊感のセプター
+
+Great Terror Scepter
+偉大な恐怖のセプター
+
+Epic Terror Scepter
+叙事詩的な恐怖のセプター
+
+Heavenly Terror Scepter
+天国の恐怖のセプター
+
+Godbless Terror Scepter
+神の祝福された恐怖のセプター
+
+Great Champion Set
+偉大なチャンピオンセット
+
+Epic Champion Set
+叙事詩的なチャンピオンセット
+
+Heavenly Champion Set
+天国のチャンピオンセット
+
+Godbless Champion Set
+神の祝福されたチャンピオンセット
+
+Great Rampage Set
+偉大なランページセット
+
+Epic Rampage Set
+叙事詩的なランページセット
+
+Heavenly Rampage Set
+天国のランページセット
+
+Godbless Rampage Set
+神の祝福されたランページセット
+
+Great Stealth Set
+偉大なステルスセット
+
+Epic Stealth Set
+叙事詩的なステルスセット
+
+Heavenly Stealth Set
+天国のステルスセット
+
+Godbless Stealth Set
+神の祝福されたステルスセット
+
+Great sniper Set
+偉大な狙撃者セット
+
+Epic sniper Set
+叙事詩的な狙撃者セット
+
+Heavenly sniper Set
+天国の狙撃者セット
+
+Godbless sniper Set
+神の祝福された狙撃者セット
+
+Great Blizzard Set
+偉大な吹雪セット
+
+Epic Blizzard Set
+叙事詩的な吹雪セット
+
+Heavenly Blizzard Set
+天国の吹雪セット
+
+Godbless Blizzard Set
+神の祝福された吹雪セット
+
+Great Firestorm Set
+偉大な火の嵐セット
+
+Epic Firestorm Set
+叙事詩的な火の嵐セット
+
+Heavenly Firestorm Set
+天国の火の嵐セット
+
+Godbless Firestorm Set
+神の祝福された火の嵐セット
+
+Great Sermon Set
+偉大な説教セット
+
+Epic Sermon Set
+叙事詩的な説教セット
+
+Heavenly Sermon Set
+天国の説教セット
+
+Godbless Sermon Set
+神の祝福された説教セット
+
+Great Horror Set
+偉大なホラーセット
+
+Epic Horror Set
+叙事詩的なホラーセット
+
+Heavenly Horror Set
+天国のホラーセット
+
+Godbless Horror Set
+神の祝福されたホラーセット
+
+Great Royal Victory
+偉大な王室の勝利
+
+Epic Royal Victory
+叙事詩的な王室の勝利
+
+Heavenly Royal Victory
+天国の王室の勝利
+
+Godbless Royal Victory
+神の祝福された王室の勝利
+
+Great Lethal Warhammer
+偉大な致命的なウォーハンマー
+
+Epic Lethal Warhammer
+叙事詩的な致命的なウォーハンマー
+
+Heavenly Lethal Warhammer
+天国の致命的なウォーハンマー
+
+Godbless Lethal Warhammer
+神の祝福された致命的なウォーハンマー
+
+Great Bloodletting razor
+偉大な放血用かみそり
+
+Epic Bloodletting razor
+叙事詩的な放血用かみそり
+
+Heavenly Bloodletting razor
+天国の放血用かみそり
+
+Godbless Bloodletting razor
+神の祝福された放血用かみそり
+
+Great Hydra crossbow
+偉大なヒドラのクロスボウ
+
+Epic Hydra crossbow
+叙事詩的なヒドラのクロスボウ
+
+Heavenly Hydra crossbow
+天国のヒドラのクロスボウ
+
+Godbless Hydra crossbow
+神の祝福されたヒドラのクロスボウ
+
+Great Sealing Moon
+偉大な封印の月
+
+Epic Sealing Moon
+叙事詩的な封印の月
+
+Heavenly Sealing Moon
+天国の封印の月
+
+Godbless Sealing Moon
+神の祝福された封印の月
+
+Great eruption Magma
+偉大な噴火するマグマ
+
+Epic eruption Magma
+叙事詩的な噴火するマグマ
+
+Heavenly eruption Magma
+天国の噴火するマグマ
+
+Godbless eruption Magma
+神の祝福された噴火するマグマ
+
+Great Pure Wisdom
+偉大な純粋な知恵
+
+Epic Pure Wisdom
+叙事詩的な純粋な知恵
+
+Heavenly Pure Wisdom
+天国の純粋な知恵
+
+Godbless Pure Wisdom
+神の祝福された純粋な知恵
+
+Great mummy Curse
+偉大なミイラの呪い
+
+Epic mummy Curse
+叙事詩的なミイラの呪い
+
+Heavenly mummy Curse
+天国のミイラの呪い
+
+Godbless mummy Curse
+神の祝福されたミイラの呪い
+
+Great hero Set
+偉大な英雄セット
+
+Epic hero Set
+叙事詩的な英雄セット
+
+Heavenly hero Set
+天国の英雄セット
+
+Godbless hero Set
+神の祝福された英雄セット
+
+Great Sentinel Set
+偉大なセントリーセット
+
+Epic Sentinel Set
+叙事詩的なセントリーセット
+
+Heavenly Sentinel Set
+天国のセントリーセット
+
+Godbless Sentinel Set
+神の祝福されたセントリーセット
+
+Great Executioner Set
+偉大な執行者セット
+
+Epic Executioner Set
+叙事詩的な執行者セット
+
+Heavenly Executioner Set
+天国の執行者セット
+
+Godbless Executioner Set
+神の祝福された執行者セット
+
+Great Penetrator Set
+偉大なペネトレータセット
+
+Epic Penetrator Set
+叙事詩的なペネトレータセット
+
+Heavenly Penetrator Set
+天国のペネトレータセット
+
+Godbless Penetrator Set
+神の祝福されたペネトレータセット
+
+Great Glacier Set
+偉大な氷河セット
+
+Epic Glacier Set
+叙事詩的な氷河セット
+
+Heavenly Glacier Set
+天国の氷河セット
+
+Godbless Glacier Set
+神の祝福された氷河セット
+
+Great Volcano Set
+偉大な火山セット
+
+Epic Volcano Set
+叙事詩的な火山セット
+
+Heavenly Volcano Set
+天国の火山セット
+
+Godbless Volcano Set
+神の祝福された火山セット
+
+Great Saint Set
+偉大な聖者セット
+
+Epic Saint Set
+叙事詩的な聖者セット
+
+Heavenly Saint Set
+天国の聖者セット
+
+Godbless Saint Set
+神の祝福された聖者セット
+
+Great Toxin Set
+偉大な毒素セット
+
+Epic Toxin Set
+叙事詩的な毒素セット
+
+Heavenly Toxin Set
+天国の毒素セット
+
+Godbless Toxin Set
+神の祝福された毒素セット
+
+Great Broken Sky
+偉大な壊れた空
+
+Epic Broken Sky
+叙事詩的な壊れた空
+
+Heavenly Broken Sky
+天国の壊れた空
+
+Godbless Broken Sky
+神の祝福された壊れた空
+
+Great Lost Eternity
+偉大な失われた永遠
+
+Epic Lost Eternity
+叙事詩的な失われた永遠
+
+Heavenly Lost Eternity
+天国の失われた永遠
+
+Godbless Lost Eternity
+神の祝福された失われた永遠
+
+Great Dragon Scale
+偉大な竜の鱗
+
+Epic Dragon Scale
+叙事詩的な竜の鱗
+
+Heavenly Dragon Scale
+天国の竜の鱗
+
+Godbless Dragon Scale
+神の祝福された竜の鱗
+
+Great Star Fury
+偉大な星の怒り
+
+Epic Star Fury
+叙事詩的な星の怒り
+
+Heavenly Star Fury
+天国の星の怒り
+
+Godbless Star Fury
+神の祝福された星の怒り
+
+Great Desolate Snow
+偉大な荒涼とした雪
+
+Epic Desolate Snow
+叙事詩的な荒涼とした雪
+
+Heavenly Desolate Snow
+天国の荒涼とした雪
+
+Godbless Desolate Snow
+神の祝福された荒涼とした雪
+
+Great Black Smoke
+偉大な黒い煙
+
+Epic Black Smoke
+叙事詩的な黒い煙
+
+Heavenly Black Smoke
+天国の黒い煙
+
+Godbless Black Smoke
+神の祝福された黒い煙
+
+Great Redemption finger
+偉大な贖いの指
+
+Epic Redemption finger
+叙事詩的な贖いの指
+
+Heavenly Redemption finger
+天国の贖いの指
+
+Godbless Redemption finger
+神の祝福された贖いの指
+
+Great Demon Spine
+偉大な悪魔の脊椎
+
+Epic Demon Spine
+叙事詩的な悪魔の脊椎
+
+Heavenly Demon Spine
+天国の悪魔の脊椎
+
+Godbless Demon Spine
+神の祝福された悪魔の脊椎
+
+Great Pioneer Set
+偉大なパイオニアセット
+
+Epic Pioneer Set
+叙事詩的なパイオニアセット
+
+Heavenly Pioneer Set
+天国のパイオニアセット
+
+Godbless Pioneer Set
+神の祝福されたパイオニアセット
+
+Great Giant Set
+偉大な巨人セット
+
+Epic Giant Set
+叙事詩的な巨人セット
+
+Heavenly Giant Set
+天国の巨人セット
+
+Godbless Giant Set
+神の祝福された巨人セット
+
+Great Reaper Set
+偉大なリーパーセット
+
+Epic Reaper Set
+叙事詩的なリーパーセット
+
+Heavenly Reaper Set
+天国のリーパーセット
+
+Godbless Reaper Set
+神の祝福されたリーパーセット
+
+Great Destroyer Set
+偉大な破壊者セット
+
+Epic Destroyer Set
+叙事詩的な破壊者セット
+
+Heavenly Destroyer Set
+天国の破壊者セット
+
+Godbless Destroyer Set
+神の祝福された破壊者セット
+
+Great Winter Set
+偉大な冬セット
+
+Epic Winter Set
+叙事詩的な冬セット
+
+Heavenly Winter Set
+天国の冬セット
+
+Godbless Winter Set
+神の祝福された冬セット
+
+Great Inferno Set
+偉大なインフェルノセット
+
+Epic Inferno Set
+叙事詩的なインフェルノセット
+
+Heavenly Inferno Set
+天国のインフェルノセット
+
+Godbless Inferno Set
+神の祝福されたインフェルノセット
+
+Great Revival Set
+偉大な復活セット
+
+Epic Revival Set
+叙事詩的な復活セット
+
+Heavenly Revival Set
+天国の復活セット
+
+Godbless Revival Set
+神の祝福された復活セット
+
+Great Undead Set
+偉大なアンデッドセット
+
+Epic Undead Set
+叙事詩的なアンデッドセット
+
+Heavenly Undead Set
+天国のアンデッドセット
+
+Godbless Undead Set
+神の祝福されたアンデッドセット
+
+Great Evil Purger
+偉大な悪の清浄者
+
+Epic Evil Purger
+叙事詩的な悪の清浄者
+
+Heavenly Evil Purger
+天国の悪の清浄者
+
+Godbless Evil Purger
+神の祝福された悪の清浄者
+
+Great Thor Hammer
+偉大なトールのハンマー
+
+Epic Thor Hammer
+叙事詩的なトールのハンマー
+
+Heavenly Thor Hammer
+天国のトールのハンマー
+
+Godbless Thor Hammer
+神の祝福されたトールのハンマー
+
+Great Revenge Tooth
+偉大な復讐の牙
+
+Epic Revenge Tooth
+叙事詩的な復讐の牙
+
+Heavenly Revenge Tooth
+天国の復讐の牙
+
+Godbless Revenge Tooth
+神の祝福された復讐の牙
+
+Great Phoenix Longbow
+偉大なフェニックスの長弓
+
+Epic Phoenix Longbow
+叙事詩的なフェニックスの長弓
+
+Heavenly Phoenix Longbow
+天国のフェニックスの長弓
+
+Godbless Phoenix Longbow
+神の祝福されたフェニックスの長弓
+
+Great Poseidon Trident
+偉大なポセイドンの三叉槍
+
+Epic Poseidon Trident
+叙事詩的なポセイドンの三叉槍
+
+Heavenly Poseidon Trident
+天国のポセイドンの三叉槍
+
+Godbless Poseidon Trident
+神の祝福されたポセイドンの三叉槍
+
+Great Burning Corona
+偉大な燃える日輪
+
+Epic Burning Corona
+叙事詩的な燃える日輪
+
+Heavenly Burning Corona
+天国の燃える日輪
+
+Godbless Burning Corona
+神の祝福された燃える日輪
+
+Great Salvation Cross
+偉大な救済の十字架
+
+Epic Salvation Cross
+叙事詩的な救済の十字架
+
+Heavenly Salvation Cross
+天国の救済の十字架
+
+Godbless Salvation Cross
+神の祝福された救済の十字架
+
+Great Death Scythe
+偉大な死の大鎌
+
+Epic Death Scythe
+叙事詩的な死の大鎌
+
+Heavenly Death Scythe
+天国の死の大鎌
+
+Godbless Death Scythe
+神の祝福された死の大鎌
+
+Great Saviour Set
+偉大な救世主セット
+
+Epic Saviour Set
+叙事詩的な救世主セット
+
+Heavenly Saviour Set
+天国の救世主セット
+
+Godbless Saviour Set
+神の祝福された救世主セット
+
+Great Patronus Set
+偉大なパトローナスセット
+
+Epic Patronus Set
+叙事詩的なパトローナスセット
+
+Heavenly Patronus Set
+天国のパトローナスセット
+
+Godbless Patronus Set
+神の祝福されたパトローナスセット
+
+Great Slaughterer Set
+偉大な虐殺者セット
+
+Epic Slaughterer Set
+叙事詩的な虐殺者セット
+
+Heavenly Slaughterer Set
+天国の虐殺者セット
+
+Godbless Slaughterer Set
+神の祝福された虐殺者セット
+
+Great Dominator Set
+偉大な支配者セット
+
+Epic Dominator Set
+叙事詩的な支配者セット
+
+Heavenly Dominator Set
+天国の支配者セット
+
+Godbless Dominator Set
+神の祝福された支配者セット
+
+Great Tsunami Set
+偉大な津波セット
+
+Epic Tsunami Set
+叙事詩的な津波セット
+
+Heavenly Tsunami Set
+天国の津波セット
+
+Godbless Tsunami Set
+神の祝福された津波セット
+
+Great Sunfire Set
+偉大な太陽の炎セット
+
+Epic Sunfire Set
+叙事詩的な太陽の炎セット
+
+Heavenly Sunfire Set
+天国の太陽の炎セット
+
+Godbless Sunfire Set
+神の祝福された太陽の炎セット
+
+Great Celestial Set
+偉大な天界セット
+
+Epic Celestial Set
+叙事詩的な天界セット
+
+Heavenly Celestial Set
+天国の天界セット
+
+Godbless Celestial Set
+神の祝福された天界セット
+
+Great Sacrifice Set
+偉大な犠牲セット
+
+Epic Sacrifice Set
+叙事詩的な犠牲セット
+
+Heavenly Sacrifice Set
+天国の犠牲セット
+
+Godbless Sacrifice Set
+神の祝福された犠牲セット

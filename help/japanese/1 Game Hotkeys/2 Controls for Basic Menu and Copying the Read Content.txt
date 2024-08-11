@@ -1,0 +1,13 @@
+Return to game & long press to exit: ESC
+Open the settings menu: F1
+Open the Action menu: left CTRL+ENTER
+Open the battle report, announcement, gang announcement, private message window: BACKSPACE
+Open the interaction window: move within 5 yards to the target, select the target, and press ENTER
+Browse in the window: W, S, A, D keys (W for up, S for down, A for left, D for right)
+Move to the first menu item in the window: Q
+Move to the last menu item in the window: E
+Check the checkbox in the window: SPACEBAR
+Select the default action for the window menu item: ENTER
+Copy the current reading content: SHIFT+C
+Add the current reading content to the clipboard: SHIFT+X
+Copy window content: SHIFT+Z

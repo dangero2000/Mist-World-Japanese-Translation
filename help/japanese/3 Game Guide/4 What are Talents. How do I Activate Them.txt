@@ -1,0 +1,22 @@
+FAQ: What are Talents?
+A: Talents are a kind of passive skill that enhances the character's attributes and abilities.
+There are two main categories of Talents.
+The first is General Talents, which can provide the character with the ability to resist special terrain damage. Such as Anti-Corrosion, Turtle Breath, etc.
+The second is Class Talents, which can increase the attributes of different classes and provide them with exclusive skill effects.
+FAQ: How do I activate Talents?
+A: When you learn a Talent, you need to activate it to activate its effect. Next, we will use Corrosion Spell to explain how to activate Talents.
+In the start area, there's a mission where we need to eliminate all the rats in the granary. But the rats have polluted the place, and anyone who enters will suffer corrosion and die shortly.
+However, if you learned Anti-Corrosion, you will be immune to this corrosion damage.
+First, head to the Chalet northeast of the village to find Master Arthur, talk to him, select Learn Talents in the dialog menu and press ENTER to enter the interface.
+Now, select Anti-Corrosion, press Enter. An "are you sure you want to learn this skill" prompt will pop up, select YES and press ENTER, then you will hear a sound indicating you've learned the skill.
+Now, you will find the Anti-Corrosion skill in the skill section of your backpack. Press G, and you will see that the skill is not activated.
+To activate it, you need enough Talent Points and Arnebia.
+So, now, you need to talk to Master Arthur again, select Cultivate Talent Point and press ENTER to enter the interface.
+Here, you can see how many Talent Points can the current NPC help you cultivate, how many Talent Points you already have, and the cost for this cultivation.
+Select "Start Cultivation" and press ENTER, then you will hear a sound indicating you've learned the skill, and finally a voice saying that the Cultivation has completed.
+Anti-Corrosion requires 5 Talent Points to be activated, which means you need to Cultivate Talent Point five times with Master Arthur.
+When you have the required Talent Points, you can interact with the assistant next to the Master to activate the Anti-Corrosion skill. Speak with the assistant to bring up the "Reset Talents" interface.
+Here you can view all the Talents you've learned, such as the Anti-Corrosion we just learned. If you select the Anti-Corrosion skill, you will hear a voice saying "Anti-Corrosion; Requires 5 Talent Points; disabled". This means that this skill is not currently activated. Press ENTER to select it, and then scroll down, you will hear the price required to activate Talent Points. If you have enough Arnebia, continue to scroll down, select "Submit" and press ENTER, then you will hear a sound indicating you've reset your Talents.
+If you have insufficient Talent Points or Arnebia, you cannot reset Talents, and you will hear the corresponding voice prompt when submitting.
+Subsequent Talents will be taught by the corresponding NPCs. Usually, Talents can be activated at important locations, such as the City Lord's Mansion, the Palace, and parliament hall, etc.
+Talents cannot be forgotten after learning, but you can choose which ones to activate and not activate when resetting Talents, which is very important after learning Class Talents in the future. Players should activate Talents according to their own needs and the number of talent points they have.

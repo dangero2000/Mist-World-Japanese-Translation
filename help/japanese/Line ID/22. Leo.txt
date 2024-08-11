@@ -1,0 +1,41 @@
+//Fusion Beast Mission
+5331
+Hey kid, you here to find a Fusion Beast too?
+
+5333
+There is one indeed, it's in the cave to the south. But it will be mine. Don't blame me for the competition. You're no match for the demons there. Just follow me and watch, kid.
+
+5334
+Pfft, a bunch of worms!
+
+5335
+Follow me.
+
+5336
+Haha, this is the place.
+
+5337
+Oh, This Fusion Beast sucks, it's slower than a turtle! Never mind, you can have this reptile. What a waste of my time.  Farewell, kid.
+
+
+//3 Player Mission, follow the NPC and slay monsters 
+5338
+Need my help?
+
+5339
+I'm planning to go to the Sealed Land and kill a few super demons to stop them from attacking humans. This is a good place to warm up. So, do you need my help?
+
+5340
+Alright, let's go.
+
+5341
+There's a few demon makers ahead. All the demons here are created by these machines. I'll hold off the demons close to the machines, you find a way to shut them down.
+
+5342
+Tsk, disgusting.
+
+5343
+These machines are made by a man who calls himself the Demonist. Although they can only create weak monsters, they're still a threat to humanity after all.
+
+5344
+Tsk, it's over already? I didn't even brake a sweat. See ya.

@@ -1,0 +1,19 @@
+¡¾1. Character Target Controls¡¿
+Switch Target: O, L, K, SEMICOLON (O for up, L for down, K for left, SEMICOLON for right)
+Reverse switch Target: ALT+O, L, K, SEMICOLON
+Change the type of the viewing target (Ally, Enemy, etc.): V
+Reverse change the type of the viewing target (Ally, Enemy, etc.): ALT+V
+Move to target: P
+Auto-follow current target (approach the target automatically when within 20 yards. single-tap to cancel follow): double-tap P
+Navigate to current target (press again to cancel): left BRACKET
+Continuous target navigation on/off: right BRACKET
+¡¾2. Team Target Controls¡¿
+View team leader's location: SHIFT+QUOTATION
+When viewing team leader's location, if the team leader is within sight range, he will be selected as the target.
+Set team navigation target as target: QUOTATION
+Cancel team navigation target: left CTRL+QUOTATION
+Setting team navigation target requires quick phrases, please check out the "Quick Phrase Controls" in the Game Hotkey section for details.
+¡¾3. Environment Object Controls¡¿ (buildings, intersections, cavern entrances and important road signs, etc.)
+Switch environment object: SHIFT+O, L, K, SEMICOLON (O for up, L for down, K for left, SEMICOLON for right)
+Reverse switch environment object: ALT+SHIFT+O, L, K, SEMICOLON
+Navigate to currently selected environment object (press again to cancel): SHIFT+left BRACKET

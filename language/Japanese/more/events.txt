@@ -1,0 +1,5 @@
+activity envoys
+活動使者
+
+{c} wants to accept you as apprentice;{s};{s}; level {d}
+$1はあなたを弟子にしたい;{sub2{$2}sub2};{sub2{$3}sub2}; レベル$4

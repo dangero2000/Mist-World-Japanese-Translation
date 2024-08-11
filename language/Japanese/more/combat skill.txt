@@ -1,0 +1,2162 @@
+Bash
+強打
+
+Level {d} Bash
+強打$1級
+
+Cleave
+分裂斬
+
+Level {d} Cleave
+分裂斬$1級
+
+Execute
+断罪
+
+Level {d} Execute
+断罪$1級
+
+Sweep Attack
+横斬り攻撃
+
+Level {d} Sweep Attack
+横斬り攻撃$1級
+
+Whirlwind Slash
+旋風斬
+
+Level {d} Whirlwind Slash
+旋風斬$1級
+
+Wind Step
+風歩
+
+Swallow Dance
+燕の舞
+
+Formless
+無形
+
+Leap Slash
+跳躍斬
+
+Level {d} Leap Slash
+跳躍斬$1級
+
+Rip and Tear
+裂傷
+
+Level {d} Rip and Tear
+裂傷$1級
+
+Suppress
+抑制
+
+Level {d} Suppress
+抑制$1級
+
+Hamstring
+腱断ち
+
+Level {d} Hamstring
+腱断ち$1級
+
+Armor Break
+装甲破壊
+
+Level {d} Armor Break
+装甲破壊$1級
+
+Rupture
+破裂
+
+Level {d} Rupture
+破裂$1級
+
+Battle Cry
+戦闘叫び
+
+Command Cry
+命令の叫び
+
+Taunt Attack
+挑発攻撃
+
+Level {d} Taunt Attack
+挑発攻撃$1級
+
+Challenge Cry
+挑戦の叫び
+
+Lethal Strike
+致命的な打撃
+
+Level {d} Lethal Strike
+致命的な打撃$1級
+
+Valiant Strike
+勇敢な打撃
+
+Reckless Strike
+無謀な打撃
+
+Bloodthirsty
+血に飢えた
+
+Flesh Cleave
+肉体切り裂き
+
+Rampage Hack
+暴走斬
+
+Haste
+迅速
+
+Ignore the Pain
+痛みを無視
+
+Furious Recovery
+激怒の回復
+
+Ancestral Hammer
+古のハンマー
+
+Earthshaking Stomp
+地震の踏みつけ
+
+Vengeance
+復讐
+
+Thunderous Blow
+サンダーストライク
+
+Giant Strike
+巨人ストライク
+
+Berserk Roar
+狂戦士の咆哮
+
+Battle Roar
+戦闘咆哮
+
+Taunt
+挑発
+
+Reckless
+無謀
+
+Blade Strike
+刃の一撃
+
+Rapid Sting
+急速刺し
+
+Fan of Knives
+ナイフの乱舞
+
+Blade Fury Dance
+刃の狂舞
+
+Shadow Steps
+シャドウステップ
+
+Leap Gouge
+跳躍のえぐり
+
+Relentless Slash
+容赦ない斬撃
+
+Sap
+麻痺
+
+Puncture
+貫通
+
+Piercing Shriek
+突き刺す叫び
+
+Void Shift
+虚空シフト
+
+Scorn
+軽蔑
+
+Dark Quake
+闇の震え
+
+Kidney Strike
+腎臓打撃
+
+Shadow Cloak
+影のクローク
+
+Shattering Moon
+砕ける月
+
+Slit Throat
+喉切り
+
+Poison Blade
+毒刃
+
+Arcane Shot
+秘術射撃
+
+Aimed Shot
+狙い射撃
+
+Multi Shot
+マルチショット
+
+Rapid Arrows
+迅速な矢
+
+Marked Shot
+マーキングショット
+
+Burst Shot
+バーストショット
+
+Bull's Eye
+ブルズアイ
+
+Concussive Shot
+衝撃弾
+
+Throw Hunting Net
+狩猟網を投げる
+
+Tar Trap
+タールトラップ
+
+Vine Trap
+つるトラップ
+
+Turtle Guardian
+タートルガーディアン
+
+Strong-Arm Aura
+強腕のオーラ
+
+Tranquility Aura
+静寂のオーラ
+
+Viper Sting
+毒蛇の針
+
+Adder Sting
+マムシの針
+
+Scorpion Sting
+サソリの針
+
+Escape
+逃走
+
+Magic Sphere
+魔法球
+
+Ice Lance
+氷の槍
+
+Ice Storm
+氷嵐
+
+Ice Orb
+氷の宝珠
+
+Aqua Jet
+アクアジェット
+
+Blizzard
+吹雪
+
+Ice Arrow
+氷の矢
+
+Icicle
+氷柱
+
+Frost Nova
+霜の新星
+
+Cold Winter
+冷たい冬
+
+Ice Barrier
+氷の障壁
+
+Ice Shield
+氷の盾
+
+Winter Horn
+冬のホーン
+
+Crushed Ice Fetters
+砕けた氷の枷
+
+Chilling Frost
+凍てつく霜
+
+Dispel Magic
+魔法解除
+
+Teleportation
+テレポーテーション
+
+Teleportation Portal
+テレポートポータル
+
+Retract the Barrier
+バリアを撤回
+
+Fireball
+ファイアボール
+
+Fire Impact
+火の衝撃
+
+Fire Surge
+火の高まり
+
+Sear
+焦がし
+
+Pyroblast
+炎爆
+
+Blazing Storm
+燃え盛る嵐
+
+Magma
+マグマ
+
+Dragon's Breath
+ドラゴンの息
+
+Elven Ascension
+エルフの昇天
+
+Lava Armor
+溶岩の鎧
+
+Scorch
+焦がす
+
+Purification
+浄化
+
+Ignition
+着火
+
+Magic Shield
+魔法の盾
+
+Invisibility
+透明化
+
+Critical Blaze
+致命的な炎
+
+Elven Teleportation
+エルフのテレポーテーション
+
+Elven Teleportation Portal
+エルフのテレポートポータル
+
+Retribution
+報復
+
+Holy Light Wave
+聖なる光の波
+
+Divine Nova
+神聖なる新星
+
+Concentrated Will
+集中した意志
+
+Divine Fire
+神聖なる炎
+
+Heal
+回復
+
+Recover
+回復する
+
+Healing Prayers
+回復の祈り
+
+Light of Miracles
+奇跡の光
+
+Divine Anthem
+神聖なる賛歌
+
+Resurrection
+復活
+
+Holy Light
+聖なる光
+
+Group Dispel
+集団解除
+
+Spiral Blast
+螺旋爆破
+
+Divine Protection
+神聖なる保護
+
+Soul of Redemption
+贖いの魂
+
+Requiem
+レクイエム
+
+Mind Whip
+心の鞭
+
+Shadow Arrow
+影の矢
+
+Skeleton Explosion
+スケルトン爆発
+
+Dead Toxin
+死の毒素
+
+Corrosion Spell
+腐食の呪文
+
+Incessant Pain
+絶え間ない痛み
+
+Healing Wave
+癒しの波
+
+Healing Surge
+癒しの波動
+
+Healing Fountain Totem
+癒しの泉のトーテム
+
+Healing Chain
+癒しの連鎖
+
+Healing Tide Totem
+癒しの潮のトーテム
+
+Soul Returnal
+魂の帰還
+
+Soul Purify
+魂の浄化
+
+Summon Spirit
+霊を召喚
+
+Undead Grip
+アンデッドグリップ
+
+Break the Chain
+鎖を断つ
+
+Undying Resolve
+不死の決意
+
+Spiritual Totem
+霊的なトーテム
+
+Undead Ensnare
+アンデッド拘束
+
+Transfix
+釘付け
+
+Crystal Cannonball
+水晶の砲弾
+
+Crystal Light Wave
+水晶の光波
+
+Cannon
+大砲
+
+Fire Breath
+火の息
+
+Bomb
+爆弾
+
+Rolling Stone
+転がる石
+
+C4 Explosive
+C4爆薬
+
+Abyss
+深淵
+
+Summon Robots
+ロボット召喚
+
+Dialog Control
+対話制御
+
+Magic Cannon
+魔法砲
+
+Transform
+変身
+
+Throw water monster egg
+水のモンスターの卵を投げる
+
+Mine Explosion
+地雷爆発
+
+Tear and Bite
+引き裂き噛む
+
+Full-Note Attack
+フルノート攻撃
+
+Semitone Attack
+半音攻撃
+
+Fire Cannon
+火砲
+
+Load Ammunition
+弾薬装填
+
+Self Repair
+自己修復
+
+Crash
+クラッシュ
+
+Summon Zombie Guard
+ゾンビガード召喚
+
+Preparing Anti-Aircraft Cannon
+対空砲準備中
+
+Invisible Cannon
+透明砲
+
+Super Taunt
+スーパー挑発
+
+Explosion
+爆発
+
+Pig Push Rolling Stones
+豚の転がる石を押す
+
+Electric Current
+電流
+
+Throw Bomb
+爆弾を投げる
+
+Alarm
+警報
+
+Thunder
+雷
+
+Deceleration Net
+減速ネット
+
+Vortex
+渦巻き
+
+Surrender
+降伏
+
+Attract
+引き寄せる
+
+Flash Bomb
+フラッシュボム
+
+Summon Undead
+アンデッド召喚
+
+Knock on Window
+窓をノックする
+
+Slam
+叩きつける
+
+Channeling Stone Rampage
+石の暴走をチャネリング
+
+Stone Rampage
+石の暴走
+
+Strong Throw
+強力な投げ
+
+Teleport Bomb
+テレポート爆弾
+
+Throw Grenade
+手榴弾を投げる
+
+Catapult
+投石機
+
+Laser Cannon
+レーザー砲
+
+Laser
+レーザー
+
+Roll
+転がる
+
+Boulder Smash
+巨岩粉砕
+
+Shooting
+射撃
+
+Hay Cutter
+干し草カッター
+
+Summon Demon
+悪魔召喚
+
+Dark Heal
+闇の回復
+
+Soul Drain
+ソウルドレイン
+
+Avalanche
+雪崩
+
+Kick
+蹴り
+
+Piercing Kick
+貫通キック
+
+Ram
+突進
+
+Croissant Knife
+クロワッサンナイフ
+
+Elusive Kick
+幻影キック
+
+Horn Knife
+ホーンナイフ
+
+Magic Marbles
+魔法玉
+
+Magic Beam
+魔法光線
+
+Bark
+吠える
+
+Angry Bite
+怒りの噛みつき
+
+Scratch
+ひっかき
+
+Meow Punch
+ニャンパンチ
+
+Swoop
+急襲
+
+Stab
+刺す
+
+Whip
+鞭打ち
+
+Spank
+お尻叩き
+
+Whirlwind Palm
+旋風掌
+
+Intimidate
+威嚇
+
+Ice and Snow
+氷と雪
+
+Scarlet Flame
+紅蓮の炎
+
+Tiger Tail Whip
+虎の尾の鞭
+
+Spray Water
+水を噴射
+
+Ice Sword
+氷の剣
+
+Breath
+息吹
+
+Chilling Breath
+凍える息
+
+Throw
+投げる
+
+Blow Dart
+吹き矢
+
+Iron Scissors
+鉄のはさみ
+
+Arm Knife
+アームナイフ
+
+Leave Boomerang
+ブーメランを残す
+
+Nut Bomb
+ナット爆弾
+
+Sandstorm
+砂嵐
+
+Peck
+つつく
+
+Claw Hook
+爪フック
+
+Slap
+平手打ち
+
+Magic Flames
+魔法の炎
+
+Elven Magic
+エルフの魔法
+
+Elven Song
+エルフの歌
+
+Spit Bubbles
+泡を吐く
+
+Water Bomb
+水爆弾
+
+Ice Ball
+氷玉
+
+Crescent Crystal Boomerang
+三日月クリスタルブーメラン
+
+Moonlight Crystal Retribution
+月光クリスタルの報復
+
+Punch of Heaven
+天の拳
+
+Divine Arrow
+神聖な矢
+
+Base Attack
+基本攻撃
+
+Pounce and Bite
+飛びかかり噛みつき
+
+Poisonous Fang
+毒の牙
+
+Poisonous Fog
+毒霧
+
+Hit
+打つ
+
+Doom Beam
+破滅光線
+
+Hack
+切り裂き
+
+Blow Nose
+鼻をかむ
+
+Swooping Peck
+急降下つつき
+
+Swooping Claw
+急降下爪
+
+Great Waves
+大波
+
+Water Arrow
+水の矢
+
+Undercurrent Impact
+逆流衝撃
+
+Undercurrent Surge
+逆流の高まり
+
+Venom
+毒液
+
+Spit
+唾を吐く
+
+Wind Blade
+風刃
+
+Collide
+衝突
+
+Meteor Shower
+流星群
+
+Falling Meteor
+流れ落ちる隕石
+
+Silvermoon Machete
+銀月マチェーテ
+
+Crescent Boomerang
+三日月ブーメラン
+
+Meteor Hammer
+隕石ハンマー
+
+Repel
+撃退
+
+Dark Invasion
+闇の侵略
+
+Dark Baptism
+闇の洗礼
+
+Dark Explosion
+闇の爆発
+
+Electric Arc
+電弧
+
+Electric Shock
+電撃
+
+Throw Boulder
+岩を投げる
+
+Dark Judgment
+闇の審判
+
+Needle Sting
+針の刺し
+
+Electro Needle
+エレクトロニードル
+
+Flame Cage
+炎の檻
+
+Tornado Blade
+竜巻刃
+
+Electric Cage
+電気檻
+
+Devastating Thunder
+破壊的な雷
+
+Elemental Bomb
+エレメンタルボム
+
+Bite
+噛みつき
+
+Suck Blood
+吸血
+
+Poke
+突く
+
+Scare
+怖がらせる
+
+Incandescent Fireball
+白熱火球
+
+Black Storm
+黒嵐
+
+Storm Cage
+嵐の檻
+
+Dark Flame Blast
+暗黒炎爆
+
+Dark Flame Storm
+暗黒炎の嵐
+
+Dark Flame Cage
+暗黒炎の檻
+
+Sigh of Death
+死の嘆息
+
+Discharge
+放電
+
+Lightning Hurricane
+雷のハリケーン
+
+Electric Armor
+電気の鎧
+
+Heavy Hammer
+重いハンマー
+
+Vomit Attack
+嘔吐攻撃
+
+Fire Needles
+火の針
+
+Flying Feathers
+飛ぶ羽
+
+Act Cute
+かわいく振る舞う
+
+Nature's Grace
+自然の恵み
+
+Demonic Hellfire
+悪魔の地獄火
+
+Bondage Serpent
+束縛の蛇
+
+Life Plunder
+生命の略奪
+
+Hydrotherapy
+水治療
+
+Blinding Dart
+目潰しダーツ
+
+Sprint
+ダッシュ
+
+Cleave-Sword
+剣の分裂
+
+Fire Blade
+炎の刃
+
+Black Fireball
+黒い火球
+
+Verdict
+判決
+
+Shock Wave
+衝撃波
+
+Dark Holy Light
+暗黒聖光
+
+Dark Barrier
+暗黒障壁
+
+Bloody Roar
+血の咆哮
+
+Frenzy
+狂乱
+
+Cleave-Knife
+ナイフの分裂
+
+Holy Light Slash
+聖光斬
+
+Cross Slash
+クロススラッシュ
+
+Holy Light Heal
+聖なる光の回復
+
+Cleave-Sword (increase attack speed)
+クリーブソード（攻撃速度増加）
+
+Thunder Slash
+雷の斬撃
+
+Snowy Purgatory
+雪の煉獄
+
+Blade of Judgment
+裁きの刃
+
+Roar
+咆哮
+
+Dark Prayer
+闇の祈り
+
+Dark Blood Curse
+暗黒の血の呪い
+
+Fire Blast
+火の爆発
+
+Burn Books
+本を燃やす
+
+Breath of Dragon
+ドラゴンの息吹
+
+Sharp Mind
+鋭い心
+
+Fireball Bombardment
+火球の砲撃
+
+Puncture Throw
+刺し貫く投げ
+
+Lightning Throwing Knife
+雷の投げナイフ
+
+Flower of Death
+死の花
+
+Bloody Wrath
+血の怒り
+
+Rising Dragon Punch·昏迷
+昇竜拳・昏迷
+
+Rising Dragon Punch-Normal
+昇竜拳・通常
+
+Scorching Flame Fist-1
+灼熱の炎の拳-1
+
+Scorching Flame Fist-2
+灼熱の炎の拳-2
+
+Scorching Flame Fist-3
+灼熱の炎の拳-3
+
+Scorching Flame Fist-4
+灼熱の炎の拳-4
+
+Scorching Flame Fist-5
+灼熱の炎の拳-5
+
+Scorching Flame Fist-Over
+灼熱の炎の拳・終了
+
+Flying Kick
+飛び蹴り
+
+Firestorm Kick
+炎の嵐の蹴り
+
+Burning Flame-{d}%
+燃える炎$1%
+
+Scorching Earth
+焦土
+
+Cross Light Slash
+クロスライトスラッシュ
+
+Dragon Slash
+ドラゴンスラッシュ
+
+Valiant Leap
+勇敢な跳躍
+
+Blade of Light-{d}
+光の刃$1
+
+Gravity Aura
+重力オーラ
+
+Nine-Headed Dragon Slash
+九頭竜の斬撃
+
+Nine-Headed Dragon Slash-{d}
+九頭竜の斬撃$1
+
+Nine-Headed Dragon Slash-over
+九頭竜の斬撃・終了
+
+Arc Slash
+アークスラッシュ
+
+Dash Strike
+ダッシュストライク
+
+Shining Steel
+輝く鋼
+
+Punishment
+罰
+
+Divine Retribution
+神の報い
+
+Holy Sword Light Cannon
+聖剣光の砲
+
+Healing
+癒し
+
+True Word-Shield
+真の言葉-盾
+
+Punishment Aura
+罰のオーラ
+
+Golden Fortitude
+黄金の堅忍
+
+Summon Hound
+猟犬召喚
+
+Call for Help
+助けを呼ぶ
+
+Wish-Ice Cave
+願い-氷の洞窟
+
+Yin-Yang Sword
+陰陽の剣
+
+Yin-Yang Sword-Ensnare
+陰陽の剣-絡め取る
+
+See-Through Light
+透かし光
+
+Karate Chop
+空手の一撃
+
+Made of Steel
+鋼で作られた
+
+Overwhelm
+圧倒
+
+Crashing Thunderclap
+雷鳴の激突
+
+Magic Gourd Attack
+魔法の瓢箪の攻撃
+
+Magic Gourd-Heartbreak Spell
+魔法の瓢箪-失恋の呪文
+
+Scorpion Tail
+サソリの尾
+
+Iron Pliers
+鉄のペンチ
+
+Steel Chop
+鋼の一撃
+
+Throw Weapons
+武器を投げる
+
+Mold-Stinky Five Poison Soup
+カビ-臭い五毒スープ
+
+Black Sand Fan
+黒砂の扇
+
+Poisonous Shot
+毒の一撃
+
+Ultrasonic Attack
+超音波攻撃
+
+Knock
+ノック
+
+Charm Beam
+チャームビーム
+
+Death Shock
+死の衝撃
+
+King's Verdict
+王の判決
+
+Sticky Bubble Gum
+粘着性のガム
+
+Fish Hook Boomerang
+釣り針ブーメラン
+
+Throw Harpoon
+銛を投げる
+
+Whirlwind Claw
+旋風の爪
+
+Throw Sand
+砂を投げる
+
+Dark Seal
+闇の印
+
+Explosive Hammer
+爆発ハンマー
+
+Crumbs Fetters
+パンくずの枷
+
+Might of the Pharaoh
+ファラオの力
+
+Pharaoh's Curse
+ファラオの呪い
+
+Spray Poison
+毒を吹きかける
+
+Chaos Phantom Coin
+混沌の幻影のコイン
+
+Magic Weakening Beam
+魔法弱化ビーム
+
+Healing Flame
+癒しの炎
+
+Claw Strike
+爪の打撃
+
+Shoting
+射撃
+
+Energy Sphere
+エネルギー球
+
+Spinning Air
+旋回する空気
+
+Arcane Missiles
+奥義のミサイル
+
+Mini Fireball
+ミニ火球
+
+Shadow Sphere
+影の球
+
+Ground Thorns
+地面のとげ
+
+Air Cannon
+空気砲
+
+Water Dragon Wave
+水龍の波
+
+Dark Curse
+闇の呪い
+
+Phantom Meteor Hammer
+幻影流星ハンマー
+
+Hammer Strike
+ハンマー打撃
+
+Throw Gum
+ガムを投げる
+
+Throw Mud Ball
+泥玉を投げる
+
+Inject HP Potion
+HPポーションを注入
+
+Super Bubbles
+スーパーバブル
+
+Deep sea Vortex
+深海渦巻き
+
+Vine Ensnare
+つるの絡め取り
+
+Long Jump
+長距離ジャンプ
+
+Earth Shatter
+大地の破壊
+
+Deadly Crescent Javelin
+致命的な三日月のジャベリン
+
+Life Resurgence (Fallen)
+生命の復活（堕落）
+
+Throw Snowball
+雪玉を投げる
+
+Ice Blade
+氷の刃
+
+Demon Ray
+デーモンレイ
+
+Machine-Gun Burst
+機関銃バースト
+
+Snipe
+狙撃
+
+Bondage Ensnare
+束縛の絡め取り
+
+Lightsaber
+ライトセーバー
+
+Spinning Cut
+回転切り
+
+Place Bomb
+爆弾を置く
+
+Throw Butter
+バターを投げる
+
+Blood Curse
+血の呪い
+
+Death Rays
+デスレイ
+
+True-Dark Invasion
+真の闇の侵略
+
+Tree Gouge
+木の削り
+
+Rolling Green Wave
+転がる緑の波
+
+Scorpion Stinger
+サソリの針
+
+Flying Head Attack
+飛ぶ頭の攻撃
+
+Devour
+むさぼる
+
+Joker Magic Tricks
+ジョーカーマジックトリック
+
+Joker Throwing Knife
+ジョーカーの投げナイフ
+
+Banshee's Kiss
+バンシーのキス
+
+Cannibalism
+共食い
+
+Suck
+吸う
+
+Throw Stone
+石を投げる
+
+Gravel Scatter
+砂利散布
+
+Catch Insect
+虫を捕まえる
+
+Pester
+悩ます
+
+Spray Spores
+胞子を吹きかける
+
+Wooden cross Boomerang
+木の十字ブーメラン
+
+Rapier Nose
+レイピアの鼻
+
+Strong Claw
+強い爪
+
+Elusive
+捕えにくい
+
+Flying Notes
+飛ぶ音符
+
+Hellfire
+地獄の火
+
+Strong laser cannon
+強いレーザー砲
+
+Endless Chill
+終わりなき寒気
+
+Puppetry
+人形術
+
+Binding Chain
+拘束の鎖
+
+Shrinking Turtle
+縮むカメ
+
+Spore bullet
+胞子弾
+
+Run Mo Run
+走れモ走れ
+
+Caesar's Claw
+シーザーの爪
+
+Ancient Toxin
+古代の毒素
+
+Raining Arrows
+降り注ぐ矢
+
+Gravity Arrow
+重力矢
+
+Concussive Arrow
+衝撃矢
+
+Pouring Arrows
+注ぐ矢
+
+Black Flame Bomb
+黒炎爆弾
+
+B Field
+Bフィールド
+
+Energy Blade
+エネルギーブレード
+
+Divine Guard
+神の守護
+
+Fang Stab
+牙の突き
+
+Red Eye Ray
+赤い目の光線
+
+Preparing Summon Demon
+悪魔召喚準備中
+
+Stomp
+踏みつけ
+
+Horn Stab
+角の突き
+
+Electric Barrier
+電気障壁
+
+Spiral Water Arrow
+螺旋水矢
+
+Laser Sword
+レーザーソード
+
+Lethal Canon
+致命的な砲
+
+AT Field
+ATフィールド
+
+Ultimate Electric Current
+究極の電流
+
+Electric Storm
+電気の嵐
+
+Bar Sweep
+棒の掃討
+
+Mighty Ocean-Quieting Bar
+大海静めの棒
+
+Protection Charm
+守護の護符
+
+Mighty Monkey King
+偉大な孫悟空
+
+Pyre
+火葬台
+
+72 Forms
+72の型
+
+Fire Laser
+火のレーザー
+
+Sleeping Incense
+眠りの香
+
+Ghost Kill
+幽霊の殺
+
+Gallows
+絞首台
+
+Void Blade
+虚無の刃
+
+Heart-Piercing Tooth
+心貫く牙
+
+Blade Spiral
+刃のスパイラル
+
+Thunder Blast Strike
+雷の爆裂打撃
+
+Thunderbolt Slash
+雷の斬撃
+
+Thunder Star Strike
+雷の星の打撃
+
+Axe Sweep
+斧の掃討
+
+Nets Above and Snares Below
+上の網と下の罠
+
+Barbaric Intimidation
+野蛮な威嚇
+
+Toxic Shot
+毒の一撃
+
+Electric Shots
+電撃
+
+Rolling Thunder
+雷鳴
+
+Paralyzing Thunderbolt
+麻痺の雷
+
+Wrath of Thunder
+雷の怒り
+
+Thunderous Firestorm
+雷の火嵐
+
+Sneaky Counterattack
+こっそりした反撃
+
+Rake Sweep
+熊手の掃討
+
+Meaty Trampoline
+肉のトランポリン
+
+Captive Moment
+捕虜の瞬間
+
+Chain Frost
+鎖の霜
+
+Frost Star
+霜の星
+
+Frost Armor
+霜の鎧
+
+Black Meteor
+黒い隕石
+
+Starburst Blast
+スターバーストの爆発
+
+Meteor Firestorm
+隕石火嵐
+
+Death Ray
+デスレイ
+
+Hell Howl
+地獄の遠吠え
+
+Hell Blood Curse
+地獄の血の呪い
+
+Object Shift
+オブジェクトの移動
+
+Life Resurgence
+生命の復活
+
+Ghost Shield
+幽霊の盾
+
+Dragon Claw Rip
+竜の爪の裂き
+
+Dragon Tail
+竜の尾
+
+Cataclysm
+大災害
+
+Might of the Beast
+獣の力
+
+Dragon Roar
+竜の咆哮
+
+Aegis Protection
+アイギスの保護
+
+Ice Fog
+氷の霧
+
+Polar Ice Spirit
+極氷の精霊
+
+Snake King Roar
+蛇王の咆哮
+
+Ice Mist Dragon
+氷霧の竜
+
+Summon Ancient Dragon Guards
+古代竜の護衛を召喚
+
+Ultimate-Dragon Soar
+究極の竜の飛翔
+
+Ancient Dragon Tide
+古代竜の潮流
+
+Primordial Power
+原始の力
+
+Trident
+トライデント
+
+Summon Guards
+護衛を召喚
+
+Binding
+拘束
+
+Dark Realm
+闇の領域
+
+Leaping Bash
+跳躍の重撃
+
+Crescent Slash
+三日月斬
+
+Black Meteor-Magic
+黒い隕石-魔法
+
+Falling Meteor-magic
+落ちる隕石-魔法
+
+Meteor Firestorm-Magic
+隕石火嵐-魔法
+
+Fire
+火
+
+Primary Kick
+初級キック
+
+Medium Kick
+中級キック
+
+Advanced Kick
+上級キック
+
+Primary Piercing Kick
+初級貫通キック
+
+Medium Piercing Kick
+中級貫通キック
+
+Advanced Piercing Kick
+上級貫通キック
+
+Primary Ram
+初級ラム
+
+Medium Ram
+中級ラム
+
+Advanced Ram
+上級ラム
+
+Primary Croissant Knife
+初級クロワッサンナイフ
+
+Medium Croissant Knife
+中級クロワッサンナイフ
+
+Advanced Croissant Knife
+上級クロワッサンナイフ
+
+Primary Elusive Kick
+初級幻影キック
+
+Medium Elusive Kick
+中級幻影キック
+
+Advanced Elusive Kick
+上級幻影キック
+
+Primary Horn Knife
+初級ホーンナイフ
+
+Medium Horn Knife
+中級ホーンナイフ
+
+Advanced Horn Knife
+上級ホーンナイフ
+
+Primary Magic Marbles
+初級魔法玉
+
+Medium Magic Marbles
+中級魔法玉
+
+Advanced Magic Marbles
+上級魔法玉
+
+Primary Magic Beam
+初級魔法光線
+
+Medium Magic Beam
+中級魔法光線
+
+Advanced Magic Beam
+上級魔法光線
+
+Primary Bark
+初級吠える
+
+Medium Bark
+中級吠える
+
+Advanced Bark
+上級吠える
+
+Primary Angry Bite
+初級怒りの噛みつき
+
+Medium Angry Bite
+中級怒りの噛みつき
+
+Advanced Angry Bite
+上級怒りの噛みつき
+
+Primary Scratch
+初級ひっかき
+
+Medium Scratch
+中級ひっかき
+
+Advanced Scratch
+上級ひっかき
+
+Primary Meow Punch
+初級ニャンパンチ
+
+Medium Meow Punch
+中級ニャンパンチ
+
+Advanced Meow Punch
+上級ニャンパンチ
+
+Primary Tear and Bite
+初級引き裂き噛む
+
+Medium Tear and Bite
+中級引き裂き噛む
+
+Advanced Tear and Bite
+上級引き裂き噛む
+
+Primary Swoop
+初級急襲
+
+Medium Swoop
+中級急襲
+
+Advanced Swoop
+上級急襲
+
+Primary Bash
+初級強打
+
+Medium Bash
+中級強打
+
+Advanced Bash
+上級強打
+
+Primary Stab
+初級刺す
+
+Medium Stab
+中級刺す
+
+Advanced Stab
+上級刺す
+
+Primary Whip
+初級鞭打ち
+
+Medium Whip
+中級鞭打ち
+
+Advanced Whip
+上級鞭打ち
+
+Primary Spank
+初級お尻叩き
+
+Medium Spank
+中級お尻叩き
+
+Advanced Spank
+上級お尻叩き
+
+Primary Whirlwind Palm
+初級旋風掌
+
+Medium Whirlwind Palm
+中級旋風掌
+
+Advanced Whirlwind Palm
+上級旋風掌
+
+Primary Intimidate
+初級威嚇
+
+Medium Intimidate
+中級威嚇
+
+Advanced Intimidate
+上級威嚇
+
+Primary Ice and Snow
+初級氷と雪
+
+Medium Ice and Snow
+中級氷と雪
+
+Advanced Ice and Snow
+上級氷と雪
+
+Primary Scarlet Flame
+初級紅蓮の炎
+
+Medium Scarlet Flame
+中級紅蓮の炎
+
+Advanced Scarlet Flame
+上級紅蓮の炎
+
+Primary Puncture
+初級貫通
+
+Medium Puncture
+中級貫通
+
+Advanced Puncture
+上級貫通
+
+Primary Tiger Tail Whip
+初級虎の尾の鞭
+
+Medium Tiger Tail Whip
+中級虎の尾の鞭
+
+Advanced Tiger Tail Whip
+上級虎の尾の鞭
+
+Primary Spray Water
+初級水を噴射
+
+Medium Spray Water
+中級水を噴射
+
+Advanced Spray Water
+上級水を噴射
+
+Primary Ice Sword
+初級氷の剣
+
+Medium Ice Sword
+中級氷の剣
+
+Advanced Ice Sword
+上級氷の剣
+
+Primary Breath
+初級息吹
+
+Medium Breath
+中級息吹
+
+Advanced Breath
+上級息吹
+
+Primary Chilling Breath
+初級凍える息
+
+Medium Chilling Breath
+中級凍える息
+
+Advanced Chilling Breath
+上級凍える息
+
+Primary Throw
+初級投げ
+
+Medium Throw
+中級投げ
+
+Advanced Throw
+上級投げ
+
+Primary Blow Dart
+初級吹き矢
+
+Medium Blow Dart
+中級吹き矢
+
+Advanced Blow Dart
+上級吹き矢
+
+Primary Iron Scissors
+初級鉄のはさみ
+
+Medium Iron Scissors
+中級鉄のはさみ
+
+Advanced Iron Scissors
+上級鉄のはさみ
+
+Primary Arm Knife
+初級アームナイフ
+
+Medium Arm Knife
+中級アームナイフ
+
+Advanced Arm Knife
+上級アームナイフ
+
+Primary Leave Boomerang
+初級木の葉ブーメラン
+
+Medium Leave Boomerang
+中級木の葉ブーメラン
+
+Advanced Leave Boomerang
+上級木の葉ブーメラン
+
+Primary Nut Bomb
+初級ナット爆弾
+
+Medium Nut Bomb
+中級ナット爆弾
+
+Advanced Nut Bomb
+上級ナット爆弾
+
+Primary Sandstorm
+初級砂嵐
+
+Medium Sandstorm
+中級砂嵐
+
+Advanced Sandstorm
+上級砂嵐
+
+Primary Peck
+初級つつく
+
+Medium Peck
+中級つつく
+
+Advanced Peck
+上級つつく
+
+Primary Claw Hook
+初級爪フック
+
+Medium Claw Hook
+中級爪フック
+
+Advanced Claw Hook
+上級爪フック
+
+Primary Slap
+初級平手打ち
+
+Medium Slap
+中級平手打ち
+
+Advanced Slap
+上級平手打ち
+
+Primary Magic Flames
+初級魔法の炎
+
+Medium Magic Flames
+中級魔法の炎
+
+Advanced Magic Flames
+上級魔法の炎
+
+Primary Elven Magic
+初級エルフの魔法
+
+Medium Elven Magic
+中級エルフの魔法
+
+Advanced Elven Magic
+上級エルフの魔法
+
+Primary Elven Song
+初級エルフの歌
+
+Medium Elven Song
+中級エルフの歌
+
+Advanced Elven Song
+上級エルフの歌
+
+Primary Shooting
+初級射撃
+
+Medium Shooting
+中級射撃
+
+Advanced Shooting
+上級射撃
+
+Primary Spit Bubbles
+初級泡を吐く
+
+Medium Spit Bubbles
+中級泡を吐く
+
+Advanced Spit Bubbles
+上級泡を吐く
+
+Primary Water Bomb
+初級水爆弾
+
+Medium Water Bomb
+中級水爆弾
+
+Advanced Water Bomb
+上級水爆弾
+
+Primary Ice Ball
+初級氷球
+
+Medium Ice Ball
+中級氷球
+
+Advanced Ice Ball
+上級氷球
+
+Primary Ice Lance
+初級氷槍術
+
+Medium Ice Lance
+中級氷槍術
+
+Advanced Ice Lance
+上級氷槍術
+
+Primary Crescent Crystal Boomerang
+初級三日月水晶ブーメラン
+
+Medium Crescent Crystal Boomerang
+中級三日月水晶ブーメラン
+
+Advanced Crescent Crystal Boomerang
+上級三日月水晶ブーメラン
+
+Primary Moonlight Crystal Retribution
+初級月光水晶の報復
+
+Medium Moonlight Crystal Retribution
+中級月光水晶の報復
+
+Advanced Moonlight Crystal Retribution
+上級月光水晶の報復
+
+Primary Punch of Heaven
+初級天の拳
+
+Medium Punch of Heaven
+中級天の拳
+
+Advanced Punch of Heaven
+上級天の拳
+
+Primary Divine Arrow
+初級神聖な矢
+
+Medium Divine Arrow
+中級神聖な矢
+
+Advanced Divine Arrow
+上級神聖な矢

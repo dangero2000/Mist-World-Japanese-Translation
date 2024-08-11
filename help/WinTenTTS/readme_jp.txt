@@ -1,0 +1,2 @@
+If you are using Windows 10 or Windows 11, you can register OneCore Voice as Sapi5 Voice for use.
+Note that by default, only voices corresponding to the current system language can be registered, and to use voices in other languages, you need to install the language pack first.

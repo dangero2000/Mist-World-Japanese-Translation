@@ -1,0 +1,41 @@
+5211 //The Black Witch speaks in a husky voice:
+Hahaha, we've got ten more corpses, This is truly the best of times! Well, let's check this one. Look at this tooth mark, and the corrosion...It was bitten to death by demons. How rarely seen, and it's very valuable. Help me remove this heart...hey, where do you think you're going?
+
+5212
+Little brat! Where do you think you're going?
+
+5216
+Little bastard! Do you really hate your master that much? Fine, then I'll give you a test. If you prove you can protect yourself out there, I'll let you go. At least you won't be here to annoy me anymore. See that stake to the north? Go break it.
+
+5218
+See that stake to the north? Go break it.
+
+5220
+It took you forever to break that stake, not so good. Now let's see how well you perform with equipment. Here are the weapon and outfit, take it.
+
+5221 //When the player refuses the equipment
+Don't be naughty, take it.
+
+5222 //When the player accepts the equipment
+Alright, put them on.
+
+5224
+There's a movable stake to the west, go break it.
+
+5226
+Wow! You barely passed. Come back, I have two more equipment for you.
+
+5227
+Here you go, these are a pair of shoes and a chest. Put those shoes on. There's also a chest in your backpack. Take a good look at it. You can open it when you're strong enough. Now the real test begins. There's a bunch of mutants in the northeast research room. If you want to leave, then go wipe them out.
+
+5229
+Put those shoes on. There's also a chest in your backpack. Take a good look at it. You can open it when you're strong enough. Now the real test begins. There's a bunch of mutants in the northeast research room. If you want to leave, then go wipe them out.
+
+5231
+There's a bunch of mutants in the northeast research room. If you want to leave, then go wipe them out.
+
+5232
+Hahaha, like master, like pupil. I've taught you well! Looks like you've obtained a Skill Crystal, use it to learn the Corrosion Spell Skill. Don't call yourself a wizard if you can't use that skill.
+
+5233
+Alright, head to the north if you want to leave. If you find any good corpses out there, remember to bring back a few. Don't forget about your master.

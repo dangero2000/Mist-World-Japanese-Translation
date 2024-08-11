@@ -1,0 +1,1847 @@
+Game Hotkeys
+ゲームのホットキー
+
+Basic Rules of the Game
+ゲームの基本ルール
+
+Game Guide
+ゲームガイド
+
+buy point card
+ポイントカードを購入
+
+Mist World website
+霧の世界のウェブサイト
+
+feedback
+フィードバック
+
+return
+戻る
+
+Copy text from window
+ウィンドウからテキストをコピー
+
+Voice and Game Sound Volume Control
+ボイスとゲーム音量のコントロール
+
+Controls for Basic Menu and Copying the Read Content
+基本メニューと読み上げ内容のコピー用コントロール
+
+Shortcuts for Character Movement, Backpack, and Item
+キャラクターの移動、バックパック、およびアイテムのショートカット
+
+How to Switch Targets and Navigate to a Certain Target
+ターゲットの切り替えと特定のターゲットへのナビゲート方法
+
+Combat Skills and Professional Skills
+戦闘スキルと専門スキル
+
+Game Information and System Prompt Message
+ゲーム情報とシステムプロンプトメッセージ
+
+Chat Controls
+チャットコントロール
+
+Quick Phrase Controls
+クイックフレーズコントロール
+
+【Game Sound and Background Music Settings (F5 to F7)】
+【ゲームサウンドとBGM設定 (F5 から F7)】
+
+Change the sound card used for game sound: F5
+ゲームサウンドに使用するサウンドカードを変更: F5
+
+Decrease game sound volume: F6
+ゲームサウンドの音量を下げる: F6
+
+Increase game sound volume: F7
+ゲームサウンドの音量を上げる: F7
+
+Decrease background music volume: SHIFT+F6
+バックグラウンドミュージックの音量を下げる: SHIFT+F6
+
+Increase background music volume: SHIFT+F7
+バックグラウンドミュージックの音量を上げる: SHIFT+F7
+
+【Voice Library Settings (F9 to F12)】
+【ボイスライブラリ設定 (F9 から F12)】
+
+Note: The main voice library is used to read the player's active actions in the game. The secondary voice library is used to read passive events in the game, such as the number of damage you take when being attacked.
+注意: メインボイスライブラリはゲーム内でプレイヤーのアクティブアクションを読み上げるために使用されます。サブボイスライブラリは、攻撃を受けたときのダメージ数などのゲーム内のパッシブイベントを読み上げるために使用されます。
+
+Change the sound card used for main voice library: F9
+メインボイスライブラリに使用するサウンドカードを変更: F9
+
+Change the parameter type of main voice library: F10
+メインボイスライブラリのパラメータタイプを変更: F10
+
+Decrease the parameter value of main voice library: F11
+メインボイスライブラリのパラメータ値を下げる: F11
+
+Increase the parameter value of main voice library: F12
+メインボイスライブラリのパラメータ値を上げる: F12
+
+Change the sound card used for secondary voice library: SHIFT+F9
+サブボイスライブラリに使用するサウンドカードを変更: SHIFT+F9
+
+Change the parameter type of secondary voice library: SHIFT+F10
+サブボイスライブラリのパラメータタイプを変更: SHIFT+F10
+
+Decrease the parameter value of secondary voice library: SHIFT+F11
+サブボイスライブラリのパラメータ値を下げる: SHIFT+F11
+
+Increase the parameter value of secondary voice library: SHIFT+F12
+サブボイスライブラリのパラメータ値を上げる: SHIFT+F12
+
+Return to game & long press to exit: ESC
+ゲームに戻る＆長押しして終了: ESC
+
+Open the settings menu: F1
+設定メニューを開く: F1
+
+Open the Action menu: left CTRL+ENTER
+アクションメニューを開く: 左CTRL+ENTER
+
+Open the battle report, announcement, gang announcement, private message window: BACKSPACE
+戦闘レポート、告知、ギャング告知、プライベートメッセージウィンドウを開く: BACKSPACE
+
+Open the interaction window: move within 5 yards to the target, select the target, and press ENTER
+インタラクションウィンドウを開く: ターゲットまで5ヤード以内に移動し、ターゲットを選択してENTERを押す
+
+Browse in the window: W, S, A, D keys (W for up, S for down, A for left, D for right)
+ウィンドウ内をブラウズ: W, S, A, Dキー (Wで上、Sで下、Aで左、Dで右)
+
+Move to the first menu item in the window: Q
+ウィンドウ内の最初のメニュー項目に移動: Q
+
+Move to the last menu item in the window: E
+ウィンドウ内の最後のメニュー項目に移動: E
+
+Check the checkbox in the window: SPACEBAR
+ウィンドウ内のチェックボックスを選択: スペースキー
+
+Select the default action for the window menu item: ENTER
+ウィンドウメニュー項目のデフォルトアクションを選択: ENTER
+
+Copy the current reading content: SHIFT+C
+現在の読み上げ内容をコピー: SHIFT+C
+
+Add the current reading content to the clipboard: SHIFT+X
+現在の読み上げ内容をクリップボードに追加: SHIFT+X
+
+Copy window content: SHIFT+Z
+ウィンドウの内容をコピー: SHIFT+Z
+
+Direction Keys and Window Controls: W, A, S, D keys (W for up/north, S for down/south, A for left/west, D for right/east)
+方向キーとウィンドウコントロール: W, A, S, Dキー (Wで上/北、Sで下/南、Aで左/西、Dで右/東)
+
+When no window is opened, the W, A, S, D keys are used to control character movement; when there's a window opened, they are used to browse in the window.
+ウィンドウが開かれていないときは、W, A, S, Dキーはキャラクターの移動を制御するために使用されます。ウィンドウが開かれているときは、ウィンドウ内をブラウズするために使用されます。
+
+Change backpack category: LEFT & RIGHT ARROW; there are seven backpack categories—Item, Equipment, Fusion Beast, Pet, Combat Skill, Profession Skill, Talent.
+バックパックカテゴリを変更: 左右の矢印キー; バックパックには、アイテム、装備、融合獣、ペット、戦闘スキル、職業スキル、才能の7つのカテゴリがあります。
+
+Select between backpack items: UP & DOWN ARROW
+バックパック内のアイテムを選択: 上下の矢印キー
+
+View the backpack item description: G
+バックパックアイテムの説明を見る: G
+
+Use item: right CTRL
+アイテムを使用: 右CTRL
+
+Adjust the order of backpack items: left CTRL+UP & DOWN ARROW
+バックパックアイテムの順序を調整: 左CTRL+上矢印＆下矢印
+
+Display backpack items by category: left CTRL+ALT+UP & DOWN ARROW
+カテゴリ別にバックパックアイテムを表示: 左CTRL+ALT+上矢印＆下矢印
+
+Discard item: SHIFT+DELETE
+アイテムを捨てる: SHIFT+DELETE
+
+Use item shortcut: from 1 to EQUAL on the number row, a total of 12 keys.
+アイテムショートカットを使用: 数字行の1からEQUALまで、合計12キー。
+
+Set use item shortcuts: left CTRL+1 to EQUAL; you can set shortcuts when selecting items in the backpack
+アイテムショートカットを設定: 左CTRL+1からEQUAL; バックパックでアイテムを選択するときにショートカットを設定できます。
+
+【1. Character Target Controls】
+【1. キャラクターターゲットコントロール】
+
+Switch Target: O, L, K, SEMICOLON (O for up, L for down, K for left, SEMICOLON for right)
+ターゲットを切り替える: O, L, K, セミコロン (Oは上、Lは下、Kは左、セミコロンは右)
+
+Reverse switch Target: ALT+O, L, K, SEMICOLON
+ターゲットを逆に切り替える: ALT+O, L, K, セミコロン
+
+Change the type of the viewing target (Ally, Enemy, etc.): V
+視覚ターゲットのタイプを変更（味方、敵など）: V
+
+Reverse change the type of the viewing target (Ally, Enemy, etc.): ALT+V
+視覚ターゲットのタイプを逆に変更（味方、敵など）: ALT+V
+
+Move to target: P
+ターゲットに移動: P
+
+Auto-follow current target (approach the target automatically when within 20 yards. single-tap to cancel follow): double-tap P
+現在のターゲットを自動追尾（20ヤード以内に自動的にターゲットに接近。シングルタップで追尾をキャンセル）: Pをダブルタップ
+
+Navigate to current target (press again to cancel): left BRACKET
+現在のターゲットにナビゲート（再度押すとキャンセル）: 左BRACKET
+
+Continuous target navigation on/off: right BRACKET
+連続ターゲットナビゲーションのオン/オフ: 右BRACKET
+
+【2. Team Target Controls】
+【2. チームターゲットコントロール】
+
+View team leader's location: SHIFT+QUOTATION
+チームリーダーの位置を表示: SHIFT+引用符
+
+When viewing team leader's location, if the team leader is within sight range, he will be selected as the target.
+チームリーダーの位置を表示する際、リーダーが視界内にいる場合、彼がターゲットとして選択されます。
+
+Set team navigation target as target: QUOTATION
+チームナビゲーションターゲットをターゲットとして設定: 引用符
+
+Cancel team navigation target: left CTRL+QUOTATION
+チームナビゲーションターゲットをキャンセル: 左CTRL+引用符
+
+Setting team navigation target requires quick phrases, please check out the "Quick Phrase Controls" in the Game Hotkey section for details.
+チームナビゲーションターゲットを設定するにはクイックフレーズが必要です。詳細については、ゲームホットキーセクションの「クイックフレーズコントロール」をご覧ください。
+
+【3. Environment Object Controls】 (buildings, intersections, cavern entrances and important road signs, etc.)
+【3. 環境オブジェクトコントロール】（建物、交差点、洞窟の入り口、重要な道路標識など）
+
+Switch environment object: SHIFT+O, L, K, SEMICOLON (O for up, L for down, K for left, SEMICOLON for right)
+環境オブジェクトを切り替える: SHIFT+O, L, K, セミコロン (Oは上、Lは下、Kは左、セミコロンは右)
+
+Reverse switch environment object: ALT+SHIFT+O, L, K, SEMICOLON
+環境オブジェクトを逆に切り替える: ALT+SHIFT+O, L, K, セミコロン
+
+Navigate to currently selected environment object (press again to cancel): SHIFT+left BRACKET
+現在選択されている環境オブジェクトにナビゲート（再度押すとキャンセル）: SHIFT+左BRACKET
+
+1. Combat Skills
+1. 戦闘スキル
+
+Change current attack mode (Pacifist Mode, Team Mode, Gang Mode, etc.): B
+現在の攻撃モードを変更（平和主義者モード、チームモード、ギャングモードなど）: B
+
+Reverse change current attack mode (Pacifist Mode, Team Mode, Gang Mode, etc.): ALT+B
+現在の攻撃モードを逆に変更（平和主義者モード、チームモード、ギャングモードなど）: ALT+B
+
+Change Skill key tab: CAPSLOCK (press once to switch to the second tab, press again to switch back to the first tab. the ten skill keys can have two tabs, for a total of 20 skills)
+スキルキータブを変更: CAPSLOCK（1回押して2番目のタブに切り替え、再度押して1番目のタブに戻す。10のスキルキーには2つのタブがあり、合計20のスキルがあります）
+
+Attack in direction: SPACEBAR
+方向に攻撃: スペースバー
+
+Follow attack the target: a total of ten keys, including three keys starting from Y in the upper row, two keys starting from H in the middle row, and five keys starting from N in the lower row, collectively referred to as the "specified attack keys"
+ターゲットを追尾攻撃: 上段のYから始まる3つのキー、中段のHから始まる2つのキー、下段のNから始まる5つのキーを含む合計10のキー、まとめて「指定攻撃キー」と呼ばれます
+
+Stationary attack: ALT+SPECIFIED ATTACK KEY
+固定攻撃: ALT+指定攻撃キー
+
+When the target is an ally character, cast a buff of healing skill on yourself: SHIFT+SPECIFIED ATTACK KEY (only used in certain team battles)
+ターゲットが味方キャラクターの場合、自分にヒールスキルのバフをかける: SHIFT+指定攻撃キー（特定のチームバトルでのみ使用）
+
+Lock attack: left CTRL+SPECIFIED ATTACK KEY
+攻撃をロック: 左CTRL+指定攻撃キー
+
+Set attack skill key: left CTRL+ALT+SPECIFIED ATTACK KEY; you can set attack skill key when selecting the combat skill in the backpack
+攻撃スキルキーを設定: 左CTRL+ALT+指定攻撃キー; バックパックで戦闘スキルを選択するときに攻撃スキルキーを設定できます。
+
+Check the skill name and its remaining CD: left CTRL+SHIFT+ALT+SPECIFIED ATTACK KEY
+スキル名とその残りのクールダウンを確認: 左CTRL+SHIFT+ALT+指定攻撃キー
+
+2. Professional Skill
+2. プロフェッショナルスキル
+
+Professional Skill keys: Z, X, C
+プロフェッショナルスキルキー: Z, X, C
+
+When producing or collecting items, you can select the skill in the backpack, or press the Professional Skill key, and then press SPACEBAR to cast the skill.
+アイテムを生産または収集する際、バックパックでスキルを選択するか、プロフェッショナルスキルキーを押してからスペースバーを押してスキルを発動できます。
+
+Set Professional Skill key: left CTRL+ALT+Z, X, C; you can set Professional Skill key when selecting the Professional Skill in the backpack
+プロフェッショナルスキルキーを設定: 左CTRL+ALT+Z, X, C; バックパックでプロフェッショナルスキルを選択するときにプロフェッショナルスキルキーを設定できます。
+
+1. Game Information
+1. ゲーム情報
+
+View your HP, SP (spirit point)/MP (mana point), (de)buff status: R
+自分のHP、SP（スピリットポイント）/MP（マナポイント）、（デ）バフ状態を見る: R
+
+View pet HP, SP (spirit point)/MP (mana point), (de)buff status: SHIFT+R
+ペットのHP、SP（スピリットポイント）/MP（マナポイント）、（デ）バフ状態を見る: SHIFT+R
+
+Check your accumulation points, fusion power stats, and pet amiability: T
+累積ポイント、融合力ステータス、ペットの友好度を確認: T
+
+Note: There are different types of accumulation points depending on your character:  Warrior and Orc—rage; Assassin—combo; Hunter—marked targets; Mage—Ice Spike; Elf—fire element; Priest—the number of allies and enemies within 10 yards; Witcher—the target's agony
+注: キャラクターに応じて異なる累積ポイントがあります。戦士とオーク—怒り; 暗殺者—コンボ; ハンター—マークされたターゲット; 魔法使い—アイススパイク; エルフ—火の要素; 司祭—10ヤード以内の味方と敵の数; ウィッチャー—ターゲットの苦痛
+
+Bring up your information window: BACKQUOTE
+情報ウィンドウを表示: バッククォート
+
+view the current target's HP, SP (spirit point)/MP (mana point), (de)buff status: F
+現在のターゲットのHP、SP（スピリットポイント）/MP（マナポイント）、（デ）バフ状態を確認: F
+
+View the current target's information: G
+現在のターゲットの情報を表示: G
+
+Brings up the current target's information window: TAB
+現在のターゲットの情報ウィンドウを表示: TAB
+
+change the type of the viewing target (Ally, Enemy, etc.): V
+視覚ターゲットのタイプを変更（味方、敵など）: V
+
+Reverse change the type of the viewing target (Ally, Enemy, etc.): ALT+V
+視覚ターゲットのタイプを逆に変更（味方、敵など）: ALT+V
+
+View location information: E
+位置情報を見る: E
+
+View current game time/remaining time of dungeon: Q
+現在のゲーム時間/ダンジョンの残り時間を見る: Q
+
+2. System Prompt Message
+2. システムプロンプトメッセージ
+
+View the previous system prompt message: HOME
+前のシステムプロンプトメッセージを見る: HOME
+
+View the next system prompt message: END
+次のシステムプロンプトメッセージを見る: END
+
+View the first system prompt message: SHIFT+HOME
+最初のシステムプロンプトメッセージを見る: SHIFT+HOME
+
+View the last system prompt message: SHIFT+END
+最後のシステムプロンプトメッセージを見る: SHIFT+END
+
+Switch public chat and private chat: Delete
+公開チャットとプライベートチャットを切り替える: 削除
+
+Open the public chat message input box in the public chat mode, and open the private chat message input box in the private chat mode: BACKSLASH
+公開チャットモードで公開チャットメッセージ入力ボックスを開き、プライベートチャットモードでプライベートチャットメッセージ入力ボックスを開く: バックスラッシュ
+
+Channel message reading and quick view settings: SHIFT+BACKSLASH
+チャネルメッセージの読み取りとクイックビュー設定: SHIFT+バックスラッシュ
+
+View the previous and next channel messages in public chat mode, and view the previous and next private chat messages in private chat mode: PageUP and PageDOWN
+公開チャットモードで前後のチャネルメッセージを表示し、プライベートチャットモードで前後のプライベートチャットメッセージを表示する: PageUP と PageDOWN
+
+View the first and last message: SHIFT+PageUP and Shift+PageDOWN
+最初と最後のメッセージを見る: SHIFT+PageUP と Shift+PageDOWN
+
+Switch chat channels in public chat mode and switch chat objects in private chat mode: Home and End
+公開チャットモードでチャットチャネルを切り替え、プライベートチャットモードでチャットオブジェクトを切り替える: Home と End
+
+In public chat mode, After using the Home and End keys to browse to international channels or private channels, press the Enter key to select a specific international channel group or private channel group.
+公開チャットモードでは、HomeキーとEndキーを使用して国際チャネルまたはプライベートチャネルを閲覧した後、Enterキーを押して特定の国際チャネルグループまたはプライベートチャネルグループを選択します。
+
+Bring up the chat target's character information window: press ENTER when viewing messages
+チャットターゲットのキャラクター情報ウィンドウを表示: メッセージを表示中にENTERを押します
+
+1. Hotkeys
+1. ホットキー
+
+Bring up the quick phrase settings window: SHIFT+BACKSPACE
+クイックフレーズ設定ウィンドウを表示: SHIFT+BACKSPACE
+
+Send quick phrases: SHIFT+1 to EQUAL on the number row, a total of 12 keys
+クイックフレーズを送信: 数字行のSHIFT+1からEQUALまで、合計12キー
+
+When you send a quick phrase, it will be sent to your current channel.
+クイックフレーズを送信すると、現在のチャネルに送信されます。
+
+2. Add Codes in Quick Phrase
+2. クイックフレーズにコードを追加
+
+2.1. Set team navigation target while sending a quick phrase
+2.1. クイックフレーズを送信しながらチームナビゲーションターゲットを設定
+
+When you add the code "/0" (a SLASH and number 0) before the phrase, you will set yourself as the team navigation target when sending the quick phrase. This allows team members to quickly select you by pressing QUOTATION to heal or remove debuffs.
+フレーズの前にコード「/0」（スラッシュと数字の0）を追加すると、クイックフレーズを送信する際に自分をチームナビゲーションターゲットとして設定します。これにより、チームメンバーはQUOTATIONを押して迅速に自分を選択し、回復やデバフの解除ができます。
+
+When you add the code "/1" (a SLASH and number 1) before the phrase, you will set the target as the team navigation target when sending the quick phrase. Afterwards, team members can quickly select the target by pressing QUOTATION to concentrate their attack or conduct other actions.
+フレーズの前にコード「/1」（スラッシュと数字の1）を追加すると、クイックフレーズを送信する際にターゲットをチームナビゲーションターゲットとして設定します。その後、チームメンバーはQUOTATIONを押して迅速にターゲットを選択し、攻撃を集中させたり他の行動を行うことができます。
+
+When you add the code "/2" (a SLASH and number 2) before the phrase, you will cancel team navigation. It works the same as: left CTRL+QUOTATION
+フレーズの前にコード「/2」（スラッシュと数字の2）を追加すると、チームナビゲーションがキャンセルされます。これは左CTRL+QUOTATIONと同じように機能します。
+
+Note 1: Quick phrases with navigation codes will only be sent to the team chat channel.
+注1: ナビゲーションコードを含むクイックフレーズは、チームチャットチャネルにのみ送信されます。
+
+Note 2: when editing a quick phrase, you can only input the navigation code, with no actual messages. In that case, when you send that quick phrase, you will only change the team navigation settings, without sending any messages.
+注2: クイックフレーズを編集する際、実際のメッセージなしでナビゲーションコードのみを入力できます。その場合、そのクイックフレーズを送信するときは、チームナビゲーション設定を変更するだけで、メッセージは送信されません。
+
+2.2. Change Target Shortcuts
+2.2. ターゲットショートカットを変更
+
+When you input the code "/3" in a quick phrase, you will change your target to the one that's being attacked by the current target.
+クイックフレーズにコード「/3」を入力すると、現在のターゲットに攻撃されているターゲットに自分のターゲットを変更します。
+
+When you input the code "/4" in a quick phrase, you will change your target to the one that's attacking the current target.
+クイックフレーズにコード「/4」を入力すると、現在のターゲットを攻撃しているターゲットに自分のターゲットを変更します。
+
+When you input the code "/5" in a quick phrase, you will change your target to the one that's attacking yourself.
+クイックフレーズにコード「/5」を入力すると、自分を攻撃しているターゲットに自分のターゲットを変更します。
+
+When you input the code "/6" in a quick phrase, you will change your target to your teammates on the map.
+クイックフレーズにコード「/6」を入力すると、マップ上のチームメイトに自分のターゲットを変更します。
+
+When you input the code "/7" in a quick phrase, you will change your target to the teammate with the least HP rate within 20 yards.
+クイックフレーズにコード「/7」を入力すると、20ヤード以内で最もHP率が低いチームメイトに自分のターゲットを変更します。
+
+When you input the code "/8" in a quick phrase, you will change your target to the teammate with the least HP rate within 30 yards.
+クイックフレーズにコード「/8」を入力すると、30ヤード以内で最もHP率が低いチームメイトに自分のターゲットを変更します。
+
+When you input the code "/9" in a quick phrase, you will view the enemy target in the Arena Fight.
+クイックフレーズにコード「/9」を入力すると、アリーナファイトで敵のターゲットを表示します。
+
+Note: Change Target Shortcuts cannot be used to send actual messages.
+注: ターゲットショートカットを変更するには、実際のメッセージを送信することはできません。
+
+Experience Calculation Rules
+経験値計算ルール
+
+Experience and Loot Distribution Rules
+経験値と戦利品の分配ルール
+
+Morality Rules
+道徳ルール
+
+Buff and Debuff Skill Rules
+バフとデバフスキルのルール
+
+Control Skill Rules
+コントロールスキルルール
+
+Threat Rules
+脅威ルール
+
+//Experience Gaining—Solo
+//経験値獲得—ソロ
+
+1. When fighting a monster of the same level, you will gain standard experience.
+1. 同じレベルのモンスターと戦うと、標準の経験値を獲得します。
+
+2. When fighting a monster Level 1から4 higher, you will gain 104%, 108%, 112%, 116% of standard experience respectively.
+2. レベルが1から4高いモンスターと戦う場合、標準の経験値のそれぞれ104%、108%、112%、116%を獲得します。
+
+3. When fighting a monster Level 5 higher and above, you will gain 120% of standard experience.
+3. レベルが5以上高いモンスターと戦う場合、標準の経験値の120%を獲得します。
+
+4. When fighting a monster of lower level, you will gain 4% less standard experience for each lower level.
+4. レベルが低いモンスターと戦う場合、レベルが低いごとに標準の経験値が4%減少します。
+
+5. When fighting a monster Level 25 lower and below, you will gain no experience.
+5. レベルが25以下低いモンスターと戦う場合、経験値を獲得できません。
+
+//Experience Gaining—Team
+//経験値獲得—チーム
+
+1. When players of similar levels team up to fight monsters, they will enjoy an experience bonus. There is a 10% experience bonus for every additional player in the team.
+1. 同じレベルのプレイヤーがモンスターと戦うためにチームを組むと、経験値ボーナスを得ることができます。チーム内の追加プレイヤーごとに10%の経験値ボーナスがあります。
+
+For example, there is a Level 30 monster that is worth 100 experience:
+例えば、レベル30のモンスターが100経験値の価値がある場合:
+
+If it is slain by a Level 30 player, the player will gain 100 experience;
+レベル30のプレイヤーによって倒された場合、プレイヤーは100経験値を獲得します;
+
+If it is slain by two Level 30 players, there is 110 experience in total, and each of the players will gain 55 experience;
+2人のレベル30のプレイヤーによって倒された場合、合計110経験値があり、それぞれのプレイヤーは55経験値を獲得します;
+
+If it is slain by three Level 30 players, there is 120 experience in total, and each of the players will gain 40 experience; and so on.
+3人のレベル30のプレイヤーによって倒された場合、合計120経験値があり、それぞれのプレイヤーは40経験値を獲得します; など。
+
+2. When players with large level gaps team up to fight monsters, the total experience gained will be less, and it will be tilted towards the higher level players. The specifics will not be detailed here, players can find out in the game.
+2. レベル差が大きいプレイヤーがモンスターと戦うためにチームを組むと、獲得される総経験値が少なくなり、高レベルのプレイヤーに偏ります。詳細はここでは詳しく説明されませんが、プレイヤーはゲーム内で確認できます。
+
+3. Players who can gain experience: All the team members within 40 yards of the slain monster.
+3. 経験値を獲得できるプレイヤー: 倒されたモンスターから40ヤード以内のすべてのチームメンバー。
+
+1. When no one tries to kill-steal, the player who dealt the killing blow to the monster will receive the experience and loot;
+1. 誰もキルスティールを試みない場合、モンスターに最後の一撃を与えたプレイヤーが経験値と戦利品を受け取ります;
+
+2. When there are multiple players trying to kill-steal, the player with the highest Threat in the monster's hostile list will receive the experience and loot;
+2. 複数のプレイヤーがキルスティールを試みる場合、モンスターの敵対リストで最も高い脅威を持つプレイヤーが経験値と戦利品を受け取ります;
+
+3. If a team of players defeated the monster, the experience and loot will be distributed to all team members within 40 yards of the monster. In which, loot will be randomly distributed, and the experience will be distributed according to the Experience Calculation Rules.
+3. プレイヤーのチームがモンスターを倒した場合、経験値と戦利品はモンスターから40ヤード以内のすべてのチームメンバーに分配されます。この場合、戦利品はランダムに分配され、経験値は経験値計算ルールに従って分配されます。
+
+4. As for loot, players need to fight monsters at least level 9 lower than themselves on the public map to have 100% loot drop rate. For example, if the player is Level 40, he needs to slay monsters that are Level 31 and above to ensure he gets loot.
+4. 戦利品については、プレイヤーはパブリックマップ上で自分より少なくともレベル9低いモンスターと戦う必要があります。たとえば、プレイヤーがレベル40の場合、レベル31以上のモンスターを倒して戦利品を確保する必要があります。
+
+5. On the public map, if the monster is level 10から19 lower than the player, the loot drop rate will become 50%. For example, if the player is Level 40, when he slays monsters that are Level 21から30, he will only have a 50% chance to receive loot;
+5. パブリックマップ上では、モンスターがプレイヤーより10から19レベル低い場合、戦利品のドロップ率は50%になります。たとえば、プレイヤーがレベル40の場合、レベル21から30のモンスターを倒すと、戦利品を受け取る確率は50%になります;
+
+6. On the public map, if the monster is level 20から29 lower than the player, the loot drop rate will become 25%. For example, if the player is Level 40, when he slays monsters that are Level 11から20, he will only have a 25% chance to receive loot;
+6. パブリックマップ上では、モンスターがプレイヤーより20から29レベル低い場合、戦利品のドロップ率は25%になります。たとえば、プレイヤーがレベル40の場合、レベル11から20のモンスターを倒すと、戦利品を受け取る確率は25%になります;
+
+7. On the public map, if the monster is level 30 and lower than the player, it will not drop any loot when slain.
+7. パブリックマップ上では、モンスターがプレイヤーより30レベル低い場合、倒されても戦利品はドロップしません。
+
+8. Most of the monsters on dungeon maps follow the same rules, and some may have different rules. Players are encouraged to explore on their own.
+8. ダンジョンマップのモンスターの多くは同じルールに従い、一部は異なるルールを持つ場合があります。プレイヤーは自分で探索することが奨励されます。
+
+Morality
+道徳
+
+1. Morality is a value that shows whether a player is friendly to other players. When a player has high Morality, it means that he is friendly to other players and will not take the initiative to attack others; When a player has low Morality, it means that he is aggressive and will kill other player characters.
+1. 道徳とは、プレイヤーが他のプレイヤーに対して友好的であるかどうかを示す値です。道徳が高いプレイヤーは、他のプレイヤーに対して友好的であり、自発的に他者を攻撃しないことを意味します。道徳が低いプレイヤーは、攻撃的で他のプレイヤーキャラクターを殺すことを意味します。
+
+2. The player's initial Morality is 0. The highest is 2000, and the lowest is -2000. The color of the player's name changes according to their Morality.
+2. プレイヤーの初期の道徳は0です。最高は2000、最低は-2000です。プレイヤーの名前の色は道徳に応じて変わります。
+
+3. Players with Morality between -500 and 500 have gray names. When you kill a gray-name player, you lose 50 Morality.
+3. 道徳が-500から500の間のプレイヤーは灰色の名前を持ちます。灰色の名前のプレイヤーを殺すと、50の道徳を失います。
+
+4. Players with Morality between 500 and 1000 have green names. Green-name players will be marked green on the map. When you kill a green-name player, you lose 100 Morality.
+4. 道徳が500から1000の間のプレイヤーは緑色の名前を持ちます。緑色の名前のプレイヤーは地図上で緑色で表示されます。緑色の名前のプレイヤーを殺すと、100の道徳を失います。
+
+5. Players with Morality no less than 1000 have white names. White-name players will be marked white on the map. When killed, they lose less experience than gray-name and green-name players, and can spend 500 Morality to enter mist god Valley. When you kill a white-name player, you lose 150 Morality.
+5. 道徳が1000以上のプレイヤーは白い名前を持ちます。白い名前のプレイヤーは地図上で白でマークされます。殺された場合、灰色の名前や緑色の名前のプレイヤーよりも経験値を失う量が少なく、500の道徳を使って霧神の谷に入ることができます。白い名前のプレイヤーを殺すと、150の道徳を失います。
+
+6. Players with Morality between -500 and -1000 have red names. Red-name players will be marked red on the map. When killed by other players, they have a chance to lose items, in which case, the player who killed them will receive half of those items.
+6. 道徳が-500から-1000の間のプレイヤーは赤い名前を持ちます。赤い名前のプレイヤーは地図上で赤でマークされます。他のプレイヤーに殺されると、アイテムを失う可能性があり、その場合、殺したプレイヤーがそれらのアイテムの半分を受け取ります。
+
+7. Players with Morality no more than -1000 have black names. Black-name players will be marked red on the map. When killed by other players, they have a chance to lose items, in which case, the player who killed them will receive half of those items. In addition, Whenever black-name players are killed by monsters or other players, the equipment they're wearing has a 20% chance of being wrecked. Black-name players will also be subject to other restrictions. It is tough to survive in the game with a black name, the only advantage is that they can enter the black domain.
+7. 道徳が-1000以下のプレイヤーは黒い名前を持ちます。黒い名前のプレイヤーは地図上で赤でマークされます。他のプレイヤーに殺されると、アイテムを失う可能性があり、その場合、殺したプレイヤーがそれらのアイテムの半分を受け取ります。さらに、黒い名前のプレイヤーがモンスターや他のプレイヤーに殺された場合、装備している装備が20%の確率で破壊される可能性があります。黒い名前のプレイヤーは他の制限も受けます。黒い名前でゲームを生き延びるのは非常に難しく、唯一の利点は黒い領域に入ることができることです。
+
+8. In addition to the above color names, when a gray-name, green-name or white-name player takes the initiative to attack another gray-name, green-name or white-name player, the attacked player will see the attacker as a yellow-name, and can kill the attacker without losing any Morality.
+8. 上記の色の名前に加えて、灰色の名前、緑色の名前、または白い名前のプレイヤーが他の灰色の名前、緑色の名前、または白い名前のプレイヤーを攻撃すると、攻撃されたプレイヤーは攻撃者を黄色の名前として表示し、道徳を失うことなく攻撃者を殺すことができます。
+
+9. The above changes of Morality is effective on most maps, except for certain protection maps, competition maps and practice maps.
+9. 上記の道徳の変化は、特定の保護マップ、競技マップ、練習マップを除くほとんどのマップで有効です。
+
+10. Morality increases automatically when you slay monsters or haven't killed any player for a while. When a player hasn't killed any other player for more than 8 hours, his Morality increase 1 point every 10 minutes. When a player is slaying monsters on a public map, his Morality increase 5 points every 10 minutes.
+10. モンスターを倒したり、しばらくの間プレイヤーを殺していないと、自動的に道徳が増加します。プレイヤーが他のプレイヤーを8時間以上殺していない場合、道徳は10分ごとに1ポイント増加します。プレイヤーがパブリックマップでモンスターを倒している場合、道徳は10分ごとに5ポイント増加します。
+
+There are two types of (de)buff skills: self buff skills, and non-self (de)buff skills that can be cast to others.
+（デ）バフスキルには2種類あります：自己バフスキルと、他人にキャストできる非自己（デ）バフスキルです。
+
+Self buff skills is completely independent. When cast, they cannot be dispelled by dispel skills or replaced by other supporting skills. They will only disappear after the duration ends.
+自己バフスキルは完全に独立しています。キャストすると、解除スキルで解除されたり、他のサポートスキルに置き換えられたりすることはありません。持続時間が終了すると消えます。
+
+Self buff skills include: 1. movement speed increase—Warrior's Wind Step, Orc's Haste, etc.; 2. Critical Hit increase—Assassin's Leap Gouge, Elf's Scorch, etc.; 3. Accuracy increase—Hunter's Bull's Eye, etc.; 4. attack speed increase—Mage's Cold Winter, etc.; 5. invincible block and reduce mana cost to zero—Priest's Soul of Redemption; 6. Reduce damage taken and prevent interruptions—Witcher's Undying Resolve, etc; as well as many other buff skills.
+自己バフスキルには、1. 移動速度増加—戦士のウィンドステップ、オークのヘイストなど；2. クリティカルヒット増加—暗殺者のリープゴージ、エルフのスコーチなど；3. 命中率増加—ハンターのブルズアイなど；4. 攻撃速度増加—メイジのコールドウィンターなど；5. 無敵ブロックとマナコストをゼロにする—プリーストのソウルオブリデンプション；6. 受けるダメージを減らし、中断を防ぐ—ウィッチャーのアンディイングリゾルブなど、多くのバフスキルがあります。
+
+Non-self (de)buff skills can be dispelled by dispel skills, and can be excluded, replaced, or enhanced by other supporting skills.
+非自己（デ）バフスキルは解除スキルで解除でき、他のサポートスキルによって除外、置き換え、または強化されることがあります。
+
+Among then, debuff skills that decreases physical defense include: Warrior's Armor Break, Orc's Giant Strike, Assassin's Puncture, etc. These skill effects can be stacked with other skills that are cast afterwards, up to 20% physical defense decrease. In practice, to maximize the physical defense decrease debuff, the debuff skills need to be cast in succession (the next debuff skill must be cast before the effect of the previous one ends).
+その中で、物理防御を減少させるデバフスキルには、戦士のアーマーブレイク、オークのジャイアントストライク、暗殺者のパンクチャーなどがあります。これらのスキル効果は、後からキャストされた他のスキルとスタックし、最大20%の物理防御減少が可能です。実際には、物理防御減少デバフを最大化するために、デバフスキルは連続してキャストする必要があります（次のデバフスキルは前の効果が終了する前にキャストする必要があります）。
+
+Debuff skills that decrease toughness include: Witcher's Corrosion Spell, etc. These skill effects can be stacked with other skills that are cast afterwards, up to 40% toughness decrease. In practice, to maximize the toughness decrease debuff, the debuff skills need to be cast in succession (the next debuff skill must be cast before the effect of the previous one ends).
+タフネスを減少させるデバフスキルには、ウィッチャーのコロージョンスペルなどがあります。これらのスキル効果は、後からキャストされた他のスキルとスタックし、最大40%のタフネス減少が可能です。実際には、タフネス減少デバフを最大化するために、デバフスキルは連続してキャストする必要があります（次のデバフスキルは前の効果が終了する前にキャストする必要があります）。
+
+Except for the above two, the rest of non-self (de)buff skills adopts a replacement rule, which means, for skills with the same debuff effect, if you cast two skills subsequently, the latter one will replace the former one's effect.
+上記の2つを除いて、残りの非自己（デ）バフスキルは置き換えルールを採用しており、同じデバフ効果を持つスキルについては、2つのスキルを順次キャストすると、後者が前者の効果を置き換えます。
+
+For example, Warrior's Battle Cry and Hunter's Strong-Arm Aura can both increase ally attack damage, and only one can be effective at the same time. If players use Strong-Arm Aura, then don't use Battle Cry until the buff disappears, otherwise the former's stronger buff will be replaced by the latter's weaker buff.
+例えば、戦士のバトルクライとハンターのストロングアームオーラはどちらも味方の攻撃ダメージを増加させることができますが、同時に有効なのは1つだけです。プレイヤーがストロングアームオーラを使用する場合、バフが消えるまでバトルクライを使用しないでください。そうしないと、前者の強力なバフが後者の弱いバフに置き換えられます。
+
+All non-self (de)buff skills can be dispelled by dispel skills. But there are three types of debuffs: magic debuff, curse debuff and poison debuff, which all require the corresponding dispel skills to dispel.
+すべての非自己（デ）バフスキルは解除スキルで解除できますが、3種類のデバフがあります：魔法デバフ、呪いデバフ、毒デバフであり、それぞれ対応する解除スキルが必要です。
+
+1. Types of Control Skill
+1. コントロールスキルの種類
+
+Control skills can affect a character's actions. They include the following control effects:
+コントロールスキルはキャラクターの行動に影響を与えることができます。それらには次のコントロール効果が含まれます：
+
+1. Stun: Stunned characters cannot attack, move, use items, dodge attacks, or wake up when taken damage.
+1. スタン：スタン状態のキャラクターは攻撃、移動、アイテムの使用、攻撃の回避、ダメージを受けた際の目覚めができません。
+
+2. Restrain & Ensnare: Restrained or Ensnared characters cannot attack, use items, or dodge attacks.
+2. 拘束＆捕縛：拘束または捕縛されたキャラクターは攻撃、アイテムの使用、攻撃の回避ができません。
+
+3. Knock-Out & Freeze: Knock-Outed or Frozen characters cannot attack, move, use items, or dodge attacks, but will wake up when taken damage.
+3. ノックアウト＆フリーズ：ノックアウトまたはフリーズ状態のキャラクターは攻撃、移動、アイテムの使用、攻撃の回避ができませんが、ダメージを受けた際に目覚めます。
+
+4. Transfix & Fire-Trap: Transfixed or Fire-Trapped characters cannot move.
+4. 突き刺し＆ファイアトラップ：突き刺されたまたはファイアトラップ状態のキャラクターは移動できません。
+
+5. Silence: Silenced characters cannot cast channeling spells.
+5. サイレンス：サイレンス状態のキャラクターはチャネリングスペルをキャストできません。
+
+As opposed to Control Skills, there are Counter-Control Skills. There are two types of such skills: decontrol and control immune. However, there are not many Counter-Control skills, players are encouraged to explore on their own.
+コントロールスキルに対して、カウンターコントロールスキルがあります。これらのスキルには、解除とコントロール免疫の2種類があります。ただし、カウンターコントロールスキルはあまり多くありません。プレイヤーは独自に探索することをお勧めします。
+
+2. Control Overload Rules
+2. コントロールオーバーロードルール
+
+Control Skills adopt to the Control Overload Rules, which means, when a character is affected by too many Control Skills of the same type in a short period, he will be immune to that type of Control Skills for 15 seconds.
+コントロールスキルはコントロールオーバーロードルールに従っており、短期間に同じタイプのコントロールスキルを受けると、そのタイプのコントロールスキルに15秒間免疫を持つようになります。
+
+The specific rules are: If a player is affected by a type of control skill, and is affected again by the same type within 15 seconds after the first effect ends, he will accumulate an "Affected Time" of that type. If the player is affected a third time by the same type within 15 seconds after the second effect ends, then he will accumulate more "Affected Time", and so on. When the "Affected Time" reaches or exceeds 15 seconds, the player will be immune to that type of Control Skills for 15 seconds.
+具体的なルールは次のとおりです：プレイヤーがあるタイプのコントロールスキルを受け、その後15秒以内に再び同じタイプのスキルを受けると、そのタイプの「影響時間」が蓄積されます。2回目の効果終了後15秒以内に同じタイプのスキルを3回目に受けると、さらに「影響時間」が蓄積されます。このようにして、「影響時間」が15秒以上になると、そのタイプのコントロールスキルに15秒間免疫を持つようになります。
+
+The "Affected Time" only resets when a player is not affected again by the same type of Control Skill within 15 seconds after the first effect ends.
+「影響時間」は、最初の効果終了後15秒以内に同じタイプのコントロールスキルを再び受けない場合にのみリセットされます。
+
+3. Control-Immune Characters
+3. コントロール免疫キャラクター
+
+In the game, some monsters are completely immune to Control Skills, mostly boss-level monsters. In addition, certain unique monsters have control-immune, including city guards, etc.
+ゲーム内では、一部のモンスターがコントロールスキルに完全に免疫を持っており、主にボスレベルのモンスターです。さらに、特定のユニークなモンスターがコントロール免疫を持っており、都市の守衛などが含まれます。
+
+1. Threat indicates the reaction of monsters to their enemy targets. Only Monsters have Threat;
+1. 脅威はモンスターが敵対象に対して反応することを示します。脅威を持つのはモンスターだけです。
+
+2. When a monster has Threat for one or more players, these values will be stored in the monster's Hostile list. Players can select the monster and press TAB to view the specific Hostile list;
+2. モンスターが1人以上のプレイヤーに対して脅威を持つと、これらの値はモンスターの敵対リストに保存されます。プレイヤーはモンスターを選択し、TABを押して特定の敵対リストを表示できます。
+
+3. When players attack the monster, they will generate Threat according to the damage dealt. Only a few skills that aim to increase Threat are exceptions.
+3. プレイヤーがモンスターを攻撃すると、与えたダメージに応じて脅威が発生します。脅威を増加させることを目的とした少数のスキルが例外です。
+
+4. The attacked monster will spread Threat to its companions within a certain range. The affected monsters will also add the player to their Hostile list with 0 Threat.
+4. 攻撃されたモンスターは一定の範囲内の仲間に脅威を広げます。影響を受けたモンスターは、プレイヤーを脅威0で自分の敵対リストに追加します。
+
+5. When Priest or Witchers heal players in the monster's hostile list, they will generate Threat equal to 70% of the healed HP;
+5. プリーストまたはウィッチャーがモンスターの敵対リストにあるプレイヤーを回復すると、回復したHPの70%に相当する脅威が発生します。
+
+6. When the monster is not locked on to a certain player, it will attack the player with the highest Threat in its hostile list; When the monster is locked on to a certain player, if another player's Threat is no less than 115% of its target, it will change its target to the player with the highest Threat.
+6. モンスターが特定のプレイヤーにロックオンされていない場合、敵対リスト内で最も脅威が高いプレイヤーを攻撃します。モンスターが特定のプレイヤーにロックオンされている場合、他のプレイヤーの脅威が対象の115%以上である場合、ターゲットを最も脅威の高いプレイヤーに変更します。
+
+7. When the highest Threat in the monster's hostile list exceeds 1/8 of its total HP, all Threat will be reduced to 70%;
+7. モンスターの敵対リストで最も高い脅威が総HPの1/8を超えると、すべての脅威が70%に減少します。
+
+8. Melee Classes have certain skills, such as Taunt, that can force the monster to attack the caster, at which time, the Hostile List Rules are ignored.
+8. 近接クラスは、モンスターをキャスターに攻撃させることができる挑発などの特定のスキルを持っており、その際は敵対リストのルールが無視されます。
+
+Game Introduction
+ゲーム紹介
+
+How do I Choose My Class
+職業の選び方
+
+What should I do as a New Player
+新規プレイヤーとして何をすべきか
+
+What are Talents
+才能とは何か
+
+What are Professional Skills
+プロフェッショナルスキルとは何か
+
+Map Introduction
+マップの紹介
+
+Item Drop Summary
+アイテムドロップ概要
+
+What are the Benefits of the Bonus Attributes Provided by Socketed Gems
+ソケット化されたジェムによって提供されるボーナス属性の利点は何か
+
+Pet In-Depth Introduction
+ペットの詳細な紹介
+
+What are Fusion Beasts
+融合獣とは何か
+
+What are the Benefits of Becoming a Tutor
+チューターになることの利点は何か
+
+Marriage In-Depth Introduction
+結婚の詳細な紹介
+
+What are the Benefits of Joining a Gang
+ギャングに参加することの利点は何か
+
+Different levels of combat skills to learn
+学ぶべきさまざまなレベルの戦闘スキル
+
+What to do if you receive a harassing message from someone else in the game
+ゲーム内で他のプレイヤーから嫌がらせのメッセージを受け取った場合の対処法
+
+The Meanings of Game Sounds
+ゲーム音の意味
+
+Mist World is an 2D RPG MMO with top-down perspective.
+霧の世界は、トップダウン視点の2D RPG MMOです。
+
+The entire game perspective is centered on you, and the four directions (up/north, down/south, left/west, right/east) are completely fixed.
+ゲームの視点はプレイヤーを中心にしており、四つの方向（上/北、下/南、左/西、右/東）は完全に固定されています。
+
+By simply pressing the direction keys, your character will move to that corresponding direction.
+方向キーを押すだけで、キャラクターはその方向に移動します。
+
+Please note, although the four directions are fixed, when the character changes directions, he needs to turn to that direction before moving towards it, which means, the character follows the rules of the real world, unlike rudimentary 2D games where the character only moves with no concept of orientation.
+注意：四つの方向は固定されていますが、キャラクターが方向を変える際にはその方向に向き直る必要があります。これは、基本的な2Dゲームとは異なり、キャラクターが方向性の概念なしに移動するのではなく、現実の世界のルールに従うことを意味します。
+
+When the character turns, you will hear a light "swish" sound. The direction the character is facing affects the coverage of non-360 degree wide-range attack skills.
+キャラクターが方向を変えるとき、軽い「シュッ」という音が聞こえます。キャラクターが向いている方向は、360度以外の広範囲攻撃スキルのカバー範囲に影響を与えます。
+
+For example, if you lock on to a monster in the west and cast an Ice Storm, all the other monsters in the west will also be affected by this wide-range attack skill, while monsters in other directions won't.
+例えば、西側のモンスターにロックオンしてアイスストームをキャストすると、西側の他のモンスターもこの広範囲攻撃スキルの影響を受けますが、他の方向のモンスターは影響を受けません。
+
+The character's other actions also follow the laws of real-world physics.
+キャラクターの他の行動も現実世界の物理法則に従います。
+
+For example, when you press the W, S, A, D keys, if you only give it a short press, you will not hear the character's footsteps, unlike other games where pressing the cursor once will generate footsteps. At the same time, the character occupies a complete coordinate, unlike other games where the character only takes up a square as his coordinate. In our game, the character has an outline, and his body takes up each coordinate.
+例えば、W、S、A、Dキーを短く押しただけでは、他のゲームのようにカーソルを一度押すと足音が生成されるのとは異なり、キャラクターの足音が聞こえません。同時に、キャラクターは完全な座標を占有しており、他のゲームのようにキャラクターが正方形として座標を占めるわけではありません。私たちのゲームでは、キャラクターにはアウトラインがあり、その体は各座標を占めます。
+
+For example, when you stand still and move one leg slightly forward within a one-meter square instead of taking a big step, you certainly won't hear any footsteps.
+例えば、一メートル四方の範囲で大きなステップを踏まずに片足を少し前に動かしても、足音は確かに聞こえません。
+
+You will only hear footsteps when you've moved across a real coordinate, which may feel a bit awkward if you're new to Mist World and have gotten used to other games. But when the character actually starts running, you will find that he is very flexible, and can move in eight directions.
+実際の座標を移動するときにのみ足音が聞こえます。霧の世界に慣れていない場合や、他のゲームに慣れている場合は少し違和感を覚えるかもしれません。しかし、キャラクターが実際に走り始めると、非常に柔軟であり、八方向に移動できることに気付くでしょう。
+
+When the character casts a skill, you will find that he cannot move at the moment the skill is cast. This is a very common recovery setting in games.
+キャラクターがスキルをキャストするとき、その瞬間に移動できないことに気付くでしょう。これは、ゲームで非常に一般的な回復設定です。
+
+Many games have cast recovery and hit recovery settings.
+多くのゲームにはキャスト回復とヒット回復の設定があります。
+
+For example, you're running on the battlefield with a heavy weapon, when you attack an enemy, you need to swing the weapon, and at that moment, your movement speed is bound to be affected.
+例えば、重い武器を持って戦場を走っているとき、敵を攻撃すると、武器を振る必要があり、その瞬間に移動速度が影響を受けます。
+
+The recovery setting is an important part in terms of the balance between melee and long-range classes.
+回復設定は、近接クラスと遠距離クラスのバランスにおいて重要な部分です。
+
+If no recovery is needed when casting skills, long-range classes can just hit-and-run when fighting melee classes.
+スキルをキャストする際に回復が必要ない場合、遠距離クラスは近接クラスとの戦闘でヒット＆ランが可能です。
+
+Monster attacks follow the same rule.
+モンスターの攻撃も同じルールに従います。
+
+When fighting monsters, you will find that because of cast recovery, the monster approach and attack you. In fact, the reason isn't cast recovery, instead, it's because monsters move faster than usual when chasing their targets. We've added a certain amount of intelligence to our monsters.
+モンスターと戦うとき、キャスト回復のためにモンスターが近づいて攻撃することに気付くでしょう。実際、理由はキャスト回復ではなく、モンスターがターゲットを追いかけるときに通常よりも速く移動するためです。私たちはモンスターに一定の知性を追加しました。
+
+If you provoked a beast, it would surely rush to you, instead of walking slowly.
+もし獣を挑発した場合、ゆっくりと歩くのではなく、必ずあなたに突進してくるでしょう。
+
+To avoid being quickly approached by monsters, long-range classes can swap the hotkeys of follow attack and stationary attack in the settings menu by pressing F1.
+モンスターにすぐに近づかれないようにするために、遠距離クラスはF1を押して設定メニューで追尾攻撃と静止攻撃のホットキーを交換できます。
+
+Please tap the skill key instead of long-pressing it to cast the skill while running.
+走行中にスキルをキャストするために、スキルキーを長押しするのではなく、タップしてください。
+
+The game introduces the concept of common skill CD.
+ゲームは共通スキルクールダウン（CD）の概念を導入しています。
+
+Common skill CD time vary by classes.
+共通スキルクールダウン時間はクラスによって異なります。
+
+This determines how often the character can cast basic skills.
+これはキャラクターが基本スキルをどのくらい頻繁にキャストできるかを決定します。
+
+For example, in melee classes, Assassin has the shortest base attack interval, followed by Warrior, while Orc has the slowest attack speed.
+例えば、近接クラスでは、アサシンが最も短い基礎攻撃間隔を持ち、次にウォリアーが続き、オークは最も遅い攻撃速度を持っています。
+
+Most skills use the common skill CD, which means, after you've cast a skill, you need to wait for the common skill CD to cast the next skill, even if they're not the same.
+ほとんどのスキルは共通スキルクールダウンを使用します。つまり、スキルをキャストした後、次のスキルをキャストするために共通スキルクールダウンを待つ必要があります。たとえそれらが同じでなくてもです。
+
+Common skill CD is also an important part of ensuring balance.
+共通スキルクールダウンは、バランスを確保するための重要な要素でもあります。
+
+If there's no common skill CD, a character can cast multiple skills in a short period, which will greatly damage the game's balance.
+共通スキルクールダウンがない場合、キャラクターは短時間で複数のスキルをキャストすることができ、ゲームのバランスを大いに損なうことになります。
+
+Killing other players is strictly restricted in the game.
+他のプレイヤーを殺すことはゲーム内で厳しく制限されています。
+
+Please click on Morality in the character panel to view its introduction.
+キャラクターパネルで「モラル」をクリックしてその紹介を表示してください。
+
+There are 8 classes in the game, divided into 16 male and female characters.
+ゲームには8つのクラスがあり、16の男女キャラクターに分かれています。
+
+Each account can create a total of 8 characters.
+各アカウントは合計で8つのキャラクターを作成できます。
+
+If you want to discard a created character, you can delete it in the character list after 10 days without logging into it.
+作成したキャラクターを破棄したい場合、ログインせずに10日経過後にキャラクターリストで削除できます。
+
+Character gender cannot be changed after creation is complete.
+キャラクターの性別は作成完了後に変更することはできません。
+
+Warrior: great attack continuity, depends heavily on the ability to adapt to the different circumstances, average defense, all-rounder tank.
+ウォリアー：優れた攻撃の連続性、さまざまな状況に適応する能力に大きく依存、平均的な防御、万能タンク。
+
+Orc: steady and reliable, extremely high physical defense, physical tank.
+オーク：安定していて信頼性が高く、非常に高い物理防御、物理タンク。
+
+Assassin: high burst damage, extremely high magic defense, magic tank.
+アサシン：高いバーストダメージ、非常に高い魔法防御、魔法タンク。
+
+Hunter: long-range physical attack support, great survivability.
+ハンター：遠距離物理攻撃支援、優れた生存能力。
+
+Mage: long-range magic attack support, good at control.
+メイジ：遠距離魔法攻撃支援、制御が得意。
+
+Elf: long-range magic attack assist, burst damage.
+エルフ：遠距離魔法攻撃支援、バーストダメージ。
+
+Priest: All-rounder healer, focused on direct healing and group healing, useful at both offensive and defensive.
+プリースト：万能ヒーラー、直接回復とグループ回復に焦点を当て、攻撃と防御の両方で有用。
+
+Witcher: Various healing methods, great offensive ability.
+ウィッチャー：多様な回復方法、優れた攻撃能力。
+
+The characteristics, strengths and weaknesses of each class are also greatly affected by your performance.
+各クラスの特性、強み、弱点は、プレイヤーのパフォーマンスによっても大きく影響を受けます。
+
+The above summary is for reference only.
+上記の概要は参考用です。
+
+New players of the Mist World will be introduced to the guide for new players.
+霧の世界の新規プレイヤーは、新規プレイヤー向けガイドを紹介されます。
+
+Please follow the voice guidance step by step.
+音声ガイダンスに従って順番に進めてください。
+
+It will help you fully understand the game's hotkeys, control schemes, etc.
+これにより、ゲームのホットキーやコントロールスキームなどを完全に理解するのに役立ちます。
+
+Once you've completed the guide for new players, you will arrive at the start area.
+新規プレイヤー向けガイドを完了すると、スタートエリアに到着します。
+
+Please listen carefully to what the NPC has to say, or interact with them on your own to obtain clues to various missions and dungeons.
+NPCの言うことに注意深く耳を傾けるか、自分で対話してさまざまなミッションやダンジョンの手がかりを得てください。
+
+Plenty of gameplay description, control techniques and Boss's traits are hidden in NPC dialogs.
+多くのゲームプレイの説明、操作技術、ボスの特徴がNPCの対話に隠されています。
+
+The start area has only one exit to the first monster area, and once you're out of the start area, there's a bigger world waiting for you to explore.
+スタートエリアには最初のモンスターエリアへの出口が1つしかなく、スタートエリアを出ると、探索を待つ広い世界が広がっています。
+
+Before you leave the start area, it is essential to learn all the skills below Level 15, and obtain all the novice equipments.
+スタートエリアを出る前に、レベル15以下のすべてのスキルを学び、すべての初心者装備を手に入れることが重要です。
+
+This will greatly improve your combat strength, so you won't feel helpless after you leave.
+これにより戦闘力が大幅に向上し、離れた後も無力感を感じることはありません。
+
+FAQ: What are Talents?
+よくある質問: 才能とは何ですか？
+
+A: Talents are a kind of passive skill that enhances the character's attributes and abilities.
+A: 才能はキャラクターの属性と能力を強化するパッシブスキルの一種です。
+
+There are two main categories of Talents.
+才能には主に2つのカテゴリーがあります。
+
+The first is General Talents, which can provide the character with the ability to resist special terrain damage.
+1つ目は一般才能で、キャラクターに特殊地形ダメージに対抗する能力を提供します。
+
+Such as Anti-Corrosion, Turtle Breath, etc.
+例として、耐腐食、亀の呼吸などがあります。
+
+The second is Class Talents, which can increase the attributes of different classes and provide them with exclusive skill effects.
+2つ目はクラス才能で、さまざまなクラスの属性を向上させ、独自のスキル効果を提供します。
+
+FAQ: How do I activate Talents?
+よくある質問: 才能をどのようにして有効化しますか？
+
+A: When you learn a Talent, you need to activate it to activate its effect.
+A: 才能を学んだら、それを有効化して効果を発揮させる必要があります。
+
+Next, we will use Corrosion Spell to explain how to activate Talents.
+次に、腐食呪文を使用して才能を有効化する方法を説明します。
+
+In the start area, there's a mission where we need to eliminate all the rats in the granary.
+スタートエリアには、穀倉のすべてのネズミを排除するミッションがあります。
+
+But the rats have polluted the place, and anyone who enters will suffer corrosion and die shortly.
+しかし、ネズミがその場所を汚染しており、入った人は腐食に苦しんでまもなく死んでしまいます。
+
+However, if you learned Anti-Corrosion, you will be immune to this corrosion damage.
+しかし、耐腐食を学んでいれば、この腐食ダメージを免れることができます。
+
+First, head to the Chalet northeast of the village to find Master Arthur, talk to him, select Learn Talents in the dialog menu and press ENTER to enter the interface.
+まず、村の北東にあるシャレーに向かい、マスター・アーサーを見つけて彼と話し、ダイアログメニューで「才能を学ぶ」を選択し、ENTERを押してインターフェースに入ります。
+
+Now, select Anti-Corrosion, press Enter.
+次に、耐腐食を選択し、Enterを押します。
+
+An "are you sure you want to learn this skill" prompt will pop up, select YES and press ENTER, then you will hear a sound indicating you've learned the skill.
+「このスキルを学びたいですか？」というプロンプトが表示されます。「はい」を選択し、ENTERを押すと、スキルを習得したことを示す音が鳴ります。
+
+Now, you will find the Anti-Corrosion skill in the skill section of your backpack.
+次に、バックパックのスキルセクションに耐腐食スキルが表示されます。
+
+Press G, and you will see that the skill is not activated.
+Gを押すと、スキルが有効化されていないことがわかります。
+
+To activate it, you need enough Talent Points and Arnebia.
+それを有効化するには、十分な才能ポイントとアルネビアが必要です。
+
+So, now, you need to talk to Master Arthur again, select Cultivate Talent Point and press ENTER to enter the interface.
+では、再びマスター・アーサーと話し、「才能ポイントを育成」を選択してENTERを押し、インターフェースに入ります。
+
+Here, you can see how many Talent Points can the current NPC help you cultivate, how many Talent Points you already have, and the cost for this cultivation.
+ここで、現在のNPCがどれだけの才能ポイントを育成できるか、既に持っている才能ポイントの数、およびこの育成の費用が表示されます。
+
+Select "Start Cultivation" and press ENTER, then you will hear a sound indicating you've learned the skill, and finally a voice saying that the Cultivation has completed.
+「育成を開始」を選択し、ENTERを押すと、スキルを習得したことを示す音が鳴り、最後に育成が完了したことを告げる声が聞こえます。
+
+Anti-Corrosion requires 5 Talent Points to be activated, which means you need to Cultivate Talent Point five times with Master Arthur.
+耐腐食を有効化するには5つの才能ポイントが必要であるため、マスター・アーサーと5回才能ポイントを育成する必要があります。
+
+When you have the required Talent Points, you can interact with the assistant next to the Master to activate the Anti-Corrosion skill.
+必要な才能ポイントを持っている場合、マスターの隣にいるアシスタントと対話して耐腐食スキルを有効化できます。
+
+Speak with the assistant to bring up the "Reset Talents" interface.
+アシスタントと話して「才能をリセット」インターフェースを表示します。
+
+Here you can view all the Talents you've learned, such as the Anti-Corrosion we just learned.
+ここでは、習得したすべての才能を表示できます。たとえば、先ほど習得した耐腐食です。
+
+If you select the Anti-Corrosion skill, you will hear a voice saying "Anti-Corrosion; Requires 5 Talent Points; disabled".
+耐腐食スキルを選択すると、「耐腐食；才能ポイント5が必要です；無効」と声が聞こえます。
+
+This means that this skill is not currently activated.
+これは、現在このスキルが有効化されていないことを意味します。
+
+Press ENTER to select it, and then scroll down, you will hear the price required to activate Talent Points.
+ENTERを押して選択し、下にスクロールすると、才能ポイントを有効化するために必要な価格が聞こえます。
+
+If you have enough Arnebia, continue to scroll down, select "Submit" and press ENTER, then you will hear a sound indicating you've reset your Talents.
+十分なアルネビアを持っている場合、さらにスクロールして「送信」を選択し、ENTERを押すと、才能がリセットされたことを示す音が聞こえます。
+
+If you have insufficient Talent Points or Arnebia, you cannot reset Talents, and you will hear the corresponding voice prompt when submitting.
+才能ポイントやアルネビアが不足している場合、才能をリセットできず、送信時に対応する音声プロンプトが聞こえます。
+
+Subsequent Talents will be taught by the corresponding NPCs.
+以降の才能は、対応するNPCから教えられます。
+
+Usually, Talents can be activated at important locations, such as the City Lord's Mansion, the Palace, and parliament hall, etc.
+通常、才能は都市領主の館、宮殿、議会ホールなどの重要な場所で有効化できます。
+
+Talents cannot be forgotten after learning, but you can choose which ones to activate and not activate when resetting Talents, which is very important after learning Class Talents in the future.
+才能は学んだ後に忘れることはできませんが、才能をリセットするときにどれを有効化しないか選択できます。これは、将来的にクラス才能を学んだ後に非常に重要です。
+
+Players should activate Talents according to their own needs and the number of talent points they have.
+プレイヤーは自分のニーズと持っている才能ポイントの数に応じて才能を有効化するべきです。
+
+FAQ: What are Professional Skills?
+FAQ: プロフェッショナルスキルとは何ですか？
+
+A: Professional Skills are a type of skills that provide support in the character's daily activities.
+A: プロフェッショナルスキルは、キャラクターの日常活動をサポートするスキルの一種です。
+
+There are three main categories.
+3つの主要なカテゴリがあります。
+
+The first is Corpse Harvesting skills, including Draw Blood, Skinning, Cut Flesh, which can be used on monster corpses to obtain its blood, pelt and jerky respectively.
+1つ目は死体収穫スキルで、Draw Blood、Skinning、Cut Fleshを含み、モンスターの死体からそれぞれ血液、毛皮、干し肉を取得するのに使用できます。
+
+These items can be used to craft medicines and food.
+これらのアイテムは、薬や食料を作成するために使用できます。
+
+You can only learn one Corpse Harvesting skill.
+1つの死体収穫スキルしか学ぶことができません。
+
+Blood can be used to craft Red Potions that replenish HP; Pelts can be used to craft Blue Potions that replenish SP/MP; Jerky can be used to craft foods that slowly restore HP over a long period of time.
+血液はHPを回復する赤いポーションの作成に使用できます。毛皮はSP/MPを回復する青いポーションの作成に使用できます。干し肉は、長時間かけてHPをゆっくりと回復する食料の作成に使用できます。
+
+Learning Corpse Harvesting skills will save you a lot of money for future supplies.
+死体収穫スキルを学ぶことで、将来の補給品のための多くのお金を節約できます。
+
+The second is Production & Collection skills, including Mining, Fishing and Collect Herbs.
+2つ目は生産と収集スキルで、採掘、釣り、薬草採集を含みます。
+
+These skills can only be used in designated locations, such as Mining Area, Lake and Herbal Garden.
+これらのスキルは、採掘エリア、湖、薬草園などの指定された場所でのみ使用できます。
+
+Similarly, you can only learn one Production & Collection skill.
+同様に、1つの生産と収集スキルしか学ぶことができません。
+
+Production & Collection is an important source of Arnebia.
+生産と収集はアルネビアの重要な供給源です。
+
+The third is the unique Professional Skills of different professions.
+3つ目は、さまざまな職業のユニークなプロフェッショナルスキルです。
+
+Including the Husband and Wife's Snuggle, and the tutor and pupil's Blood Transfusion.
+夫婦の抱擁や、教師と生徒の輸血などがあります。
+
+These skills are automatically acquired when the character has a spouse or pupil.
+これらのスキルは、キャラクターに配偶者または生徒がいる場合に自動的に取得されます。
+
+FAQ: How should I choose Professional Skills?
+FAQ: プロフェッショナルスキルはどのように選択すべきですか？
+
+A: Corpse Harvesting skills are chosen according to the daily consumption of your Class.
+A: 死体収穫スキルは、クラスの日常消費に応じて選択されます。
+
+Production & Collection skills are chosen according to the Gang Production Area of your Gang (you need to join a Gang first).
+生産と収集スキルは、ギャングのギャング生産エリアに応じて選択されます（最初にギャングに参加する必要があります）。
+
+For example, Melee Classes consume a lot of Red Potions, so Draw Blood is the best choice for them.
+たとえば、近接クラスは赤いポーションを多く消費するため、Draw Bloodが最適な選択です。
+
+Healing Classes can heal HP by themselves, but they consume a lot of MP, so Skinning is the best choice for them.
+ヒーリングクラスは自分でHPを回復できますが、多くのMPを消費するため、Skinningが最適な選択です。
+
+As for Hunters, Mages, and Elves, they should chose the skill according to their usual gameplay.
+ハンター、メイジ、エルフについては、通常のゲームプレイに応じてスキルを選択する必要があります。
+
+If you're a solo player, then you probably need more Red Potions.
+ソロプレイヤーの場合、おそらく赤いポーションがもっと必要です。
+
+If you have a team, then you might only consume Blue Potion as you have healers.
+チームがいる場合、ヒーラーがいるため、青いポーションのみを消費するかもしれません。
+
+As your character level up, food will become more important as they will be more effective when you have higher HP.
+キャラクターレベルが上がるにつれて、食料はより重要になります。高いHPを持つときにより効果的になります。
+
+However, food can only be crafted, so learning to craft food and sell them will be an important source of gold coins.
+しかし、食料はクラフトでしか作れないため、食料を作成して販売することを学ぶことが金貨の重要な供給源になります。
+
+When you don't belong to any Gang, it is okay to learn any of the Production & Collection skills as they have the same benefits.
+ギャングに所属していない場合、どの生産と収集スキルも同じ利点を持つため、学んでも問題ありません。
+
+But if you intend to join a Gang, then you should chose the Production & Collection skill according to the Gang's Gang Production Area.
+しかし、ギャングに参加する予定がある場合は、ギャングのギャング生産エリアに応じて生産と収集スキルを選択する必要があります。
+
+Please note: this guide contains major spoilers, if you want to explore on your own in the game, press ESC to close the window.
+注意: このガイドには重要なネタバレが含まれています。ゲーム内で自分で探索したい場合は、ESCを押してウィンドウを閉じてください。
+
+After completing the guide for new players, you will arrive at the start area—Karon Village.
+新規プレイヤー向けガイドを完了すると、スタートエリアであるカロン村に到着します。
+
+The first time you arrive at Karon Village, due to your low level, you can't get out of the village.
+カロン村に初めて到着したとき、低レベルのため村を出ることはできません。
+
+Please look carefully and find mission clues from NPCs.
+NPCからミッションの手がかりを慎重に探してください。
+
+Once you've completed a mission, Karon Village will be fully open.
+ミッションを完了すると、カロン村が完全に開放されます。
+
+Now, Karon Village will be the starting point of your whole journey in Mist World.
+これで、カロン村は霧の世界の全旅の出発点となります。
+
+The mouth of the valley north of Karon Village connects to Brute Valley, a Level 11 to 15 monster area.
+カロン村の北にある谷の入り口は、レベル11から15のモンスターエリアであるブルートバレーとつながっています。
+
+The easternmost (and slightly north) mouth of Brute Valley leads east to Mario Basin, which is an important haven at level 15, as well as the first city players encounter in the whole game, with plenty of missions to take after level 15.
+ブルートバレーの最東端（やや北）にある入り口は、レベル15で重要な避難所であり、ゲーム全体で最初にプレイヤーが出会う都市であるマリオ盆地に東に通じています。レベル15以降に多くのミッションがあります。
+
+There are three human settlements in Mario Basin, namely Sunset City, northern town and breezy Village.
+マリオ盆地には、サンセットシティ、北部の町、ブリージー村という3つの人間の居住地があります。
+
+Sunset City is one of the affiliated cities of Central Kingdom.
+サンセットシティは中央王国の関連都市の1つです。
+
+The north gate of northern town leads to Karst Cave, a Level 16 to 20 monster area.
+北部の町の北門は、レベル16から20のモンスターエリアであるカースト洞窟に通じています。
+
+The east entrance of breezy Village leads to Fred Forest, a level 21 to 25 monster area.
+ブリージー村の東入口は、レベル21から25のモンスターエリアであるフレッドフォレストに通じています。
+
+The mouth of Valley in the southeast of Mario Basin provides access to Takama Desert, a Level 26 to 30 monster area.
+マリオ盆地の南東にある谷の入り口は、レベル26から30のモンスターエリアであるタカマ砂漠へのアクセスを提供します。
+
+The northwest corner of Takama Desert leads back to Mario Basin, and the southeast corner leads to Central Plains.
+タカマ砂漠の北西の角はマリオ盆地に戻り、南東の角は中央平原に通じています。
+
+Giant Rock City in Central Plains is an important haven at level 30, as well as the first capital in the game, where weddings, competitions, and Gang Tournaments are available.
+中央平原にあるジャイアントロックシティは、レベル30で重要な避難所であり、ゲーム内の最初の首都であり、結婚式、競技会、ギャングトーナメントが利用可能です。
+
+There are three human settlements on central plain, namely Giant Rock City, Mettle Village and Starlight Village.
+中央平原には、ジャイアントロックシティ、メットル村、スターライト村という3つの人間の居住地があります。
+
+The north entrance of Mettle Village leads to Takama Desert, and the south entrance of Starlight Village leads to Wolf Prairie, a level 31 to 35 monster area.
+メットル村の北入口はタカマ砂漠に通じ、スターライト村の南入口は、レベル31から35のモンスターエリアであるウルフプレーリーに通じています。
+
+Follow the moat south of Giant Rock City to the west to reach Beauty of River and Mountain, a level 30 fishing area.
+ジャイアントロックシティの南の堀を西に進むと、レベル30の釣りエリアであるビューティーオブリバーアンドマウンテンに到達します。
+
+The fishing area is connected to Loki Union from Central Kingdom.
+釣りエリアは中央王国のロキ連合とつながっています。
+
+Follow the moat north of Giant Rock City to the east to reach Abundant green hills, a level 30 Herbs-Collecting area.
+ジャイアントロックシティの北の堀を東に進むと、レベル30の薬草収集エリアであるアバンダントグリーンヒルズに到達します。
+
+The Herbs-Collecting area is connected to Garth Empire from Central Kingdom.
+薬草収集エリアは中央王国のガース帝国とつながっています。
+
+In the southwest corner of Giant Rock City, there is a staircase that extends southwards, where you can take the cable car to Underground Mine, a level 30 Mining Area.
+ジャイアントロックシティの南西の角には、南に延びる階段があり、ケーブルカーでレベル30の鉱山エリアであるアンダーグラウンドマインに行くことができます。
+
+The mining area leads to two other countries.
+鉱山エリアは他の2つの国に通じています。
+
+The northwest corner of Wolf Prairie leads back to Central Plains to the north, the northeast corner leads to Carter Plain, a level 46 to 50 monster area, to the east, and the southeast mountain road leads to Fertile Wilds to the south.
+ウルフプレーリーの北西の角は中央平原に戻り、北東の角はレベル46から50のモンスターエリアであるカーター平原に東に通じ、南東の山道は肥沃な荒野に南に通じています。
+
+White Sand City in Fertile Wilds is a haven at level 45.
+肥沃な荒野にあるホワイトサンドシティは、レベル45の避難所です。
+
+There are three human settlements on Fertile Wilds, namely White Sand City, Traveler Camp and Tari Village.
+肥沃な荒野には、ホワイトサンドシティ、トラベラーキャンプ、タリ村という3つの人間の居住地があります。
+
+White Sand City is one of the affiliated cities of Central Kingdom.
+ホワイトサンドシティは中央王国の関連都市の1つです。
+
+The forest outside the east gate of Traveler Camp provides access to Polson Wetland, a Level 36 to 40 monster area.
+トラベラーキャンプの東門の外の森は、レベル36から40のモンスターエリアであるポルソン湿地へのアクセスを提供します。
+
+East of the east entrance of Tari Village, you can go to Vincent Snowfields, a level 41 to 45 monster area.
+タリ村の東入口の東には、レベル41から45のモンスターエリアであるヴィンセント雪原に行くことができます。
+
+The southwest bridge of Polson Wetland leads to Sailing Port, a human settlement.
+ポルソン湿地の南西橋は、人間の居住地であるセーリングポートに通じています。
+
+From Sailing Port, you can travel to Marion Sea, a Level 66 to 70 monster area.
+セーリングポートから、レベル66から70のモンスターエリアであるマリオン海に移動できます。
+
+Southwest of Marion Sea, there is an entrance to an upcoming monster area.
+マリオン海の南西には、今後のモンスターエリアへの入り口があります。
+
+These are the main cities and monster areas within Central Kingdom.
+これらは中央王国内の主要な都市とモンスターエリアです。
+
+The west of the continent is centered on Tulip City, the capital of Loki Union.
+大陸の西部は、ロキ連合の首都であるチューリップシティを中心としています。
+
+Spread in its surrounding area are higher level monster areas and two affiliated cities of Loki Union.
+その周辺には、高レベルのモンスターエリアとロキ連合の2つの関連都市が広がっています。
+
+The east of the continent is centered on Holy Blood City, the capital of Garth Empire.
+大陸の東部は、ガース帝国の首都であるホーリーブラッドシティを中心としています。
+
+Spread in its surrounding area are higher level monster areas and two affiliated cities of Garth Empire.
+その周辺には、高レベルのモンスターエリアとガース帝国の2つの関連都市が広がっています。
+
+Please note: this guide contains major spoilers, if you want to explore on your own in the game, press ESC to close the window.
+注意: このガイドには重要なネタバレが含まれています。ゲーム内で自分で探索したい場合は、ESCを押してウィンドウを閉じてください。
+
+Celestial Elder of Karon Village: Gives Long Pants, teaches level 10 combat skills.
+カロン村の天上の長老: ロングパンツを授与し、レベル10の戦闘スキルを教えます。
+
+Traveling Merchant of Karon Village: sells Bracelets, left and right Hand Rings, exchanges Snake Gall for Necklace.
+カロン村の旅の商人: ブレスレット、左手と右手の指輪を販売し、ヘビの胆嚢をネックレスに交換します。
+
+Master Arthur of Karon Village: teaches Talent Anti-Corrosion.
+カロン村のアーサー師匠: タレント「アンチコロージョン」を教えます。
+
+Mage Aratta of Karon Village: teaches Talent Turtle Breath.
+カロン村の魔法使いアラッタ: タレント「タートルブレス」を教えます。
+
+Brute Valley: drops level 15 weapons, helmets, cloaks, armors, belts, leggings, shoes, Shards.
+ブルートバレー: レベル15の武器、ヘルメット、マント、鎧、ベルト、レギンス、靴、シャードをドロップします。
+
+Grand Duke Trini, the Lord of a city in Mario Basin: Give missions that reward Level 20 combat skill Crystals.
+マリオ盆地の都市の領主であるグランドデュークトリニ: レベル20の戦闘スキルクリスタルを報酬とするミッションを提供します。
+
+Master Taufan of Mario Basin: teaches Level 15 combat skills.
+マリオ盆地のトーファン師匠: レベル15の戦闘スキルを教えます。
+
+Master Catherine of Mario Basin: Teaches Class Talents.
+マリオ盆地のキャサリン師匠: クラスタレントを教えます。
+
+Master Drunk of Mario Basin: teaches Level 25 combat skills.
+マリオ盆地の酔っ払い師匠: レベル25の戦闘スキルを教えます。
+
+Witch Saffy of Mario Basin: exchange Corpse Junk for Level 15 Right Hand Ring.
+マリオ盆地の魔女サフィー: 死体のジャンクをレベル15の右手の指輪と交換します。
+
+Guard Captain Martin of Mario Basin: Give missions that reward Level 15 Bracelets and Left Hand Rings.
+マリオ盆地の守衛隊長マーティン: レベル15のブレスレットと左手の指輪を報酬とするミッションを提供します。
+
+Alexia of Mario Basin: Give missions that reward Level 15 necklaces.
+マリオ盆地のアレクシア: レベル15のネックレスを報酬とするミッションを提供します。
+
+Karst cave: drops Shards.
+カースト洞窟: シャードをドロップします。
+
+Fred Forest: drops Shards.
+フレッドフォレスト: シャードをドロップします。
+
+Takama Desert: drops pet Soul Stones; Level 30 weapons, helmets, cloaks, armors, belts, leggings, shoes, bracelets, rings, and materials for crafting Pendants.
+タカマ砂漠: ペットのソウルストーン、レベル30の武器、ヘルメット、マント、鎧、ベルト、レギンス、靴、ブレスレット、指輪、ペンダントを作るための材料をドロップします。
+
+Wolf Prairie: drops Shards.
+ウルフプレーリー: シャードをドロップします。
+
+Fertile Wilds/Gale Cave: gives Level 40 Swift Fusion Beast—Bluish White Horse.
+肥沃な荒野/ゲイル洞窟: レベル40の迅速な融合獣である青白い馬を提供します。
+
+Polson Wetland: drops Shards.
+ポルソン湿地: シャードをドロップします。
+
+Vincent Snowfields: Drops level 45 weapons, helmets, necklaces, armors, belts, leggings, bracelets, rings, and materials for crafting cloaks and shoes.
+ヴィンセント雪原: レベル45の武器、ヘルメット、ネックレス、鎧、ベルト、レギンス、ブレスレット、指輪、マントと靴を作るための材料をドロップします。
+
+Carter Plain: drops Shards.
+カーター平原: シャードをドロップします。
+
+Domi Wasteland: Drops Shards.
+ドミ荒地: シャードをドロップします。
+
+Corpse Cave: Drops Shards.
+死体の洞窟: シャードをドロップします。
+
+Dark Pit City: Drops level 60 weapons, necklaces, armors, leggings, bracelets, rings, and materials for crafting helmets, cloaks belts and shoes.
+ダークピットシティ: レベル60の武器、ネックレス、鎧、レギンス、ブレスレット、指輪、ヘルメット、マント、ベルト、靴を作るための材料をドロップします。
+
+Flaming Mountain: Drops Shards.
+フレーミングマウンテン: シャードをドロップします。
+
+Magnet Hill: Drops level 70 weapons, armors, leggings, rings, and materials for crafting helmets, necklaces, cloaks, belts, shoes and bracelets.
+マグネットヒル: レベル70の武器、鎧、レギンス、指輪、ヘルメット、ネックレス、マント、ベルト、靴、ブレスレットを作るための材料をドロップします。
+
+Marion Sea: drops Shards.
+マリオン海: シャードをドロップします。
+
+Hit Chance: affects the chance of hitting the target when casting skills. Your hit chance interacts with the target's dodge.
+命中率: スキルを発動する際にターゲットに当たる確率に影響します。命中率はターゲットの回避率と相互作用します。
+
+Dodge: Affects your chances of dodging when being attacked. Your dodge interacts with the attacker's hit chance.
+回避: 攻撃を受けたときに回避する確率に影響します。回避率は攻撃者の命中率と相互作用します。
+
+Defense Break Chance: Affects the chance of breaking the target's defense when casting skills. Your defense break chance interacts with the target's toughness.
+防御破壊率: スキルを発動する際にターゲットの防御を破壊する確率に影響します。防御破壊率はターゲットの強靭度と相互作用します。
+
+Defense Break Damage: Affects the amount of bonus damage when your attack inflicts defense break.
+防御破壊ダメージ: 攻撃が防御破壊を引き起こしたときのボーナスダメージ量に影響します。
+
+Toughness: Affects the chance of suffering defense break when being attacked. Your toughness interacts with the attacker's defense break chance.
+強靭度: 攻撃を受けたときに防御破壊を受ける確率に影響します。強靭度は攻撃者の防御破壊率と相互作用します。
+
+Critical Hit: Affects the chance of causing amplified damage when casting skills. Your critical hit interacts with the target's critical hit resist.
+クリティカルヒット: スキルを発動する際に増幅されたダメージを引き起こす確率に影響します。クリティカルヒットはターゲットのクリティカルヒット耐性と相互作用します。
+
+Critical Damage: Affects the amount of amplified damage when your attack inflicts a critical hit.
+クリティカルダメージ: 攻撃がクリティカルヒットを引き起こしたときの増幅ダメージ量に影響します。
+
+Critical Hit Resist: Affects the chance of suffering a critical hit when being attacked. Your critical hit resist interacts with the attacker's critical hit.
+クリティカルヒット耐性: 攻撃を受けたときにクリティカルヒットを受ける確率に影響します。クリティカルヒット耐性は攻撃者のクリティカルヒットと相互作用します。
+
+Movement Speed: Affects the amount of additional movement speed added to your basic movement speed.
+移動速度: 基本移動速度に追加される移動速度の量に影響します。
+
+【1: Pet Personality】
+【1: ペットの性格】
+
+Pet Personality determines the behavior of the pet when following the character to fight monsters. Pets with different personalities are suitable for different classes.
+ペットの性格は、キャラクターに従ってモンスターと戦う際のペットの行動を決定します。異なる性格のペットは、異なるクラスに適しています。
+
+Cautious: quick attack monsters that are not locked on them; change the target along with the player.
+用心深い: 自分にロックされていないモンスターを素早く攻撃し、プレイヤーに合わせてターゲットを変更します。
+
+Rely on the player to withstand attack, recommended for melee classes.
+プレイヤーに依存して攻撃に耐えるため、近接クラスにおすすめです。
+
+Loyal: quick attack monsters that are attacking the player; change the target along with the player.
+忠実: プレイヤーを攻撃しているモンスターを素早く攻撃し、プレイヤーに合わせてターゲットを変更します。
+
+Rely on the player to withstand attack. Recommended for melee classes. Loyal pets have almost the same functions as cautious pets, the only difference is that cautious pets have a wider range of quick attacks (they quick attack all monsters not attacking them, while loyal pets only quick attack monsters attacking the player).
+プレイヤーに依存して攻撃に耐えるため、近接クラスにおすすめです。忠実なペットは用心深いペットとほぼ同じ機能を持っていますが、唯一の違いは、用心深いペットは素早い攻撃の範囲が広いことです（自分を攻撃していないすべてのモンスターを素早く攻撃しますが、忠実なペットはプレイヤーを攻撃しているモンスターのみを素早く攻撃します）。
+
+In other words, players with loyal pets require more demanding gaming techniques and need to be able to withstand more damage as tanks in team fights.
+つまり、忠実なペットを持つプレイヤーは、より高度なゲームテクニックが求められ、チーム戦でタンクとしてより多くのダメージに耐える必要があります。
+
+For example, when several players are fighting a boss together, Warrior A is taking damage, while Warrior B is assisting with attacks. If Warrior B is using a cautious pet, it can quick attack; but if he is using a loyal pet, it cannot quick attack.
+例えば、複数のプレイヤーがボスと戦っているとき、戦士Aがダメージを受け、戦士Bが攻撃を支援しています。戦士Bが用心深いペットを使っている場合、素早く攻撃できますが、忠実なペットを使っている場合は素早く攻撃できません。
+
+Smart: quick attack monsters that are targeting them, and will not change target until the monster is slain.
+賢い: 自分をターゲットにしているモンスターを素早く攻撃し、モンスターが倒されるまでターゲットを変更しません。
+
+Able to withstand attack themselves. The best choice when players need to split up with their pets to fight monsters; great for fighting small monsters.
+自分自身で攻撃に耐えることができます。プレイヤーがペットと分かれてモンスターと戦う必要がある場合に最適で、小さなモンスターと戦うのに適しています。
+
+Smart pets can be used as tanks, but players need to beware when smart pets fail to attract the monster's attention, in which case, they will stop quick attack, and it is harder for them to attract the monster's attention again than courageous pets. Healing classes are recommended to use smart pets as tanks, especially pets that attack high-defense targets.
+賢いペットはタンクとして使用できますが、賢いペットがモンスターの注意を引くことに失敗した場合、素早い攻撃を停止し、勇敢なペットよりも再びモンスターの注意を引くのが難しくなります。ヒーリングクラスは、特に高防御のターゲットを攻撃するペットに賢いペットをタンクとして使用することをお勧めします。
+
+Courageous: quick attack monsters that are attacking the player and will not change target until the monster is slain.
+勇敢な: プレイヤーを攻撃しているモンスターを素早く攻撃し、モンスターが倒されるまでターゲットを変更しません。
+
+Able to withstand attack themselves. The best tank companions as they concentrate their attack with the player together.
+自分自身で攻撃に耐えることができます。プレイヤーと共に攻撃を集中させるため、最適なタンクの仲間です。
+
+The drawback is they are not suitable to attack monsters separately with the player, in which case they cannot quick attack. Also, they cannot change their target at will. The bigger drawback is their defense tends to go overboard. They either have high physical defense and low magic defense, or have low physical defense and high magic defense.
+欠点は、プレイヤーと一緒にモンスターを攻撃するのに適していないことです。その場合、素早く攻撃することはできません。また、自由にターゲットを変更することはできません。さらに大きな欠点は、防御が極端になりがちであることです。物理防御が高く魔法防御が低いか、物理防御が低く魔法防御が高いかのいずれかです。
+
+The above is the general choice for pet personality.
+上記はペットの性格に関する一般的な選択肢です。
+
+In practice, melee class can also choose a tank pet, which may bring unexpected results;
+実際には、近接クラスもタンクペットを選択することができ、予期しない結果をもたらすことがあります。
+
+As a long-range class, if you are well-equipped, you can also choose aggressive pets and withstand attacks yourself. That way, your pet will be safer.
+遠距離クラスとして、装備が整っている場合、攻撃的なペットを選び、自分自身で攻撃に耐えることもできます。そうすれば、ペットの安全性が高まります。
+
+A variety of pet soul stones will be dropped in the later game, and players can explore the fun of pairing with pets of different personalities.
+後半のゲームではさまざまなペットのソウルストーンがドロップされ、プレイヤーは異なる性格を持つペットとのペアリングの楽しさを探求できます。
+
+【2:Pet Rebirth】
+【2:ペット再生】
+
+1. Pet Rebirth can regenerate the five pet assets: Strength, Physique, Spirit, Resolve, Agility. You can stop the process when your pet has good assets.
+1. ペット再生では、5つのペットアセット（力、体力、精神、決意、敏捷性）を再生成できます。ペットのアセットが良好な場合、プロセスを停止できます。
+
+2. The functions of the five pet assets are:
+2. 5つのペットアセットの機能は次のとおりです。
+
+Strength increases attack and defense break chance
+力は攻撃と防御破壊の確率を高めます
+
+Physique increases hit chance and critical damage
+体力は命中率とクリティカルダメージを高めます
+
+Spirit increases critical hit chance and defense break damage
+精神はクリティカルヒットの確率と防御破壊ダメージを高めます
+
+Resolve increases toughness and critical hit resistance
+決意は耐久力とクリティカルヒット耐性を高めます
+
+Agility increases dodge chance and defense
+敏捷性は回避率と防御を高めます
+
+3. In addition, the pet's overall assets grant damage bonus and damage resistance, the higher the assets, the better the effect.
+3. さらに、ペットの全体的なアセットはダメージボーナスとダメージ耐性を付与し、アセットが高いほど効果が良くなります。
+
+4. Every player has two free Pet Rebirths per day, and any additional attempts will require a certain amount of diamonds.
+4. 各プレイヤーは1日あたり2回の無料ペット再生を持っており、追加の試行には一定量のダイヤモンドが必要です。
+
+5. When undergoing Pet Rebirth, the pet will add 1から2 Rebirth Points, which will be accumulated in a week. At 24:00 every Sunday, half of the Rebirth Points will be merged into the pet's Foundation, and the rest will be cleared.
+5. ペット再生を行うと、ペットに1から2の再生ポイントが追加され、1週間で蓄積されます。毎週日曜日の24:00に、再生ポイントの半分がペットの基礎に統合され、残りはクリアされます。
+
+6. The sum of Foundation and Rebirth Points is the pet's Breakthrough Index. After the Breakthrough Index is increased, the pet has a chance to mutate into a Mutant Pet when undergoing Pet Rebirth, and will have higher assets. The higher the Breakthrough Index, the greater the chance of pet mutation when undergoing Pet Rebirth. When the Breakthrough Index reaches maximum level, pet mutation has a 100% chance to happen.
+6. 基礎と再生ポイントの合計がペットの突破指標です。突破指標が上昇すると、ペット再生中にペットがミュータントペットに突然変異する可能性があり、アセットが高くなります。突破指標が高いほど、ペット再生時のペット突然変異の確率が高くなります。突破指標が最大レベルに達すると、ペットの突然変異が100％の確率で発生します。
+
+7. When the pet mutates, its Foundation and Rebirth Points will be reset.
+7. ペットが突然変異すると、基礎と再生ポイントがリセットされます。
+
+8. There are five levels of pet mutations: primary mutation, intermediate mutation, advanced mutation, super mutation and perfect mutation. The higher the mutation level, the smaller the chance of another mutation.
+8. ペットの突然変異には5つのレベルがあります。初期変異、中級変異、高度変異、スーパー変異、完全変異です。突然変異レベルが高いほど、次の突然変異の確率が低くなります。
+
+【3:What places are pets not allowed? 】
+【3:ペットが許可されていない場所はどこですか？】
+
+General adventure dungeons and level dungeons don't allow pets to enter.
+一般的な冒険ダンジョンとレベルダンジョンにはペットの入場が許可されていません。
+
+These dungeons are designed to test the players' game techniques and cooperation, allowing players to bring pets will make these dungeons meaningless and boring. So when entering these dungeons, your pet will be put back to your inventory temporarily, and will be released once you've completed the dungeon.
+これらのダンジョンは、プレイヤーのゲーム技術と協力を試すために設計されています。ペットを連れて行くことはこれらのダンジョンを無意味で退屈にするため、これらのダンジョンに入るときにはペットが一時的にインベントリに戻され、ダンジョンを完了すると解放されます。
+
+In addition, pets are not allowed in competitions. Players should win through skill and cooperation.
+さらに、競技ではペットは許可されていません。プレイヤーはスキルと協力で勝利する必要があります。
+
+The above are the places that don't allow pets to enter. They only take up over an hour per day in terms of gameplay. The time is even shorter if you don't play competitions.
+上記はペットの入場が許可されていない場所です。これらはゲームプレイにおいて1日あたり1時間以上を占めるだけです。競技をしない場合、時間はさらに短くなります。
+
+Except for the above, players can bring pets when exploring maps, doing missions, slaying monsters in monster area, fighting bosses, and playing experience dungeons, etc. In the majority of the game, pets will be your amazing companion in combat.
+上記を除いて、プレイヤーはマップを探索する際、ミッションを行う際、モンスターエリアでモンスターを倒す際、ボスと戦う際、経験ダンジョンをプレイする際などにペットを連れて行くことができます。ゲームの大部分では、ペットは戦闘において素晴らしい仲間となります。
+
+【4: The difference between a blessed pet and an ordinary pet】
+【4: 祝福されたペットと普通のペットの違い】
+
+In the previous public beta, some players compared blessed pets to other pets (such as beetles) at level 30, and felt that their stats were similar, so why are blessed pets be put on sale in the mall? What's so special about them?
+以前の公開ベータ版では、一部のプレイヤーがレベル30で祝福されたペットと他のペット（例：カブトムシ）を比較し、ステータスが似ていると感じました。では、なぜ祝福されたペットがモールで販売されているのでしょうか？何が特別なのでしょうか？
+
+This is related to pet's potential. Pets with higher potential will gain more stats when leveling up. Blessed pets have high potential and can be used throughout the entire game.
+これはペットの潜在能力に関連しています。潜在能力の高いペットは、レベルアップ時により多くのステータスを獲得します。祝福されたペットは高い潜在能力を持ち、ゲーム全体で使用することができます。
+
+For players who want to keep the same pet that always has good stats, blessed pets are a good choice.
+常に良好なステータスを持つ同じペットを維持したいプレイヤーにとって、祝福されたペットは良い選択肢です。
+
+Ordinary pets need to be replaced, generally once every other generation. Good ordinary pets have similar basic stats as blessed pets when they have the same level. If an ordinary pet is summoned with a particular high-quality soul stone, it may even have higher stats than blessed pets.
+普通のペットは、通常、世代ごとに置き換える必要があります。良い普通のペットは、同じレベルの祝福されたペットと似た基本ステータスを持っています。特定の高品質なソウルストーンで召喚された普通のペットは、祝福されたペットよりも高いステータスを持つことがあります。
+
+So, if you don't want to purchase blessed pet, ordinary pets are also very useful in the game.
+したがって、祝福されたペットを購入したくない場合でも、普通のペットはゲームで非常に役立ちます。
+
+The only downside is ordinary pets will have lower stats compared to blessed pets after a period of time, and need to be replaced and trained again. For blessed pets, their foundation, mutation level and Talents can all be accumulated, thus opening up the gap with ordinary pets. This is the biggest advantage of blessed pets.
+唯一の欠点は、普通のペットはしばらくすると祝福されたペットに比べてステータスが低くなり、再度置き換えられ訓練される必要があることです。祝福されたペットでは、基礎、変異レベル、才能がすべて蓄積できるため、普通のペットとの差が広がります。これが祝福されたペットの最大の利点です。
+
+【5: How to choose a blessed pet】
+【5: 祝福されたペットの選び方】
+
+The Blessed pet soul stone has been adjusted. Now, you can choose from any of the four pet personalities when summoning pets with a soul stone. So, players don't need to consider the pet's personality when purchasing the soul stone.
+祝福されたペットのソウルストーンが調整されました。現在、ソウルストーンでペットを召喚する際に、4つのペットの性格から選択できます。そのため、プレイヤーはソウルストーンを購入する際にペットの性格を考慮する必要はありません。
+
+Instead, you need to think about whether you want a physical-attack pet or magic-attack pet.
+代わりに、物理攻撃ペットが欲しいか魔法攻撃ペットが欲しいかを考える必要があります。
+
+When fighting monsters, the two have little difference. Generally, monster's physical defense is slightly higher than magic defense, which corresponds to the attack stats of the pet.
+モンスターと戦う際、両者に大きな違いはありません。一般的に、モンスターの物理防御は魔法防御よりも少し高く、これはペットの攻撃ステータスに対応しています。
+
+The main difference is that when fighting against the player, it is more advantageous for physical-attack pets to fight Mages, Elves and other players with low physical defense, while magic pets are suitable for classes with low magic defenses such as Orcs and Hunters.
+主な違いは、プレイヤーと戦う際、物理攻撃ペットは物理防御が低いメイジ、エルフ、および他のプレイヤーと戦うのに有利であり、魔法ペットはオークやハンターなどの魔法防御が低いクラスに適しています。
+
+Goblins are the only kind of physical-attack pets; magic-attack pets include Sprites, Pixies, and Bubble Dragon.
+ゴブリンは物理攻撃ペットの唯一の種類です。魔法攻撃ペットには、スプライト、ピクシー、バブルドラゴンが含まれます。
+
+Secondly, you need to choose your favorite pet voice. There's a few recordings in the file folder for reference.
+次に、好きなペットの声を選ぶ必要があります。参照用にファイルフォルダにいくつかの録音があります。
+
+Fusion Beasts in the Mist World are inspired by anime and other games. You can simply think of them as mounts, but they are fundamentally different.
+霧の世界のフュージョンビーストはアニメや他のゲームからインスピレーションを受けています。単なるマウントとして考えることもできますが、基本的に異なります。
+
+Traditionally, characters can ride mounts to gain speed boosts or attribute bonuses, while Fusion Beasts can allow the character to transform himself and obtain their characteristics, such as mammoths in beast form, werewolves in Demi-human form, and iron beetles in insectoid form.
+従来、キャラクターはマウントに乗ることで速度ブーストや属性ボーナスを得ることができますが、フュージョンビーストはキャラクターを変身させ、その特徴を得ることができます。例えば、獣形態のマンモス、半人間形態の人狼、昆虫形態の鉄甲虫などです。
+
+Apart from the complete transformation, Fusion Beast allows players to semi-transform, and can float above the player's head to follow him closely.
+完全な変身とは別に、フュージョンビーストはプレイヤーを半変身させ、プレイヤーの頭上に浮かんで近くに従うことができます。
+
+There are two types of Fusion Beasts: Swift and Fierce.
+フュージョンビーストには、迅速タイプと猛烈タイプの2種類があります。
+
+Swift Fusion Beast will greatly increase the character's movement speed, up to twice as fast as before the transformation. But players cannot use skills when transformed.
+迅速フュージョンビーストは、キャラクターの移動速度を大幅に向上させ、変身前の最大2倍になります。しかし、変身中はスキルを使用できません。
+
+Fierce Fusion Beasts increase the character's movement speed, as well as their attributes, making them stronger in combat.
+猛烈フュージョンビーストは、キャラクターの移動速度と属性を向上させ、戦闘での強化をもたらします。
+
+Fusion power will be consumed when you transform. It is the second value you hear when pressing T.
+変身すると、フュージョンパワーが消費されます。それはTを押したときに聞こえる2番目の値です。
+
+Players cannot transform when fusion power is less than 10. Transformation will be lifted when fusion power drops to 0. Fusion power will gradually recover when not transformed. So players should choose the right time to use their Fusion Beasts.
+フュージョンパワーが10未満のときは変身できません。フュージョンパワーが0になると変身が解除されます。変身していないときにはフュージョンパワーが徐々に回復します。そのため、プレイヤーはフュージョンビーストを使用するタイミングを選ぶ必要があります。
+
+When your character reaches Level 60, you can take in pupils and team up with them to play in the tutor and pupil dungeon every day. A tutor can bring different pupils to the tutor and pupil dungeon repeatedly.
+キャラクターがレベル60に達すると、弟子を迎えて毎日師弟ダンジョンで共闘できます。師匠は異なる弟子を連れて、何度でも師弟ダンジョンに挑むことができます。
+
+Upon completion of the tutor and pupil dungeon, the pupil will receive Mentorship Points. When the graduates, the Mentorship Points will be transferred to the tutor.
+師弟ダンジョンを完了すると、弟子は指導ポイントを受け取ります。卒業すると、その指導ポイントは師匠に移行されます。
+
+Mentorship Points can exchanged for gang contribution.
+指導ポイントは、ギャング貢献度と交換できます。
+
+As a tutor have more pupils, he can obtain better tutor titles. Please click on "Mentorship Points" in the character panel to view the Mentor Achievement Instruction.
+師匠がより多くの弟子を持つと、より優れた師匠の称号を得ることができます。キャラクターパネルで「指導ポイント」をクリックして、指導者業績の説明を確認してください。
+
+【1: What are the benefits of getting married? 】
+【1: 結婚することで得られる利益は何ですか？】
+
+Characters that have reached Level 30 can get married.
+レベル30に達したキャラクターは結婚することができます。
+
+After marriage, the couple can give each other equipments.
+結婚後、夫婦はお互いに装備品を贈ることができます。
+
+They will also receive wedding rings that increase attributes. Weddings of different specifications will reward you with different wedding rings.
+さらに、属性を増強する結婚指輪も受け取れます。異なる仕様の結婚式では、異なる結婚指輪が報酬として与えられます。
+
+The couple will also automatically learn the Snuggle Skill, which can slowly restore their HP.
+夫婦は自動的に「抱き寄せスキル」を学び、それによってHPを徐々に回復できます。
+
+In addition, the couple can hold float parades and grand weddings, which will give you and your friends rich rewards. Weddings of different specifications will have different tiers of reward value.
+さらに、夫婦はフロートパレードや盛大な結婚式を開催し、友人とともに豊かな報酬を得ることができます。異なる仕様の結婚式では、異なる報酬価値の階層があります。
+
+Please note that the time limit for weddings is one hour, counting the time from the time the organizer enters the auditorium.
+結婚式の制限時間は1時間であり、主催者が式場に入った時点から計算されます。
+
+The wedding will attract everyone's attention, and there will be a lot of interactive activities before and during the wedding. If you want to express your love, this is a good opportunity.
+結婚式はすべての人の注目を集め、結婚式の前後に多くのインタラクティブな活動があります。愛を表現したいなら、これは良い機会です。
+
+In the whole marriage system, the wedding is the most lively and meaningful part.
+結婚システム全体において、結婚式は最も活気があり、意味のある部分です。
+
+Couples can also play the couple dungeon to receive experience and item rewards after completion.
+夫婦はカップルダンジョンをプレイして、完了後に経験値とアイテムの報酬を受け取ることもできます。
+
+【2: What is the process of marriage? 】
+【2: 結婚の過程はどのようなものですか？】
+
+After the couple have registered their marriage with priest Michelle, they can first invite their friends to Central Plains to wait for the wedding float parade.
+夫婦がミシェル司祭に結婚を登録した後、友人をセントラルプレインズに招待して、結婚フロートパレードを待つことができます。
+
+After the couple has applied for the float parade with priest Michelle, they will depart from the church and take the parade along the streets of Giant Rock City. During the parade, gift packages will drop from around the floats for every participant to collect.
+夫婦がミシェル司祭と一緒にフロートパレードを申請した後、教会から出発し、ジャイアントロックシティの通りをパレードします。パレード中、フロートの周りからギフトパッケージが落ちてきて、すべての参加者が集めることができます。
+
+There are gongs and drums on the floats, which can be hit by clicking on the floats. By doing so, you can create a more immersive atmosphere, and let the left-behind participants hear the location of the floats.
+フロートにはゴングと太鼓があり、フロートをクリックすることで叩くことができます。そうすることで、より没入感のある雰囲気を作り出し、後ろに残された参加者にフロートの位置を知らせることができます。
+
+The float will disappear after taking the couple back to the church, at which time, the couple can find priest Michelle to hold the formal wedding ceremony.
+フロートは夫婦を教会に連れ戻した後に消えます。その際、夫婦はミシェル司祭を見つけて正式な結婚式を開催することができます。
+
+Talk to priest Michelle, choose the theme of the hall where the wedding is to be held, press ENTER, and the couple will come to the wedding site first to prepare.
+ミシェル司祭と話し、結婚式が開催されるホールのテーマを選択して、ENTERを押すと、夫婦は結婚式場に最初に到着して準備を整えます。
+
+Enter the hall and walk north, talk to the usherette on the way, they will give their blessings. Then, head to the stage on the northernmost side, on which the emcee is waiting for the couple.
+ホールに入り、北に向かって歩き、途中で案内係と話して祝福を受けます。その後、北側のステージに進みます。そこでは司会者が夫婦を待っています。
+
+Talk to the emcee, and he will inform that you can invite your friends to the wedding. Then, look around the stage to find the messenger. Talk with him to invite your friends.
+司会者と話し、友人を結婚式に招待できることを知らせてもらいます。その後、ステージ周辺を見回して使者を見つけ、彼と話して友人を招待します。
+
+Invitation methods include: ID invitation, Gang invitation, city invitation. You can use different invitation methods multiple times to invite friends, as long as the number of people invited to the hall doesn't exceed the maximum limit of wedding guests.
+招待方法には、ID招待、ギャング招待、都市招待があります。ホールに招待された人数が結婚式のゲストの最大制限を超えない限り、異なる招待方法を複数回使用して友人を招待できます。
+
+Friends who received the invitation will see a prompt asking whether to accept the invitation. After clicking ACCEPT, they will be teleported to the wedding site.
+招待を受けた友人は、招待を受け入れるかどうかを尋ねるプロンプトが表示されます。ACCEPTをクリックすると、結婚式場にテレポートされます。
+
+At the wedding site, the couple is protected by the Mist Gods, and will have invincibility. So there is no need to worry about the guests making too much of a racket.
+結婚式場では、夫婦はミストの神々に守られており、無敵の状態になります。そのため、ゲストが騒ぎすぎることを心配する必要はありません。
+
+After all the guests have arrived, the couple can interact with the honor guards on both sides of the hall to light the large fireworks, which will drop all kinds of gifts for everyone to collect.
+すべてのゲストが到着した後、夫婦はホールの両側の名誉警備員と交流し、大型花火を点火して、すべての参加者が集めるためのさまざまなギフトをドロップします。
+
+Also, the guests can ask for small fireworks from the honor guards, which will also drop gifts when lighted up.
+また、ゲストは名誉警備員から小さな花火をお願いして、点火されたときにギフトをドロップさせることもできます。
+
+After the fireworks display, the couple can find the emcee to start the formal ceremony. After the wedding has begun, guests will not be able to ask for small fireworks from the honor guards.
+花火大会が終わった後、夫婦は司会者を見つけて正式な式典を開始できます。結婚式が始まると、ゲストは名誉警備員から小さな花火を要求できなくなります。
+
+When the emcee begins to host the ceremony, he will ask the newlyweds to collect vow cards and deliver their vows of love to each other. At this time, the groom will do so first.
+司会者が式を開始すると、新婚夫婦に誓約カードを集め、お互いに愛の誓いを述べるよう求めます。このとき、最初に新郎が誓います。
+
+After the groom has delivered his vow, the bride will do so as well.
+新郎が誓約を述べた後、新婦も同様に誓います。
+
+If it is a grand royal wedding, at this time, there will be envoys from three countries to deliver their gifts. Every envoy has two gifts, one for the bride and one for the groom, so don't miss out.
+もしそれが盛大な王室の結婚式であれば、この時点で3か国の使者がギフトを届けに来ます。各使者は2つのギフトを持っており、1つは新婦用、もう1つは新郎用です。見逃さないようにしてください。
+
+After that, the guests can collect blessing cards from the usherette, and give the newlyweds their blessings. the more blessings the newlyweds receive, the more gold coins they can get after the wedding is over.
+その後、ゲストは案内係から祝福カードを集めて新婚夫婦に祝福を与えることができます。新婚夫婦が受ける祝福が多ければ多いほど、結婚式が終わった後により多くの金貨を得ることができます。
+
+After the blessing session, comes the lively "Piggy Rush" session, where the newlyweds can release pigs in three times for everyone to chase and hit. Please note that the pigs can be released three times, so don't miss out.
+祝福セッションの後は活気に満ちた「ピギーラッシュ」セッションがあり、新婚夫婦は3回にわたって豚を放出し、皆で追いかけて叩くことができます。豚は3回放出できるので、見逃さないように注意してください。
+
+The pigs are very fast, and will run around the venue. But as long as you've participated, you will be rewarded after the pigs are knocked out. It is easier with more participants.
+豚は非常に速く、会場内を走り回りますが、参加していれば、豚がノックアウトされた後に報酬を受け取ることができます。参加者が多いほど簡単です。
+
+For melee classes, if you can't chase up with the pigs, don't worry. Find a right spot, and give the pig a smacking when it comes your way.
+近接クラスの場合、豚を追いかけられなくても心配ありません。正しい場所を見つけて、豚があなたの方に来たときに叩いてください。
+
+After the "Piggy Rush" session, comes the gift box session. The newlyweds can talk to the emcee to let gift boxed drop from random places in the hall. This session is designed to thank the guests, so the newlyweds cannot open any of the gift boxes dropped in the hall.
+「ピギーラッシュ」セッションの後はギフトボックスセッションがあり、新婚夫婦は司会者と話してホール内のランダムな場所からギフトボックスをドロップさせることができます。このセッションはゲストへの感謝の意を込めて設計されており、新婚夫婦はホール内でドロップされたギフトボックスを開けることはできません。
+
+You can interact with the emcee to check the total amount of gift boxes, how many have been dropped, and how many are left. Don't miss any of gift boxes.
+司会者と交流して、ギフトボックスの総数、ドロップされた数、残りの数を確認できます。ギフトボックスを見逃さないようにしてください。
+
+After the gift box session is over, comes the "Express Your Love" session, where the new couple will snuggle 100 times in front of the guests. The couple can use the Snuggle Skill by standing closely together (the two cannot be apart, even just a bit).
+ギフトボックスセッションが終わった後は、「愛を表現する」セッションがあり、新婚夫婦がゲストの前で100回抱き寄せます。夫婦は近くに立って「抱き寄せスキル」を使うことができます（2人は少しでも離れることはできません）。
+
+After the "Express Your Love" session is over, the wedding will enter the final phase. At the time, please follow the emcee's guidance and talk with the priest to accept the blessing. Both the couple will receive Intimacy, and can collect gold coins from the priest. The number of gold coins is closely related to the number of blessings you've received before from guests.
+「愛を表現する」セッションが終わると、結婚式は最終段階に入ります。その際、司会者の指示に従い、司祭と話して祝福を受けてください。夫婦は共に親密度を受け取り、司祭から金貨を集めることができます。金貨の数は、以前にゲストから受けた祝福の数に密接に関連しています。
+
+At this time, guests can collect gifts from the usherette, afterwards they will be teleported out of the hall automatically. The couple can leave the hall in the menu by pressing CTRL+ENTER.
+この時点で、ゲストは案内係からギフトを集めることができ、その後、自動的にホールからテレポートされます。夫婦はメニューでCTRL+ENTERを押してホールを出ることができます。
+
+That concludes the entire wedding process.
+これで結婚式の全過程が終了します。
+
+When you join a Gang, you can enjoy plenty of gang-member exclusive benefits.
+ギャングに参加すると、多くのギャングメンバー限定の特典を楽しむことができます。
+
+This includes the Gang's exclusive Gang Production Area, Gang dungeon, cultivating more Talent Points, learning Gang Skills, exchanging equipment and items within the Gang, Forging equipments and making gems at a more favorable price, etc.
+これには、ギャング専用のギャング生産エリア、ギャングダンジョン、より多くの才能ポイントの育成、ギャングスキルの学習、ギャング内での装備品やアイテムの交換、より有利な価格での装備品の鍛造と宝石の作成などが含まれます。
+
+There are also many interesting Gang activities waiting for you to participate.
+参加を待っている多くの興味深いギャング活動もあります。
+
+The following contains spoilers, if you like to explore the game, don't read on.
+以下にはネタバレが含まれています。ゲームを探索するのが好きな場合は、読み進めないでください。
+
+LV5: Complete the beginner guide mission to obtain skill spar.
+LV5: 初心者ガイドミッションを完了してスキルスパーを獲得。
+
+LV10: Celestial Elder in the Karon Village.
+LV10: カロン村の天帝長老。
+
+LV15: Master Taufan in the Sunset City.
+LV15: サンセットシティのタウファン師匠。
+
+LV20: Complete the mission for Grand Duke Trini in Sunset City.
+LV20: サンセットシティのグランドデューク・トリニのミッションを完了。
+
+LV25: Master Drunk in the breezy Village.
+LV25: 風そよぐ村のドランク師匠。
+
+LV30: Master Kakarot and Master Elizabeth in the Giant Rock City.
+LV30: ジャイアントロックシティのカカロット師匠とエリザベス師匠。
+
+LV35: Complete the mission for King William III in the Giant Rock City.
+LV35: ジャイアントロックシティのウィリアム三世王のミッションを完了。
+
+LV40: Caravan Master Solitury in the traveller camp.
+LV40: 旅人キャンプのキャラバンマスター・ソリチュリー。
+
+LV45: Complete the mission for Bounty Warrior Rick in the Tari Village.
+LV45: タリ村のバウンティウォリアー・リックのミッションを完了。
+
+LV50: Master Macghee in the White Sand City.
+LV50: ホワイトサンドシティのマクギー師匠。
+
+LV55: Master Ecilian and Master Antino in the Tulip City.
+LV55: チューリップシティのエシリアン師匠とアンティノ師匠。
+
+LV60: Priest Elder Johanna in the moon city.
+LV60: ムーンシティの司祭長老ヨハンナ。
+
+LV65: Master Federo and Master Galaxia in the holy blood city.
+LV65: 聖血の街のフェデロ師匠とギャラクシア師匠。
+
+LV70: Master Shadow Assassin in the gouging knife city.
+LV70: ガウジングナイフシティのシャドーアサシン師匠。
+
+LV75: Master Kenton in the Violet City.
+LV75: バイオレットシティのケントン師匠。
+
+Mist World does not welcome discriminatory, verbal, harassing or other impolite behavior towards others.
+霧の世界は、他者への差別的、口頭での嫌がらせやその他の不礼な行動を歓迎しません。
+
+If you are harassed by someone else's messages in the game, you can add them to the blacklist.
+ゲーム内で他の人のメッセージによって嫌がらせを受けた場合は、その人をブラックリストに追加できます。
+
+Blacklists are divided into two categories, one is the public channel blacklist, and the other is the private chat blacklist.
+ブラックリストは2つのカテゴリーに分かれています。1つはパブリックチャネルブラックリストで、もう1つはプライベートチャットブラックリストです。
+
+First, let's explain the operation of the public channel blacklist.
+まず、パブリックチャネルブラックリストの操作について説明します。
+
+To block someone's public channel messages, press F1 to open the settings menu.
+誰かのパブリックチャネルメッセージをブロックするには、F1を押して設定メニューを開きます。
+
+Then press the S key to find "Message Blocking Management" and press the Entter key to enter "Message Blocking Management".
+次に、Sキーを押して「メッセージブロック管理」を見つけ、Entterキーを押して「メッセージブロック管理」に入ります。
+
+On the "Message Blocking Management" interface, press the S key to find "Add New Blocked Character", press the Entter key to bring up the "Please enter the character ID" dialog box.
+「メッセージブロック管理」インターフェースで、Sキーを押して「新しいブロックキャラクターを追加」を見つけ、Entterキーを押して「キャラクターIDを入力してください」ダイアログボックスを表示します。
+
+Enter the ID you want to mask, press the Entter key, then the "Please enter a note name" dialog box will pop up, follow the prompts and press the Entter key.
+マスクしたいIDを入力し、Entterキーを押すと、「注釈名を入力してください」ダイアログボックスがポップアップします。指示に従ってEntterキーを押してください。
+
+This way, you won't see messages sent by this person in public chat channels anymore.
+この方法で、この人がパブリックチャットチャネルで送信したメッセージをもう見ることはありません。
+
+To unblock a person, you still need to enter the "Message Blocking Management" interface, press the S key to find the blocked character after entering, press the D key to find the "Unblock" and press Entter.
+人をブロック解除するには、「メッセージブロック管理」インターフェースに入る必要があり、Sキーを押してブロックされたキャラクターを見つけ、Dキーを押して「ブロック解除」を見つけ、Entterを押します。
+
+A confirmation prompt pops up, click "Confirm" to unblock.
+確認プロンプトが表示され、「確認」をクリックしてブロック解除します。
+
+Let's explain how to block private chat messages.
+プライベートチャットメッセージをブロックする方法について説明します。
+
+Press Alt+backslash to open the "private chat" window.
+Alt+バックスラッシュを押して「プライベートチャット」ウィンドウを開きます。
+
+In the "private chat" window, press Alt+L to navigate to Session record.
+「プライベートチャット」ウィンドウで、Alt+Lを押してセッションレコードに移動します。
+
+Press the up and down arrow keys to find the person you want to block, then press the Tab key to find the "Add to Blacklist" button and click, or press Alt+J directly, and the other party will be added to the blacklist, you will no longer receive private chat messages from this person.
+上下の矢印キーを押してブロックしたい人を見つけ、Tabキーを押して「ブラックリストに追加」ボタンを見つけてクリックするか、Alt+Jを直接押すと、相手がブラックリストに追加され、この人からのプライベートチャットメッセージを受け取ることはなくなります。
+
+To remove a person from the blacklist, press the tab key in the "Private Chat" window to locate "Blacklist", then press the up and down arrow keys to find the person you want to remove, then press the tab key to locate the "Remove from blacklist" button and click, or directly press Alt+R key, the other person will be removed from the blacklist.
+ブラックリストから人を削除するには、「プライベートチャット」ウィンドウでTabキーを押して「ブラックリスト」を見つけ、上下の矢印キーを押して削除したい人を見つけ、Tabキーを押して「ブラックリストから削除」ボタンを見つけてクリックするか、Alt+Rキーを直接押すと、相手がブラックリストから削除されます。
+
+Navigation target: Press left BRACKET to navigate to the target;
+ナビゲーションターゲット: 左のブラケットを押してターゲットに移動します。
+
+Team Mark: Team navigation target, please check out the "Quick Phrase Controls" in the Game Hotkey section for details;
+チームマーク: チームナビゲーションターゲットについては、ゲームホットキーセクションの「クイックフレーズコントロール」をご覧ください。
+
+Switch to Corpse: you can choose whether to skip the corpse in the settings;
+死体への切り替え: 設定で死体をスキップするかどうかを選択できます。
+
+Switch to items: you can view items in any viewing mode;
+アイテムに切り替え: 任意の表示モードでアイテムを表示できます。
+
+Reach the edge of the backpack: cycle through the backpack items, from the last item to the first item, or from the first item to the last item;
+バックパックの端に到達: バックパックアイテムを、最後のアイテムから最初のアイテムへ、または最初のアイテムから最後のアイテムへと循環します。
+
+Equipped Equipment: switch to the equipped equipment in the backpack, or switch to the enabled Talents in the Talent Slot;
+装備された装備: バックパック内の装備済み装備に切り替えるか、才能スロットの有効な才能に切り替えます。
+
+Damaged equipment: switch to the damaged equipment in the backpack;
+破損した装備: バックパック内の破損した装備に切り替えます。
+
+No Skill Set: there is no skill set to the key you just pressed;
+スキルが設定されていません: 今押したキーにはスキルが設定されていません。
+
+Cannot Cast Skill: The skill set to the key you just pressed cannot be cast because the target is out of range, or it isn't an enemy target;
+スキルを発動できません: 今押したキーに設定されているスキルは、ターゲットが範囲外か、敵のターゲットではないため発動できません。
+
+New Battle Report: the new battle report notification after you come out of a dungeon. Press BACKSPACE to view the battle report;
+新しい戦闘レポート: ダンジョンから出た後の新しい戦闘レポート通知。バックスペースを押して戦闘レポートを表示します。
+
+Join Team Application: You can view the join team application in the control menu by pressing CTRL+ENTER;
+チーム参加申請: CTRL+ENTERを押してコントロールメニューでチーム参加申請を表示できます。
+
+Join Team Rejected: Your join team application has been rejected by the captain;
+チーム参加が拒否されました: あなたのチーム参加申請はキャプテンによって拒否されました。
+
+New Teammate Joined: A new team member has joined the team;
+新しいチームメイトが参加しました: 新しいチームメンバーがチームに参加しました。
+
+Teammate Left: A Team member has left the team;
+チームメイトが退出しました: チームメンバーがチームを離れました。
+
+Player Online: a notification to inform you that the player is online when you browse through your friends list, team member list or Gang member list;
+プレイヤーオンライン: フレンドリスト、チームメンバーリストまたはギャングメンバーリストを閲覧するときにプレイヤーがオンラインであることを通知する通知。
+
+Direction Turned: your character has changed its direction;
+方向が変わりました: キャラクターの向きが変わりました。
+
+Character Level-Up: Your character has leveled up;
+キャラクターレベルアップ: あなたのキャラクターがレベルアップしました。
+
+Pet Level-Up: Your pet, or someone else's pet has leveled up;
+ペットレベルアップ: あなたのペット、または他の誰かのペットがレベルアップしました。
+
+Skill Upgrade: When the upgrade conditions are met, the skill can be upgraded when you cast it;
+スキルアップグレード: アップグレード条件を満たすと、スキルを発動するときにアップグレードできます。
+
+Red Potion Used: you have used a red potion to restore HP;
+赤ポーション使用済み: HPを回復するために赤ポーションを使用しました。
+
+Blue Potion Used: you have used a blue potion to restore SP/MP;
+青ポーション使用済み: SP/MPを回復するために青ポーションを使用しました。
+
+Dodge Attack: you have dodged an attack;
+回避攻撃: 攻撃を回避しました。
+
+Hunter Mark: you don't need to aim at the marked target when casting Marked Attack Skill;
+ハンターマーク: マークされた攻撃スキルを発動するときにマークされたターゲットを狙う必要はありません。
+
+Stunned: you cannot perform any actions;
+スタン状態: 何も行動できません。
+
+Restrained: you can move, but cannot cast skills;
+拘束状態: 移動はできますが、スキルを発動できません。
+
+Knock-Outed: you cannot perform any actions, can be awakened when hit;
+ノックアウト状態: 何も行動できませんが、攻撃を受けると目覚めます。
+
+Ensnared: you can move, but cannot cast skills;
+罠にかかった状態: 移動はできますが、スキルを発動できません。
+
+Frozen: you cannot perform any actions, can be awakened when hit;
+凍結状態: 何も行動できませんが、攻撃を受けると目覚めます。
+
+Transfixed: you cannot move;
+動けない状態: 移動できません。
+
+Fire-Trapped: you cannot move;
+火罠にかかった状態: 移動できません。
+
+Silenced: you cannot cast channeling skills;
+沈黙状態: チャネリングスキルを発動できません。
+
+Healing Only: You cannot attack nor cast any skills other than healing;
+治癒専用: 攻撃や治癒以外のスキルを発動できません。
+
+Invincible Block: blocks all forms of attack and debuff;
+無敵ブロック: あらゆる形態の攻撃とデバフをブロックします。
+
+Magic Shield: blocks normal attacks, cannot block debuffs;
+魔法シールド: 通常攻撃をブロックし、デバフはブロックできません。
+
+Damage Reduction Pass: a pass generated with mana that can block multiple attacks. It has limited durability and will disappear with exhausted;
+ダメージ軽減パス: 複数の攻撃をブロックできるマナで生成されたパスです。耐久性が限られており、使い切ると消えます。
+
+Mission Accepted: you have accepted a new mission. You can view your missions in the control menu by pressing CTRL+ENTER;
+ミッション受諾済み: 新しいミッションを受諾しました。CTRL+ENTERを押してコントロールメニューでミッションを表示できます。
+
+Mission Progress Updated: your ongoing mission progress has advanced;
+ミッション進行更新済み: 進行中のミッションが進行しました。
+
+Mission Completed: you have completed a mission;
+ミッション完了: ミッションを完了しました。
+
+Learning Skill: you are learning a Combat skill, Talent skill, profession skill or are cultivating talent points;
+スキル学習中: 戦闘スキル、才能スキル、職業スキルを学習中または才能ポイントを育成中です。
+
+Skill Learned: you have learned a skill, or have cultivated a Talent Point;
+スキル習得済み: スキルを習得したか、才能ポイントを育成しました。
+
+Talents Reset: you have reset your Talents;
+才能リセット済み: 才能をリセットしました。
+
+Skill Forgotten: you have forgotten a profession skill;
+スキル忘却済み: 職業スキルを忘れました。
+
+Select the option below, press Enter to open the payment page, and after payment, we will email you the game point card.
+以下のオプションを選択し、Enterキーを押して支払いページを開き、支払い後、ゲームポイントカードをメールでお送りします。
+
+To avoid not receiving a Point Card, please add our email address paypal@rgong.com to your email whitelist or contacts. Click here to see how to whitelist an email address or domain.
+ポイントカードが届かないのを防ぐために、メールアドレスpaypal@rgong.comをメールのホワイトリストまたは連絡先に追加してください。メールアドレスやドメインをホワイトリストに登録する方法はこちらをクリックしてください。
+
+If you have not received your Point Card within 24 hours, please submit your feedback in the feedback section with your PayPal email address and merchant transaction ID. Don't worry, Point Card doesn't expire, you can always submit feedback to us and we'll deal with it promptly.
+24時間以内にポイントカードが届かない場合は、フィードバックセクションでPayPalのメールアドレスと取引IDを含めてフィードバックを送信してください。ご安心ください、ポイントカードは有効期限がありませんので、いつでもフィードバックを送信していただければ、迅速に対応いたします。
+
+50 diamond 1.29 USD
+50ダイヤモンド 1.29 USD
+
+100 diamond 2.27 USD
+100ダイヤモンド 2.27 USD
+
+200 diamond 4.23 USD
+200ダイヤモンド 4.23 USD
+
+300 diamond 6.20 USD
+300ダイヤモンド 6.20 USD
+
+500 diamond 10.15 USD
+500ダイヤモンド 10.15 USD
+
+1000 diamond 19.99 USD
+1000ダイヤモンド 19.99 USD
+
+2000 diamond 39.69 USD
+2000ダイヤモンド 39.69 USD
+
+5000 diamond 98.79 USD
+5000ダイヤモンド 98.79 USD
+
+10000 diamond 197.29 USD
+10000ダイヤモンド 197.29 USD
+
+Return
+ポイントカードメニュー
+
+Point card recharge
+ポイントカードのチャージ
+
+buy point card
+ポイントカードを購入
+
+If you have any questions, you can open the F1 menu and consult the administrator through feedback.
+ご質問がある場合は、F1メニューを開いてフィードバックを通じて管理者に相談できます。
+
+Recharge activity {s} Recharge benefits" is in progress
+リチャージ活動{s}リチャージ特典"が進行中です
+
+Press to view description
+説明を見るには押してください
+
+Check the recharge amount
+リチャージ金額を確認してください
+
+name: {s} Recharge benefits
+名前: {s}リチャージ特典
+
+date: from MM dd, yyyy to MM dd, yyyy
+日付: yyyy年MM月dd日からyyyy年MM月dd日まで
+
+Description: Tanabata FestivalRecharge benefits, players can get 10% more diamonds and 10% more recharge points when recharging; There are 5 levels of recharge rewards, and you can receive the corresponding rewards after the event after reaching the corresponding level.
+説明: 七夕フェスティバルリチャージ特典、リチャージ時にプレイヤーは10％のダイヤモンドと10％のリチャージポイントを追加で取得できます。リチャージ報酬には5つのレベルがあり、対応するレベルに到達した後、イベント終了後に対応する報酬を受け取ることができます。
+
+Recharge up to 990 diamonds, can get 1 Recharge Gift Pack; After using, you can choose one of the two rewards: 1 set of enhancement props or 10 gem fragment packs. A set of enhancement props includes 1 weapon enhance boost rune, 1 weapon enhance protection rune, 10 equipment enhance boost rune, and 10 equipment enhance protection rune. After opening each gem fragment package, you will get a random gem fragment, 80から100 pieces in total.
+最大990ダイヤモンドのリチャージで1つのリチャージギフトパックを取得できます。使用後、2つの報酬のうち1つを選択できます: 1セットの強化小道具または10個の宝石断片パック。強化小道具のセットには、1つの武器強化ブーストルーン、1つの武器強化プロテクションルーン、10個の装備強化ブーストルーン、および10個の装備強化プロテクションルーンが含まれます。各宝石断片パッケージを開くと、ランダムな宝石断片を取得できます。合計で80から100個です。
+
+Recharge up to 1990 diamonds, can get 2 Recharge Gift Pack; After using, you can choose one of the two rewards: 1 set of enhancement props or 10 gem fragment packs. A set of enhancement props includes 1 weapon enhance boost rune, 1 weapon enhance protection rune, 10 equipment enhance boost rune, and 10 equipment enhance protection rune. After opening each gem fragment package, you will get a random gem fragment, 80から100 pieces in total.
+最大1990ダイヤモンドのリチャージで2つのリチャージギフトパックを取得できます。使用後、2つの報酬のうち1つを選択できます: 1セットの強化小道具または10個の宝石断片パック。強化小道具のセットには、1つの武器強化ブーストルーン、1つの武器強化プロテクションルーン、10個の装備強化ブーストルーン、および10個の装備強化プロテクションルーンが含まれます。各宝石断片パッケージを開くと、ランダムな宝石断片を取得できます。合計で80から100個です。
+
+Recharge up to 3990 diamonds, can get 4 Recharge Gift Pack; After using, you can choose one of the two rewards: 1 set of enhancement props or 10 gem fragment packs. A set of enhancement props includes 1 weapon enhance boost rune, 1 weapon enhance protection rune, 10 equipment enhance boost rune, and 10 equipment enhance protection rune. After opening each gem fragment package, you will get a random gem fragment, 80から100 pieces in total.
+最大3990ダイヤモンドのリチャージで4つのリチャージギフトパックを取得できます。使用後、2つの報酬のうち1つを選択できます: 1セットの強化小道具または10個の宝石断片パック。強化小道具のセットには、1つの武器強化ブーストルーン、1つの武器強化プロテクションルーン、10個の装備強化ブーストルーン、および10個の装備強化プロテクションルーンが含まれます。各宝石断片パッケージを開くと、ランダムな宝石断片を取得できます。合計で80から100個です。
+
+Recharge up to 5990 diamonds, can get 6 Recharge Gift Pack; After using, you can choose one of the two rewards: 1 set of enhancement props or 10 gem fragment packs. A set of enhancement props includes 1 weapon enhance boost rune, 1 weapon enhance protection rune, 10 equipment enhance boost rune, and 10 equipment enhance protection rune. After opening each gem fragment package, you will get a random gem fragment, 80から100 pieces in total.
+最大5990ダイヤモンドのリチャージで6つのリチャージギフトパックを取得できます。使用後、2つの報酬のうち1つを選択できます: 1セットの強化小道具または10個の宝石断片パック。強化小道具のセットには、1つの武器強化ブーストルーン、1つの武器強化プロテクションルーン、10個の装備強化ブーストルーン、および10個の装備強化プロテクションルーンが含まれます。各宝石断片パッケージを開くと、ランダムな宝石断片を取得できます。合計で80から100個です。
+
+Recharge up to 9990 diamonds, can get 10 Recharge Gift Pack; After using, you can choose one of the two rewards: 1 set of enhancement props or 10 gem fragment packs. A set of enhancement props includes 1 weapon enhance boost rune, 1 weapon enhance protection rune, 10 equipment enhance boost rune, and 10 equipment enhance protection rune. After opening each gem fragment package, you will get a random gem fragment, 80から100 pieces in total.
+最大9990ダイヤモンドのリチャージで10個のリチャージギフトパックを取得できます。使用後、2つの報酬のうち1つを選択できます: 1セットの強化小道具または10個の宝石断片パック。強化小道具のセットには、1つの武器強化ブーストルーン、1つの武器強化プロテクションルーン、10個の装備強化ブーストルーン、および10個の装備強化プロテクションルーンが含まれます。各宝石断片パッケージを開くと、ランダムな宝石断片を取得できます。合計で80から100個です。
+
+Welcome to our website to download game-related resources.
+ゲーム関連のリソースをダウンロードするために私たちのウェブサイトへようこそ。
+
+Click here to go to the Mist World website
+霧の世界のウェブサイトに移動するにはここをクリックしてください
+
+Click here to copy the Mist World website URL
+霧の世界のウェブサイトのURLをコピーするにはここをクリックしてください

@@ -1,0 +1,428 @@
+Snuggle
+いちゃつく
+
+Blood Transfusion
+輸血
+
+Mining
+採掘
+
+Collect Herbs
+薬草採取
+
+Fishing
+釣り
+
+Draw Blood
+採血
+
+Cut Flesh
+肉を切る
+
+Skinning
+皮を剥ぐ
+
+Turtle Breath
+亀の呼吸
+
+Anti-Corrosion
+耐腐食性
+
+Poison Immunity
+毒無効
+
+Combat Stance
+戦闘スタンス
+
+Cleave Combo
+斬撃コンボ
+
+Powerful Leap Attack
+強力な飛びかかり攻撃
+
+Fighting Expert
+戦闘の達人
+
+Defensive Stance
+防御姿勢
+
+Sturdy Sentry
+頑丈な見張り
+
+Defensive Barrier
+防御壁
+
+Precise Block
+精密防御
+
+Severe Wound
+重傷
+
+Sixth Sense
+第六感
+
+Rampage Stance
+猛攻姿勢
+
+Cruel
+残酷
+
+Enrage
+激怒
+
+Unruly Rage
+抑えきれない怒り
+
+Defensive Stance
+防御姿勢
+
+Sturdy Sentry
+頑丈な見張り
+
+Defensive Barrier
+防御壁
+
+Ancestral Protection
+先祖の守護
+
+Ruthless
+無慈悲
+
+Strength of Giant
+巨人の力
+
+Assassin's Determination
+暗殺者の決意
+
+Mental Barrier
+精神障壁
+
+Seal Fate
+運命を封じる
+
+Executioner
+死刑執行人
+
+Blind Faith
+盲信
+
+Shadow Blade
+影の刃
+
+Shadow of Erosion
+侵食の影
+
+Hatred
+憎しみ
+
+Deadly Attack
+致命的な攻撃
+
+Ruthless Strike
+無慈悲な一撃
+
+Aspect of the Wild
+荒野の守護
+
+Survival Expert
+サバイバルの達人
+
+Wild Rage
+野生の怒り
+
+Call of the Wilderness
+荒野の呼び声
+
+Aspect of the Monkey
+猿の守護
+
+Sniper Training
+スナイパー訓練
+
+Steady Hands
+安定した手
+
+Hunter's Mark
+ハンターの印
+
+Aspect of the Cheetah
+チーターの守護
+
+Aspect of the Hawk
+鷹の守護
+
+Ice Lineage
+氷の血統
+
+Desolate Winter
+寂しい冬
+
+Ice Finger
+氷の指
+
+Chilling Cold
+骨まで凍る寒さ
+
+Cold Lineage
+冷たい血統
+
+Freezing Cold
+凍える寒さ
+
+Crisp Wisdom
+冷静な知恵
+
+Ice Spirit
+氷の精霊
+
+Frost Armor
+霜の鎧
+
+Frost Lineage
+霜の血統
+
+Elven Fire
+エルフの炎
+
+Enhanced Fireworks
+強化された花火
+
+Blazing Combo
+燃えるコンボ
+
+Blessing of Flame
+炎の祝福
+
+Hellfire
+地獄の炎
+
+Energized Fireball
+エネルギーを帯びた火球
+
+Mana Expert
+魔力の達人
+
+Heart of Heat
+熱の心
+
+Elven Dance
+エルフの舞
+
+Flame Combo
+炎のコンボ
+
+Justice
+正義
+
+Holy Light Echo
+聖なる光の反響
+
+Wisdom
+知恵
+
+Skilled Healer
+熟練の治療者
+
+Shelter
+避難所
+
+Divine Whip
+神聖な鞭
+
+Confession
+告解
+
+Divine Reincarnation
+神聖な輪廻
+
+Holy Light Protection
+聖なる光の守護
+
+Ring of Life
+命の輪
+
+Soul Link
+魂のリンク
+
+Enhanced Explosion
+強化された爆発
+
+Rushing Tide
+押し寄せる潮
+
+Dead Toxin Surge
+死の毒波
+
+Soul Harmony
+魂の調和
+
+Spiritual Concentration
+精神集中
+
+Extensive Heal
+広範な治療
+
+Soul Insight
+魂の洞察
+
+Wrath of Wraith
+怨霊の怒り
+
+Jungle Perseverance
+ジャングルの忍耐
+
+Imperious
+威圧的
+
+Focus
+集中
+
+Ravage
+荒廃
+
+Havoc
+大混乱
+
+Anger
+怒り
+
+Brutal
+残忍
+
+Shielded
+保護された
+
+Dexterous
+器用
+
+Tough
+頑丈
+
+Tai chi
+太極拳
+
+Havoc (Aggressive)
+大混乱（攻撃的）
+
+Tough (Aggressive)
+頑丈（攻撃的）
+
+Tai chi (Aggressive)
+太極拳（攻撃的）
+
+Focus (Defensive)
+集中（防御的）
+
+Ravage (Defensive)
+荒廃（防御的）
+
+Havoc (Defensive)
+大混乱（防御的）
+
+Anger (Defensive)
+怒り（防御的）
+
+Brutal (Defensive)
+残忍（防御的）
+
+Dexterous (Defensive)
+器用（防御的）
+
+Tough (Defensive)
+頑丈（防御的）
+
+Tai chi (Defensive)
+太極拳（防御的）
+
+Focus (Aggressive)
+集中（攻撃的）
+
+Ravage (Aggressive)
+荒廃（攻撃的）
+
+Brutal (Aggressive)
+残忍（攻撃的）
+
+Anger (Aggressive)
+怒り（攻撃的）
+
+Tough (Aggressive)-2
+頑丈（攻撃的）-2
+
+Ravage (Defensive)-2
+荒廃（防御的）-2
+
+Havoc (Defensive)-2
+大混乱（防御的）-2
+
+Brutal (Defensive)-2
+残忍（防御的）-2
+
+Dexterous (Defensive)-2
+器用（防御的）-2
+
+Tough (Defensive)-2
+頑丈（防御的）-2
+
+Tai chi (Defensive)-2
+太極拳（防御的）-2
+
+Ravage (Aggressive)-2
+荒廃（攻撃的）-2
+
+Havoc (Aggressive)-3
+大混乱（攻撃的）-3
+
+Anger (Aggressive)
+怒り（攻撃的）
+
+Tough (Aggressive)-3
+頑丈（攻撃的）-3
+
+Tai chi (Aggressive)-2
+太極拳（攻撃的）-2
+
+Ravage (Defensive)-3
+荒廃（防御的）-3
+
+Havoc (Defensive)-3
+大混乱（防御的）-3
+
+Anger (Defensive)-2
+怒り（防御的）-2
+
+Dexterous (Defensive)-3
+器用（防御的）-3
+
+Tough (Defensive)-3
+頑丈（防御的）-3
+
+Tai chi (Defensive)-3
+太極拳（防御的）-3
+
+Focus (Aggressive)-2
+集中（攻撃的）-2
+
+Ravage (Aggressive)-3
+荒廃（攻撃的）-3
+
+Havoc (Aggressive)-4
+大混乱（攻撃的）-4
+
+Tough (Aggressive)-4
+頑丈（攻撃的）-4
+
+Ravage (Defensive)-4
+荒廃（防御的）-4
+
+Havoc (Defensive)-4
+大混乱（防御的）-4
+
+Brutal (Defensive)-3
+残忍（防御的）-3
+
+Dexterous (Defensive)-4
+器用（防御的）-4
+
+Tough (Defensive)-4
+頑丈（防御的）-4

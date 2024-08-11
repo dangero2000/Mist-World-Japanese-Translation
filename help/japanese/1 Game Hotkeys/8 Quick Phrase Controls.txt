@@ -1,0 +1,20 @@
+1. Hotkeys
+Bring up the quick phrase settings window: SHIFT+BACKSPACE
+Send quick phrases: SHIFT+1 to EQUAL on the number row, a total of 12 keys
+When you send a quick phrase, it will be sent to your current channel.
+2. Add Codes in Quick Phrase
+2.1. Set team navigation target while sending a quick phrase
+When you add the code "/0" (a SLASH and number 0) before the phrase, you will set yourself as the team navigation target when sending the quick phrase. This allows team members to quickly select you by pressing QUOTATION to heal or remove debuffs.
+When you add the code "/1" (a SLASH and number 1) before the phrase, you will set the target as the team navigation target when sending the quick phrase. Afterwards, team members can quickly select the target by pressing QUOTATION to concentrate their attack or conduct other actions.
+When you add the code "/2" (a SLASH and number 2) before the phrase, you will cancel team navigation. It works the same as: left CTRL+QUOTATION
+Note 1: Quick phrases with navigation codes will only be sent to the team chat channel.
+Note 2: when editing a quick phrase, you can only input the navigation code, with no actual messages. In that case, when you send that quick phrase, you will only change the team navigation settings, without sending any messages.
+2.2. Change Target Shortcuts
+When you input the code "/3" in a quick phrase, you will change your target to the one that's being attack by the current target.
+When you input the code "/4" in a quick phrase, you will change your target to the one that's attacking the current target.
+When you input the code "/5" in a quick phrase, you will change your target to the one that's attacking yourself.
+When you input the code "/6" in a quick phrase, you will change your target to your teammates on the map.
+When you input the code "/7" in a quick phrase, you will change your target to the teammate with the least HP rate within 20 yards.
+When you input the code "/8" in a quick phrase, you will change your target to the teammate with the least HP rate within 30 yards.
+When you input the code "/9" in a quick phrase, you will view the enemy target in the Arena Fight.
+Note: Change Target Shortcuts cannot be used to send actual messages.

@@ -1,0 +1,22 @@
+1. Public Chat Controls
+Bring up the channel's public chat window: BACKSLASH
+Channel message reading and quick view settings: SHIFT+BACKSLASH
+View public chat messages: PAGE UP & DOWN
+View the first and last public chat message: SHIFT+PAGE UP & DOWN
+Change current public chat channel: left CTRL+PAGE UP & DOWN
+2. Private Chat Controls
+Bring up the private chat window: ALT+BACKSLASH
+Bring up the target's private chat window: ALT+ENTER
+View private chat messages: ALT + PAGE UP & DOWN
+View the first and last private chat message: ALT+SHIFT+PAGE UP & DOWN
+change private chat character: ALT+left CTRL+PAGE UP & DOWN
+change to the earliest and latest private chat character: ALT+left CTRL+SHIFT+PAGE UP & DOWN
+3. General Controls
+Bring up the chat target's character information window: press ENTER when viewing messages
+Bring up the chat target's chat window: press ALT+ENTER when viewing messages
+4. Private Chat Window Shortcuts
+Change targets in the chat editing box: UP & DOWN ARROW, CTRL+UP & DOWN ARROW
+Switch between the last two chat targets: press CTRL+TAB in the chat area
+Quick view character information: ALT+I
+Quick jump to chat session list: ALT+L
+PS: After you've selected a chat target in the chat session list, you can start to input message by pressing ENTER

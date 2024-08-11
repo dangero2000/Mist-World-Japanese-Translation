@@ -1,0 +1,16 @@
+¡¾Game Sound and Background Music Settings (F5 to F7)¡¿
+Change the sound card used for game sound: F5
+Decrease game sound volume: F6
+Increase game sound volume: F7
+Decrease background music volume: SHIFT+F6
+Increase background music volume: SHIFT+F7
+¡¾Voice Library Settings (F9 to F12)¡¿
+Note: The main voice library is used to read the player's active actions in the game. The secondary voice library is used to read passive events in the game, such as the number of damage you take when being attacked.
+Change the sound card used for main voice library: F9
+Change the parameter type of main voice library: F10
+Decrease the parameter value of main voice library: F11
+Increase the parameter value of main voice library: F12
+Change the sound card used for secondary voice library: SHIFT+F9
+Change the parameter type of secondary voice library: SHIFT+F10
+Decrease the parameter value of secondary voice library: SHIFT+F11
+Increase the parameter value of secondary voice library: SHIFT+F12

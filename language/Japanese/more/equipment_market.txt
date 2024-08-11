@@ -1,0 +1,26 @@
+{d} {s};Unit price {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+$1 {sub2{$2}sub2}; 単価 $3 ゴールドコイン; 販売時間 {sub2{$4}sub2} $5, $6:$7, $8
+
+{d} {s};Unit price {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+$1 {sub2{$2}sub2}; 単価 $3 ゴールドコイン; 販売時間 {sub2{$4}sub2} $5, $6:$7, $8
+
+New; {d} {s};Unit price {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+新規; $1 {sub2{$2}sub2}; 単価 $3 ゴールドコイン; 表示時間が残り $4 分 $5 秒
+
+New; {d} {s};Unit price {d} gold coins;{d} seconds remaining in the display time
+新規; $1 {sub2{$2}sub2}; 単価 $3 ゴールドコイン; 表示時間が残り $4 秒
+
+{s};{s} ;Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2};{sub2{$2}sub2} ;価格: $3 ゴールドコイン; 販売時間 {sub2{$4}sub2} $5, $6:$7, $8
+
+{s};Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2}; 価格: $2 ゴールドコイン; 販売時間 {sub2{$3}sub2} $4, $5:$6, $7
+
+New; {s};{s} ;Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+新規; {sub2{$1}sub2};{sub2{$2}sub2} ;価格: $3 ゴールドコイン; 表示時間が残り $4 分 $5 秒
+
+New; {s};{s} ;Price: {d} gold coins;{d} seconds remaining in the display time
+新規; {sub2{$1}sub2};{sub2{$2}sub2} ;価格: $3 ゴールドコイン; 表示時間が残り $4 秒
+
+{s}; durability {d}.{d} of {d}.0; enhance Level 0; quality {s}; strengthen {s}; available for {s}; level {d}; weight {d};{s}; Seller ID: {d}
+{sub2{$1}sub2}; 耐久度 $2.$3 から $4.0; 強化レベル 0; 品質 {sub2{$5}sub2}; 強化 {sub2{$6}sub2}; {sub2{$7}sub2} 用; レベル $8; 重量 $9;{sub2{$10}sub2}; 出品者 ID: $11

@@ -1,0 +1,11 @@
+Direction Keys and Window Controls: W, A, S, D keys (W for up/north, S for down/south, A for left/west, D for right/east)
+When no window is opened, the W, A, S, D keys are used to control character movement; when there's a window opened, they are used to browse in the window.
+Change backpack category: LEFT & RIGHT ARROW; there are seven backpack categories¡ªItem, Equipment, Fusion Beast, Pet, Combat Skill, Profession Skill, Talent.
+Select between backpack items: UP & DOWN ARROW
+View the backpack item description: G
+Use item: right CTRL
+Adjust the order of backpack items: left CTRL+UP & DOWN ARROW
+Display backpack items by category: left CTRL+ALT+UP & DOWN ARROW
+Discard item: SHIFT+DELETE
+Use item shortcut: from 1 to EQUAL on the number row, a total of 12 keys.
+Set use item shortcuts: left CTRL+1 to EQUAL; you can set shortcuts when selecting items in the backpack

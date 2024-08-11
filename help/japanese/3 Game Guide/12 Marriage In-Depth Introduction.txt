@@ -1,0 +1,36 @@
+¡¾1: What are the benefits of getting married? ¡¿
+Characters that have reached Level 30 can get married.
+After marriage, the couple can give each other equipments.
+They will also receive wedding rings that increase attributes. Weddings of different specifications will reward you with different wedding rings.
+The couple will also automatically learn the Snuggle Skill, which can slowly restore their HP.
+In addition, the couple can hold float parades and grand weddings, which will give you and your friends rich rewards. Weddings of different specifications will have different tiers of reward value.
+The wedding will attract everyone's attention, and there will be a lot of interactive activities before and during the wedding. If you want to express your love, this is a good opportunity.
+In the whole marriage system, the wedding is the most lively and meaningful part.
+Couples can also play the couple dungeon to receive experience and item rewards after completion.
+¡¾2: What is the process of marriage? ¡¿
+After the couple have registered their marriage with priest Michelle, they can first invite their friends to Central Plains to wait for the wedding float parade.
+After the couple has applied for the float parade with priest Michelle, they will depart from the church and take the parade along the streets of Giant Rock City. During the parade, gift packages will drop from around the floats for every participant to collect.
+There are gongs and drums on the floats, which can be hit by clicking on the floats. By doing so, you can create a more immersive atmosphere, and let the left-behind participants hear the location of the floats.
+The float will disappear after taking the couple back to the church, at which time, the couple can find priest Michelle to hold the formal wedding ceremony.
+Talk to priest Michelle, choose the theme of the hall where the wedding is to be held, press ENTER, and the couple will come to the wedding site first to prepare.
+Enter the hall and walk north, talk to the usherette on the way, they will give their blessings. Then, head to the stage on the northernmost side, on which the emcee is waiting for the couple.
+Talk to the emcee, and he will inform that you can invite your friends to the wedding. Then, look around the stage to find the messenger. Talk with him to invite your friends.
+Invitation methods include: ID invitation, Gang invitation, city invitation. You can use different invitation methods multiple times to invite friends, as long as the number of people invited to the hall doesn't exceed the maximum limit of wedding guests.
+Friends who received the invitation will see a prompt asking whether to accept the invitation. After clicking ACCEPT, they will be teleported to the wedding site.
+At the wedding site, the couple is protected by the Mist Gods, and will have invincibility. So there is no need to worry about the guests making too much of a racket.
+After all the guests have arrived, the couple can interact with the honor guards on both sides of the hall to light the large fireworks, which will drop all kinds of gifts for everyone to collect.
+Also, the guests can ask for small fireworks from the honor guards, which will also drop gifts when lighted up.
+After the fireworks display, the couple can find the emcee to start the formal ceremony. After the wedding has begun, guests will not be able to ask for small fireworks from the honor guards.
+When the emcee begins to host the ceremony, he will ask the newlyweds to collect vow cards and deliver their vows of love to each other. At this time, the groom will do so first.
+After the groom has delivered his vow, the bride will do so as well.
+If it is a grand royal wedding, at this time, there will be envoys from three countries to deliver their gifts. Every envoy has two gifts, one for the bride and one for the groom, so don't miss out.
+After that, the guests can collect blessing cards from the usherette, and give the newlyweds their blessings. the more blessings the newlyweds receive, the more gold coins they can get after the wedding is over.
+After the blessing session, comes the lively "Piggy Rush" session, where the newlyweds can release pigs in three times for everyone to chase and hit. Please note that the pigs can be released three times, so don't miss out.
+The pigs are very fast, and will run around the venue. But as long as you've participated, you will be rewarded after the pigs are knocked out. It is easier with more participants.
+For melee classes, if you can't chase up with the pigs, don't worry. Find a right spot, and give the pig a smacking when it comes your way.
+After the "Piggy Rush" session, comes the gift box session. The newlyweds can talk to the emcee to let gift boxed drop from random places in the hall. This session is designed to thank the guests, so the newlyweds cannot open any of the gift boxes dropped in the hall.
+You can interact with the emcee to check the total amount of gift boxes, how many have been dropped, and how many are left. Don't miss any of gift boxes.
+After the gift box session is over, comes the "Express Your Love" session, where the new couple will snuggle 100 times in front of the guests. The couple can use the Snuggle Skill by standing closely together (the two cannot be apart, even just a bit).
+After the "Express Your Love" session is over, the wedding will enter the final phase. At the time, please follow the emcee's guidance and talk with the priest to accept the blessing. Both the couple will receive Intimacy, and can collect gold coins from the priest. The number of gold coins is closely related to the number of blessings you've received before from guests.
+At this time, guests can collect gifts from the usherette, afterwards they will be teleported out of the hall automatically. The couple can leave the hall in the menu by pressing CTRL+ENTER.
+That concludes the entire wedding process.

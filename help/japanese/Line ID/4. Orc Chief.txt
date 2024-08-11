@@ -1,0 +1,41 @@
+5031 //The Chief speaks in a low and deep voice:
+Hey, kiddo, The source of our bloodline is at stake here! The truth is almost out. We've had a breakthrough in the research of Fusion Beasts. Soon, we'll know if we can obtain the power sealed by our ancestors. Why do you wanna leave and protect the human weaklings now?
+
+5032
+I ask again, are you leaving, or staying?
+
+5034
+Pfft, you don't have what it takes. I don't think you can even break a wooden dummy. See that wooden stake in the north? Can you break it?
+
+5036
+See that wooden stake in the north? Can you break it?
+
+5038
+Looks like you've got some muscles after all. but don't get cocky yet, it's just a lifeless dummy. Here, take this weapon and outfit. put them on and we'll try something bigger.
+
+5039 //When the player refuses the equipment
+You're stubborn as a mule, how can I let you leave like this?
+
+5040 //When the player accepts the equipment
+Alright, put them on.
+
+5042
+There's a movable stake to the west, go break it with your weapon.
+
+5044
+So you've defeated a big dumb puppet, doesn't prove anything. Come back, I have two more equipments for you.
+
+5045
+Did you get it? Put those shoes on, and take a good look at the chest. Remember to open it in time. If you really wanna leave, there is a group of mutants in the dungeon to the northeast. Wipe them out, and you're free to go.
+
+5047
+Put those shoes on, and take a good look at the chest. Remember to open it in time. If you really wanna leave, there is a group of mutants in the dungeon to the northeast. Wipe them out, and you're free to go.
+
+5049
+there is a group of mutants in the dungeon to the northeast. Wipe them out, and you're free to go.
+
+5050
+Hey, you're even stronger than I imagined, kiddo. Looks like you've obtained a Skill Crystal, use it to learn the Reckless Strike Skill. It's gonna make you stronger.
+
+5051
+If you really wanna leave this bad, than head out through the north. I must say I'm dissapointed that you won't stay. But you've made your decision. Watch your ass out there and don't die too easily. 

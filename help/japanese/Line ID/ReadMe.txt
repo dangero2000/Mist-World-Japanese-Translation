@@ -1,0 +1,2 @@
+Add multilingual audio:
+Add a folder for the corresponding language in the sound folder, and place audio (ogg, mp3, wav format) inside. When switching the game to that language, the sound effects in that folder will be used.

@@ -1,0 +1,5660 @@
+lawn
+芝生
+
+grass
+草むら
+
+weed
+雑草
+
+fallen leaves
+落ち葉
+
+land
+土地
+
+sand
+砂地
+
+beach
+ビーチ
+
+wetlands
+湿地
+
+mud
+泥沼
+
+shore
+岸辺
+
+stream
+小川
+
+river underground
+地下河
+
+snow
+雪原
+
+snow road
+雪道
+
+river
+川
+
+lake
+湖
+
+cliff
+崖
+
+cave
+洞窟
+
+cave
+石窟
+
+path
+小道
+
+steps
+階段
+
+inside the house
+室内
+
+stairs
+階段
+
+bridge
+橋
+
+iron plate
+鉄板
+
+pipeline
+パイプライン
+
+ruins
+廃墟
+
+seabed
+海底
+
+Ice
+氷面
+
+cavern
+山洞
+
+silent
+静寂
+
+edge
+縁
+
+wall
+壁
+
+plank
+板
+
+obstacle
+障害
+
+reef
+岩礁
+
+fence
+柵
+
+Door
+ドア
+
+railing
+手すり
+
+Pillar
+柱
+
+Tree
+木
+
+board
+板
+
+ironware
+鉄器
+
+iron pillar
+鉄柱
+
+wooden box
+木箱
+
+fence
+柵
+
+crystal wall
+水晶壁
+
+cabinet
+キャビネット
+
+mountain wall
+崖壁
+
+nameless
+無名
+
+high platform 
+高台
+
+pool
+深いプール
+
+intersection
+交差点
+
+bank
+川岸
+
+up the waterfall
+滝を上る
+
+fall
+落下
+
+downward
+下降
+
+teleportation point
+マップ転送ポイント
+
+la
+ラ
+
+mi
+ミ
+
+do
+ド
+
+sol
+ソ
+
+Enchantment
+結界
+
+slide
+滑り台
+
+mountain
+山地
+
+barrack
+兵舎
+
+test room
+試験室
+
+camp
+キャンプ
+
+doorway
+入口
+
+rock
+岩
+
+southwest turn
+南西へ曲がる
+
+mountain road
+山道
+
+hole
+洞窟の入口
+
+northeast turn
+北東へ曲がる
+
+south door of the test room
+試験室南門
+
+rear door of the barracks
+兵舎の裏門
+
+outside the village
+村の外
+
+village
+村
+
+center of the village
+村の中心
+
+South Street of the village
+村の南通り
+
+North Street of the village
+村の北通り
+
+West Street of the village
+村の西通り
+
+East Street of the village
+村の東通り
+
+gate
+柵門
+
+Grove
+林
+
+road outside the village
+村外れの道
+
+pharmacy
+薬局
+
+blacksmith shop
+鍛冶屋
+
+chalet
+小屋
+
+granary
+穀倉
+
+end of the path
+道の果て
+
+mountains
+山脈
+
+house
+住宅
+
+courtyard wall
+中庭の壁
+
+courtyard gate
+中庭の門
+
+courtyard doorway
+中庭の入口
+
+well
+井戸
+
+stone ladder
+石の階段
+
+stone ladder entrance
+石の階段の入り口
+
+crossing
+十字路
+
+barn door
+倉庫の扉
+
+courtyard
+中庭
+
+door
+家の扉
+
+wall
+倉庫の壁
+
+bottom
+船倉の底
+
+aisle
+通路
+
+bottom center
+倉庫の底の中央
+
+deep water
+深い水
+
+wall
+壁
+
+wall of the cave
+洞窟の壁
+
+wall
+井戸の壁
+
+slope, northeast turn
+斜面、北東の角
+
+slope
+斜面
+
+Slope, Southwest turn
+斜面、南西の角
+
+Cave entrance, northeast turn
+洞窟の入口、北東の角
+
+west entrance
+西の洞窟の入口
+
+snake cave
+蛇の巣
+
+side road
+井戸の側道
+
+slope, southeast turn
+斜面、南東の角
+
+slope, northwest turn
+斜面、北西の角
+
+path, southeast turn
+小道、南東の角
+
+Outside the cave, southwest turn
+洞窟の外の小道、南西の角
+
+Outer road
+洞窟の外の小道
+
+north entrance
+北の洞窟の入口
+
+well entrance
+井戸の入口
+
+snake cave
+蛇の巣
+
+Dirt road in the cave
+洞窟内の土の道
+
+dirt road crossing
+土の道の交差点
+
+path, southwest turn
+小道、南西の角
+
+Southwest turn
+南西の角
+
+Northeast turn
+北東の角
+
+southeast turn
+南東の角
+
+Northwest turn
+北西の角
+
+well steps
+井戸の階段
+
+well steps
+井戸の階段
+
+water
+井戸水
+
+lower stairs
+下層の階段
+
+upper stairs
+上層の階段
+
+Abandoned pipeline
+廃棄されたパイプライン
+
+dirt road
+土の道
+
+Snake Cave Center
+蛇の巣の中心
+
+pipe wall
+パイプの壁
+
+outskirts
+郊外
+
+In the city
+市内
+
+wall
+城壁
+
+dragon mountain
+ドラゴン山
+
+green mountain
+青山
+
+crest  mountain
+ツルの頂山
+
+squama mountain
+竜の鱗山
+
+canyon
+峡谷
+
+cottage
+小屋
+
+floor
+床
+
+west gate
+西の城門
+
+north gate
+北の城門
+
+east gate
+東の城門
+
+south gate
+南の城門
+
+fence
+囲い壁
+
+north highroad
+城北の大通り
+
+East T-shaped
+東の丁字路
+
+west Street
+城西通り
+
+east Street
+城東通り
+
+north Street
+城北通り
+
+south Street
+城南通り
+
+farmland
+農地
+
+field ridge
+畝
+
+woods
+林
+
+road in the woods
+林間の道
+
+bush
+低木
+
+grove
+樹叢
+
+south highroad
+城南の大通り
+
+North T-shaped
+北の丁字路
+
+young tree
+若木
+
+scarecrow
+かかし
+
+lane
+村道
+
+Chalet
+小屋
+
+entrance of the village
+村の入り口
+
+town
+小さな町
+
+market
+市場
+
+courtyard
+中庭
+
+Sunset Square
+夕焼け広場
+
+Town centre
+町の中心
+
+City Lord's Mansion
+城主の館
+
+master's Mansion
+教師の館
+
+breeding garden
+動物園
+
+Royal Bank
+王立銀行
+
+Restaurant
+レストラン
+
+Jewelry shop
+アクセサリーショップ
+
+Armor shop
+防具店
+
+weapon shop
+武器店
+
+gang unions
+ギルド連盟
+
+gem room
+宝石室
+
+grocery store
+雑貨店
+
+west Entrance of the town
+町の西の入り口
+
+east Entrance of the town
+町の東の入り口
+
+house
+住宅
+
+Shrine
+神殿
+
+main hall
+本殿
+
+west of the front hall
+前殿西側
+
+aisle
+通路
+
+East of the front hall
+前殿東側
+
+wasteland
+荒野
+
+boulder
+巨石
+
+airship
+飛行船
+
+Wilderness
+野原
+
+rushing River
+蒼瀾河
+
+crisp stream
+雲泉川
+
+smoke stream
+煙霞川
+
+east of the city
+城東
+
+Rock Square
+巨岩広場
+
+palace of Central kingdom
+王宮
+
+Holy Light Cathedral
+聖光大聖堂
+
+Cathedral Square
+教会広場
+
+Railing
+手すり
+
+stairway
+階段の入り口
+
+square road
+広場の小道
+
+front hall
+前殿
+
+palace doorway
+王宮の入口
+
+flower bed
+花壇
+
+meadow
+草地
+
+wooden bridge
+木の橋
+
+suspension bridge
+吊橋
+
+east highroad
+城東の大通り
+
+west highroad
+城西の大通り
+
+sand dune
+砂の山
+
+herby Mountain
+薬王山
+
+valley
+谷
+
+mountain forest
+山林
+
+war guild
+戦争ギルド
+
+magic guild
+魔法ギルド
+
+profession guild
+労働ギルド
+
+front street
+前通り
+
+corridor
+廊下
+
+guardrail
+手すり
+
+stone beam
+石の梁
+
+cable car
+ケーブルカー
+
+southeast turn
+南東へ曲がる
+
+car
+車両
+
+in the car
+車内
+
+car door
+車のドア
+
+outpost
+見張り所
+
+Room
+部屋
+
+Northwest turn
+北西へ曲がる
+
+exterior wall
+外壁
+
+forecourt
+前庭
+
+barren mountain
+荒山
+
+dimensional wall
+次元壁
+
+doorway of the outpost
+哨所の入口
+
+Tiger Mountain
+威虎山
+
+North T-shaped; the tutor goes west, the pupil goes east
+南丁字路; 師匠は西へ、弟子は東へ
+
+Bandit Village on the Peak
+山頂の盗賊村
+
+Loyalty Hall
+忠義堂
+
+backyard
+裏庭
+
+gazebo
+東屋
+
+gate
+砦の大門
+
+tunnel
+トンネル
+
+end of the tunnel
+トンネルの端
+
+West T-shaped
+西丁字路
+
+South T-shaped
+南丁字路
+
+South T-shaped; the tutor goes west, the pupil goes east
+南丁字路; 師匠は西へ、弟子は東へ
+
+palace
+宮殿
+
+Stone Gate
+石門
+
+Cat king's Castle
+猫王の城
+
+bedroom
+寝室
+
+enclosure
+囲い
+
+Fire Pit Upon The Deep
+万丈の火穴
+
+bridgehead
+橋のたもと
+
+bridge fence
+橋の欄干
+
+Brave Bridge
+勇者の橋
+
+North T-shaped; pupil continue to go east to get the key
+北丁字路; 弟子は東へ進んで鍵を取得する
+
+mouth of Valley
+谷口
+
+orchard
+果樹園
+
+incubator
+培育園
+
+Wisdom Bridge
+知恵の橋
+
+Wisdom River
+知恵の川
+
+stone wall
+石壁
+
+Precipice
+断崖
+
+mountain gate
+山門
+
+training ground
+演習場
+
+lounge
+休憩室
+
+Lookout
+展望台
+
+offstage
+舞台の下
+
+arena
+闘技場
+
+White Sand square
+白砂広場
+
+north of the city
+城北
+
+south of the city
+城南
+
+west of the city
+城西
+
+Path outside the city
+城外の小道
+
+Gravel road
+砂利道
+
+west entrance of the village
+西の村口
+
+house
+名宅
+
+Tari Village
+塔麗村
+
+ridge
+田畝
+
+main road
+大通り
+
+road outside the Camp
+キャンプ外の道
+
+north door of the Camp
+北キャンプ門
+
+east door of the Camp
+東キャンプ門
+
+traveller camp
+旅人のキャンプ
+
+road in the camp
+キャンプ内の道
+
+Camp Center
+キャンプの中心
+
+grass
+草地
+
+dirt road
+泥道
+
+paddy field
+水田
+
+ancient mountain
+古蒼山
+
+mountain pass
+峠
+
+diversion channels
+導水路
+
+bank of the channels
+水路の土手
+
+master's Guild
+師匠ギルド
+
+east entrance of the village
+東の村口
+
+Howling Mountain
+狼嚎山
+
+Gale  Mountain
+黒風山
+
+forest
+森
+
+forest path
+森の小道
+
+forest wetland
+森の湿地
+
+Mountain road
+山道
+
+slate
+石板
+
+canal
+運河
+
+estuary
+河口
+
+river course
+河道
+
+beach
+河原
+
+uphill
+上り坂
+
+Snow beside the cave
+洞窟の隣の雪
+
+stagnant water
+停滞水
+
+crushed ice
+砕けた氷
+
+End of passage
+通路の端
+
+doorway of secret room
+秘密の部屋の入口
+
+Secret passages
+秘密の通路
+
+secret room
+秘密の部屋
+
+doorway of secret room
+秘密の部屋の入口
+
+base
+基地
+
+Insulated corridor
+絶縁廊下
+
+warning corridor
+警戒廊下
+
+outer corridor
+外廊下
+
+top
+頂上
+
+bottom
+底
+
+porch
+ポーチ
+
+live wire channel
+火線通路
+
+neutral wire channel
+零線通路
+
+sideway
+側道
+
+square
+広場
+
+explosive barracks
+爆薬兵舎
+
+West Control Room
+西の制御室
+
+East Control Room
+東の制御室
+
+Lead Wire Channel
+リードワイヤー通路
+
+air duct
+風道
+
+Secret passage
+秘密の通路
+
+iron gate
+鉄門
+
+cellar
+地下室
+
+vegetable cellar
+野菜貯蔵庫
+
+wine cellar
+ワインセラー
+
+end of aisle
+通路の端
+
+stone wall
+石壁
+
+Bandit Camp
+山賊キャンプ
+
+Bandit Camp
+山匪キャンプ
+
+snowfield
+雪原
+
+battery
+砲台
+
+flagpole
+旗竿
+
+colorful river
+七色の川
+
+graceful mountain
+秀山
+
+iris
+アイリス
+
+water pine forest
+水松林
+
+water pine
+水松の木
+
+reeds
+葦の茂み
+
+pond
+池
+
+quagmire
+泥沼
+
+slab bridge
+板橋
+
+tulip square
+郁香広場
+
+parliament hall
+議会ホール
+
+tulip
+チューリップ
+
+backstreet
+裏通り
+
+capsule toy house
+カプセルトイハウス
+
+lucky house
+幸運の家
+
+union bank
+連邦銀行
+
+training ground
+訓練場
+
+wooden ladder
+木の梯子
+
+tree house
+ツリーハウス
+
+training room
+訓練室
+
+boulevard
+並木道
+
+South Gate of the Training Room
+訓練室の南門
+
+wooden door
+木の扉
+
+grassland
+草原
+
+official road
+官道
+
+Moon Square
+月広場
+
+moonlight Pool
+玉光池
+
+wood fence
+木の柵
+
+south gate of plantation
+農場の南門
+
+plantation
+農場
+
+Flagstone Road
+石畳の道
+
+plantation center
+農場の中心
+
+north gate of plantation
+農場の北門
+
+pond
+池
+
+pasture
+牧草地
+
+tent
+テント
+
+rolling mountain
+カヤロ山
+
+east gate of plantation
+農場の東門
+
+west gate of plantation
+農場の西門
+
+city hall
+市庁舎
+
+sacrifice house
+祭祀の家
+
+ranch doorway 
+牧場の入口
+
+stone bench
+石のベンチ
+
+steep slope
+急斜面
+
+stone chamber
+石室
+
+soil slope
+土の斜面
+
+steep wall
+急な壁
+
+green grass
+青草地
+
+bullpen
+牛舎
+
+stable
+馬屋
+
+sheep pen
+羊囲い
+
+Artemisia bushe
+山よもぎの茂み
+
+orange blossom bush
+オレンジの花の茂み
+
+in the courtyard
+中庭に
+
+doorway of tent
+テントの入口
+
+tent
+テント
+
+Yurt
+ゲル
+
+stone house
+石の家
+
+emperor square
+統万広場
+
+platform
+プラットフォーム
+
+stone steps
+石の階段
+
+The Holy See of Sarantu
+サラントゥ教廷
+
+Antechamber of the Holy See
+教廷の前室
+
+upper floor of the Holy See
+教廷の上階
+
+cloister
+回廊
+
+Stair handrail
+階段の手すり
+
+stairs
+階段
+
+foot of the mountain
+山麓
+
+empire bank
+帝国銀行
+
+employment union
+雇用組合
+
+skull  mountain
+骷髅山
+
+religious academy
+国教学院
+
+Secret training room
+秘密の訓練室
+
+Silver gate
+銀門
+
+darkroom
+暗室
+
+Proving Ground
+試練場
+
+hillside
+山腹
+
+fruit tree
+果樹
+
+hill
+丘
+
+riverside
+川岸
+
+river surface
+川面
+
+doorway of the outpost
+前哨基地の入口
+
+east street of the city
+城東通り
+
+Gouging knife square
+剜刀広場
+
+city doorway
+城門口
+
+Not yet open
+未開放
+
+Magnet Hill
+磁石山
+
+Inquisition
+裁判所
+
+barrier
+障壁
+
+cell
+牢
+
+prison door
+牢屋の扉
+
+warehouse
+建材倉庫
+
+workshop
+作業場
+
+Defensive line
+防衛線
+
+clay block
+粘土ブロック
+
+secluded mountain
+青幽山
+
+gravel pile
+砕石の山
+
+north mouth of Valley
+北の谷口
+
+north entrance of the village
+北の村口
+
+south entrance of the village
+南の村口
+
+south mouth of Valley
+南の谷口
+
+east of village
+村の東
+
+north of village
+村の北
+
+west of village
+村の西
+
+south of village
+村の南
+
+field road
+田んぼの道
+
+Southern Flowering Shrub
+南の花の茂み
+
+western  Flowering Shrub
+西の花の茂み
+
+northern  Flowering Shrub
+北の花の茂み
+
+outside the city
+城外
+
+Violet Square
+紫羅蘭広場
+
+quiet  river
+青幽川
+
+quiet   Lake
+青幽湖
+
+lakeside
+湖畔
+
+hall
+ホール
+
+gate
+大門
+
+riverbed
+川床
+
+wilderness
+荒郊
+
+weeds
+荒草
+
+dead leaves
+枯れ葉
+
+fallen leaves path
+落ち葉の小道
+
+dead tree
+枯れ木
+
+strange rock
+奇石
+
+dark night square
+暗夜広場
+
+dark temple
+暗黒神殿
+
+lobby
+ロビー
+
+main temple
+本殿
+
+idol
+神像
+
+magic circle
+魔法陣
+
+eye of magic circle
+陣の中心
+
+Scorched earth
+焦土
+
+church
+教会
+
+prayer room
+祈祷室
+
+confession room
+懺悔室
+
+South Gate of the Confession Room
+懺悔室の南門
+
+back door of the church
+教会の裏口
+
+Research room
+研究室
+
+South Gate of the Research room
+研究室の南門
+
+side of the rushing river
+蒼瀾河の側
+
+side of the colorful river
+七彩川の側
+
+golden river
+金河
+
+side of the golden river
+金河の側
+
+north lake
+北湖
+
+middle lake
+中湖
+
+South Lake
+南湖
+
+reservoir
+貯水池
+
+side of the north lake
+北湖の側
+
+side of the south lake
+南湖の側
+
+waterfall
+滝
+
+Hive nest
+虫巣
+
+Northwest corner
+北西の角
+
+northeast corner
+北東の角
+
+southeast corner
+南東の角
+
+southwest corner
+南西の角
+
+west exit
+西口
+
+East Exit
+東口
+
+North Exit
+北口
+
+South Exit
+南口
+
+mountain stream
+山間の流れ
+
+abyss
+万丈の深淵
+
+South T-shaped; creek
+南丁字路; 小川
+
+creek
+小川
+
+pool
+水たまり
+
+fissure
+裂け目
+
+Tranquil River
+永寧川
+
+Three River Mouth
+三川口
+
+Imbrication River
+重ね川
+
+peace and tranquility under heaven
+海晏河清
+
+crossing of waterway
+十字水路
+
+west waterway
+西の水路
+
+East Waterway
+東の水路
+
+West Sea
+西海
+
+Middle Sea
+中海
+
+East Sea
+東海
+
+estuary
+河口
+
+goon mountain
+貢山
+
+sea dam
+海の堤防
+
+side of Tranquil River
+永寧川の側
+
+side of Imbrication River
+重ね川の側
+
+ancestral temple
+祖廟
+
+backyard of the ancestral temple
+祖廟の裏庭
+
+doorway
+入口
+
+firewood room
+薪部屋
+
+Sundries room
+雑物室
+
+coffin
+棺
+
+altar
+祭壇
+
+plank road
+桟道
+
+West Cave
+西洞窟
+
+East Cave
+東洞窟
+
+mountain spring
+山の泉
+
+Platform mouth
+プラットフォームの入口
+
+swirl
+渦
+
+villa
+別荘
+
+west yard
+西の庭
+
+east yard
+東の庭
+
+concierge
+門番
+
+South Corridor
+南の廊下
+
+front hall
+前廊
+
+West Corridor
+西の廊下
+
+East Corridor
+東の廊下
+
+main hall
+正廊
+
+East bedroom
+東の寝室
+
+West bedroom
+西の寝室
+
+windowsill
+窓辺
+
+crossroad
+交差点
+
+secret door
+秘密の扉
+
+stone road
+石の道
+
+grotto
+地窟
+
+edge of the abyss
+深淵の縁
+
+abyss
+深淵
+
+Stone Hall
+石の間
+
+hall door
+間の扉
+
+grottoe
+洞窟
+
+shoal
+浅瀬
+
+Turbulence
+激流
+
+South Exit 1
+南の出口1
+
+South Exit 2
+南の出口2
+
+South Exit 3
+南の出口3
+
+South Exit 4
+南の出口4
+
+North Exit 4
+北の出口4
+
+north exit 3
+北の出口3
+
+North Exit 2
+北の出口2
+
+North Exit 1
+北の出口1
+
+West Exit 1
+西の出口1
+
+West Exit 2
+西の出口2
+
+desert island
+荒島
+
+gravel road
+砕石道
+
+sparrow  mountain
+燕山
+
+Bo Sea
+渤海
+
+South Sea
+南海
+
+temple
+寺院
+
+broken wall
+壊れた壁
+
+shattered pedestal
+粉々の台座
+
+collapsed statue
+崩れた石像
+
+cargo ship
+貨物船
+
+reef
+暗礁
+
+workshop
+作業場
+
+guillotine
+ギロチン
+
+courtyard
+中庭
+
+Tusk stone
+牙石
+
+Pig nose slope
+豚鼻の斜面
+
+Stone slope
+石の斜面
+
+bunker
+バンカー
+
+sea surface
+海面
+
+Langley Dam
+海のダム
+
+Pillar
+柱
+
+mast
+マスト
+
+battleship
+戦艦
+
+bulkhead
+舱壁
+
+barrel
+砲身
+
+crumbs
+砕けた破片
+
+cabin
+船室
+
+ladder
+梯子
+
+storage cabinet
+収納棚
+
+Showroom
+展示室
+
+safe
+金庫
+
+Beast Mountain
+百獣山
+
+gravel
+砕石
+
+pit
+穴
+
+treetop
+木の梢
+
+wilderness
+荒野
+
+command room
+指令室
+
+Camp Gate
+キャンプゲート
+
+forest path
+林間の小道
+
+jungle
+ジャングル
+
+old tree
+古木
+
+flower bush
+花の茂み
+
+flower path
+花の小道
+
+crisp woods
+玉林
+
+sea of flowers
+花海
+
+jade river
+玉帯河
+
+Exit
+出口
+
+Secret practice room
+秘密の修練室
+
+bubble barrier
+バブル障壁
+
+green area
+緑のエリア
+
+blue area
+青のエリア
+
+purple area
+紫のエリア
+
+yellow area
+黄のエリア
+
+Central region
+中央地域
+
+cyan area
+シアンエリア
+
+black area
+黒のエリア
+
+red area
+赤のエリア
+
+white area
+白のエリア
+
+ice wall
+氷の壁
+
+ice gate
+氷の門
+
+fence wall
+フェンスの壁
+
+village
+村落
+
+trail
+小道
+
+ox demon cave
+牛魔洞
+
+inner room
+内室
+
+wok
+鉄鍋
+
+Artemisia annua
+青蒿の茂み
+
+Center of the Forest
+森林の中心
+
+temple gate
+寺院の門
+
+ridge
+山の稜線
+
+root
+木の根
+
+trunk
+幹
+
+tree hole
+木の穴
+
+inner road
+内道
+
+Center of the Tree Hole
+木の穴の中心
+
+dead wood
+枯れ木
+
+Zagrama Mountain
+ザグラマ山
+
+cliff
+崖
+
+cliff
+崖壁
+
+neck
+琴の首
+
+Fingerboard
+指板
+
+nut
+ナット
+
+frets
+フレット
+
+Sound board
+サウンドボード
+
+fortress
+要塞
+
+control room
+制御室
+
+armory
+武器庫
+
+Wall barricade
+壁のバリケード
+
+front gate
+正門
+
+southeast exit
+南東の出口
+
+Southwest Exit
+南西の出口
+
+Northwest Exit
+北西の出口
+
+Northeast Exit
+北東の出口
+
+mountain peak
+山頂
+
+ramp
+斜道
+
+Escarpment
+急崖
+
+peak
+ピーク
+
+jungle
+密林
+
+big tree
+大木
+
+Platoon room
+部隊室
+
+corridor
+通路
+
+compound
+大きな庭
+
+blockhouse
+砲楼
+
+broken box
+壊れた箱
+
+broken door
+壊れた扉
+
+small door
+小さな扉
+
+Side door
+片扉
+
+inner hall
+内廊
+
+Outer hall
+外廊
+
+Reception
+受付
+
+Room 101
+101号室
+
+Room 102
+102号室
+
+Room 103
+103号室
+
+Room 104
+104号室
+
+Room 105
+105号室
+
+Room 106
+106号室
+
+Room 107
+107号室
+
+Room 108
+108号室
+
+stair case
+階段室
+
+Room 201
+201号室
+
+Room 202
+202号室
+
+Room 203
+203号室
+
+Room 204
+204号室
+
+Room 205
+205号室
+
+Room 206
+206号室
+
+Room 207
+207号室
+
+Room 208
+208号室
+
+Room 301
+301号室
+
+Room 302
+302号室
+
+Room 303
+303号室
+
+Room 304
+304号室
+
+Room 305
+305号室
+
+Room 306
+306号室
+
+Room 307
+307号室
+
+Room 308
+308号室
+
+Room 401
+401号室
+
+Room 402
+402号室
+
+Room 403
+403号室
+
+Room 404
+404号室
+
+Room 405
+405号室
+
+Room 406
+406号室
+
+Room 407
+407号室
+
+Room 408
+408号室
+
+Room 501
+501号室
+
+Room 502
+502号室
+
+Room 503
+503号室
+
+Room 504
+504号室
+
+Room 505
+505号室
+
+Room 506
+506号室
+
+Room 507
+507号室
+
+Room 508
+508号室
+
+rooftop
+屋上
+
+Broken wooden case
+壊れた木箱
+
+Haystack
+干し草の山
+
+South mining area
+南鉱区
+
+West mining area
+西鉱区
+
+Central mining area
+中央鉱区
+
+East mining area
+東鉱区
+
+vein
+鉱脈
+
+mine
+鉱坑
+
+mine heart
+鉱心
+
+mine road
+鉱道
+
+Vein turn
+鉱脈の曲がり角
+
+rock
+岩石
+
+mine Well
+鉱井
+
+Cross Well
+十字井
+
+West T-Well
+西丁字井
+
+Lifts
+エレベーター
+
+Wraith Portal
+悪魂の洞口
+
+Wraith Cave
+悪魂の洞窟
+
+Nether Portal
+幽冥の洞口
+
+Nether Cave
+幽冥の洞窟
+
+Demon Portal
+万魔の洞口
+
+Demon Cave
+万魔の洞窟
+
+boarding Gate 1
+1号乗車口
+
+North T-Well
+北丁字井
+
+boarding Gate 2
+2号乗車口
+
+boarding Gate 3
+3号乗車口
+
+black gate
+黒門
+
+space
+空地
+
+Guard room
+門衛室
+
+indoor
+室内
+
+Black Gate Road
+黒門路
+
+tower
+タワー
+
+west ground
+広場の西
+
+east ground
+広場の東
+
+West of the Detention Area
+拘留区域の西
+
+West of the Severe punishment area
+重刑区の西
+
+Cell 1
+1号牢
+
+Cell 2
+2号牢
+
+Cell 3
+3号牢
+
+Cell 4
+4号牢
+
+Warden's Office
+監獄長室
+
+East of the Detention Area
+拘留区域の東
+
+East of the Severe punishment area
+重刑区の東
+
+Front prison door
+前牢の扉
+
+back prison door
+後牢の扉
+
+prison gate
+監獄の大門
+
+Tomb passage
+墓道
+
+main burial chamber
+主墓室
+
+ear chamber
+副室
+
+Stone Hall Center
+石の間の中心
+
+sarcophagus
+石棺
+
+freight corridor
+貨物回廊
+
+Energy room
+エネルギー室
+
+Radiant corridor
+放射回廊
+
+Radiant Wall
+放射壁
+
+energy room
+エネルギー室
+
+storage room
+倉庫
+
+black sand
+黒い砂
+
+grottoe
+洞窟
+
+fault zone
+断層帯
+
+black cemetery
+黒い墓地
+
+sedimentary rock
+堆積岩
+
+deep pit
+深い穴
+
+inclined pit
+傾斜穴
+
+crack
+亀裂
+
+Bevel
+斜面
+
+pit edge
+穴の縁
+
+lower steps
+下段の階段
+
+Abyssal cliffs
+深淵の断崖
+
+cemetery
+墓地
+
+burial chamber
+墓室
+
+Cross lawn
+十字の芝生
+
+Tower of Babel
+通天塔
+
+Magic gate
+魔法の門
+
+Tower base
+塔の基部
+
+Northwest of the city
+城の北西
+
+Southwest of the city
+城の南西
+
+southeast of the city
+城の南東
+
+Northeast of the city
+城の北東
+
+upper layer
+上層
+
+lower layer
+下層
+
+fracture layer
+断裂層
+
+Plague Abyss
+疫病の深淵
+
+quagmire
+沼地
+
+Guardian Temple
+守護神殿
+
+North Corridor
+北の廊下
+
+Ring corridor
+環状回廊
+
+West Guard Hall
+西衛の間
+
+East Guard Hall
+東衛の間
+
+explosive path
+雷道
+
+stone fort
+石の砦
+
+inner fort
+内堡
+
+outer fort
+外堡
+
+explosive track
+雷の軌道
+
+sinkhole
+陥没穴
+
+underground palace
+地下宮殿
+
+throne
+王座
+
+burial pit
+殉葬の穴
+
+mountainside
+山腹
+
+stone beam edge
+石の梁の縁
+
+Ghost Cave
+鬼の洞窟
+
+earth pit
+土の穴
+
+Mine cave
+鉱洞
+
+position
+陣地
+
+guard room
+警備室
+
+South battery Entrance
+南砲台の入口
+
+South battery
+南砲台
+
+Entrance to the Central Battery
+中央砲台の入口
+
+Middle battery
+中央砲台
+
+aisle
+通路
+
+North battery entrance
+北砲台の入口
+
+North battery
+北砲台
+
+warehouse
+倉庫
+
+conveyor belt
+コンベアベルト
+
+ammo compartment
+弾薬庫
+
+base
+台座
+
+corridor
+廊下
+
+side road
+側道
+
+main road
+本道
+
+Stealth artillery area
+隠密砲区
+
+sedimentary rock
+堆積岩
+
+Conductive plate
+導電板
+
+cab
+運転室
+
+hatch
+ハッチ
+
+High wall
+高い壁
+
+jail
+牢獄
+
+Shock Room 13
+13号電撃室
+
+electric chair
+電気椅子
+
+South Watchtower
+南の監視塔
+
+North Watchtower
+北の監視塔
+
+demon cave
+魔窟
+
+hotel
+ホテル
+
+shop
+ショップ
+
+School
+学校
+
+Hospital
+病院
+
+hotel lobby
+ホテルのロビー
+
+school hall
+学校のホール
+
+classroom
+教室
+
+office
+オフィス
+
+Ward
+病棟
+
+altar
+祭壇
+
+burn platform
+火刑台
+
+stake
+火刑柱
+
+waterway
+水路
+
+central waterhole
+中央の水たまり
+
+whirlpool center
+渦の中心
+
+magma pool
+マグマプール
+
+rock wall
+岩壁
+
+pub
+酒場
+
+wine barrel
+ワイン樽
+
+stove
+ストーブ
+
+tower wall
+塔壁
+
+Tiankeng
+天坑
+
+pedestal
+基座
+
+broken wall
+断壁
+
+statue
+像
+
+giant gate
+巨門
+
+spa
+温泉
+
+blackstone
+黒石
+
+pit
+くぼみ
+
+stone
+十トン
+
+Dragon Barrier
+大龍の結界
+
+dragon scale tree
+竜鱗の木
+
+dragon Village
+大龍村
+
+Iron Stone Mountain
+鉄石山
+
+wild cave
+蛮荒古洞
+
+brick wall
+レンガの壁
+
+collapse channel
+崩壊通路
+
+Dragon's Nest
+巨龍の巣
+
+Dragon Mire
+巨龍の泥沼
+
+jungle road
+ジャングルロード
+
+glade
+森林空地
+
+south entrance of the village
+村の南入口
+
+entrance of the Open space
+空地の入口
+
+collapsed brick wall
+崩れたレンガの壁
+
+pass of the iron stone mountain
+鉄石山口
+
+Northwest Cave
+北西の洞窟
+
+Northeast Cave
+北東の洞窟
+
+Southeast Cave
+南東の洞窟
+
+Southwest Cave
+南西の洞窟
+
+central cave
+中央洞窟
+
+Road in the cave
+洞中路
+
+mysterious space
+神秘空間
+
+Desolate Dragon's Nest
+荒れた竜の巣
+
+Right channel
+右側通路
+
+center channel
+中央通路
+
+Left channel
+左側通路
+
+doorway of the Garden
+庭の入口
+
+doorway of the Library
+図書館の入口
+
+Dirt road
+土の道
+
+garden path
+庭の小道
+
+doorway of the courtyard, southwest turn
+別院の入口、西南の曲がり角
+
+Entrance of jewelry exhibition room
+宝石展示室の入口
+
+wet soil
+湿った土
+
+pondside
+池のほとり
+
+pond wall
+池の壁
+
+pond gap
+池の隙間
+
+altar side
+祭壇の側
+
+Ruined soil
+荒廃した土壌
+
+gazebo steps
+東屋の階段
+
+pavilion column
+亭の柱
+
+Rockery fissure
+築山の裂け目
+
+Rockery
+築山
+
+Inside Rockery
+築山の内部
+
+doorway of the courtyard
+別院の入口
+
+kennel fence
+犬小屋の柵
+
+kennel
+犬小屋
+
+courtyard center
+中庭の中心
+
+stone table
+石のテーブル
+
+central aisle
+中央の通路
+
+aisle; Southwest Color
+通路、西南の曲がり角
+
+Jewelry Showroom
+宝石展示室
+
+showcase
+展示ケース
+
+gallery
+長廊
+
+Passage West Fork Road
+通路西分岐
+
+Passage southeast turn
+通路東南の曲がり角
+
+red carpet
+赤いカーペット
+
+library
+図書室
+
+bookshelf
+本棚
+
+library secret room
+図書館の秘密の部屋
+
+deep in the secret room
+秘密の部屋の奥
+
+doorway of the Arsenal
+武器庫の入口
+
+doorway of the warehouse
+倉庫の入口
+
+Warehouse entrance, southwest turn
+倉庫の入口、西南の曲がり角
+
+dark passage
+暗い通路
+
+basement
+地下室
+
+underground chamber
+地下の秘密の部屋
+
+Armory
+武器庫
+
+Armor library
+防具庫
+
+Church entrance
+教会の入口
+
+Church entrance, southwest turn
+教会の入口、西南の曲がり角
+
+pool entrance
+池の入口
+
+Pool entrance, Three fork road
+池の入口、三叉路
+
+pool
+水池
+
+waterway
+水路
+
+Pool core, Three fork road
+池の中心、三叉路
+
+upper waterway
+上部水路
+
+silt
+シルト
+
+square entrance, east-west passage
+広場の入口、東西通路
+
+front platform
+殿前プラットフォーム
+
+front door of the church
+教会の正面入口
+
+deep in the church
+教会の奥
+
+Crystal Throne
+水晶の玉座
+
+Land of redemption
+救済の地
+
+East Fork Road
+東の分岐
+
+Fork road
+分岐
+
+West Fork Road
+西の分岐
+
+Meditation room
+冥想室
+
+square Entrance
+広場の入口
+
+flower bed gap
+花壇の隙間
+
+groove
+溝
+
+gate of the Kennel Fence
+犬小屋の柵の門
+
+gate of the Jewelry showroom
+宝石展示室の大門
+
+library
+図書館
+
+arsenal
+武器庫
+
+church gate
+教会の大門
+
+library gate
+図書館の大門
+
+Arsenal gate
+武器庫の大門
+
+Rolling Stone Storage
+転石保管
+
+Rolling Stones Launch
+転石発射
+
+doorway of the church
+教会の入口
+
+main entrance
+正面入口
+
+open space behind camp
+キャンプの後ろの空地
+
+open space in front of camp
+キャンプの前の空地
+
+path in front of camp
+キャンプの前の小道
+
+watchtower
+監視塔
+
+path in the Camp
+キャンプ内の小道
+
+moat
+堀
+
+Mystery Room
+神秘の部屋
+
+three fork road
+三叉路
+
+living room
+客間
+
+canopy
+樹冠
+
+southeast turn; stone steps
+南東の曲がり角; 石段
+
+Northwest turn; stone steps
+北西の曲がり角; 石段
+
+broken wall
+洞口の壊れた壁
+
+Southwest turn; stone steps
+南西の曲がり角; 石段
+
+stone table
+石の台
+
+edge of stone table
+石の台の縁
+
+dungeon
+地牢
+
+back door of the cave
+洞窟の裏口
+
+fault
+断層
+
+balcony
+バルコニー
+
+secret test room
+秘密の試験室
+
+South Gate of the Secret Room
+秘密の部屋の南門
+
+snow mountain
+雪山
+
+Gorge passage
+峡道
+
+Gorge
+峡口
+
+cave
+洞窟
+
+glacier
+氷河
+
+meditation room
+冥想室
+
+extinguished torch
+消えたたいまつ
+
+energy barrier
+エネルギーバリア
+
+null
+空
+
+avenue
+大道
+
+green land
+緑地
+
+seaside
+海辺
+
+lava island
+溶岩島
+
+Magma
+マグマ
+
+rock
+岩
+
+Martial Arts Hall
+武館
+
+martial arts field
+練武場
+
+mud pond
+泥沼
+
+Reeds
+葦
+
+the sea
+大海
+
+island
+孤島
+
+North Road
+北路
+
+South Road
+南路
+
+East Street
+東街
+
+West Street
+西街
+
+desert
+荒漠
+
+rock formation
+岩層
+
+dune
+砂丘
+
+in the tower
+塔内
+
+wind magic circle
+風の魔法陣
+
+Earth Magic circle
+地の魔法陣
+
+water magic circle
+水の魔法陣
+
+fire magic circle
+火の魔法陣
+
+mountainside
+山腹
+
+Ice layer
+氷層
+
+snowdrift
+雪の吹き溜まり
+
+inside the cave
+洞内
+
+Trench
+海溝
+
+Undersea Garden
+海底庭園
+
+sea flower bush
+海の花の茂み
+
+seaweed
+海草
+
+South Gate of the Dungeon
+地牢の南門
+
+lakeshore
+湖岸
+
+West coast
+西海岸
+
+east coast
+東海岸
+
+red camp
+赤方陣地
+
+blue camp
+青方陣地
+
+center bridge
+中心橋
+
+main road in front of camp
+キャンプの前の本道
+
+center Island
+湖心島
+
+bench
+ベンチ
+
+small bridge
+小橋
+
+north branch road
+北側支路
+
+playground
+運動場
+
+south branch road
+南側支路
+
+gap
+隙間
+
+ramp entrance
+斜道入口
+
+ruins
+遺跡
+
+Flying sand alley
+飛砂路
+
+collapsed wall
+崩れた壁
+
+north hillside
+北の山腹
+
+mountaintop
+山頂
+
+south hillside
+南の山腹
+
+east hillside
+東の山腹
+
+west hillside
+西の山腹
+
+north foothill
+北の山麓
+
+east foothill
+東の山麓
+
+west foothill
+西の山麓
+
+south foothill
+南の山麓
+
+roots
+根
+
+Cross Mountain
+十字山
+
+North Pit 1
+北1号坑
+
+North Pit 2
+北2号坑
+
+North Pit 3
+北3号坑
+
+North Pit 4
+北4号坑
+
+middle platform 1
+中1プラットフォーム
+
+middle pit 2
+中2号坑
+
+middle pit 3
+中3号坑
+
+middle platform 4
+中4プラットフォーム
+
+South Pit 1
+南1号坑
+
+South Pit 2
+南2号坑
+
+South Pit 3
+南3号坑
+
+South Pit 4
+南4号坑
+
+corridor
+廊下
+
+terrace
+テラス
+
+ground
+校庭
+
+SouthWest of the Highland
+高地の南西
+
+SouthEast of the Highland
+高地の南東
+
+ground fence
+校庭の囲い
+
+canteen
+食堂
+
+bathroom
+トイレ
+
+Guardian room
+警備室
+
+step bottom
+階段の底
+
+middle path
+中央道
+
+Walking stage
+緩歩台
+
+front door of the ground
+校庭の正門
+
+back door of the ground
+校庭の裏門
+
+safe door
+安全扉
+
+ice cave
+氷窟
+
+hidden grid
+隠し格子
+
+Snow Cave
+雪窟
+
+Ice Cave Center
+氷窟の中心
+
+orizontal Road 1
+1号横道
+
+orizontal Road 2
+2号横道
+
+orizontal Road 3
+3号横道
+
+orizontal Road 4
+4号横道
+
+Vertical Road No. 1
+1号縦道
+
+vertical road 2
+2号縦道
+
+vertical road 3
+3号縦道
+
+vertical road 4
+4号縦道
+
+end of orizontal road
+横道の端
+
+end of vertical road
+縦道の端
+
+ship's rail
+船舷
+
+deck
+甲板
+
+stern
+船尾
+
+bow
+船首
+
+captain's room
+船長室
+
+cargo hold
+貨物室
+
+cargo box
+貨物箱
+
+gangway
+舷梯
+
+Towering Mountain
+昆仑山
+
+farm warehouse
+農業倉庫
+
+mountainside
+山の側
+
+villa road
+別荘の道
+
+back room
+裏部屋
+
+middle room
+中央の部屋
+
+front room
+前部屋
+
+grass
+雑草
+
+gravel slope
+砕石の斜面
+
+willow
+柳
+
+Heaven Pool
+天池
+
+Villa gate
+別荘の大門
+
+inner wall
+内壁
+
+transmission shaft
+伝動軸
+
+Turbine cabin
+タービン室
+
+switch
+スイッチ
+
+Power cabin
+動力室
+
+pothole
+穴
+
+kitchen
+キッチン
+
+pharmacy room
+薬局
+
+study
+書斎
+
+Breeding room
+育成室
+
+Smelting room
+製錬室
+
+Washing and grinding room
+洗磨室
+
+Storage Room
+倉庫
+
+exercise room
+練功室
+
+main mansion
+本堂
+
+inner hall
+内廊
+
+backyard west
+裏庭の西
+
+backyard east
+裏庭の東
+
+front yard west
+前庭の西
+
+front yard east
+前庭の東
+
+west grass
+西の草むら
+
+east flower bush
+東の花の茂み
+
+road in front of mansion
+本堂前の小道
+
+west side road
+西側の小道
+
+east side road
+東側の小道
+
+road behind mansion
+本堂裏の小道
+
+inner door
+内扉
+
+lake
+湖面
+
+West Lake
+西湖
+
+East Lake
+東湖
+
+water platform
+水上プラットフォーム
+
+west platform
+門西プラットフォーム
+
+east platform
+門東プラットフォーム
+
+South Bridge
+南橋
+
+North Bridge
+北橋
+
+west side bridge
+西側の小橋
+
+east side bridge
+東側の小橋
+
+Southwest Platform
+南西プラットフォーム
+
+Southeast Platform
+南東プラットフォーム
+
+East side platform
+東側のプラットフォーム
+
+west side platform
+西側のプラットフォーム
+
+Northwest Platform
+北西プラットフォーム
+
+Northeast Platform
+北東プラットフォーム
+
+courtyard
+本堂の中庭
+
+East side courtyard
+東側の中庭
+
+West side courtyard
+西側の中庭
+
+front avenue of the mansion
+本堂前の大道
+
+back avenue of the mansion
+本堂裏の大道
+
+west side snowfield
+垒西の雪原
+
+east side snowfield
+垒東の雪原
+
+steel platform
+鋼鉄のプラットフォーム
+
+fortress
+砦
+
+Steel Avenue
+鋼鉄の大道
+
+west side passage
+西側の通路
+
+East side Passage
+東側の通路
+
+center
+中心
+
+northwest
+北西
+
+north
+北
+
+northeast
+北東
+
+West
+西
+
+East
+東
+
+southwest
+南西
+
+South
+南
+
+southeast
+南東
+
+Northwest of the pit
+鉱坑の北西
+
+North of the pit
+鉱坑の北
+
+Northeast of the Pit
+鉱坑の北東
+
+East of the pit
+鉱坑の東
+
+Center of the pit
+鉱坑の中心
+
+West of the pit
+鉱坑の西
+
+Southwest of the pit
+鉱坑の南西
+
+south of the pit
+鉱坑の南
+
+southeast of the pit
+鉱坑の南東
+
+stone maze
+石の迷宮
+
+center stone room
+中心石室
+
+end of the maze
+密道の端
+
+Entrance
+入口
+
+west mouth of Valley
+西の谷口
+
+east mouth of Valley
+東の谷口
+
+maze entrance
+迷宮の入口
+
+Herb field
+薬草畑
+
+curly tree
+巻き心の木
+
+Outer ring of tree hole
+木の穴の外側
+
+annual ring wall
+年輪の壁
+
+Inner ring of tree hole
+木の穴の内側
+
+tree heart
+木の心
+
+turn southeast
+南東に曲がる
+
+turn northwest
+北西に曲がる
+
+turn southwest
+南西に曲がる
+
+turn northeast
+北東に曲がる
+
+turn east
+東に曲がる
+
+turn south
+南に曲がる
+
+turn north
+北に曲がる
+
+turn west
+西に曲がる
+
+water lily
+睡蓮
+
+North Shore
+北岸
+
+South Shore
+南岸
+
+northern waters
+北部水域
+
+Northeast waters
+北東水域
+
+Eastern Waters
+東部水域
+
+Southeast waters
+南東水域
+
+southern waters
+南部水域
+
+Southwest waters
+南西水域
+
+western waters
+西部水域
+
+Northwest Waters
+北西水域
+
+central waters
+湖心の水域
+
+west river estuary
+西河の河口
+
+west river
+西河
+
+East River Estuary
+東河の河口
+
+east river
+東河
+
+giant snail reef
+巨螺礁
+
+snail heart
+螺石心
+
+hall
+ホール
+
+Red carpet
+赤い絨毯
+
+stage
+舞台
+
+pink petals
+ピンクの花びら
+
+curtain wall
+カーテンウォール
+
+river
+川面
+
+love Bridge
+同心橋
+
+pontoon
+浮橋
+
+floating platform
+浮遊プラットフォーム
+
+storehouse
+倉庫
+
+stone lion
+石獅子
+
+North Street
+北街
+
+South Street
+南街
+
+wish alley
+如意巷
+
+peace alley
+太平巷
+
+Outer teleportation room
+外転送室
+
+episcopal room
+主教室
+
+Inner teleportation room
+内転送室
+
+dais
+教台
+
+baptismal room
+洗礼室
+
+fjord river
+フィヨルド川
+
+upper river
+上流
+
+lower river
+下流
+
+Iron railing
+鉄柵
+
+central camp
+中央キャンプ
+
+west camp
+西キャンプ
+
+east camp
+東キャンプ
+
+south camp
+南キャンプ
+
+demonization Cabin
+魔化室
+
+north camp
+北キャンプ
+
+starting point
+出発点
+
+end
+終点
+
+artillery array
+砲陣
+
+piano
+ピアノ
+
+Do
+ド
+
+Re
+レ
+
+Mi
+ミ
+
+Fa
+ファ
+
+Sol
+ソ
+
+floor 5
+5階
+
+floor 4
+4階
+
+floor 3
+3階
+
+floor 2
+2階
+
+floor 1
+1階
+
+up the ladder
+梯子を上る
+
+down the ladder
+梯子を下る
+
+sea floor
+海床
+
+beach
+海浜
+
+Sea
+海中
+
+Evil Temple
+邪神殿
+
+blood pool
+血の池
+
+front road of the Village
+村前の大道
+
+Grocery store
+雑貨店
+
+paddy
+水田
+
+wheat field
+麦畑
+
+Orchard
+果樹園
+
+Sapphire River
+サファイア川
+
+Hearth
+炉台
+
+laundry tub
+洗濯桶
+
+fish tank
+水槽
+
+oven
+オーブン
+
+fish basket
+魚籠
+
+table
+テーブル
+
+clothesline
+物干しロープ
+
+cliff
+絶壁
+
+central platform
+中央プラットフォーム
+
+north platform
+北プラットフォーム
+
+East Platform
+東プラットフォーム
+
+South platform
+南プラットフォーム
+
+West Platform
+西プラットフォーム
+
+edge of the platform
+プラットフォームの端
+
+black purgatory
+黒水の煉獄
+
+magma hell
+マグマ地獄
+
+Abyss Demon realm
+深淵魔界
+
+magnolia tree
+モクレンの木
+
+Garden under the Moon
+月下の庭園
+
+galaxy
+銀河
+
+Magpie Bridge
+カササギ橋
+
+cattles Mountain
+牽牛山
+
+house
+家
+
+West Wing
+西翼
+
+main room
+本堂
+
+East wing
+東翼
+
+Downside Room
+逆座室
+
+doorway
+入口
+
+Lancang River
+瀾滄江
+
+tree stump
+切り株
+
+igloo
+イグルー
+
+auditorium
+観客席
+
+Dining room
+食堂
+
+dining table
+ダイニングテーブル
+
+Chair
+椅子
+
+hill bag
+小丘
+
+rock pile
+岩の山
+
+stalagmite
+石筍
+
+channel
+通路
+
+forest exit
+森の出口
+
+ancient tree
+古木
+
+tree heart entrance
+樹心の入口
+
+grass
+牧草
+
+wolf head mountain
+狼頭山
+
+swamp
+沼地
+
+puddle
+水たまり
+
+swamp tree
+沼地の木
+
+sea river
+海川
+
+east sea Bridge
+通海橋
+
+big quagmire
+大泥潭
+
+quagmire entrance
+泥潭の入口
+
+mud slope
+泥の斜面
+
+port
+港
+
+West Port
+西港
+
+east port
+東港
+
+Dock Bridge
+桟橋の橋
+
+coconut tree
+ココナッツの木
+
+Nepeta bush
+カノコソウの茂み
+
+bunker
+バンカー
+
+Villa of the cat king
+猫王の別荘
+
+villa gate
+別荘の大門
+
+staircase
+階段口
+
+side yard
+側庭
+
+side door
+側扉
+
+Sand Holly
+砂冬青
+
+aloe vera
+アロエ
+
+Collapsed courtyard wall
+崩れた中庭の壁
+
+workshop
+工場
+
+collapsed gate
+崩れた門
+
+main hallway
+主廊下
+
+broken window
+壊れた窓
+
+south side corridor
+南側の廊下
+
+North side Corridor
+北側の廊下
+
+dirt road in the courtyard
+中庭の土の道
+
+production workshop
+生産工場
+
+single conveyor belt
+単方向コンベアベルト
+
+workshop channel
+工場通路
+
+conveyor belt entrance
+コンベアベルトの入口
+
+conveyor belt exit
+コンベアベルトの出口
+
+doorway of the control room
+制御室の入口
+
+connecting corridor
+連絡通路
+
+Stone Hall in the center
+中心石廳
+
+stone steps of the secret path
+秘密の道の石段
+
+abrupt gravel
+急な砕石
+
+stone ladder of the secret path
+秘密の道の石階段
+
+stone ladder entrance
+石階段の入口
+
+Circling Stone Ladder
+旋回石階段
+
+Tomb of the Pharaoh
+ファラオの墓
+
+hillside road
+山腹の道
+
+crater
+火口
+
+torch tree
+トーチの木
+
+flame flower bush
+火焔の花の茂み
+
+hot spring pool
+温泉池
+
+Flaming Mountain
+火焔山
+
+stone bridge
+石橋
+
+lava lake
+溶岩湖
+
+cabin
+船室
+
+artificial island
+人工島
+
+lighthouse
+灯台
+
+doorway of the Captain's room
+船長室の入口
+
+finger hill
+フィンガル山
+
+Basalt
+玄武岩
+
+cave in the sea
+洞海窟
+
+Cave mouth
+洞窟の入口
+
+river
+川
+
+large eucalyptus
+大ユーカリ
+
+root of the large eucalyptus
+大ユーカリの根
+
+tree hole tunnel
+木の穴の通路
+
+tree hole mouth
+木の穴の入口
+
+Hovering Wooden Ladder
+旋回木の梯子
+
+lacquer tree
+漆の木
+
+Parasitic vine
+寄生蔓
+
+parasitic root
+寄生根
+
+banyan trunk
+ガジュマルの幹
+
+banyan root
+ガジュマルの根
+
+Poison Swamp
+毒の沼地
+
+mud
+泥
+
+tree top
+木の頂
+
+tree branch
+枝
+
+turkey mountain
+トゥクラ山
+
+weathered rock
+風化した岩
+
+halfway up the mountain
+山腹
+
+mountain fissure
+山の裂け目
+
+narrow road
+狭い道
+
+earth wall
+土壁
+
+house
+家
+
+collapsed earth wall
+崩れた土壁
+
+collapsed wooden wall
+崩れた木壁
+
+dry well
+枯れ井戸
+
+back hallway
+裏廊下
+
+bed
+ベッド
+
+ancient clock
+古い時計
+
+closet
+クローゼット
+
+ocean
+海洋
+
+Great Trench
+大海溝
+
+Crystal Palace
+水晶宮
+
+cobblestone path
+小石の小道
+
+Coral island
+珊瑚島
+
+back hall
+裏の大殿
+
+central hall
+中央大殿
+
+side hall
+側殿
+
+Blood sucking tree
+吸血樹
+
+broken sand
+砕けた砂地
+
+bloodstone
+血の石
+
+weeds
+雑草
+
+Burial Ground
+埋葬地
+
+grave bag
+墓丘
+
+dead woods
+枯れ木林
+
+dead leaf forest
+枯葉の森
+
+gravel
+砕石地
+
+doorway of the blood red castle
+血紅の城の入口
+
+blood red castle
+血紅の城
+
+main hall
+大殿
+
+Gobi
+ゴビ砂漠
+
+desert
+砂漠
+
+oasis
+オアシス
+
+Populus euphratica
+胡楊
+
+desert exit
+砂漠の出口
+
+quicksand whirlpool
+流砂の渦
+
+ice pine
+氷松
+
+iceberg
+氷山
+
+ice wall
+氷の壁
+
+Ice Palace
+氷の宮殿
+
+side hall
+側殿
+
+mirrored hallway
+鏡面廊下
+
+ice brick steps
+氷レンガの階段
+
+central cave
+中央洞窟
+
+center pit
+中央の穴
+
+Entrance to the pool
+水溜りの入口
+
+torch
+たいまつ
+
+hallway
+前殿廊下
+
+central fortress
+中央要塞
+
+steps handrail
+階段の手すり
+
+laboratory
+実験室
+
+energy storage room
+エネルギー貯蔵室
+
+power room
+動力室
+
+energy delivery pipe
+エネルギー輸送管
+
+Magic Research Laboratory
+魔法研究室
+
+Magic Item Storage Room
+魔法アイテム倉庫
+
+Liaison Room
+連絡室
+
+monitoring room
+監視室
+
+Robot warehouse
+ロボット倉庫
+
+monster training room
+魔物育成室
+
+showroom
+展示室
+
+guard house
+警備室
+
+Machine production room
+機械生産室
+
+exhibition room
+展示室
+
+escalator
+エスカレーター
+
+platform of the escalator
+エスカレータープラットフォーム
+
+escalator entrance
+エスカレーター入口
+
+machine training ground
+機械訓練場
+
+Machine production room
+魔物育成室
+
+energy reaction pit
+エネルギー反応穴
+
+energy delivery port
+エネルギー輸送口
+
+energy delivery table
+エネルギー輸送台
+
+petri dish
+培養皿
+
+parts making machine
+部品製造機
+
+main control room
+メインコントロール室
+
+Thunder Mountain
+雷雲峰
+
+Monster Mountain
+魔怪山
+
+Thunder Dragon Mountain
+雷竜山
+
+wilderness
+荒野
+
+Crescent Moon Spring
+月牙泉
+
+attic
+屋根裏
+
+dark shrine
+黒暗神殿
+
+ancient well
+古井戸
+
+Pure Land Temple
+浄土殿
+
+Dead Water Temple
+死水殿
+
+Dark Flame Temple
+暗炎殿
+
+Evil Wind Temple
+邪風殿
+
+stone pillar
+石柱
+
+bonfire
+焚き火
+
+black quagmire
+黒い泥潭
+
+turning place
+曲がり角
+
+sacrificial hall
+祭祀ホール
+
+south gate of the cell
+牢の南門
+
+barrack
+兵舎
+
+Brute Valley Entrance
+ブルート谷の入口
+
+Stone Ladder of the well
+井の石階段
+
+Granary doorway
+穀倉の入口
+
+northern town
+北望鎮
+
+breezy Village
+寧風村
+
+Entrance to Takama Desert
+タカマ砂漠の入口
+
+Entrance to Karst cave
+カルスト洞窟の入口
+
+Entrance to Fred Forest
+フレッド森林の入口
+
+main entrance of the shrine
+神社の正門
+
+south entrance of the town
+町の南入口
+
+north entrance of the town
+町の北入口
+
+main hall entrance
+正殿の入口
+
+Butterfly Valley
+蝶谷
+
+entrance to beauty of river and mountain
+水色山光の入口
+
+Entrance to Wolfe Prairie
+ウォルフ草原の入口
+
+underground entrance
+地下の入口
+
+Entrance to Abundant green hills
+豊かな青山の入口
+
+back to the ground
+地上に戻る
+
+Cable Car; to Lifting Platform No. 1
+1号ケーブルカー; 1号昇降プラットフォームへ
+
+Cable car; to Tulip City
+ケーブルカー; チューリップシティへ
+
+Cable car; to holy blood city
+ケーブルカー; 聖血の街へ
+
+spy base
+偵察基地
+
+doorway of room
+部屋の入口
+
+Demon Banner
+悪魔の旗
+
+brave Valley
+勇気の谷
+
+Wisdom Forest
+知恵の森
+
+Wisdom Cabin; Wisdom Forest
+知恵の小屋; 知恵の森
+
+Stone maze: Wisdom Forest
+石の迷宮: 知恵の森
+
+Wisdom Cabin
+知恵の小屋
+
+deep in the diversion channel
+導水路の奥
+
+Entrance to Polson Wetland
+ポルソン湿地の入口
+
+uphill road
+登り道
+
+Gale Cave
+黒風洞窟
+
+Wolf Prairie
+ウォルフ草原
+
+underground cave
+地下洞窟
+
+stone gate of cave
+洞窟の石門
+
+west stairwell
+西階段室
+
+east stairwell
+東階段室
+
+Stairwell No. 1
+1号階段室
+
+Stairwell No. 2
+2号階段室
+
+Stairwell No. 3
+3号階段室
+
+Stairwell No. 4
+4号階段室
+
+Stairwell No. 5
+5号階段室
+
+Stairwell No. 6
+6号階段室
+
+Stairwell No. 7
+7号階段室
+
+Stairwell No. 8
+8号階段室
+
+Stairwell No. 9
+9号階段室
+
+Stairwell No. 10
+10号階段室
+
+Stairwell 11
+11号階段室
+
+Stairwell No. 12
+12号階段室
+
+Stairwell 13
+13号階段室
+
+Stairwell No. 14
+14号階段室
+
+Stairwell No. 15
+15号階段室
+
+Stairwell 16
+16号階段室
+
+Stairwell No. 17
+17号階段室
+
+Stairwell No. 18
+18号階段室
+
+Stairwell No. 19
+19号階段室
+
+Stairwell No. 20
+20号階段室
+
+Passage doorway
+通路の入口
+
+cellar exit
+地下室の出口
+
+doorway of vegetable cellar
+野菜貯蔵庫の入口
+
+doorway of wine cellar
+ワインセラーの入口
+
+doorway of barracks
+兵舎の入口
+
+doorway of parliament hall
+議会ホールの入口
+
+Domi Wasteland
+ドミ荒原
+
+Entrance to Margit Rainforest
+マギット熱帯雨林の入口
+
+Oaks Tribe
+オークス部族
+
+Cable Car; to lifting platform No. 2
+2号ケーブルカー; 2号昇降プラットフォームへ
+
+Cable car; to Giant Rock City
+ケーブルカー; 巨岩城へ
+
+North Mountain Plantation
+北山農場
+
+deep in the cave
+洞窟の奥
+
+entrance to Domi wasteland
+ドミ荒原の入口
+
+ranch gate
+牧場の柵の門
+
+Entrance to Glorious Grassland
+栄光草原の入口
+
+Entrance to Dark pit City
+闇の坑道都市の入口
+
+Stone Cliff Village
+石崖村
+
+Rogue Camp
+盗賊キャンプ
+
+doorway of Holy See
+教廷の入口
+
+Entrance to Flaming Mountain
+火焔山の入口
+
+Entrance to skeleton Basin
+スコレ盆地の入口
+
+Cable Car; to lifting platform No. 3
+3号ケーブルカー; 3号昇降プラットフォームへ
+
+Stonehelm Outpost
+石兜哨所
+
+gouging knife city
+剜刀城
+
+Outpost North Gate
+哨所の北門
+
+Outpost West Gate
+哨所の西門
+
+Entrance to Magnet Hill
+磁石山の入口
+
+Outpost South Gate
+哨所の南門
+
+Outpost East Gate
+哨所の東門
+
+Entrance to Devil's Valley
+悪魔の谷の入口
+
+Camp South Gate
+キャンプの南門
+
+Camp West Gate
+キャンプの西門
+
+Camp North Gate
+キャンプの北門
+
+Camp East Gate
+キャンプの東門
+
+doorway of temple
+神殿の入口
+
+night sky plain
+夜空の平原
+
+black forest
+黒い森
+
+secret room underground
+地下の秘密の部屋
+
+crystal ball
+水晶玉
+
+graceful Lake
+秀水湖
+
+Tranquil River estuary
+永寧河口
+
+Entrance to Central Plains
+中央平原の入口
+
+Entrance to Tuneful Wetland
+琴風湿地の入口
+
+water curtain cave
+水簾洞
+
+inland sea
+内海
+
+river bend
+川の曲がり
+
+Hanging bell
+懸鐘
+
+entrance to graceful Lake
+秀水湖の入口
+
+entrance to open sea
+外海の入口
+
+Entrance to the dark river cave
+暗河溶洞の入口
+
+upper floor of Villa
+別荘の上層
+
+Lower floor of villa
+別荘の下層
+
+Nepeta
+荊芥
+
+gear 1
+機関1
+
+earth array
+地の陣
+
+water array
+水の陣
+
+fire array
+火の陣
+
+wind array
+風の陣
+
+center maze
+中央の迷宮
+
+Baru Stone Room
+バル石室
+
+Inland Sea entrance
+内海の入口
+
+hay cutter
+刈り取り機
+
+golf villa
+高老荘
+
+pig head stone
+豚頭石
+
+Evergreen Valley
+常青谷
+
+tree Valley
+玉樹谷
+
+flower Valley
+琪花谷
+
+grass Valley
+百草谷
+
+North of Colorful Valley
+色彩谷の北
+
+South of Colorful Valley
+色彩谷の南
+
+hidden water cave
+隠水洞
+
+Entrance to High climbing grassland
+高攀草原の入口
+
+Entrance of hidden water cave
+隠水洞の入口
+
+Entrance to Valley of Luxuriant forests
+豊茂の谷の入口
+
+Herbs Village
+百草村
+
+Verdant Valley
+葱翠谷
+
+Sapphire Valley
+青玉谷
+
+branch
+枝
+
+floor 1
+1階
+
+floor 2
+2階
+
+floor 3
+3階
+
+floor 4
+4階
+
+floor 5
+5階
+
+to Lifting No. 1
+1号昇降台へ
+
+to Lifting No. 2
+2号昇降台へ
+
+to Lifting No. 3
+3号昇降台へ
+
+Entrance to Ancient Ruins
+古代遺跡の入口
+
+Entrance to South mining area
+南鉱区の入口
+
+Cable Car No. 1
+1号ケーブルカー
+
+Cable Car No. 2
+2号ケーブルカー
+
+Entrance to West mining area
+西鉱区の入口
+
+Cable Car No. 3
+3号ケーブルカー
+
+doorway of main cemetery
+主墓室の入口
+
+doorway of the ear room
+副室の入口
+
+doorway of Energy room
+エネルギー室の入口
+
+doorway of the research room
+研究室の入口
+
+doorway of storage room
+倉庫の入口
+
+slump zone
+陥没帯
+
+City of the Ancient tower
+古塔の都市
+
+entrance to underground mine
+地下鉱山の入口
+
+doorway of West Guard Hall
+西衛殿の入口
+
+doorway of East Guard Hall
+東衛殿の入口
+
+doorway of Guardian Temple
+守護神殿の入口
+
+fortress gate
+要塞の大門
+
+Sarcophagus under stone beams
+石梁の下の石棺
+
+Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+鬼洞; 落穴即死; 転生水晶を使用してその場で復活しないでください
+
+prison gate
+監獄の大門
+
+Pentagram Altar
+五芒星の祭壇
+
+East Gate of the Hospital
+病院の東門
+
+West Gate of the Hospital
+病院の西門
+
+East gate of the school
+学校の東門
+
+West gate of the school
+学校の西門
+
+doorway of the house
+民家の入口
+
+Hotel entrance
+ホテルの入口
+
+store entrance
+商店の入口
+
+East Sealing Tower
+東の封印の塔
+
+West Sealing Tower
+西の封印の塔
+
+stone pier
+石の桟橋
+
+collapse channel
+崩壊通路
+
+jungle road
+ジャングルロード
+
+Cathedral of Darkness
+暗黒大聖堂
+
+dark library
+暗黒図書館
+
+Dark Arsenal
+暗黒軍火庫
+
+dark monastery
+暗黒修道院
+
+gate of the monastery
+修道院の大門
+
+Orc Cave
+オークの洞窟
+
+Legacy Chamber of Secrets
+伝承の密室
+
+red banner
+赤の旗
+
+blue banner
+青の旗
+
+railing gap
+欄干の隙間
+
+North Gate of Cabin No.1
+1号船室の北門
+
+South Gate of Cabin No.1
+1号船室の南門
+
+South Gate of Cabin No.2
+2号船室の南門
+
+North Gate of Cabin No.2
+2号船室の北門
+
+North Gate of Cabin No.3
+3号船室の北門
+
+South Gate of Cabin No.3
+3号船室の南門
+
+doorway of the cabin
+船室の入口
+
+mountains
+山岳
+
+Willows Villa
+万柳山荘
+
+bright peak
+光明頂
+
+back to map 1
+地図1に戻る
+
+inner hall
+内堂
+
+Outer hall
+外堂
+
+Northwest of Herbal Garden
+薬園の北西
+
+Northeast of Herbal Garden
+薬園の北東
+
+East of Herbal Garden
+薬園の東
+
+central of Herbal Garden
+薬園の中心
+
+West of Herbal Garden
+薬園の西
+
+Southwest of Herbal Garden
+薬園の南西
+
+South of Herbal Garden
+薬園の南
+
+Southeast of Herbal Garden
+薬園の南東
+
+North of Herbal Garden
+薬園の北
+
+tree hole 1
+木の穴1
+
+tree hole 2
+木の穴2
+
+tree hole 3
+木の穴3
+
+tree hole 4
+木の穴4
+
+tree hole 5
+木の穴5
+
+tree hole 6
+木の穴6
+
+tree hole 7
+木の穴7
+
+tree hole 8
+木の穴8
+
+grass and insects
+草と虫
+
+church hall
+教会のホール
+
+garden
+庭園
+
+ancient building
+古楼
+
+Ghost Canyon
+幽霊峡谷
+
+cave
+地洞
+
+peach orchard Village
+桃園村
+
+doorway of Grocery store
+雑貨店の入口
+
+North of the Blackwater
+黒水域の北
+
+East of the Blackwater
+黒水域の東
+
+South of the Blackwater
+黒水域の南
+
+West of the Blackwater
+黒水域の西
+
+north of the magma field
+マグマ域の北
+
+east of the magma field
+マグマ域の東
+
+south of the magma field
+マグマ域の南
+
+west of the magma field
+マグマ域の西
+
+Abyss Domain
+深淵域
+
+Northwest of the Blackwater
+黒水域の北西
+
+Northeast of the Blackwater
+黒水域の北東
+
+Southeast of the Blackwater
+黒水域の南東
+
+Southwest of the Blackwater
+黒水域の南西
+
+Southwest of the magma field
+マグマ域の南西
+
+Southeast of the magma field
+マグマ域の南東
+
+Northwest of the magma field
+マグマ域の北西
+
+Northwest
+北西部
+
+north
+北部
+
+northeast
+北東部
+
+west
+西部
+
+Central
+中央部
+
+east
+東部
+
+Southwest
+南西部
+
+south
+南部
+
+Southeast
+南東部
+
+entrance to corpse cave
+生屍洞の入口
+
+Bruder Cave
+ブルードの石洞
+
+Mario Basin
+マリオ盆地
+
+cannibal cave
+人食い洞
+
+central plains
+中央平原
+
+Fertile Wilds
+沃野の地
+
+Entrance to Carter Plain
+カーター平原の入口
+
+Entrance to Fertile Wilds
+沃野の地の入口
+
+sailing port
+帆船港
+
+Entrance to Marion Sea
+マリオン海域の入口
+
+center
+中央部
+
+Entrance to Carter tribe
+カーター部落の入口
+
+abandoned factory
+廃棄工場
+
+Entrance to Tuneful Wetland
+琴風湿地の入口
+
+upper stairs
+上層階段
+
+second floor of the factory
+工場の二階
+
+broken window
+壊れた窓
+
+lower stairs
+下層階段
+
+top floor of the factory
+工場の最上階
+
+mysterious tomb
+神秘の墓
+
+second floor underground
+地下二階
+
+upper floor of the tomb
+墓の上層
+
+third floor underground
+地下三階
+
+Entrance to hilly terrain
+丘陵地帯の入口
+
+Entrance to Flame Cave
+烈焰洞窟の入口
+
+entrance to volcanic cave
+火山溶洞の入口
+
+finger Cave
+フィンガル洞窟
+
+Reef Cave
+礁石洞窟
+
+deep in the cave
+洞窟の奥
+
+sailing port
+帆船港
+
+reef cave
+礁石洞窟
+
+entrance to secluded valley
+青幽谷の入口
+
+Entrance to the cave
+迷窟の入口
+
+upper exit
+上層の出口
+
+Lower exit
+下層の出口
+
+old tree under mountain
+山下の古木
+
+entrance to black wasteland
+黒い荒地の入口
+
+old house
+古い家
+
+High climbing grassland
+高攀草原
+
+Blood Wasteland
+赤血の荒地
+
+western gobi
+西部ゴビ砂漠
+
+central desert
+中央砂漠
+
+Eastern desert
+東部砂漠
+
+Entrance to Mario Basin
+マリオ盆地の入口
+
+Underground Wormhole
+地下虫洞
+
+ice cave entrance
+寒冰洞の入口
+
+Earles Palace
+アールス宮殿
+
+lower palace
+宮殿の下層
+
+doorway of the palace
+宮殿の入口
+
+rolling mountain cave
+カヤロ山洞
+
+upper palace
+宮殿の上層
+
+Throne Gem
+王座の宝石
+
+torch on the wall
+壁のたいまつ
+
+west gate of the fortress
+要塞の西門
+
+East Gate of the fortress
+要塞の東門
+
+North Gate of the fortress
+要塞の北門
+
+South Gate of the fortress
+要塞の南門
+
+go to the upper level
+上層へ進む
+
+return to lower level
+下層に戻る
+
+Thunder Cave
+雷雲洞
+
+upper entrance
+上層の入口
+
+Entrance to secluded valley
+青幽谷の入口
+
+black wasteland
+黒い荒地
+
+Chasing Star Pavilion
+摘星閣
+
+down stairs
+下への階段
+
+Temple Dungeon
+神殿の地牢
+
+lower of the temple
+神殿の下層
+
+up stairs
+上への階段
+
+mist gods Ruins
+迷神廃墟
+
+Dream Barrier
+夢の障壁
+
+Dream Palace
+夢の宮殿
+
+Broken Idol
+壊れた神像
+
+Control Monster C1 of 4
+制御モンスターC1の4
+
+Southwest turn; slope
+南西の曲がり角; 斜面
+
+Northwest turn; slope
+北西の曲がり角; 斜面
+
+Southeast turn; slope
+南東の曲がり角; 斜面
+
+Northeast turn; slope
+北東の曲がり角; 斜面
+
+Dark Demon Tower
+黒魔塔
+
+Wasteland
+荒原
+
+Side wall
+側壁
+
+spectre wilderness
+スペクター荒原
+
+Sunset City
+落日城
+
+Giant Rock City
+巨岩城
+
+mettle village
+馬多村
+
+starlight Village
+月輝村
+
+White Sand City
+白砂城
+
+Tulip City
+チューリップ城
+
+Aria Village
+アリア村
+
+Tucana Village
+トゥカナ村
+
+Moon City
+月城
+
+holy blood city
+統万城
+
+Gouging knife City
+弯刀城
+
+East Lake Village
+東湖村
+
+Violet City
+紫羅蘭城
+
+dark night City
+暗夜城
+
+sunless camp
+白夜のキャンプ
+
+Soul Burial Village
+葬魂村
+
+Orchid woods Village
+蘭木村
+
+Hermit Camp
+隠者のキャンプ
+
+Garlic Village
+ニンニク村

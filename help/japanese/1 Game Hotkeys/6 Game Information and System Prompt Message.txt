@@ -1,0 +1,18 @@
+1. Game Information
+View your HP, SP (spirit point)/MP (mana point), (de)buff status: R
+View pet HP, SP (spirit point)/MP (mana point), (de)buff status: SHIFT+R
+Check your accumulation points, fusion power stats, and pet amiability: T
+Note: There are different types of accumulation points depending on your character:  Warrior and Orc！rage; Assassin！combo; Hunter！marked targets; Mage！Ice Spike; Elf！fire element; Priest！the number of allies and enemies within 10 yards; Witcher！the target's agony
+Bring up your information window: BACKQUOTE
+view the current target's HP, SP (spirit point)/MP (mana point), (de)buff status: F
+View the current target's information: G
+Brings up the current target's information window: TAB
+change the type of the viewing target (Ally, Enemy, etc.): V
+Reverse change the type of the viewing target (Ally, Enemy, etc.): ALT+V
+View location information: E
+View current game time/remaining time of dungeon: Q
+2. System Prompt Message
+View the previous system prompt message: HOME
+View the next system prompt message: END
+View the first system prompt message: SHIFT+HOME
+View the last system prompt message: SHIFT+END

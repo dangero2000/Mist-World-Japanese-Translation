@@ -1,0 +1,41 @@
+5001 //The instructor starts to talk (give a slight sigh first to indicate the start of the plot):
+Sigh, each day, the mutated beasts are getting more aggressive, and horrible demons are beginning to appear. The King has ordered us to defend the Sunset City. You'll be an full-fledged officer there.  Are you really gonna give up a golden opportunity like this, and change your class to Freelance Warrior?
+
+5002
+Spill it out, are you really gonna do it? It's gonna be dangerous.
+
+5004
+That's brave of you. Alright, you have my permission. But first, you gotta pass a few tests. Show me your strength first. There's a stake to your north. Go break it.
+
+5006
+There's a stake to your north. Go break it.
+
+5008
+You've got good strength, now let's try on some gear. Here, take this weapon and outfit.
+
+5009 //When the player refuses the equipment
+You think you can survive out there with your bare hands? Don't be a fool.
+
+5010 //When the player accepts the equipment
+Alright, put them on.
+
+5012
+There's a movable stake to the west, go break it with your weapon.
+
+5014
+I knew you had it in you. Come here, I have two more equipments for you.
+
+5015
+Did you get it? Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. Go east, to where the carpet lies, then north, to the Test Room. To pass the class-change test, you must eliminate all the mutants inside. Go ahead and try your best.
+
+5017
+Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. Go east, to where the carpet lies, then north, to the Test Room. To pass the class-change test, you must eliminate all the mutants inside. Go ahead and try your best.
+
+5019
+Go east, to where the carpet lies, then north, to the Test Room. To pass the class-change test, you must eliminate all the mutants inside. Go ahead and try your best.
+
+5020
+Well done, congratulations on passing the test. On behalf of the military, I formally delegate you as an expatriate Freelance Warrior. Looks like you've obtained a Skill Crystal, use it to learn the Cleave Skill. I'm sure it'll serve you well in future battles.
+
+5021
+Come on, you can leave the barracks from the north. The world is filled with challenges, good luck out there!

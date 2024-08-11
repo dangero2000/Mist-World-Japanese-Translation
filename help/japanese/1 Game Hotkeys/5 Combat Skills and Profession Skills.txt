@@ -1,0 +1,15 @@
+1. Combat Skills
+Change current attack mode (Pacifist Mode, Team Mode, Gang Mode, etc.): B
+Reverse change current attack mode (Pacifist Mode, Team Mode, Gang Mode, etc.): ALT+B
+Change Skill key tab: CAPSLOCK (press once to switch to the second tab, press again to switch back to the first tab. the ten skill keys can have two tabs, for a total of 20 skills)
+Attack in direction: SPACEBAR
+Follow attack the target: a total of ten keys, including three keys starting from Y in the upper row, two keys starting from H in the middle row, and five keys starting from N in the lower row, collectively referred to as the "specified attack keys"
+Stationary attack: ALT+SPECIFIED ATTACK KEY
+When the target is an ally character, cast a buff of healing skill on yourself: SHIFT+SPECIFIED ATTACK KEY (only used in certain team battles)
+Lock attack: left CTRL+SPECIFIED ATTACK KEY
+Set attack skill key: left CTRL+ALT+SPECIFIED ATTACK KEY; you can set attack skill key when selecting the combat skill in the backpack
+Check the skill name and its remaining CD: left CTRL+SHIFT+ALT+SPECIFIED ATTACK KEY
+2. Profession Skill
+Profession Skill keys: Z, X, C
+When producing or collecting items, you can select the skill in the backpack, or press the Profession Skill key, and then press SPACEBAR to cast the skill.
+Set Profession Skill key: left CTRL+ALT+Z, X, C; you can set Profession Skill key when selecting the Profession Skill in the backpack

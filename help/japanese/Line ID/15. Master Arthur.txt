@@ -1,0 +1,5 @@
+5271
+Not only do Talents need to be learned, they also need to be enabled.
+
+5272
+If you don't enable the Talents you've learned, you can't activate their effects.

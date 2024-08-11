@@ -1,0 +1,24 @@
+Mist World is an 2D RPG MMO with top-down perspective.
+The entire game perspective is centered on you, and the four directions (up/north, down/south, left/west, right/east) are completely fixed.
+By simply pressing the direction keys, your character will move to that corresponding direction.
+Please note, although the four directions are fixed, when the character changes directions, he needs to turn to that direction before moving towards it, which means, the character follows the rules of the real world, unlike rudimentary 2D games where the character only moves with no concept of orientation.
+When the character turns, you will hear a light "swish" sound. The direction the character is facing affects the coverage of non-360 degree wide-range attack skills.
+For example, if you lock on to a monster in the west and cast an Ice Storm, all the other monsters in the west will also be affected by this wide-range attack skill, while monsters in other directions won't.
+The character's other actions also follow the laws of real-world physics.
+For example, when you press the W, S, A, D keys, if you only give it a short press, you will not hear the character's footsteps, unlike other games where pressing the cursor once will generate footsteps. At the same time, the character occupies a complete coordinate, unlike other games where the character only takes up a square as his coordinate. In our game, the character has an outline, and his body takes up each coordinate.
+For example, when you stand still and move one leg slightly forward within a one-meter square instead of taking a big step, you certainly won't hear any footsteps.
+You will only hear footsteps when you've moved across a real coordinate, which may feel a bit awkward if you're new to Mist World and have gotten used to other games. But when the character actually starts running, you will find that he is very flexible, and can move in eight directions.
+When the character casts a skill, you will find that he cannot move at the moment the skill is cast. This is a very common recovery setting in games.
+Many games have cast recovery and hit recovery settings.
+For example, you're running on the battlefield with a heavy weapon, when you attack an enemy, you need to swing the weapon, and at that moment, your movement speed is bound to be affected.
+The recovery setting is an important part in terms of the balance between melee and long-range classes.
+If no recovery is needed when casting skills, long-range classes can just hit-and-run when fighting melee classes.
+Monster attacks follow the same rule.
+When fighting monsters, you will find that because of cast recovery, the monster approach and attack you. In fact, the reason isn't cast recovery, instead, it's because monsters move faster than usual when chasing their targets. We've added a certain amount of intelligence to our monsters.
+If you provoked a beast, it would surely rush to you, instead of walking slowly.
+To avoid being quickly approached by monsters, long-range classes can swap the hotkeys of follow attack and stationary attack in the settings menu by pressing F1.
+Please tap the skill key instead of long-pressing it to cast the skill while running.
+The game introduces the concept of common skill CD. Common skill CD time vary by classes. This determines how often the character can cast basic skills. For example, in melee classes, Assassin has the shortest base attack interval, followed by Warrior, while Orc has the slowest attack speed.
+Most skills use the common skill CD, which means, after you've cast a skill, you need to wait for the common skill CD to cast the next skill, even if they're not the same.
+Common skill CD is also an important part of ensuring balance. If there's no common skill CD, a character can cast multiple skills in a short period, which will greatly damage the game's balance.
+Killing other players is strictly restricted in the game. Please click on Morality in the character panel to view its introduction.

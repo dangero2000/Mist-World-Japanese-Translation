@@ -1,0 +1,56 @@
+Use custom music: 
+Adding music in ogg, mp3, or wav format to the music folder will replace the original ab format music for playback.
+9000: Login screen
+9001: central Kingdom
+9002: Loki Union
+9003: Garth Empire
+9004: Gang base
+9007: Gang Mining Area
+9008: Abundant green hills, Valley of Luxuriant forests, forest in the deep mountain
+9009: beauty of river and mountain, thousand miles of rivers, far off regions
+9011: Wolf Prairie
+9012: Fred Forest
+9013: Brute Valley
+9014: takama desert
+9015: Karst cave, Dark pit City, Magnet Hill
+9016: Polson Wetland
+9017: Vincent Snowfields
+9018: Domi Wasteland
+9019: corpse cave
+9020: Flaming Mountain
+9021: spectre wilderness
+9022: night sky plain
+9023: Blood Wasteland
+9024: black forest
+9025: Underwater World
+9026: Marion Sea
+9027: Boss map
+9051: Dungeon
+9052: Dungeon
+9053: Dungeon
+9054: Dungeon (Simple)
+9055: Dungeon (slightly difficult)
+9056: Dungeon (Difficult)
+9057: Dungeon
+9058: Dungeon
+9059: Dungeon
+9101: Competing Square
+9102: Duel competition
+9103: Highland warfare
+9111: Mist god  valley
+9112: Rosha Continent, Mini Games
+9113: black domain, Demon Domain
+9114: airship, Mini game
+9115: Mini game
+9121: Mini Game
+9124: Trial Fantasy (tutor and pupil)
+9125: Separation of Master and Apprentice
+9131: Church Wedding
+9132: Garden Wedding
+9133: Water Wedding
+9134: Wedding under the starry sky
+9135: Wedding parade
+9136: Wedding start
+9137: Marriage vows
+9138: The wedding ends and leaves
+9201: Christmas

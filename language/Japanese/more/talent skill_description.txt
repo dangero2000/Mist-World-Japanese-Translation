@@ -1,0 +1,467 @@
+Newbie; experience is full
+初心者；経験値が満タンです
+
+Newbie; experience {d}/{d}
+初心者；経験値$1/$2
+
+Oldhand; experience is full
+ベテラン；経験値が満タンです
+
+Oldhand; experience {d}/{d}
+ベテラン；経験値$1/$2
+
+Elite; experience is full
+エリート；経験値が満タンです
+
+Elite; experience {d}/{d}
+エリート；経験値$1/$2
+
+Expert; experience is full
+エキスパート；経験値が満タンです
+
+Expert; experience {d}/{d}
+エキスパート；経験値$1/$2
+
+Master; experience is full
+マスター；経験値が満タンです
+
+Master; experience {d}/{d}
+マスター；経験値$1/$2
+
+Grand Master
+グランドマスター
+
+Snuggle; A married couple can use Snuggle on each other to slowly recover HP for themselves.
+スナッグル；夫婦はスナッグルを使って、お互いのHPをゆっくり回復できます。
+
+Blood Transfusion; Transfer your HP to your Pupil. The pupil must be within 20 yards of the tutor.
+輸血；自分のHPを弟子に移します。弟子は師匠の20ヤード以内にいる必要があります。
+
+Mining{s}; Use the Mining Skill to mine ores in the specified Mining Area.
+採掘{sub2{$1}sub2}；指定された採掘エリアで採掘スキルを使用して鉱石を採掘します。
+
+Collect Herbs{s}; Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+ハーブ採取{sub2{$1}sub2}；指定されたハーブガーデンでハーブ採取スキルを使用してハーブを集めます。
+
+Fishing{s}; Use the Fishing Skill to catch fish in the specified Water area.
+釣り{sub2{$1}sub2}；指定された水域で釣りスキルを使用して魚を捕まえます。
+
+Draw Blood{s}; Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+採血{sub2{$1}sub2}；倒したばかりの生物から採血スキルを使用して血を採取します。
+
+Cut Flesh{s}; Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+肉切り{sub2{$1}sub2}；倒したばかりの生物から肉切りスキルを使用して異なる品質の肉を切ります。
+
+Skinning{s}; Use the Skinning Skill to collect pelt from the creature that has just been killed.
+皮剥ぎ{sub2{$1}sub2}；倒したばかりの生物から皮剥ぎスキルを使用して皮を集めます。
+
+activated; takes {d} talent point;
+活性化；$1の才能ポイントを消費します。
+
+not activated;
+未活性化
+
+Turtle Breath; {s}Immune to breath-holding terrain damage
+タートルブレス；{sub2{$1}sub2}息を止める地形ダメージに対して免疫があります
+
+Anti-Corrosion; {s}Immune to corrosive terrain effect damage
+耐腐食性；{sub2{$1}sub2}腐食性地形効果のダメージに対して免疫があります
+
+Poison Immunity; {s}Immune to Poisoned Terrain Effect Damage
+毒免疫；{sub2{$1}sub2}毒地形効果のダメージに対して免疫があります
+
+Combat Stance; {s}Increase 4% damage.
+戦闘スタンス；{sub2{$1}sub2}ダメージが4%増加します。
+
+Cleave Combo; {s}When you use Sweep Attack after Cleave, increase 15% damage of Sweep Attack. Require Combat Stance.
+クレーブコンボ；{sub2{$1}sub2}クレーブの後にスウィープアタックを使用すると、スウィープアタックのダメージが15%増加します。戦闘スタンスが必要です。
+
+Powerful Leap Attack; {s}After you use Leap Slash, global CD will be reduced to 50%. Increase 33% attack damage for 1 second. Require Combat Stance.
+強力な跳躍攻撃；{sub2{$1}sub2}跳躍斬りを使用した後、グローバルCDが50%に減少します。攻撃ダメージが1秒間33%増加します。戦闘スタンスが必要です。
+
+Fighting Expert; {s}Increase 4% physical attack. Require Combat Stance.
+戦闘の達人；{sub2{$1}sub2}物理攻撃が4%増加します。戦闘スタンスが必要です。
+
+Defensive Stance; {s}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Combat Stance and Defensive Stance cannot be used at the same time.
+防御スタンス；{sub2{$1}sub2}攻撃ダメージを3%減少させます。ダメージを受けると、追加の1%ダメージごとに1つの追加の怒りを獲得します。戦闘スタンスと防御スタンスは同時に使用できません。
+
+Sturdy Sentry; {s}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+頑丈な哨兵；{sub2{$1}sub2}防御スタンスにいくつかのバフを与えます。回避が10ポイント増加します。物理的なクリティカルヒットを受ける確率が2%減少します。防御突破を受ける確率が3%減少します。防御スタンスが必要です。
+
+Defensive Barrier; {s}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+防御障壁；{sub2{$1}sub2}攻撃ダメージを3%減少させます。ダメージを受けると、2%ダメージごとに1つの追加の怒りを獲得します。防御スタンスが必要です。
+
+Precise Block; {s}Increase 8% physical defense and 10% magic defense, require defensive stance.
+正確なブロック；{sub2{$1}sub2}物理防御が8%、魔法防御が10%増加します。防御スタンスが必要です。
+
+Severe Wound; {s}When Cleave deals a critical hit, it increases 40% Bleeding effect on target for 15 seconds.
+重傷；{sub2{$1}sub2}クレーブがクリティカルヒットを与えると、ターゲットに対する出血効果が15秒間40%増加します。
+
+Sixth Sense; {s}Increase 4% dodge.
+シックスセンス; {sub2{$1}sub2}回避率が4%増加します。
+
+Rampage Stance; {s}Increase 6% damage and 2% of all damage taken.
+ランページスタンス; {sub2{$1}sub2}ダメージが6%増加し、受けるすべてのダメージが2%増加します。
+
+Cruel; {s}Each time you hit the target, Increase 10 Critical Hit of the next attack. Reset After Triggering Critical Hit.  Require Rampage Stance.
+残酷; {sub2{$1}sub2}ターゲットに攻撃するたびに、次の攻撃のクリティカルヒットが10増加します。クリティカルヒットが発生した後にリセットされます。ランページスタンスが必要です。
+
+Enrage; {s}Enrage is triggered when Bloodthirsty deals a critical hit. Increase 100% attack speed and 30% of all damage taken for 2 seconds. Require Rampage Stance.
+激怒; {sub2{$1}sub2}ブラッドサースティがクリティカルヒットを与えると激怒が発動します。攻撃速度が100%増加し、受けるすべてのダメージが30%増加します。効果は2秒間持続します。ランページスタンスが必要です。
+
+Unruly Rage; {s}Increase 20% damage during Enrage.
+乱暴な怒り; {sub2{$1}sub2}激怒中にダメージが20%増加します。
+
+Defensive Stance; {s}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Rampage Stance and Defensive Stance cannot be used at the same time.
+防御スタンス; {sub2{$1}sub2}攻撃ダメージが3%減少します。ダメージを受けると、追加の1%ダメージごとに1つの怒りを獲得します。ランページスタンスと防御スタンスは同時に使用できません。
+
+Sturdy Sentry; {s}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+頑丈な哨兵; {sub2{$1}sub2}防御スタンスにいくつかのバフを与えます。回避率が10ポイント増加します。物理的なクリティカルヒットを受ける確率が2%減少します。ディフェンスブレイクを受ける確率が3%減少します。防御スタンスが必要です。
+
+Defensive Barrier; {s}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+防御障壁; {sub2{$1}sub2}攻撃ダメージが3%減少します。ダメージを受けると、2%ダメージごとに1つの追加の怒りを獲得します。防御スタンスが必要です。
+
+Ancestral Protection; {s}Reduce 3% attack damage and increase 8% healing effect. Require Defensive Stance.
+祖先の保護; {sub2{$1}sub2}攻撃ダメージが3%減少し、回復効果が8%増加します。防御スタンスが必要です。
+
+Ruthless; {s}Each attack gives you 1 additional rage.
+冷酷; {sub2{$1}sub2}攻撃するたびに追加の1つの怒りを獲得します。
+
+Strength of Giant; {s}Increase 4% damage.
+巨人の力; {sub2{$1}sub2}ダメージが4%増加します。
+
+Assassin's Determination; {s}Increase 3% damage. Increase Maximum Combo by 2.
+暗殺者の決意; {sub2{$1}sub2}ダメージが3%増加します。最大コンボ数が2増加します。
+
+Mental Barrier; {s}Increase 12% physical defense and 10% magic defense. Require Assassin's Determination.
+精神障壁; {sub2{$1}sub2}物理防御が12%増加し、魔法防御が10%増加します。暗殺者の決意が必要です。
+
+Seal Fate; {s}When your attack deals a critical hit on a target, each critical hit gives you 1 additional combo. Require Assassin's Determination.
+運命の封印; {sub2{$1}sub2}攻撃がターゲットにクリティカルヒットを与えると、クリティカルヒットごとに追加の1つのコンボを獲得します。暗殺者の決意が必要です。
+
+Executioner; {s}Increase 22% Rapid Sting Damage. Require Assassin's Determination.
+処刑人; {sub2{$1}sub2}迅速な刺しのダメージが22%増加します。暗殺者の決意が必要です。
+
+Blind Faith; {s}Increase 4% attack damage, reduce 2% attack damage taken. Blind Faith and Assassin's Determination cannot be used at the same time.
+盲目的な信仰; {sub2{$1}sub2}攻撃ダメージが4%増加し、受ける攻撃ダメージが2%減少します。盲目的な信仰と暗殺者の決意は同時に使用できません。
+
+Shadow Blade; {s}Absorb nearby shadow to strengthen your weapon, increasing 12% Blade Strike damage. Require Blind Faith.
+影の刃; {sub2{$1}sub2}近くの影を吸収して武器を強化し、ブレードストライクのダメージが12%増加します。盲目的な信仰が必要です。
+
+Shadow of Erosion; {s}Each time you spend 1 combo, reduce the remaining CD of Blade Fury Dance by 1 second. Require Blind Faith.
+侵食の影; {sub2{$1}sub2}コンボを1つ消費するたびに、ブレードフューリーダンスの残りのクールダウンを1秒減少させます。盲目的な信仰が必要です。
+
+Hatred; {s}"Each time you spend 1 combo, you have a 20% chance to gain 1 extra combo. Require Blind Faith."
+憎しみ; {sub2{$1}sub2}"コンボを1つ消費するたびに、追加の1つのコンボを獲得する確率が20%です。盲目的な信仰が必要です。"
+
+Deadly Attack; {s}Increase 3% attack damage.
+致命的な攻撃; {sub2{$1}sub2}攻撃ダメージが3%増加します。
+
+Ruthless Strike; {s}Increase 30 points of Critical Damage.
+無情の一撃; {sub2{$1}sub2}クリティカルダメージが30ポイント増加します。
+
+Aspect of the Wild; {s}Increase 4% attack damage.
+野性の側面; {sub2{$1}sub2}攻撃ダメージが4%増加します。
+
+Survival Expert; {s}When you hit the target, recover HP equal to 5% damage dealt. Require Aspect of the Wild
+生存の達人; {sub2{$1}sub2}ターゲットに攻撃すると、与えたダメージの5%に相当するHPを回復します。野性の側面が必要です。
+
+Wild Rage; {s}Increase 5% attack damage. Require Aspect of the Wild
+狂野の怒り; {sub2{$1}sub2}攻撃ダメージが5%増加します。野性の側面が必要です。
+
+Call of the Wilderness; {s}When Arcane Shot deals a critical hit, resets the CD of the next Rapid Arrows. Require Aspect of the Wild
+荒野の呼び声; {sub2{$1}sub2}アーケインショットがクリティカルヒットを与えると、次の迅速な矢のクールダウンをリセットします。野性の側面が必要です。
+
+Aspect of the Monkey; {s}Increase 2% attack damage and 3% dodge. Aspect of the Wild and Aspect of the Monkey cannot be used at the same time.
+猿の側面; {sub2{$1}sub2}攻撃ダメージが2%増加し、回避率が3%増加します。野性の側面と猿の側面は同時に使用できません。
+
+Sniper Training; {s}Increase 11% Defense Break Chance. Require Aspect of the Monkey.
+狙撃訓練; {sub2{$1}sub2}防御突破の確率が11%増加します。猿の側面が必要です。
+
+Steady Hands; {s}When you cast Aimed Shot, increase 22% damage of the next attack. Require Aspect of the Monkey.
+安定した手; {sub2{$1}sub2}照準射撃を発動すると、次の攻撃のダメージが22%増加します。猿の側面が必要です。
+
+Hunter's Mark; {s}Increases the chance of marking a target when attacks hit. Require Aspect of the Monkey.
+ハンターズマーク; {sub2{$1}sub2}攻撃がヒットした際にターゲットをマークする確率が増加します。猿の側面が必要です。
+
+Aspect of the Cheetah; {s}Increase 5% movement speed.
+チーターの側面; {sub2{$1}sub2}移動速度が5%増加します。
+
+Aspect of the Hawk; {s}Increase 11 points of Critical Hit, 12 points of Critical Damage and 1% attack damage.
+鷹の側面; {sub2{$1}sub2}クリティカルヒットが11ポイント、クリティカルダメージが12ポイント、攻撃ダメージが1%増加します。
+
+Ice Lineage; {s}Increase 2% attack damage, reduce 2% attack damage taken.
+氷の血統; {sub2{$1}sub2}攻撃ダメージが2%増加し、受ける攻撃ダメージが2%減少します。
+
+Desolate Winter; {s}Increase 22% Ice Lance Damage, require Ice Lineage.
+荒涼の冬; {sub2{$1}sub2}アイスランスのダメージが22%増加します。氷の血統が必要です。
+
+Ice Finger; {s}When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+アイスフィンガー; {sub2{$1}sub2}アイスアローとアイスオーブがクリティカルヒットを与えた場合、またはアクアジェットの影響を受けたターゲットにアイスアローが命中した場合、ターゲットは凝縮されます。ターゲットにダメージを与えることで、凝縮効果が解除されます。アイス血統が必要です。
+
+Chilling Cold; {s}Every time your attack hits the target, your attack damage is increased by 1% for 15 seconds. Require Ice Lineage.
+冷たさ; {sub2{$1}sub2}攻撃がターゲットに命中するたびに、攻撃ダメージが1%増加し、効果は15秒間持続します。アイス血統が必要です。
+
+Cold Lineage; {s}Increase 4% attack damage, reduce 2% attack damage taken. Ice Lineage and Cold Lineage cannot be used at the same time.
+寒冷血統; {sub2{$1}sub2}攻撃ダメージが4%増加し、受ける攻撃ダメージが2%減少します。アイス血統と寒冷血統は同時に使用できません。
+
+Freezing Cold; {s}Increase cast speed and reduce the CD of Ice Storm by 1.5 seconds. Require Cold Lineage.
+凍てつく冷気; {sub2{$1}sub2}詠唱速度が増加し、アイスストームのクールダウンが1.5秒短縮されます。寒冷血統が必要です。
+
+Crisp Wisdom; {s}When your attack deals a Critical Hit, resets the CD of Ice Orb. Require Cold Lineage.
+冴えた知恵; {sub2{$1}sub2}攻撃がクリティカルヒットを与えると、アイスオーブのクールダウンがリセットされます。寒冷血統が必要です。
+
+Ice Spirit; {s}Increase 2% attack damage and 9% Defense Break Chance. Require Cold Lineage.
+氷の魂; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が9%増加します。寒冷血統が必要です。
+
+Frost Armor; {s}Increase 20 points of Toughness and 5 points of Critical Hit Resist.
+霜の鎧; {sub2{$1}sub2}頑強さが20ポイント増加し、クリティカルヒット耐性が5ポイント増加します。
+
+Frost Lineage; {s}Increase 4% damage.
+霜の血統; {sub2{$1}sub2}ダメージが4%増加します。
+
+Elven Fire; {s}Increase 3% attack damage, reduce 2% attack damage taken.
+エルフの炎; {sub2{$1}sub2}攻撃ダメージが3%増加し、受ける攻撃ダメージが2%減少します。
+
+Enhanced Fireworks; {s}Every time Fireball doesn't deal a Critical Hit to the target, it increases 10 points of Critical Hit. The effect ends when Fireball deals a Critical Hit. Require Elven Fire.
+強化花火; {sub2{$1}sub2}ファイアボールがターゲットにクリティカルヒットを与えなかった場合、クリティカルヒットが10ポイント増加します。ファイアボールがクリティカルヒットを与えたときに効果が終了します。エルフの炎が必要です。
+
+Blazing Combo; {s}When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+燃え盛るコンボ; {sub2{$1}sub2}直接ダメージ呪文がクリティカルヒットを与え、連続する2つのダメージ呪文がクリティカルヒットを与えた場合、次のパイロブラストまたは燃え盛る嵐を即座に詠唱できます。エルフの炎が必要です。
+
+Blessing of Flame; {s}Increase 12% Blazing Storm Damage. Require Elven Fire.
+炎の祝福; {sub2{$1}sub2}燃え盛る嵐のダメージが12%増加します。エルフの炎が必要です。
+
+Hellfire; {s}Increase 5% attack damage. Elven Fire and Hellfire cannot be used at the same time.
+地獄の火; {sub2{$1}sub2}攻撃ダメージが5%増加します。エルフの炎と地獄の火は同時に使用できません。
+
+Energized Fireball; {s}When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+活性化ファイアボール; {sub2{$1}sub2}MPが80%以上ある場合、ファイアボールの詠唱で活性化ファイアボールが発動します。ファイアボールを詠唱するたびに、活性化ファイアボールは20%のマナを消費して、次のファイアボールのダメージを40%増加させ、最大5回までスタックします。マナが不足すると効果が終了します。地獄の火が必要です。
+
+Mana Expert; {s}When your MP is below 20%, recover 70% MP automatically. This Skill can only be activated once every 3 minutes. Require Hellfire.
+マナの達人; {sub2{$1}sub2}MPが20%未満になると、MPが自動的に70%回復します。このスキルは3分に1回のみ発動可能です。地獄の火が必要です。
+
+Heart of Heat; {s}Increase 28% Fire Impact damage. Require Hellfire.
+熱の心; {sub2{$1}sub2}火の衝撃のダメージが28%増加します。地獄の火が必要です。
+
+Elven Dance; {s}Increase 11 points of dodge.
+エルフの踊り; {sub2{$1}sub2}回避率が11ポイント増加します。
+
+Flame Combo; {s}When your Fireball deals a Critical Hit, resets the CD of Fire Impact.
+炎のコンボ; {sub2{$1}sub2}ファイアボールがクリティカルヒットを与えると、火の衝撃のクールダウンがリセットされます。
+
+Justice; {s}Increase 5% attack damage.
+正義; {sub2{$1}sub2}攻撃ダメージが5%増加します。
+
+Holy Light Echo; {s}Your direct healing spells will have an additional 8% healing effect. Require Justice.
+聖なる光の反響; {sub2{$1}sub2}直接的な回復呪文の回復効果が追加で8%増加します。正義が必要です。
+
+Wisdom; {s}When your attack deals a Critical Hit, resets the CD of Divine Nova. Require Justice.
+知恵; {sub2{$1}sub2}攻撃がクリティカルヒットを与えると、ディバインノヴァのクールダウンがリセットされます。正義が必要です。
+
+Skilled Healer; {s}When you cast Light of Miracles after Healing Prayers, increase 22% healing effect of Light of Miracles. Require Justice.
+熟練の治療者; {sub2{$1}sub2}ヒーリングプレイヤーの後に奇跡の光を発動すると、奇跡の光の回復効果が22%増加します。正義が必要です。
+
+Shelter; {s}Increase 3% attack damage, reduce 4% of all damage taken.
+避難所; {sub2{$1}sub2}攻撃ダメージが3%増加し、受けるすべてのダメージが4%減少します。
+
+Divine Whip; {s}Increase 24% Divine Whip Damage. Targets attacked by Divine Whip will suffer an additional 8% damage from Divine Nova. Require Shelter.
+神聖な鞭; {sub2{$1}sub2}神聖な鞭のダメージが24%増加します。神聖な鞭で攻撃されたターゲットは、ディバインノヴァから追加で8%のダメージを受けます。避難所が必要です。
+
+Confession; {s}Increase 12% of all healing effects transformed through Redemption. Require Shelter.
+告白; {sub2{$1}sub2}贖罪によって変換されるすべての回復効果が12%増加します。避難所が必要です。
+
+Divine Reincarnation; {s}When you resurrect an ally using Resurrection, your damage is increased by 30% and all your damage taken is reduced by 30% for 20 seconds. Require Shelter.
+神聖な転生; {sub2{$1}sub2}復活を使用して味方を蘇生させると、ダメージが30%増加し、受けるすべてのダメージが30%減少します。効果は20秒間持続します。避難所が必要です。
+
+Holy Light Protection; {s}Increase 5 points of Dodge and 5 points of critical hit resist.
+聖なる光の保護; {sub2{$1}sub2}回避率が5ポイント増加し、クリティカルヒット耐性が5ポイント増加します。
+
+Ring of Life; {s}When your HP is below 30%, Ring of Life can cost 1% mana to recover 1% HP per second.
+生命の指輪; {sub2{$1}sub2}HPが30%未満になると、生命の指輪は1%のマナを消費して1秒ごとに1%のHPを回復します。
+
+Soul Link; {s}Reduce 4% of all damage taken.
+魂のリンク; {sub2{$1}sub2}受けるすべてのダメージが4%減少します。
+
+Enhanced Explosion; {s}If the target is suffering from corrosion damage of Corrosion Spell, then Skeleton Explosion always Critical Hit. Require Soul Link.
+強化爆発; {sub2{$1}sub2}ターゲットが腐食呪文の腐食ダメージを受けている場合、スケルトン爆発は常にクリティカルヒットします。魂のリンクが必要です。
+
+Rushing Tide; {s}Casting Healing Chain will increase 15% healing effect of the next Healing Surge. Require Soul Link.
+急流; {sub2{$1}sub2}ヒーリングチェインを発動すると、次のヒーリングサージの回復効果が15%増加します。魂のリンクが必要です。
+
+Dead Toxin Surge; {s}When your Shadow Arrow deals a Critical Hit, resets the CD of Dead Toxin. Require Soul Link.
+死の毒素の急増; {sub2{$1}sub2}シャドウアローがクリティカルヒットを与えると、デッドトキシンのクールダウンがリセットされます。魂のリンクが必要です。
+
+Soul Harmony; {s}Increase 3% attack damage, reduce 3% of all damage taken.
+魂の調和; {sub2{$1}sub2}攻撃ダメージが3%増加し、受けるすべてのダメージが3%減少します。
+
+Spiritual Concentration; {s}When your direct damage spells deal critical hit, increase 30% of spell damage and healing effect for 4 seconds. Require Soul Harmony.
+精神集中; {sub2{$1}sub2}直接ダメージ呪文がクリティカルヒットを与えたとき、呪文ダメージと回復効果が30%増加し、効果は4秒間持続します。魂の調和が必要です。
+
+Extensive Heal; {s}Increase up to 20% spell healing effect depending on the target's current HP. The lower the target HP, the higher the healing effect. Require Soul Harmony.
+広範な回復; {sub2{$1}sub2}ターゲットの現在のHPに応じて、呪文の回復効果が最大20%増加します。ターゲットのHPが低いほど、回復効果が高くなります。魂の調和が必要です。
+
+Soul Insight; {s}Reduce the CD of Soul Returnal by 5 minutes. When you resurrect an ally with Soul Returnal, reset the CD of all Totem Skills. Require Soul Harmony.
+魂の洞察; {sub2{$1}sub2}魂の復帰のクールダウンを5分短縮します。魂の復帰で味方を蘇生させると、すべてのトーテムスキルのクールダウンがリセットされます。魂の調和が必要です。
+
+Wrath of Wraith; {s}Increase 150 points of Critical Damage.
+霊の怒り; {sub2{$1}sub2}クリティカルダメージが150ポイント増加します。
+
+Jungle Perseverance; {s}Increase 10 points of Toughness and 10 points of critical hit resist.
+ジャングルの忍耐; {sub2{$1}sub2}頑強さが10ポイント増加し、クリティカルヒット耐性が10ポイント増加します。
+
+Imperious; {s}Increase 2% attack damage.
+傲慢; {sub2{$1}sub2}攻撃ダメージが2%増加します。
+
+Focus; {s}Increase 4 points of hit chance.
+集中; {sub2{$1}sub2}命中率が4ポイント増加します。
+
+Ravage; {s}Increase 49 points of Defense Break Chance.
+破壊; {sub2{$1}sub2}防御突破の確率が49ポイント増加します。
+
+Havoc; {s}Increase 25 points of Defense Break Chance and 40 points of Defense Break Damage.
+混乱; {sub2{$1}sub2}防御突破の確率が25ポイント増加し、防御突破のダメージが40ポイント増加します。
+
+Anger; {s}Increase 7 points of Critical Hit.
+怒り; {sub2{$1}sub2}クリティカルヒットが7ポイント増加します。
+
+Brutal; {s}Increase 5 points of Critical Hit and 11 points of Critical Damage.
+残虐; {sub2{$1}sub2}クリティカルヒットが5ポイント増加し、クリティカルダメージが11ポイント増加します。
+
+Shielded; {s}Reduce 3% of all damage taken.
+シールド; {sub2{$1}sub2}受けるすべてのダメージが3%減少します。
+
+Dexterous; {s}Increase 6 points of dodge.
+巧妙; {sub2{$1}sub2}回避率が6ポイント増加します。
+
+Tough; {s}Increase 30 points of Toughness.
+頑強; {sub2{$1}sub2}頑強さが30ポイント増加します。
+
+Tai chi; {s}Increase 10 points of critical hit resist.
+太極; {sub2{$1}sub2}クリティカルヒット耐性が10ポイント増加します。
+
+Havoc (Aggressive); {s}Increase 2% attack damage. Increase 2 points of Defense Break Chance and 10 points of Defense Break Damage.
+混乱（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が2ポイント増加し、防御突破のダメージが10ポイント増加します。
+
+Tough (Aggressive); {s}Increase 2% attack damage. Increase 5 points of Toughness.
+頑強（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、頑強さが5ポイント増加します。
+
+Tai chi (Aggressive); {s}Increase 2% attack damage. Increase 1 point of critical hit resist.
+太極（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、クリティカルヒット耐性が1ポイント増加します。
+
+Focus (Defensive); {s}Reduce 2% of all damage taken. Increase 2 points of hit chance.
+集中（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、命中率が2ポイント増加します。
+
+Ravage (Defensive); {s}Reduce 2% of all damage taken. Increase 16 points of Defense Break Chance.
+破壊（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が16ポイント増加します。
+
+Havoc (Defensive); {s}Reduce 2% of all damage taken. Increase 12 points of Defense Break Chance and 17 points of Defense Break Damage.
+混乱（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が12ポイント増加し、防御突破のダメージが17ポイント増加します。
+
+Anger (Defensive); {s}Reduce 2% of all damage taken. Increase 3 points of Critical Hit.
+怒り（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒットが3ポイント増加します。
+
+Brutal (Defensive); {s}Reduce 2% of all damage taken. Increase 2 points of Critical Hit and 6 points of Critical Damage.
+残虐（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒットが2ポイント増加し、クリティカルダメージが6ポイント増加します。
+
+Dexterous (Defensive); {s}Reduce 2% of all damage taken. Increase 3 points of dodge.
+巧妙（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、回避率が3ポイント増加します。
+
+Tough (Defensive); {s}Reduce 3% of all damage taken. Increase 5 points of Toughness.
+頑強（防御的）; {sub2{$1}sub2}受けるすべてのダメージが3%減少し、頑強さが5ポイント増加します。
+
+Tai chi (Defensive); {s}Reduce 2% of all damage taken. Increase 4 points of critical hit resist.
+太極（防御的）; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒット耐性が4ポイント増加します。
+
+Focus (Aggressive); {s}Increase 2% attack damage and 1 point of hit chance.
+集中（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、命中率が1ポイント増加します。
+
+Ravage (Aggressive); {s}Increase 2% attack damage and 7 point of Defense Break Chance.
+破壊（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が7ポイント増加します。
+
+Brutal (Aggressive); {s}Increase 2% attack damage. Increase 1 points of Critical Hit and 2 points of Critical Damage.
+残虐（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、クリティカルヒットが1ポイント増加し、クリティカルダメージが2ポイント増加します。
+
+Anger (Aggressive); {s}Increase 2% attack damage and 2 points of Critical Hit.
+怒り（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、クリティカルヒットが2ポイント増加します。
+
+Tough (Aggressive)-2; {s}Increase 2% attack damage. Increase 9 points of Toughness.
+頑強（攻撃的）-2; {sub2{$1}sub2}攻撃ダメージが2%増加し、頑強さが9ポイント増加します。
+
+Ravage (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 19 points of Defense Break Chance.
+破壊（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が19ポイント増加します。
+
+Havoc (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 15 points of Defense Break Chance and 21 points of Defense Break Damage.
+混乱（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が15ポイント増加し、防御突破のダメージが21ポイント増加します。
+
+Brutal (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 3 points of Critical Hit and 5 points of Critical Damage.
+残虐（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒットが3ポイント増加し、クリティカルダメージが5ポイント増加します。
+
+Dexterous (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 4 points of dodge.
+巧妙（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、回避率が4ポイント増加します。
+
+Tough (Defensive)-2; {s}Reduce 3% of all damage taken. Increase 9 points of Toughness.
+頑強（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが3%減少し、頑強さが9ポイント増加します。
+
+Tai chi (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 5 points of critical hit resist.
+太極（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒット耐性が5ポイント増加します。
+
+Ravage (Aggressive)-2; {s}Increase 2% attack damage and 10 point of Defense Break Chance.
+破壊（攻撃的）-2; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が10ポイント増加します。
+
+Havoc (Aggressive)-3; {s}Increase 2% attack damage. Increase 8 points of Defense Break Chance and 18 points of Defense Break Damage.
+混乱（攻撃的）-3; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が8ポイント増加し、防御突破のダメージが18ポイント増加します。
+
+Anger (Aggressive); {s}Increase 2% attack damage and 2 points of Critical Hit.
+怒り（攻撃的）; {sub2{$1}sub2}攻撃ダメージが2%増加し、クリティカルヒットが2ポイント増加します。
+
+Tough (Aggressive)-3; {s}Increase 2% attack damage. Increase 14 points of Toughness.
+頑強（攻撃的）-3; {sub2{$1}sub2}攻撃ダメージが2%増加し、頑強さが14ポイント増加します。
+
+Tai chi (Aggressive)-2; {s}Increase 2% attack damage. Increase 3 point of critical hit resist.
+太極（攻撃的）-2; {sub2{$1}sub2}攻撃ダメージが2%増加し、クリティカルヒット耐性が3ポイント増加します。
+
+Ravage (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 22 points of Defense Break Chance.
+破壊（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が22ポイント増加します。
+
+Havoc (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 18 points of Defense Break Chance and 25 points of Defense Break Damage.
+混乱（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が18ポイント増加し、防御突破のダメージが25ポイント増加します。
+
+Anger (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 4 points of Critical Hit.
+怒り（防御的）-2; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒットが4ポイント増加します。
+
+Dexterous (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 5 points of dodge.
+巧妙（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、回避率が5ポイント増加します。
+
+Tough (Defensive)-3; {s}Reduce 3% of all damage taken. Increase 14 points of Toughness.
+頑強（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが3%減少し、頑強さが14ポイント増加します。
+
+Tai chi (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 6 points of critical hit resist.
+太極（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒット耐性が6ポイント増加します。
+
+Focus (Aggressive)-2; {s}Increase 2% attack damage and 5 point of hit chance.
+集中（攻撃的）-2; {sub2{$1}sub2}攻撃ダメージが2%増加し、命中率が5ポイント増加します。
+
+Ravage (Aggressive)-3; {s}Increase 2% attack damage and 14 point of Defense Break Chance.
+破壊（攻撃的）-3; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が14ポイント増加します。
+
+Havoc (Aggressive)-4; {s}Increase 2% attack damage. Increase 11 points of Defense Break Chance and 20 points of Defense Break Damage.
+混乱（攻撃的）-4; {sub2{$1}sub2}攻撃ダメージが2%増加し、防御突破の確率が11ポイント増加し、防御突破のダメージが20ポイント増加します。
+
+Tough (Aggressive)-4; {s}Increase 2% attack damage. Increase 18 points of Toughness.
+頑強（攻撃的）-4; {sub2{$1}sub2}攻撃ダメージが2%増加し、頑強さが18ポイント増加します。
+
+Ravage (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 26 points of Defense Break Chance.
+破壊（防御的）-4; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が26ポイント増加します。
+
+Havoc (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 21 points of Defense Break Chance and 28 points of Defense Break Damage.
+混乱（防御的）-4; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、防御突破の確率が21ポイント増加し、防御突破のダメージが28ポイント増加します。
+
+Brutal (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 4 points of Critical Hit and 6 points of Critical Damage.
+残虐（防御的）-3; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、クリティカルヒットが4ポイント増加し、クリティカルダメージが6ポイント増加します。
+
+Dexterous (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 6 points of dodge.
+巧妙（防御的）-4; {sub2{$1}sub2}受けるすべてのダメージが2%減少し、回避率が6ポイント増加します。
+
+Tough (Defensive)-4; {s}Reduce 3% of all damage taken. Increase 18 points of Toughness.
+頑強（防御的）-4; {sub2{$1}sub2}受けるすべてのダメージが3%減少し、頑強さが18ポイント増加します。

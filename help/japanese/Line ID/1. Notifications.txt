@@ -1,0 +1,47 @@
+1076
+New announcement
+
+1077
+unread announcement
+
+1078
+New gang announcement
+
+1079
+unread gang announcement
+
+1080
+New private message
+
+1081
+unread private message
+
+1231
+The competition will start in 30 seconds, please get ready.
+
+1232
+The competition is about to start.
+
+1233
+One minute remaining in the dungeon.
+
+1234
+ten seconds remaining in the dungeon.
+
+1235
+One minute remaining in the battle.
+
+1236
+ten seconds remaining in the battle.
+
+1237
+One minute remaining in the battle.
+
+1238
+ten seconds remaining in the battle
+
+1239
+One minute remaining in the battle.
+
+1240
+ten seconds remaining in the battle.

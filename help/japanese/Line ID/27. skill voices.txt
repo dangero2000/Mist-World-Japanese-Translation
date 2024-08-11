@@ -1,0 +1,42 @@
+//Male Warrior Skill
+11932
+Go to hell
+
+//Female  Warrior Skill
+11932
+Go to hell
+
+//Male Assassin skill
+12243
+A group of fools
+12133
+Don't try to escape
+
+//Female Assassin skill
+12189
+Don't try to escape
+12244
+A group of fools
+
+//Male Mage Skill
+12427
+Blizzard
+
+//Female Mage Skill
+12481
+Blizzard
+12494
+waters
+
+//Male Priest skill
+12828
+God's will
+12839
+get out
+
+//Female Priest skill
+12829
+God's will
+12840
+get out
+

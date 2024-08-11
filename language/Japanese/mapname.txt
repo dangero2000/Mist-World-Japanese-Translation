@@ -1,0 +1,785 @@
+guide for new players
+初心者ガイド
+
+Karon Village
+カロン村
+
+Folk house
+民家
+
+granary
+穀倉
+
+well
+井戸
+
+Mario Basin
+マルオ盆地
+
+Shrine
+神祠
+
+mist stone Barrier
+ミストストーン結界
+
+aerial
+空中
+
+central plains
+中央平原
+
+Underground of Giant rock City
+巨岩城地下
+
+Cable Car No. 1
+第一ケーブルカー
+
+dimensional space
+次元空間
+
+Tiger Mountain (tutor and pupil)
+威虎山（師匠と弟子）
+
+rolling Mountain (tutor and pupil)
+カヤロ山（師匠と弟子）
+
+Trial Fantasy (tutor and pupil)
+試練の幻境（師匠と弟子）
+
+You and tutor are separated. From now on, you will face the world by your own. In the bleak cold wind, you watched tutor depart  across the ruined landscape, gradually disappear from sight.
+あなたと師匠は別れました。これからは独りで世界に挑むことになります。寒風の中で、あなたは師匠が廃墟の風景を横切り、徐々に視界から消えていくのを見送りました。
+
+The pupil separated from you. you watched him go into the distance. Behind him, the dawn of dawn brightens the boundless wasteland.
+あなたと弟子は別れました。あなたは彼が遠くへ行くのを見送りました。彼の後ろには、夜明けが無限の荒野を照らしています。
+
+royal training ground
+王宮訓練場
+
+Fighting training Gym
+格闘訓練館
+
+cable car
+ケーブルカー
+
+Fertile Wilds
+肥沃な野原
+
+Gale Mountain
+黒風山
+
+explosive base
+爆薬基地
+
+cellar
+地窖
+
+Tiger Mountain
+威虎山
+
+Snow base
+スノーベース
+
+Tuneful Wetland
+琴風湿地
+
+Underground of Tulip City
+チューリップシティ地下
+
+Cable Car No. 2
+第二ケーブルカー
+
+fighting training ground
+格闘訓練場
+
+Glorious Grassland
+玉砕草原
+
+rolling mountain
+カヤロ山
+
+North Mountain Plantation
+北山農場
+
+Glorious Ranch
+玉砕牧場
+
+High climbing grassland
+高地草原
+
+underground of holy blood city
+統万城地下
+
+Cable Car No. 3
+第三ケーブルカー
+
+Stone Cliff Village
+石崖村
+
+Infernal Trial Ground
+修羅試練場
+
+hilly terrain
+丘陵地形
+
+exotic space
+異次元空間
+
+gouging  knife  Dungeon
+剜刀ダンジョン
+
+defense base
+防御基地
+
+secluded valley
+青幽谷
+
+Knight Proving Ground
+騎士試練場
+
+alibaba village
+アリババ村
+
+quiet   Lake
+青幽湖
+
+knight camp
+騎士キャンプ
+
+black wasteland
+黒い荒地
+
+beauty of river and mountain
+水と山の美
+
+water curtained cave
+水帘洞
+
+Spider cave
+蜘蛛の洞窟
+
+graceful mountain
+秀山
+
+thousand miles of rivers
+千里長河
+
+Cathy Manor
+ケイシー荘園
+
+Mount Bear's Paw
+熊の手峰
+
+Elemental Maze
+元素迷路
+
+Baru Grottoe
+バル洞窟
+
+dark river cave
+暗い川の洞窟
+
+Scorpion Cave
+蠍の洞窟
+
+far off regions
+海角天涯
+
+Machining plant
+機械加工場
+
+fully mountain
+フーリン山
+
+open sea
+外海
+
+space battleship
+宇宙戦艦
+
+Treasure pavilion
+宝の館
+
+Beast Mountain
+百獣山
+
+dark night camp
+暗夜キャンプ
+
+Abundant green hills
+豊かな緑の丘
+
+hidden water cave
+隠れ水洞
+
+death wormhole
+死のワームホール
+
+wolf head mountain
+狼の頭山
+
+bubble cube
+バブルキューブ
+
+ice maze
+氷の迷路
+
+Herbal Mountain
+薬王山
+
+Valley of Luxuriant forests
+豊かな森の谷
+
+Dryad Jungle
+樹妖のジャングル
+
+zagrama canyon
+ザグラマ渓谷
+
+Lisa's Ukulele
+リサのウクレレ
+
+Machine Fortress
+機械要塞
+
+bottomless pit
+底なし穴
+
+Silver Peak
+白銀峰
+
+forest in the deep mountain
+深山の森
+
+base
+基地
+
+ghost house
+幽霊の家
+
+ghost hotel
+幽霊のホテル
+
+Zombie Village
+ゾンビ村
+
+underground mine
+地下鉱山
+
+Lifting Platform No. 1
+第一リフティングプラットフォーム
+
+Lifting Platform No. 2
+第二リフティングプラットフォーム
+
+Lifting Platform No. 3
+第三リフティングプラットフォーム
+
+mine tunnel
+鉱山トンネル
+
+Black Gate Prison
+黒門監獄
+
+Crimson Mausoleum
+深紅の霊廟
+
+underground power plant
+地下発電所
+
+monster factory
+モンスター工場
+
+Ancient Ruins
+古代遺跡
+
+Plague Abyss
+疫病の深淵
+
+Guardian Stronghold
+守護者要塞
+
+bloody cave
+血の洞窟
+
+amazing old city
+素晴らしい古都
+
+Goblin excavation plant
+ゴブリン掘削場
+
+Marshall's artillery
+マーシャルの砲陣
+
+silver flying saucer
+銀色の円盤
+
+Demon's Prison
+魔物の監獄
+
+Gomez manor
+ゴメス荘園
+
+Centralia
+センタレリア
+
+Spiral Grottoe
+スパイラル洞窟
+
+active volcano
+活火山
+
+ancient Sealed Land
+古代の封印地
+
+portal of the demon world
+魔界の門
+
+Great Dragon Valley
+大竜谷
+
+dark monastery
+暗黒修道院
+
+Crusader Barracks
+十字軍兵舎
+
+red house
+赤い家
+
+demon Cave
+魔獣洞窟
+
+Central Barracks
+中央兵舎
+
+demon Mountains
+魔獣山脈
+
+wild tribe
+狂野部族
+
+killer camp
+キラーキャンプ
+
+underground base
+地下基地
+
+demon Canyon
+魔獣峡谷
+
+Hunter Canyon
+ハンターニャン
+
+silver canyon
+銀の峡谷
+
+Magical Guild
+魔法ギルド
+
+big cave
+大洞窟
+
+Fire Tribe
+火の部族
+
+Wraith Cave
+悪魂の洞窟
+
+Nether Cave
+冥界の洞窟
+
+Demon  Cave
+万魔洞
+
+Competing Square
+競技広場
+
+fighting arena
+格闘場
+
+sunshine Beach
+陽光海岸
+
+volcanic cave
+火山洞窟
+
+Starlight Martial Arts Hall
+星光武館
+
+tropical wetlands
+熱帯湿地
+
+Prairie arena
+草原アリーナ
+
+island in the sea
+海中の孤島
+
+small town
+小さな町
+
+garden
+庭園
+
+dark cave
+暗い洞窟
+
+barren land
+荒涼の地
+
+Mysterious Alchemy Tower
+神秘の錬金塔
+
+Cloud and Mist Peak
+雲と霧の峰
+
+Ice Cave
+氷の洞窟
+
+woods
+森
+
+Underwater World
+海底世界
+
+pyramid
+ピラミッド
+
+water town
+水上町
+
+Misty Canyon
+霧の峡谷
+
+hunting map
+狩猟地図
+
+Stone Pits in battle array
+石陣
+
+highland
+高地
+
+Water Cave
+ワテル洞窟
+
+Ice and Snow Cave
+氷雪の洞窟
+
+Pirate Ship
+海賊船
+
+Blood Mountain Villa
+血族山荘
+
+giant puppet
+巨大傀儡
+
+test copy
+テストコピー
+
+Fragrance of Grass (Gang)
+草木の香り（ギャング）
+
+water under bridge (gang)
+橋下の水（ギャング）
+
+Fallen Leaves (Gang)
+落葉（ギャング）
+
+Blizzard Fortress (Gang)
+吹雪の要塞（ギャング）
+
+Boss test
+ボステスト
+
+industrial mine valley
+産業鉱山谷
+
+Construction Mine Valley
+建設鉱山谷
+
+military mine valley
+軍事鉱山谷
+
+spring garden
+春の庭
+
+summer garden
+夏の庭
+
+autumn garden
+秋の庭
+
+East Fishing Lake
+東湖漁場
+
+South Fishing Lake
+南湖漁場
+
+West Fishing Lake
+西湖漁場
+
+church (wedding)
+教会（結婚式）
+
+Spring in the Garden (Wedding)
+庭の春（結婚式）
+
+Gurgling water (wedding)
+水のせせらぎ（結婚式）
+
+Romantic Starry Sky (Wedding)
+ロマンチックな星空（結婚式）
+
+Mutant village
+変異村
+
+hidden cult
+隠れカルト
+
+river gangster
+川のギャング
+
+Demon Barracks
+魔物の兵舎
+
+mist god Valley 
+迷神谷
+
+rain of purple grass
+紫草の雨
+
+dodge the shells
+砲弾を避ける
+
+listen to notes
+音符を聞く
+
+Maintenance of ancient buildings
+古代建築のメンテナンス
+
+ghost vacuum cleaner
+幽霊掃除機
+
+space invaders
+スペースインベーダー
+
+Undersea treasure hunt
+海底宝探し
+
+Seven Treasures
+七宝奇謀
+
+black domain
+黒い領域
+
+Rosha Continent
+ロシャ大陸
+
+Demon Domain
+魔域
+
+happy farm
+楽しい農場
+
+Sky
+空
+
+cattles Mountain
+カトル山
+
+Courtyard Dwelling
+中庭住居
+
+land of ice and snow
+パダボール
+
+circus
+サーカス
+
+restaurant
+レストラン
+
+Alien space
+異空間
+
+Brute Valley
+ブルート谷
+
+Pull Cave
+ポール洞窟
+
+Karst cave
+カルスト洞窟
+
+Fred Forest
+フリスト森林
+
+Wolf Prairie
+ウルフ草原
+
+Polson Wetland
+ポールソン湿地
+
+Underground Water Cave
+ワテル地下洞窟
+
+sailing port
+セーリングポート
+
+Carter Plain
+カーター平原
+
+Carter tribe
+カーター部族
+
+Villa of the cat king
+猫王の別荘
+
+Domi Wasteland
+ドミ荒地
+
+abandoned factory
+廃工場
+
+corpse cave
+死体の洞窟
+
+mysterious tomb
+神秘の墓
+
+Flaming Mountain
+炎山
+
+Flame Cave
+炎の洞窟
+
+Marion Sea
+マリオン海域
+
+finger hill
+フィンガーヒル
+
+Margit Rainforest
+マージット熱帯雨林
+
+Great Eucalyptus House
+大ユーカリの家
+
+big eucalyptus
+大ユーカリ
+
+Orcus Tribe
+オーカス部族
+
+turkey cave
+トルク洞窟
+
+turkey mountain
+トルク山
+
+skeleton basin
+スケルトン盆地
+
+Skull Cave
+スカル洞窟
+
+spectre wilderness
+スペクター荒野
+
+old house
+古家
+
+Crystal Palace
+水晶宮
+
+Blood Wasteland
+赤血荒地
+
+blood red castle
+血紅城
+
+takama desert
+タカマ砂漠
+
+Vincent Snowfields
+スノウ原
+
+Dark pit City
+幽坑城
+
+Earles Palace
+アールズ宮殿
+
+Magnet Hill
+磁石山
+
+secret laboratory
+秘密の実験室
+
+main control room
+メインコントロールルーム
+
+Devil's Valley
+妖魔谷
+
+Thunder Cave
+雷雲洞窟
+
+Thunder Mountain
+雷雲峰
+
+night sky plain
+夜空平原
+
+Blackfall Palace
+黒い落下宮殿
+
+black forest
+黒い森
+
+dark shrine
+黒暗の神殿
+
+Central Kingdom
+中央王国
+
+Trial Fantasy
+試練の幻境
+
+Loki Union
+ロキ連邦
+
+Garth Empire
+ギャース帝国
+
+bright land
+光の地
+
+Soul Realm
+魂霊界
+
+Dawn Village
+黎明村
+
+ancient mausoleum
+古代霊廟
+
+Fantasy of dreams
+夢の幻境
+
+skull  mountain
+スカル山
+
+Dark Demon Tower
+黒魔塔
+
+Calabash Mountain
+ひょうたん山
+
+Autumn Moon Pond
+秋月池
+
+Continental frontier
+大陸の辺境

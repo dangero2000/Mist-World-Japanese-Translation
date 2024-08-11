@@ -1,0 +1,12 @@
+There are 8 classes in the game, divided into 16 male and female characters.
+Each account can create a total of 8 characters. If you want to discard a created character, you can delete it in the character list after 10 days without logging into it.
+Character gender cannot be changed after creation is complete.
+Warrior: great attack continuity, depends heavily on the ability to adapt to the different circumstances, average defense, all-rounder tank.
+Orc: steady and reliable, extremely high physical defense, physical tank.
+Assassin: high burst damage, extremely high magic defense, magic tank.
+Hunter: long-range physical attack support, great survivability.
+Mage: long-range magic attack support, good at control.
+Elf:  long-range magic attack assist, burst damage.
+Priest: All-rounder healer, focused on direct healing and group healing, useful at both offensive and defensive.
+Witcher: Various healing methods, great offensive ability.
+The characteristics, strengths and weaknesses of each class are also greatly affected by your performance. The above summary is for reference only.

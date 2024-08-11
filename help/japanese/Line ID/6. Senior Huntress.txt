@@ -1,0 +1,41 @@
+5091 //The Senior Huntress speaks:
+Savage beasts have deadly fangs and claws, which can tear humans apart. However, the mightiest beast cannot survive from our long-range shots. Before they can get closer, they are killed by our bows and arrows, which is why hunters like us are popular in the mercenary bands. There's a team recruiting right now. I'm gonna join them, are you coming?
+
+5092
+So, are you gonna join the mercenary band with me?
+
+5094
+Quite an idea. Hmm, then show me you've got what it takes. The stake to the north, go break it.
+
+5096
+The stake to the north, go break it.
+
+5098
+You were pretty good at throwing stones. But let's see how well you handle a bow. Here are the bow and arrows, as well as your outfit, take it.
+
+5099 //When the player refuses the equipment
+What, don't wanna show me your skills?
+
+5100 //When the player accepts the equipment
+Alright, put them on.
+
+5102
+There's a movable stake to the west, go break it.
+
+5104
+Nice shots, you make a fine archer. Come here, I have two more equipments for you.
+
+5105
+Here, put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. It's good you want to go out on your own. But there are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+
+5107
+put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. It's good you want to go out on your own. But there are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+
+5109
+There are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+
+5110
+Nice work, you are a true Hunter! Looks like you've obtained a Skill Crystal, use it to learn the Aimed Shot Skill. It will greatly enhance your attack power.
+
+5111
+Go, the exit is to the north. Farewell, little Hunter.

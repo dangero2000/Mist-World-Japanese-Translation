@@ -1,0 +1,2 @@
+{s}Ghost Robe; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 45; weight 75; Concentrate the power of the dead to protect you.
+{sub2{$1}sub2}ゴーストローブ; 耐久$2の20.0; 強化レベル$3; 品質{sub2{$4}sub2}; 強化物防$5-$6 魔防$7-$8;{sub2{$9}sub2} ウィッチャー用; レベル45; 重量75; 死者の力を集中させてあなたを守ります。

@@ -1,0 +1,8 @@
+1. Threat indicates the reaction of monsters to their enemy targets. Only Monsters have Threat;
+2. When a monster has Threat for one or more players, these values will be stored in the monster's Hostile list. Players can select the monster and press TAB to view the specific Hostile list;
+3. When players attack the monster, they will generate Threat according to the damage dealt. Only a few skills that aim to increase Threat are exceptions.
+4. The attacked monster will spread Threat to its companions within a certain range. The affected monsters will also add the player to their Hostile list with 0 Threat.
+5. When Priest or Witchers heal players in the monster's hostile list, they will generate Threat equal to 70% of the healed HP;
+6. When the monster is not locked on to a certain player, it will attack the player with the highest Threat in its hostile list; When the monster is locked on to a certain player, if another player's Threat is no less than 115% of its target, it will change its target to the player with the highest Threat.
+7. When the highest Threat in the monster's hostile list exceeds 1/8 of its total HP, all Threat will be reduced to 70%;
+8. Melee Classes have certain skills, such as Taunt, that can force the monster to attack the caster, at which time, the Hostile List Rules are ignored.

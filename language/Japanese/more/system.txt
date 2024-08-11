@@ -1,0 +1,80 @@
+{s};{s}: Damn you, {c}, Don't let me see you in the great forest next time!
+{sub1{$1}sub1};{sub2{$2}sub2}: くそ、$3、次に大森林で会わないようにしろよ!
+
+{s};{s}: Damn {c} doesn't even let go of rare and protected animals!
+{sub1{$1}sub1};{sub2{$2}sub2}: くそ、$3は希少で保護された動物さえも逃がさない!
+
+{s};{s}: Damn {c}, do you think this is the only robot I have
+{sub1{$1}sub1};{sub2{$2}sub2}: くそ、$3、これが私の持っている唯一のロボットだと思うのか?
+
+{s};{c} got the  {s}; {s}  
+{sub2{$1}sub2};$2が{sub2{$3}sub2}を手に入れた; {sub2{$4}sub2}  
+
+{s};{c} and got {d} {s}
+{sub1{$1}sub1};$2が$3 {sub2{$4}sub2}を手に入れた
+
+{s};{c} got the {s}; {s}  
+{sub1{$1}sub1};$2が{sub2{$3}sub2}を手に入れた; {sub2{$4}sub2}  
+
+{s};{c}'s team and got {d} {s}
+{sub1{$1}sub1};$2のチームが$3 {sub2{$4}sub2}を手に入れた
+
+{s};{c} in competition and got {s}
+{sub2{$1}sub2};$2が競技で{sub2{$3}sub2}を手に入れた
+
+apply to take him as your pupil
+弟子にするために申請する
+
+Got pet {s}
+ペットを手に入れた{sub2{$1}sub2}
+
+Resurrection Crystal and
+復活のクリスタルと
+
+Memory Butterfly and
+記憶の蝶と
+
+Firecracker and
+爆竹と
+
+New Year Greeting Card and
+新年の挨拶カードと
+
+Chocolate ice cream and
+チョコレートアイスクリームと
+
+Butter ice cream and
+バターアイスクリームと
+
+{s};{c} used one New Year Gift Box, send {c} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s}
+{sub2{$1}sub2};$2が新年のギフトボックスを1つ使用し、$3 $4 {sub2{$5}sub2}、$6 {sub2{$7}sub2}、$8 {sub2{$9}sub2}、$10 {sub2{$11}sub2}、$12 {sub2{$13}sub2}、$14 {sub2{$15}sub2}、$16 {sub2{$17}sub2}を送りました
+
+{s};{c} used one Beautiful Gift Box, send {c} {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s}
+{sub2{$1}sub2};$2が美しいギフトボックスを1つ使用し、$3 $4 {sub2{$5}sub2}、$6 {sub2{$7}sub2}、$8 {sub2{$9}sub2}、$10 {sub2{$11}sub2}、$12 {sub2{$13}sub2}を送りました
+
+Chinese new year Greeting Card and
+旧正月の挨拶カードと
+
+Wish Blessing and
+願いの祝福と
+
+Fortune Blessing and
+幸運の祝福と
+
+Peace Blessing and
+平和の祝福と
+
+Luck Blessing and
+幸運の祝福と
+
+Happiness Blessing and
+幸福の祝福と
+
+{s};{c} used one Chinese new year Gift Box, send {c} {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s}
+{sub2{$1}sub2};$2が旧正月のギフトボックスを1つ使用し、$3 $4 {sub2{$5}sub2}、$6 {sub2{$7}sub2}、$8 {sub2{$9}sub2}、$10 {sub2{$11}sub2}、$12 {sub2{$13}sub2}、$14 {sub2{$15}sub2}、$16 {sub2{$17}sub2}、$18 {sub2{$19}sub2}、$20 {sub2{$21}sub2}、$22 {sub2{$23}sub2}を送りました
+
+{d};You and {c} become friends now.
+$1;あなたと$2は友達になりました。
+
+{d};New; You and {c} become friends now.
+$1;新しい; あなたと$2は友達になりました。
